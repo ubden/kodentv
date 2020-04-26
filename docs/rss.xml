@@ -1,29 +1,29 @@
-<rss xmlns:media="http://search.yahoo.com/mrss/" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:dc="http://purl.org/dc/elements/1.1/" version="2.0">
-<channel>
-<title>Blank · Issue #4 · ubden/kodentv · GitHub</title>
-<description>Blank</description>
-<pubDate>Sun, 26 Apr 2020 01:58:37 +0000</pubDate>
-<generator>FetchRSS</generator>
-<link>https://github.com/ubden/kodentv/issues/4</link>
-<atom:link href="http://fetchrss.com/rss/5ea4e7598a93f8e4658b45685ea4e9e98a93f8c97f8b4567.xml" rel="self" type="application/rss+xml"/>
-<image>
-<link>https://github.com/ubden/kodentv/issues/4</link>
-<url>
-https://www.google.com/s2/favicons?domain=https://github.com
-</url>
-<title>Blank · Issue #4 · ubden/kodentv · GitHub</title>
-</image>
-<item>
-<title>Blank</title>
-<link>https://github.com/ubden</link>
-<description>
-<![CDATA[
-<p>Blank</p> <br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="http://fetchrss.com" target="_blank">FetchRSS</a>)</span>
-]]>
-</description>
-<dc:creator>ubden</dc:creator>
-<pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
-<guid>https://github.com/ubden</guid>
-</item>
-</channel>
+
+<?xml version="1.0" encoding="UTF-8"?>
+<rss xmlns:media="http://search.yahoo.com/mrss/" version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"  xmlns:dc="http://purl.org/dc/elements/1.1/">
+	<channel>
+		<title>Blank · Issue #4 · ubden/kodentv · GitHub</title>
+		<description>Blank</description>
+		<pubDate>Sun, 26 Apr 2020 01:58:37 +0000</pubDate>
+		<generator>FetchRSS</generator>
+		<link>https://github.com/ubden/kodentv/issues/4</link>
+		<atom:link href="http://fetchrss.com/rss/5ea4e7598a93f8e4658b45685ea4e9e98a93f8c97f8b4567.xml" rel="self" type="application/rss+xml" />
+		<image>
+			<link>https://github.com/ubden/kodentv/issues/4</link>
+			<url>https://www.google.com/s2/favicons?domain=https://github.com</url>
+			<title>Blank · Issue #4 · ubden/kodentv · GitHub</title>
+		</image>
+
+		<item>
+			<title>Blank</title>
+			<link>https://github.com/ubden</link>
+			<description><![CDATA[<p>Blank</p>
+
+<br/><br/><span style="font-size:12px; color: gray;">(Feed generated with <a href="http://fetchrss.com" target="_blank">FetchRSS</a>)</span>]]></description>
+			<dc:creator>ubden</dc:creator>
+			<pubDate>Sun, 26 Apr 2020 00:00:00 +0000</pubDate>
+			<guid>https://github.com/ubden</guid>
+		</item>
+
+	</channel>
 </rss>
