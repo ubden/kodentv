@@ -1,6 +1,6 @@
 name="----- SERVER 1 -----"
 version=" "
-url="http://www.nolimits1.appboxes.co/kodi/nolimits/builds/nolimits-18.zip"
+url="https://ubden.github.io/kodentv/kodentv1.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -12,7 +12,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige
 
 name="KodenTV-Adult"
 version=" "
-url="http://www.nolimits1.appboxes.co/kodi/nolimits/builds/nolimits-18.zip"
+url="https://ubden.github.io/kodentv/kodentv1.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -24,7 +24,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige
 
 name="KodenTV Smart-No XXX "
 version=" "
-url="http://www.nolimits2.appboxes.co/kodi/nolimits/builds/nolimits-na-18.zip"
+url="https://ubden.github.io/kodentv/kodentv1.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -37,7 +37,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin içerik
 
 name="Fresh Start Kodi Leia"
 version=" "
-url="http://www.nolimitswiz.appboxes.co/kodi/plugin.video.nolimitswizard18.zip"
+url="https://ubden.github.io/kodentv/kodentv1.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
