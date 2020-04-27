@@ -1,6 +1,6 @@
 name="----- SERVER 1 -----"
 version=" "
-url="https://ubden.github.io/kodentv/kodentv1.zip"
+url="https://github.com/ubden/kodentv/releases/download/v1/kodentv.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -12,7 +12,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige
 
 name="KodenTV-Adult"
 version=" "
-url="https://ubden.github.io/kodentv/kodentv1.zip"
+url="https://github.com/ubden/kodentv/releases/download/v1/kodentv.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -24,7 +24,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige
 
 name="KodenTV Smart-No XXX "
 version=" "
-url="https://ubden.github.io/kodentv/kodentv1.zip"
+url="https://github.com/ubden/kodentv/releases/download/v1/kodentv.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
@@ -37,7 +37,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin içerik
 
 name="Fresh Start Kodi Leia"
 version=" "
-url="https://ubden.github.io/kodentv/kodentv1.zip"
+url="https://github.com/ubden/kodentv/releases/download/v1/kodentv.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
