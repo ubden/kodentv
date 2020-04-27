@@ -1,0 +1,1 @@
+["[B]/", ["b /b", "b /46 otob\u00fcs saatleri beykent", "b /43 otob\u00fcs saatleri gaziantep", "burger king", "black friday", "brad pitt", "bird box", "black mirror", "bein sport", "bbc news"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

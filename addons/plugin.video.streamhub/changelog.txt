@@ -1,0 +1,7 @@
+v3.1.0 - Added Channels Category. Removed dead code. Sources Updated
+
+v3.1.1 - Added More TrakT Sections
+
+v3.1.2 - Added Premium Section
+
+v3.1.3 - Premium Section Tweaks

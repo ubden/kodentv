@@ -1,0 +1,1 @@
+["SUPER FAV", ["super favorites", "super favorites alternative", "super dave", "super favorita", "super favorites not working", "super favourites", "super favourites leia", "super favourites 1.1.59 password", "super fab lab", "super favorites github"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

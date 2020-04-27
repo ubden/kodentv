@@ -1,0 +1,1 @@
+["Bel", ["bellona", "bella hadid", "belarus", "belgrad orman\u0131", "bella ciao", "belgium", "bella maison", "bella thorne", "belgrad", "bel\u00e7ika"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

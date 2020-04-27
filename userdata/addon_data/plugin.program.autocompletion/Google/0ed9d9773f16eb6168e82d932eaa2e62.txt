@@ -1,0 +1,1 @@
+["Oyun Videol", ["oyun videolar\u0131", "oyun videolar\u0131 enes batur", "oyun videolar\u0131 araba", "videolar\u0131 oyun hamuru", "oyun hamuru videolar\u0131 t\u00fcrk\u00e7e"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

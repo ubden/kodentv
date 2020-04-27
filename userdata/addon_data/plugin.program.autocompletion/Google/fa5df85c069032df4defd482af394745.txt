@@ -1,0 +1,1 @@
+["SCRU", ["scrubs", "scrunchies", "scrum", "scrum nedir", "scrubs izle", "scrub ne demek", "scrub", "scrunchie", "scrum master", "scrubber"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

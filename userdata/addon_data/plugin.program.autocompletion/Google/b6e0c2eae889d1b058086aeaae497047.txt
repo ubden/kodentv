@@ -1,0 +1,1 @@
+["wo", ["worldometers", "wolfteam", "wowwo", "wolfteam indir", "word to pdf", "wonder woman", "word", "world war z", "word indir", "wordpress"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

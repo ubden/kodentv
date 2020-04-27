@@ -1,0 +1,1 @@
+["VR", ["vr", "vr g\u00f6zl\u00fck", "vrije universiteit amsterdam", "vr headset", "vrchat", "vray", "vrbo", "vr box", "vremenska prognoza istanbul", "vr set"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,14 @@
+<settings>
+    <setting id="addons.ini.file" value="" />
+    <setting id="addons.ini.type" value="0" />
+    <setting id="alternative.playback" value="false" />
+    <setting id="enable.osd" value="true" />
+    <setting id="logos.enabled" value="true" />
+    <setting id="logos.folder" value="" />
+    <setting id="logos.source" value="0" />
+    <setting id="notifications.enabled" value="true" />
+    <setting id="skin" value="Renegades Sky" />
+    <setting id="xmltv.file" value="" />
+    <setting id="xmltv.interval" value="2" />
+    <setting id="xmltv.type" value="0" />
+</settings>

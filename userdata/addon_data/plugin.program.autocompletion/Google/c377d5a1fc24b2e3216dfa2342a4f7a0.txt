@@ -1,0 +1,1 @@
+["Sports", ["sportsoul", "sports", "sports tv", "sports guru", "sports tv izle", "sports tv canl\u0131", "sports tv hd", "sports max 1", "sports ne demek", "sports illustrated"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

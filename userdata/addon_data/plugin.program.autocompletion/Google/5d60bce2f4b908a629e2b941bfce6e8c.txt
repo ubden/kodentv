@@ -1,0 +1,1 @@
+["[COLOR gold]**** Yerli [/COLOR]", ["color gold **** yerli /color lyrics"], [], {"google:suggesttype": ["TAIL"]}]

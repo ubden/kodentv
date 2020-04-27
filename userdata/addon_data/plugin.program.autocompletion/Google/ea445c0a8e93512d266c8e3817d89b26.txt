@@ -1,0 +1,1 @@
+["SER", ["serenay sar\u0131kaya", "sercan y\u0131ld\u0131r\u0131m", "seren serengil", "serdar orta\u00e7", "seray sever", "\u015ferbetli tatl\u0131lar", "sergen yal\u00e7\u0131n", "serdar kuzulo\u011flu", "serra y\u0131lmaz", "sertap erener"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["(\u00d6)", ["\u00f6 pronunciation", "\u00f6 sound", "\u00f6&b", "\u00f6 ile biten kelimeler", "\u00f6 bundesliga", "\u00f6 ticket", "\u00f6 till \u00f6", "\u00f6 ile ba\u015flayan kelimeler", "\u00f6 ile \u015fehir", "\u00f6 ile bitki"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

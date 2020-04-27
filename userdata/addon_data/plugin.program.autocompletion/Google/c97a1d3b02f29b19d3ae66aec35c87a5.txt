@@ -1,0 +1,1 @@
+["Best Po", ["best podcasts", "best powerbank", "best pokemon games", "best poems", "best pod mod 2020", "best point", "best powerpoint templates", "best pokemons", "best power supply", "best portal"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

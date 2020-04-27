@@ -1,0 +1,1 @@
+["Zipten Dosya Y", ["zipten dosya y\u00f6neticisi"], [], {"google:suggesttype": ["TAIL"]}]

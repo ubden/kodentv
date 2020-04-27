@@ -1,0 +1,1 @@
+["[T", ["translate", "trendyol", "twitter", "tv8", "thy", "t\u00fcrk telekom", "turkcell", "teknosa", "t\u00fcrkiye haritas\u0131", "tureng"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

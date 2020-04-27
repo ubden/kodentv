@@ -1,0 +1,1 @@
+["Seyri", ["seyri istanbul", "seyri adalar", "seyri derya", "seyri ne demek", "seyrimde bir \u015fehre vard\u0131m", "seyri s\u00fcl\u00fck", "seyri sefa", "seyrisefain", "seyri teras", "seyri s\u00fcl\u00fck nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

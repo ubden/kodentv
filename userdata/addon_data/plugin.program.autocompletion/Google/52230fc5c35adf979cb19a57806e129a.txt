@@ -1,0 +1,1 @@
+["HATA LOGLARI", ["hata loglar\u0131"], [], {"google:suggesttype": ["QUERY"]}]

@@ -1,0 +1,6 @@
+[COLOR dodgerblue][B]Jump To[/B][/COLOR]
+[I]NOTE: To activate 'Jump To...', you need to set 'Paginate Personal Lists when Possible' (Settings->General->Navigation) to ON. Turning this setting OFF will make FEN load the contents of an ENTIRE list at once, meaning Jump To is not needed. 
+
+When the above setting is ON you will notice in 'personal' lists in Fen i.e. your Trakt lists, Fen Favourites or Subscriptions, your Kodi Library etc, there will be a 'Jump To...' icon at the beginning of the list. This allows you to Jump To a certain page of content within that list, or Jump To media in the list starting with a chosen letter of the alphabet. This is to help with navigating large lists without having to go page to page. You can change the behavior of Jump To by going to Settings->General->Navigation->Jump To...List Navigation and choosing 'Alphabet' or 'Page', or bringing up the context menu when Jump To is highlighted and choosing 'Switch Jump To Action'. You can also set the number of items to be displayed per page, from 10-40.
+
+Try it out to see...[/I]

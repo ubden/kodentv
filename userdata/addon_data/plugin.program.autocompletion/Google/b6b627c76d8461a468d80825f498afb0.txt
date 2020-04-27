@@ -1,0 +1,1 @@
+["Arama", ["arama", "arama motorlar\u0131", "arama motoru", "arama bekletme", "aramam sormam", "arama ge\u00e7mi\u015fi", "arama y\u00f6nlendirme", "aramalar", "arama kaydedici", "aramazsan arama"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

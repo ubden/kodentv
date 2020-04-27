@@ -1,0 +1,13 @@
+<settings>
+    <setting id="alternative.playback" value="false" />
+    <setting id="cache.data.on.xbmc.startup" value="true" />
+    <setting id="enable.osd" value="true" />
+    <setting id="notifications.enabled" value="true" />
+    <setting id="program.background.enabled" value="true" />
+    <setting id="source" value="YouSee.tv" />
+    <setting id="xmltv.file" value="" />
+    <setting id="xmltv.logo.folder" value="" />
+    <setting id="xmltv.type" value="0" />
+    <setting id="xmltv.url" value="" />
+    <setting id="youseetv.category" value="Danske" />
+</settings>

@@ -1,0 +1,1 @@
+["[COLOR AQUA]F\u0130L", ["aqua fill color in excel"], [], {"google:suggesttype": ["QUERY"]}]

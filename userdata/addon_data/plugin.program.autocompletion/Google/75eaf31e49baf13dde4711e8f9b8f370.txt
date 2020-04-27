@@ -1,0 +1,1 @@
+["C", ["\u00e7eviri", "cumhuriyet", "covid 19", "corona", "canl\u0131 tv", "carrefour", "coronavirus", "cimer", "corona son durum", "cem y\u0131lmaz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

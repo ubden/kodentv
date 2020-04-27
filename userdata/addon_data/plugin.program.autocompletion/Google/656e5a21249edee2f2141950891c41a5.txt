@@ -1,0 +1,1 @@
+["PORTAL T", ["portal tebligat", "portal teia\u015f", "portal tkgm", "portal to english", "portal ted r\u00f6nesans", "portal terakki", "portal t\u00fcrk\u00e7e yama", "portal triad", "portal tse", "portal t\u00fcgva"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

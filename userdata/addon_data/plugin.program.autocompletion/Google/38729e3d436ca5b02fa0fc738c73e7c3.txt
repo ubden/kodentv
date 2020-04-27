@@ -1,0 +1,1 @@
+["[B]A", ["b akoru", "b akoru gitar", "b and oil", "b akoru ukulele", "b and g", "b and b", "b and h", "b artist", "b araba", "b akoru baresiz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

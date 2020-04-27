@@ -1,0 +1,1 @@
+["URANU", ["uran\u00fcs", "uranus otel", "uranus hotels", "uranus istanbul topkapi", "uranus symbol", "uranus god", "uran\u00fcs akrep", "uran\u00fcs yay", "uran\u00fcs kova", "uranus planet"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

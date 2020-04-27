@@ -1,0 +1,1 @@
+["WhiteCream", ["whitecream", "whitecream addon 2019", "whitecream update", "whitecream on firestick", "whitecream addon 2020", "whitecream down", "whitecream install", "whitecream website", "whitecream update 2019", "whitecream app"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

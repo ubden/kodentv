@@ -1,0 +1,1 @@
+["[Fi/COLOR]", ["fi collar review", "fi color", "fi color palette"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

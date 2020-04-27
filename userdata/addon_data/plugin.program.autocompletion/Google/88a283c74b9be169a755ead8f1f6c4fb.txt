@@ -1,0 +1,1 @@
+["SeyirT\u0131", ["seyirmeler", "seyirt\u00fcrk", "seyir", "seyir tepesi", "seyir ne demek", "seyirci", "seyir defteri", "seyirkent sitesi adana", "seyirlik ne demek", "seyir teras\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

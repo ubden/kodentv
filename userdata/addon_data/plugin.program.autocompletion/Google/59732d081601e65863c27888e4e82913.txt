@@ -1,0 +1,1 @@
+["[COLOR gold]OYUNCU[/COLOR]", [], [], {"google:suggesttype": []}]

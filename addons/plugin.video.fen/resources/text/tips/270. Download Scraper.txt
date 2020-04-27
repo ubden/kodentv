@@ -1,0 +1,2 @@
+[COLOR dodgerblue][B]Download Scraper[/B][/COLOR]
+[I]This is an Internal Fen scraper that can be activated from Settings->Scrapers->Downloads. If you download Movies/Episodes through Fen, this scraper will find them in your Movie or TV Show Download folder and display that as a result when you perform a search. This is handy as it allows you to watch the downloaded file through Fen's search results, meaning any progress and watched history will be allocated correctly to the media.[/I]

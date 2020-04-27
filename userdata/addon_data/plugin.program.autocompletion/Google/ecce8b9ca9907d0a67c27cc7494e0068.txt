@@ -1,0 +1,1 @@
+["YERL\u0130", ["yerli komedi filmleri", "yerli otomobil", "yerli plaka s\u00f6zleri", "yerli tohum", "yerli plaka", "yerli korku filmleri", "yerli diziler", "yerli komedi filmleri izle", "yerli araba", "yerli \u00fcretim"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

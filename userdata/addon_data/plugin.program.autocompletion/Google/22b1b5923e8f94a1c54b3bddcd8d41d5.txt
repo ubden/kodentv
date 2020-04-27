@@ -1,0 +1,1 @@
+["Tema Re", ["tema resmi", "tema renkleri", "tema restaurant", "tema reklam", "tema rengi", "tema rezervuar i\u00e7 tak\u0131m\u0131", "tema reklam m\u00fczi\u011fi", "tema renk kodlar\u0131", "tema rezidans", "tema resmi bir kurum mudur"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

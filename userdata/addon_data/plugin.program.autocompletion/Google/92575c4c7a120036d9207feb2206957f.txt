@@ -1,0 +1,1 @@
+["[B]HER P[/B]", ["engerix hep b", "engerix b hep b", "engerix b hep b vaccine", "hep b antigen vs hep b antibody", "hep b b", "b positive hep b"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

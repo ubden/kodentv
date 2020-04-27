@@ -1,0 +1,1 @@
+["Venom Diz", ["venom dizlik", "venom dizi", "venom dizisi", "venom dizlik mafsalli", "venom dizlik dirseklik", "venom diziyo", "venom diz koruma", "venom dizlik fiyatlar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

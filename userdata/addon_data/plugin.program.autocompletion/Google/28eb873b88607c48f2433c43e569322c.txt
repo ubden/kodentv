@@ -1,0 +1,1 @@
+["[COLOR gold][B][/COLOR]oxset F\u0130LM[/COLO", ["color gold b /color oxset film /color", "color gold b /color oxset film /colors", "color gold b /color oxset film /colour", "color gold b /color oxset film /colon"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

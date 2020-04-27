@@ -1,0 +1,1 @@
+["[COLOR aqua]DIZI TANITIM[/COO", ["color aqua dizi tanitim /cook"], [], {"google:suggesttype": ["TAIL"]}]

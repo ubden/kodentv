@@ -1,0 +1,1 @@
+["NBC Sport E", ["nbc sport epl", "nbc sport engine", "nbc sports eagles", "nbc sport en vivo", "nbc sport extra", "nbc sports epl schedule", "nbc sport europe", "nbc sport en vivo gratis", "nbc sport en direct", "nbc sports epl highlights"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["123", ["123go", "123", "123movies", "123rf", "123 go \u015faka", "1234", "12345", "123 ekran tv", "1235 usul\u00fc nedir", "1239 \u00e7\u0131kmaz\u0131 k\u00fc\u00e7\u00fck\u00e7ekmece"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

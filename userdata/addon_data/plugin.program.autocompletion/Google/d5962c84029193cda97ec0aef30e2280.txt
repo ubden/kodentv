@@ -1,0 +1,1 @@
+["w", ["whatsapp", "wattpad", "watsons", "wizard of oz", "worldometers", "wolfteam", "wetransfer", "wikipedia", "wallpaper", "www.eba.gov.tr \u00f6\u011frenci giri\u015f"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

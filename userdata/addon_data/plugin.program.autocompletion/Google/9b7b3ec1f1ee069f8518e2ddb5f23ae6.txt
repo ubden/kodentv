@@ -1,0 +1,1 @@
+["Bac", ["background", "bactroban", "back to the future", "bacak a\u011fr\u0131s\u0131 sebepleri", "bacoderm", "bach", "bactrim", "bachata", "backyard", "baca vergisi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

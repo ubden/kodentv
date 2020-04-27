@@ -1,0 +1,1 @@
+["Li(IPTV)", ["iptv li uydu cihazlar\u0131", "iptv li televizyon", "iptv li cihazlar", "iptv je li legalno"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

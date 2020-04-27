@@ -1,0 +1,1 @@
+["HIZ TE", ["hiz testi", "h\u0131z test", "h\u0131z testi superonline", "h\u0131z testi turknet", "h\u0131z testi turkcell", "h\u0131z testi vodafone", "hiz testi dsmart", "h\u0131z testi.com.tr", "h\u0131z testi ookla", "h\u0131z testi klavye"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

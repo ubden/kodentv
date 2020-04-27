@@ -1,0 +1,1 @@
+["Wolfpack Mut", ["wolfpack mutant", "wolfpack mutation"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

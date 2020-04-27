@@ -1,0 +1,1 @@
+["G", ["google", "gmail", "google translate", "galatasaray", "google \u00e7eviri", "garanti", "gazeteler", "gratis", "gram alt\u0131n", "getir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

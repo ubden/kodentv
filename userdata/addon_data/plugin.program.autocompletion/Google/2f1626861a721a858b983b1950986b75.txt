@@ -1,0 +1,1 @@
+["[BILGI DD", ["dd bilgi ve bili\u015fim teknolojileri a.\u015f", "doktor bilgi bankas\u0131", "information ddo", "information ddu-gky", "information ddr", "information dds files"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

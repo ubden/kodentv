@@ -1,0 +1,1 @@
+["[BNETFL\u0130X", ["netflix", "netflix dizileri", "netflix party", "netflix indir", "netflix filmleri", "netflix fiyat", "netflix \u00fcye ol", "netflix apk", "netflix giri\u015f", "netflix \u00fccret"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

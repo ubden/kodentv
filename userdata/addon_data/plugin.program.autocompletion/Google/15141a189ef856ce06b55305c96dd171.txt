@@ -1,0 +1,1 @@
+["[COLOR gold]U[/COLOR]", ["color gold in /color "], [], {"google:suggesttype": [""]}]

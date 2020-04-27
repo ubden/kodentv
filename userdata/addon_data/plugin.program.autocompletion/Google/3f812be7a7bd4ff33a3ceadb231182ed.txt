@@ -1,0 +1,1 @@
+["Uk T", ["uk time", "uk truck simulator", "uk top 40", "uk tactical", "uk time zone", "uk turkey", "uk tax calculator", "uk t\u00fcrk\u00e7esi", "uk t\u00fcrk", "uk train"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

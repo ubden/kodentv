@@ -1,0 +1,6 @@
+#LWP-Cookies-2.0
+Set-Cookie3: AWSALB="Ax4/WdxmRwLCQlRBiQ6kCkHJ2X5UCOLbxKpiAN8C1Ae7V++C8NaKdJjofCFGAaMUDugosyw/EmeWySi5R0NiHQ9OXTUvHLKK3d5FSVkMvxnIiZ8Z/eMkM7otLWA6"; path="/"; domain="api.auth.adobe.com"; path_spec; expires="2020-05-03 14:08:43Z"; version=0
+Set-Cookie3: AWSALBCORS="Ax4/WdxmRwLCQlRBiQ6kCkHJ2X5UCOLbxKpiAN8C1Ae7V++C8NaKdJjofCFGAaMUDugosyw/EmeWySi5R0NiHQ9OXTUvHLKK3d5FSVkMvxnIiZ8Z/eMkM7otLWA6"; path="/"; domain="api.auth.adobe.com"; path_spec; expires="2020-05-03 14:08:43Z"; SameSite=None; version=0
+Set-Cookie3: AWSALB="afp5/9yF9cs+dGFFA+MawvOqkd0Uo/gmbkAf+DuUmHQrFXmYzgLxfdOGQZPmCqcug00ymUSefyZZUhboXvpK3ajZoS9AGszknREQLpTfArA/FLc0xmY3R1JNt6lU"; path="/"; domain="sp.auth.adobe.com"; path_spec; expires="2020-05-03 14:08:44Z"; version=0
+Set-Cookie3: AWSALBCORS="afp5/9yF9cs+dGFFA+MawvOqkd0Uo/gmbkAf+DuUmHQrFXmYzgLxfdOGQZPmCqcug00ymUSefyZZUhboXvpK3ajZoS9AGszknREQLpTfArA/FLc0xmY3R1JNt6lU"; path="/"; domain="sp.auth.adobe.com"; path_spec; expires="2020-05-03 14:08:44Z"; SameSite=None; version=0
+Set-Cookie3: passgw="gw-ap-prod-uw2"; path="/"; domain="sp.auth.adobe.com"; path_spec; discard; HttpOnly=None; version=0

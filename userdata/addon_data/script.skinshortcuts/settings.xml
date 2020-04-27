@@ -1,0 +1,5 @@
+<settings version="2">
+    <setting id="donthidepvr" default="true">false</setting>
+    <setting id="enable_logging" default="true">false</setting>
+    <setting id="shared_menu">true</setting>
+</settings>

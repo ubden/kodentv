@@ -1,0 +1,1 @@
+["sEY\u0130", ["seyit onba\u015f\u0131", "seyido\u011flu", "seyir tepesi", "seyit ahmet uzun", "seyit r\u0131za", "seyir tepesi mu\u011fla", "seyirt\u00fcrk", "seyirmeler", "seyir", "seyit torun"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

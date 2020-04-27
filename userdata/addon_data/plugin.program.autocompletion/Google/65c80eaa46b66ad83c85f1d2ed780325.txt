@@ -1,0 +1,1 @@
+["7 of 9 \u00c7", ["7 8 9 \u00e7arp\u0131m tablosu", "7 \u00e7arp\u0131 9 eyvah \u00f6zet", "7 \u00e7arp\u0131 9 eyvah", "7 \u00e7arp\u0131 9", "7 \u00e7arp\u0131 9 ka\u00e7 eder", "7 8 9 \u00e7arp\u0131m tablosu oyunu", "7 \u00e7arp\u0131 9 ka\u00e7t\u0131r"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["SeyirTurk F", ["seyirturk forum", "seyirturk full apk", "free seyirturk", "seyirturk f\u00fcr android", "seyirturk fire tv stick"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

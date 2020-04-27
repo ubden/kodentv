@@ -1,0 +1,1 @@
+["cCloud Sp", ["ccloud spotify", "ccloud speed"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

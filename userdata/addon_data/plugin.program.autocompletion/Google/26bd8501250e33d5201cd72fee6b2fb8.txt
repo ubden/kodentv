@@ -1,0 +1,1 @@
+["Spo", ["spotify", "sporx", "spor toto", "sportive", "spor ayakkab\u0131", "spotify premium", "spor", "spotify indir", "spor istanbul", "spor aletleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

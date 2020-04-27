@@ -1,0 +1,1 @@
+["RE", ["revani tarifi", "recep ivedik 6", "redmi note 8", "renault", "recep tayyip erdo\u011fan", "resmi gazete", "revani", "redmi note 8 pro", "reynmen", "recep ivedik 5"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

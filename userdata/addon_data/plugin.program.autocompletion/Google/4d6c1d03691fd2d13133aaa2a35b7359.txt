@@ -1,0 +1,1 @@
+["Paket", ["paket taxi", "paket", "paket servis", "paket lasti\u011fi", "paketleme makinas\u0131", "paket mutfak", "paketleme", "paket maske", "paket tur s\u00f6zle\u015fmeleri y\u00f6netmeli\u011fi", "paket vanilya"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

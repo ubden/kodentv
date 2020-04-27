@@ -1,0 +1,1 @@
+["Pand", ["pandemi yard\u0131m\u0131", "pandemi sonu\u00e7lar\u0131", "pandemi nedir", "pandora", "panda", "pandispanya", "panda butik", "pandomim", "pandispanya tarifi", "pandomim nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

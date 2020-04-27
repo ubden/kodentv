@@ -1,0 +1,1 @@
+["Comed", ["comedy movies", "comedy", "comedy night", "comedy ne demek", "comed", "comedones", "comedy central", "comedones vakumlu siyah nokta temizleyicisi", "comedo suction tool", "comedy of errors"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

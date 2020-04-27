@@ -1,0 +1,21 @@
+﻿[B]0.7.3[/B]
+- Backwards compatibility with TS 2.0.x
+- Translations
+- Minor bug fixes
+
+[B]0.7.2[/B]
+- New reStreamer
+- CPU optimizations
+
+[B]0.7.1[/B]
+- Krypton full support
+
+[B]0.7.0[/B]
+- v6 protocol
+- reStreamer
+
+[B]0.6.5[/B]
+- v3 protocol
+- Full code rewrite
+- ResolvedUrl support
+- OSD

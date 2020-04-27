@@ -1,0 +1,1 @@
+["ski", ["skins", "skin", "skinfood", "skinceuticals", "skipass", "skins izle", "skillshare", "skip hop", "skindex", "skinny fat"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

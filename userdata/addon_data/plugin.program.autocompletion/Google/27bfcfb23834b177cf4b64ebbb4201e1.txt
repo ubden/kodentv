@@ -1,0 +1,1 @@
+["Fen Di", ["fen dinamo", "fen dijital", "fen dinamo soru bankas\u0131", "fen dilimi", "fen dinamo 8", "fen dikey yay\u0131nc\u0131l\u0131k", "fen dikey yay\u0131nc\u0131l\u0131k cevaplar\u0131", "fen ditton", "fendi", "fen ditton plough"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

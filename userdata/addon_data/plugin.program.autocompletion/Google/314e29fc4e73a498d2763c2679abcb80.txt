@@ -1,0 +1,1 @@
+["SCRUP TR", ["scrup trabzon", "scrup transfer"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

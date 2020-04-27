@@ -1,0 +1,1 @@
+["[BI", ["bim", "biletix", "bitcoin", "bilgi learn", "birg\u00fcn", "bigpara", "billie eilish", "bilmeceler", "bilyoner", "bill gates"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

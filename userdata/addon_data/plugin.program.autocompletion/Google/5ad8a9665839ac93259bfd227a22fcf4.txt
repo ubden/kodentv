@@ -1,0 +1,1 @@
+["Paketleri Ta", ["paket tahun baru 2019 jakarta", "paket tau telkomsel", "paket taxi", "tatil paketleri", "paket tau medium", "paket tau", "paket tau medium telkomsel", "paket tau bulanan", "paket tau telkomsel adalah", "paket tau lite6"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,12 @@
+<settings version="2">
+    <setting id="alsoimdb" default="true">false</setting>
+    <setting id="certprefix" default="true"></setting>
+    <setting id="fallback" default="true">true</setting>
+    <setting id="fanarttvart">true</setting>
+    <setting id="keeporiginaltitle" default="true">false</setting>
+    <setting id="language">tr</setting>
+    <setting id="RatingS">IMDb</setting>
+    <setting id="tmdbart">true</setting>
+    <setting id="tmdbcertcountry">tr</setting>
+    <setting id="tvdbwidebanners">true</setting>
+</settings>

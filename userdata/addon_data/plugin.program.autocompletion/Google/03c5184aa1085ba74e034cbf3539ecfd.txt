@@ -1,0 +1,1 @@
+["[COLOR aqua]Searc[/COLOR]", ["color aqua search /color "], [], {"google:suggesttype": [""]}]

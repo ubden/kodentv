@@ -1,0 +1,1 @@
+["[COLOR AUE", ["color quest", "color aura", "que color", "aureolin color", "nordwal color auer", "de que color es el sol", "de que color es", "de aue color es el vestido", "de que color es el cielo", "de que color lo ves"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

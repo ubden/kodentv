@@ -1,0 +1,1 @@
+["[B]Ara\u00e7lar[/B]\u00fc", ["b ara\u00e7lar /b \u00fcr\u00fcnleri"], [], {"google:suggesttype": ["TAIL"]}]

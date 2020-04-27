@@ -1,0 +1,127 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Ace Stream</title>
+
+<style type="text/css">
+* {
+    font-family: Arial;
+}
+body {
+    background-color: #222
+}
+.modal {
+    background-color:#fff; 
+    display:none; 
+    width: 500px; 
+    padding:15px; 
+    text-align:left; 
+    border:2px solid #333; 
+    font-size: 12px;
+    
+    opacity:0.8;
+    -moz-border-radius:6px;
+    -webkit-border-radius:6px;
+    -moz-box-shadow: 0 0 50px #ccc;
+    -webkit-box-shadow: 0 0 50px #ccc; 
+}
+
+.modal input {
+    font-size: 12px;
+}
+
+.button-long {
+    display: inline-block;
+    background: transparent url(http://static.torrentstream.org/htmlplayer/img/sprite-player-black.png) no-repeat 100% -129px;
+    height: 27px;
+    line-height: 24px;
+    cursor: pointer;
+    position: relative;
+    margin-left: 17px;
+    top: -3px;
+    padding-right: 12px;
+    width: 115px;
+    text-align: center;
+    color: #fff;
+    text-decoration: none;
+    font-size: 14px;
+}
+
+.button-long b {
+    background: transparent url(http://static.torrentstream.org/htmlplayer/img/sprite-player-black.png) no-repeat -579px -129px;
+    height: 27px;
+    width: 17px;
+    position: absolute;
+    left: -17px;
+}
+
+</style>
+
+<!-- black style -->
+<link type="text/css" rel="stylesheet" href="http://static.torrentstream.org/jsapi/css/ts-controls-black.css" />
+
+<!-- api files -->
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/ts/core.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/jquery/jquery-1.7.min.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/jquery/jquery-ui-1.8.9.custom.min.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/jquery/jquery.mousewheel.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/jquery/jquery.jscrollpane.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/jquery/jquery.scrollText.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/jquery/jquery.easing.1.3.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/cufon/cufon.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/cufon/a_LCDNova_400.font.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/ts/player.js"></script>
+<script type="text/javascript" src="http://static.torrentstream.org/jsapi/js/lib/ts/controls.js"></script>
+
+<script type="text/javascript">
+function init() {
+    var useInternalControls = true;
+    
+    var controls = new TorrentStream.Controls("tsplayer", {
+            style: useInternalControls ? "internal" : "ts-black",
+            debug: true
+    });
+    
+    try {
+        var player = new TorrentStream.Player(controls.getPluginContainer(), {
+                debug: true,
+                useInternalControls: useInternalControls,
+                bgColor: "#000000",
+                fontColor: "#ffffff",
+                onLoad: function() {
+                    this.registerEventHandler(controls);
+                    controls.attachPlayer(this);
+                    try {
+                        var p = this;
+                        this.loadPlayer("{player_id}", {autoplay: {autoplay}});
+                    }
+                    catch(e) {
+                        console.log("init: " + e);
+                    }
+                }
+        });
+    }
+    catch(e) {
+        controls.onSystemMessage(e);
+    }
+}
+</script>
+
+</head>
+
+<body>
+
+    <div id="player_container" style="background-color: #000; width: 800px; height: 483px; margin: 100px auto 0 auto;">
+        <div id="tsplayer" style="width: 100%; height: 100%; color: #fff; text-align: center;">
+            <div style="padding-top: 232px; background-color: #000000;">Подождите, идет загрузка плеера...</div>
+        </div>
+    </div>
+
+    <script type="text/javascript">
+    init();
+    </script>
+    
+</body>
+</html>

@@ -1,0 +1,1 @@
+["la", ["la casa de papel", "laptop", "lahmacun tarifi", "lahmacun", "lacoste", "lazanya", "labim", "laz", "la casa de papel 5. sezon ne zaman", "lazanya tarifi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

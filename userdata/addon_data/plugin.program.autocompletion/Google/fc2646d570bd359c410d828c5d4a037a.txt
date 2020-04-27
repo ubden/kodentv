@@ -1,0 +1,1 @@
+["[COLOR orange][B][COLOR blue]TR[/COLOR]Filmler[/B][/COLOR]", ["color orange b color blue tr /color filmler /b /color digital", "color orange b color blue tr /color filmler /b /color style"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

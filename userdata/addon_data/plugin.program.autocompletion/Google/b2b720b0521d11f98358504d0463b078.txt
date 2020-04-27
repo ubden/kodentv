@@ -1,0 +1,1 @@
+["TempArama", ["temperament"], [], {"google:suggesttype": ["QUERY"]}]

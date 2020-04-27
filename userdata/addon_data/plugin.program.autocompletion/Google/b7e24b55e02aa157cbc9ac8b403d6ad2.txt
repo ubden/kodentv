@@ -1,0 +1,1 @@
+["NETFL\u0130X ORJ\u0130NAL UYGU", ["netflix orjinal uygulamalar", "netflix orjinal uygulama", "netflix orjinal uygulamas\u0131", "netflix orjinal uygulamalar\u0131"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

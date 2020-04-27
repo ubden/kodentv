@@ -1,0 +1,1 @@
+["TurkVod Dizi", ["turkvod dizi arama", "turkvod dizin bilgisi al\u0131namad\u0131 hatas\u0131", "turkvod dizin bilgisi al\u0131namad\u0131", "turkvod diziler acilmiyor", "turkvod dizi", "turkvod diziler calismiyor"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

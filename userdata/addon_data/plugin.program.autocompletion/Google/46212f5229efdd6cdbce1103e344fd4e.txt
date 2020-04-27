@@ -1,0 +1,1 @@
+["Spor Wig", ["sports wiggle", "sports wig", "sports wigan", "sports wigs for swimming", "wiggle sport", "sports wigan rugby", "sports wig shop", "sports wigan opening times"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
