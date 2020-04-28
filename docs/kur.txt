@@ -12,7 +12,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige
 
 name="Koden TV Full Surum"
 version=" "
-url="hhttps://github.com/ubden/kodentv/releases/download/final_52020/final.zip"
+url="https://github.com/ubden/kodentv/releases/download/final_52020/final.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
