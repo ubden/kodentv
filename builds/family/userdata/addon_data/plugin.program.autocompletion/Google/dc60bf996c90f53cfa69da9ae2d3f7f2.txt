@@ -1,0 +1,1 @@
+["[TRA", ["translate", "trabzonspor", "travis scott", "tra\u015f makinesi", "trabzon", "trabzon iftar vakti", "transformers", "transformice", "trafik", "trafik durumu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

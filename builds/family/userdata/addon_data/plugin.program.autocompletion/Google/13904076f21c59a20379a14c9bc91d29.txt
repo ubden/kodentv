@@ -1,0 +1,1 @@
+["S", ["sahibinden", "skyscanner", "spotify", "speed test", "steam", "skype", "samsung", "sephora", "stradivarius", "starbucks"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

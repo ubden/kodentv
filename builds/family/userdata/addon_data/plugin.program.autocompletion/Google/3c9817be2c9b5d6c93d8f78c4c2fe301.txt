@@ -1,0 +1,1 @@
+["Canl\u0131 TVV", ["canl\u0131 tv", "canl\u0131 tvv8", "canl\u0131 tv vin", "canl\u0131 tv kanallar\u0131", "canl\u0131 tv eba lise", "canl\u0131 tv eba", "canl\u0131 tv me", "canl\u0131 tv haber", "canl\u0131 tv kanal d", "canl\u0131 tv kanal 7"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

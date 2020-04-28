@@ -1,0 +1,59 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Son Filmler</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seyirTURK/?url=http%3A%2F%2Fsatura.tk%2Fsey%2Fback%2Fshow.php%3Ftype%3Dall%26mac%3D50%3A5B%3AC2%3AEA%3AB7%3AE3%26ct%3D628ab8092398f52fb7669d84e007eddd&amp;mode=2&amp;name=[COLOR orange][B][COLOR blue]* [/COLOR]Son Eklenenler[/B][/COLOR]&amp;plot=[COLOR orange][B]seyirTURK[/B][/COLOR], yeni çıkan filmleri bu alanda topladık.&amp;pic=http://satura.tk/sey/kodi/media/yeni_eklenenler.png&amp;m_id=1&amp;timestamp=None&amp;isTv=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>En Popüler Filmler</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seyirTURK/?url=http%3A%2F%2Fsatura.tk%2Fsey%2Fback%2Fshow.php%3Ftype%3Dpop%26mac%3D50%3A5B%3AC2%3AEA%3AB7%3AE3%26ct%3D628ab8092398f52fb7669d84e007eddd&amp;mode=2&amp;name=[COLOR orange][B][COLOR blue]* [/COLOR]En Popler[/B][/COLOR]&amp;plot=[COLOR orange][B]seyirTURK[/B][/COLOR], uygulamamızda en çok izlenen filmleri bu alanda topladık.&amp;pic=http://satura.tk/sey/kodi/media/en_populer.png&amp;m_id=2&amp;timestamp=None&amp;isTv=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>IMDB TOP 250</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seyirTURK/?url=http%3A%2F%2Fsatura.tk%2Fsey%2Fback%2Fshow.php%3Ftype%3Dtop%26mac%3D50%3A5B%3AC2%3AEA%3AB7%3AE3%26ct%3D628ab8092398f52fb7669d84e007eddd&amp;mode=2&amp;name=[COLOR orange][B][COLOR blue]* [/COLOR]IMDb Top 250[/B][/COLOR]&amp;plot=[COLOR orange][B]seyirTURK[/B][/COLOR], IMDb en çok beğenilen ilk 250 filmlerden bulduklarımızı bu alanda bulabilirsiniz.&amp;pic=http://satura.tk/sey/kodi/media/imdb_top_250.png&amp;m_id=4&amp;timestamp=None&amp;isTv=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Yeni Bölüm Diziler</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seyirTURK/?url=http%3A%2F%2Fsatura.tk%2Fsey%2Fback%2Fshow.php%3Ftype%3Dall%26p_type%3DTV%26mac%3D50%3A5B%3AC2%3AEA%3AB7%3AE3%26ct%3D628ab8092398f52fb7669d84e007eddd&amp;mode=2&amp;name=[COLOR orange][B][COLOR blue]* [/COLOR]Yeni Blm kanlar[/B][/COLOR]&amp;plot=[COLOR orange][B]seyirTURK[/B][/COLOR], yeni bölümü çıkan dizileri burada listeledik.&amp;pic=http://satura.tk/sey/kodi/media/dizi_yeni.png&amp;m_id=4&amp;timestamp=None&amp;isTv=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Rasgele Dizi</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seyirTURK/?url=http%3A%2F%2Fsatura.tk%2Fsey%2Fback%2Fshow.php%3Ftype%3Drandom%26p_type%3DTV%26mac%3D50%3A5B%3AC2%3AEA%3AB7%3AE3%26ct%3D628ab8092398f52fb7669d84e007eddd&amp;mode=2&amp;name=[COLOR orange][B][COLOR blue]* [/COLOR]Rastgele Dizi[/B][/COLOR]&amp;plot=[COLOR orange][B]seyirTURK[/B][/COLOR], iizleyecek dizi bulamadınız mı? biz sizin yerinize rastgele seçelim.&amp;pic=http://satura.tk/sey/kodi/media/dizi_random.png&amp;m_id=6&amp;timestamp=None&amp;isTv=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>IPTV</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seyirTURK/?url=http%3A%2F%2Fsatura.tk%2Fsey%2Fback%2Fiptv.php%3Fmac%3D50%3A5B%3AC2%3AEA%3AB7%3AE3%26ct%3D628ab8092398f52fb7669d84e007eddd&amp;mode=2&amp;name=[COLOR orange][B][COLOR blue]&gt; [/COLOR]Iptv[/B][/COLOR]&amp;plot=[COLOR orange][B]seyirTURK[/B][/COLOR], ülkemizden ve Dünya'dan canlı yayınların olduğu IPTV leri bu alanda bulabilirsiniz.&amp;pic=http://satura.tk/sey/kodi/media/iptvmain.png&amp;m_id=0&amp;timestamp=None&amp;isTv=0",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Radyolar</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,"plugin://plugin.video.seyirTURK/?url=http%3A%2F%2Fsatura.tk%2Fsey%2Fback%2FIPTV%2Fytradio.php%3Fmac%3D50%3A5B%3AC2%3AEA%3AB7%3AE3%26ct%3D628ab8092398f52fb7669d84e007eddd&amp;mode=2&amp;name=[COLOR orange][B][COLOR blue]* [/COLOR]Radyolar[/B][/COLOR]&amp;plot=&amp;pic=http://satura.tk/sey/kodi/media/iptvmain.png&amp;m_id=7&amp;timestamp=None&amp;isTv=0",return)</action>
+	</shortcut>
+</shortcuts>

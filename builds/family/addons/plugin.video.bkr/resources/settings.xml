@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+        <category label="32310">
+                <setting id="appearance.alt" type="action" label="32311" default="" option="close" action="ActivateWindow(videos,plugin://script.bkr.artwork)" visible="!System.HasAddon(script.bkr.artwork)"/>
+                <setting id="appearance.1" type="select" label="32311" values="Zen|Default" default="Default" visible="System.HasAddon(script.bkr.artwork)"/>
+                <setting id="scrapers.timeout.1" type="slider" label="32312" default="45" range="10,60" option="int"/>
+                <setting id="inprogress_db" type="bool" label="Enable In Progress Database" default="true"/>
+                <setting id="inprogress_limit" type="slider" label="In Progress Items" default="100" range="5,200" option="int" visible="!eq(-1,false)"/>
+                <setting id="indicators.alt" type="enum" label="32313" lvalues="32314|32315" default="1" visible="false"/>
+                <setting id="indicators" type="enum" label="32313" lvalues="32314" default="0" visible="false"/>
+                <setting id="fanart" type="bool" label="32318" default="true"/>
+                <setting type="lsep" label="Tv Shows Settings"/>
+                <setting id="local.watched" type="bool" label="Use Local Watched Marks" default="true"/>
+                <setting id="episodes_notaired" type="bool" label="Show Not Aired Episodes" default="true"/>
+                <setting id="episodes_colours" type="enum" label="Not Aired Episodes Colours" values="Gold|Green|Red|Normal" default="0"  visible="!eq(-1,false)"/>
+                <setting id="show_specials" type="bool" label="Show Special Seasons" default="false"/>
+                <setting id="calendar_watching" type="bool" label="Display only My Watchlist Shows in TV Catchup" default="false"/>
+                <setting type="lsep" label="32319"/>
+                <setting id="movie.widget" type="enum" label="Spotlight Content" values="None|New Movies|Trending|Populars|In Theaters|Top Rated" default="2"/>
+                <setting id="cachesources" type="bool" label="Cache Sources" default="true"/>
+        </category>
+        <category label="32330">
+                <setting id="hosts.mode" type="enum" label="32331" values="Dialog|Directory|Autoplay|Real Time|Dialog+" default="4"/>
+                <setting id="progress.dialog" type="enum" label="32335" lvalues="32336|32337" default="0"/>
+                <setting type="lsep" label="32338"/>
+                <setting id="hosts.quality" type="enum" label="32339" values="4k|2k|1080p|720p|480p" default="0"/>
+                <setting id="hosts.captcha" type="bool" label="32341" default="true"/>
+                <setting id="autoplay.sd" type="bool" label="AutoPlay SD Only" default="false"/>
+                <setting id="hosts.sort.provider" type="bool" label="32342" default="false"/>
+                <setting type="lsep" label="32343"/>
+                <setting id="bookmarks" type="bool" label="32344" default="true"/>
+        </category>
+        <category id="general" label="Accounts & Providers">
+                <setting type="lsep" label="Alluc -  Username and Password are Case Sensitive"/>
+                <setting id="enable_alluc" type="bool" label="Enable Alluc Sources" default="false"/>
+                <setting id="alluc_username"  type="text" label="Username" default="" visible="!eq(-1,false)"/>
+                <setting id="alluc_password"  type="text" label="Password" default="" visible="!eq(-2,false)"/>
+                <setting id="alluc_debrid" type="bool" label="Enable Alluc Debrid Sources" visible="!eq(-3,false)"/>
+                <setting id="alluc_max_results" type="slider" label="Max Results for Search" default="100" range="5,200" option="int" visible="!eq(-4,false)"/>
+                <setting type="lsep" label="TMDB API KEY"/>
+                <setting id="tmdb_apikey" type="text" label="api key" default="" visible="true"/>
+                <setting id="debridsources" type="bool" label="Enable Debrid Providers" default="false"/>
+                <setting id="resolveurl" type="action" label="Open ResolveURL settings" option="close" action="RunPlugin(plugin://plugin.video.bkr/?action=resolveurlsettings)"/>
+                <setting id="nanscraper" type="action" label="Open UniversalScraper settings" option="close" action="RunPlugin(plugin://plugin.video.bkr/?action=universalscrapersettings)"/>
+                <setting type="lsep" label="Trakt"/>
+                <setting id="trakt.user" type="action" label="32306" option="close" action="RunPlugin(plugin://plugin.video.bkr/?action=authTrakt)"/>
+                <setting id="trakt.token" type="text" option="hidden" visible="false" label="" default=""/>
+                <setting id="trakt.refresh" type="text" option="hidden" visible="false" label="" default=""/>
+<!--	</category>
+        <category label="Free Providers">
+                <setting id="provider.library" type="bool" label="Include Library Items" default="true"/>
+                <setting type="lsep" label="Free Providers"/>
+                <setting id="provider.putlocker" type="bool" label="Putlocker" default="true"/>
+                <setting id="putlocker_base"  type="text" label=" - Base Url" default="https://cartoonhd.online" visible="!eq(-1,false)"/>
+                <setting id="provider.movieshd" type="bool" label="Movieshd" default="true"/>
+                <setting id="movieshd_base"  type="text" label=" - Base Url" default="https://istream.is" visible="!eq(-1,false)"/>
+                <setting id="provider.gomovies" type="bool" label="Gomovies" default="true"/>
+                <setting id="gomovies_base"  type="text" label=" - Base Url" default="https://gomovies.to" visible="!eq(-1,false)"/>
+                <setting id="provider.afmovies" type="bool" label="Afmovies" default="true"/>
+                <setting id="provider.bobby" type="bool" label="Bobby" default="true"/>
+                <setting id="provider.chillflix" type="bool" label="Chillflix" default="true"/>
+                <setting id="provider.cinemabox" type="bool" label="Cinemabox" default="true"/>
+                <setting id="provider.fmovies" type="bool" label="Fmovies" default="true"/>
+                <setting id="provider.moviego" type="bool" label="Moviego" default="true"/>
+                <setting id="provider.moviexk" type="bool" label="Moviexk" default="true"/>
+                <setting id="provider.movies14" type="bool" label="Movies14" default="true"/>
+                <setting id="provider.movies25" type="bool" label="Movies25" default="true"/>
+                <setting id="provider.onemovieshd" type="bool" label="Onemovieshd" default="true"/>
+                <setting id="provider.onemx" type="bool" label="Onemx" default="true"/>
+                <setting id="provider.putmovie" type="bool" label="Putmovie" default="true"/>
+                <setting id="provider.pubfilm" type="bool" label="Pubfilm" default="true"/>
+                <setting id="provider.pelispedia" type="bool" label="Pelispedia" default="true"/>
+                <setting id="provider.projectfree" type="bool" label="Projectfree" default="true"/>
+                <setting id="pftv_base"  type="text" label=" - Base Url" default="http://project-free-tv.im" visible="!eq(-1,false)"/>
+                <setting id="provider.primewire" type="bool" label="Primewire" default="true"/>
+                <setting id="primewire_base"  type="text" label=" - Base Url" default="http://www.primewire.ag" visible="!eq(-1,false)"/>
+                <setting id="provider.sezonlukdizi" type="bool" label="Sezonlukdizi" default="true"/>
+                <setting id="provider.solar" type="bool" label="Solar" default="true"/>
+                <setting id="provider.solarmovie" type="bool" label="Solarmovie" default="true"/>
+                <setting id="provider.seriesonline" type="bool" label="Seriesonline" default="true"/>
+                <setting id="provider.tunemovie" type="bool" label="Tunemovie" default="true"/>
+                <setting id="provider.vidics" type="bool" label="Vidics" default="true"/>
+                <setting id="provider.watch5s" type="bool" label="Watch5s" default="true"/>
+                <setting id="provider.watchseries" type="bool" label="Watchseries" default="true"/>
+                <setting id="watchseries_base"  type="text" label=" - Base Url" default="http://mywatchseries.to" visible="!eq(-1,false)"/>
+                <setting id="provider.watchfree" type="bool" label="Watchfree" default="true"/>
+                <setting id="watchfree_base"  type="text" label=" - Base Url" default="http://www.watchfree.to" visible="!eq(-1,false)"/>
+                <setting id="provider.watchfrees" type="bool" label="Watchfrees" default="true"/>
+                <setting id="provider.watchepisodes" type="bool" label="Watchepisodes" default="true"/>
+                <setting id="watchepisodes_base"  type="text" label=" - Base Url" default="http://www.watchepisodes4.com" visible="!eq(-1,false)"/>
+                <setting id="provider.wonline" type="bool" label="Wonline" default="true"/>
+                <setting id="provider.wso" type="bool" label="Wso" default="true"/>
+                <setting id="provider.xmovies" type="bool" label="Xmovies" default="true"/>
+                <setting id="provider.ymovies" type="bool" label="Ymovies" default="true"/>
+                <setting type="lsep" label="Anime - Cartoons"/>
+                <setting id="provider.animetoon" type="bool" label="Animetoon" default="true"/>
+                <setting id="provider.gogoanime" type="bool" label="Gogoanime" default="true"/>
+                <setting id="provider.watchcartoon" type="bool" label="Watchcartoon" default="true"/>
+        </category>
+        <category label="Debrid Providers">
+                <setting type="lsep" label="------- Debrid Providers -------"/>
+                <setting id="provider.allrls" type="bool" label="Allrls" default="true"/>
+                <setting id="provider.bmoviez" type="bool" label="Bmoviez" default="true"/>
+                <setting id="provider.ddlvalley" type="bool" label="DDLvalley" default="true"/>
+                <setting id="provider.directdl" type="bool" label="Directdl" default="true"/>
+                <setting id="provider.dltube" type="bool" label="Dltube" default="true"/>
+                <setting id="provider.hevcfilm" type="bool" label="Hevcfilm" default="true"/>
+                <setting id="provider.icefilm" type="bool" label="Icefilm" default="true"/>
+                <setting id="provider.myddl" type="bool" label="Myddl" default="true"/>
+                <setting id="provider.myvideolink" type="bool" label="Myvideolink" default="true"/>
+                <setting id="provider.rapidmovies" type="bool" label="Rapidmovies" default="true"/>
+                <setting id="provider.releasebb" type="bool" label="Releasebb" default="true"/>
+                <setting id="provider.rlshd" type="bool" label="Rlshd" default="true"/>
+                <setting id="provider.rlsmovies" type="bool" label="Rlsmovies" default="true"/>
+                <setting id="provider.rlslog" type="bool" label="Rlslog" default="true"/>
+                <setting id="provider.sceper" type="bool" label="Sceper" default="true"/>
+                <setting id="provider.scnlog" type="bool" label="Scnlog" default="true"/>
+                <setting id="provider.scnsrc" type="bool" label="Scnsrc" default="true"/>
+                <setting id="provider.scenedown" type="bool" label="Scenedown" default="true"/>
+                <setting id="provider.tvhd" type="bool" label="Tvhd" default="true"/>
+                <setting id="provider.tvrls" type="bool" label="Tvrls" default="true"/>
+                <setting id="provider.threemovies" type="bool" label="Threemovies" default="true"/>
+                <setting id="provider.tinydl" type="bool" label="Tinydl" default="true"/>
+                <setting id="provider.twoddl" type="bool" label="Twoddl" default="true"/>
+                <setting id="twoddl_base"  type="text" label=" - Base Url" default="http://best2ddl.net" visible="!eq(-1,false)"/>
+                <setting id="provider.wrzcraft" type="bool" label="Wrzcraft" default="true"/>-->
+        </category>
+        <category label="32347">
+                <setting id="downloads" type="bool" label="32348" default="false"/>
+                <setting type="lsep" label="NOTE: DOWNLOAD Context menu only works on DIRECTORY playback mode" visible="!eq(-1,false)"/>
+                <setting type="lsep" label="Make sure to switch the mode in the Playback Tab" visible="!eq(-2,false)"/>
+                <setting id="movie.download.path" type="folder" label="32349" enable="!eq(-2,false)" default=""/>
+                <setting id="tv.download.path" type="folder" label="32350" enable="!eq(-3,false)" default=""/>
+                <setting type="lsep" label="[CR]"/>
+                <setting type="lsep" label="32351"/>
+                <setting type="lsep" label="32352"/>
+        </category>
+        <category label="32353">
+                <setting id="subtitles" type="bool" label="32354" default="false"/>
+                <setting type="sep"/>
+                <setting id="subtitles.utf" type="bool" label="32355" enable="!eq(-2,false)" default="false"/>
+                <setting type="sep"/>
+                <setting id="subtitles.lang.1" type="select" label="32356" values="Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" enable="!eq(-4,false)" default="English"/>
+                <setting id="subtitles.lang.2" type="select" label="32357" values="Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" enable="!eq(-5,false)" default="English"/>
+                <setting type="lsep" label="[CR]"/>
+                <setting type="lsep" label="32358"/>
+                <setting type="lsep" label="32359"/>
+        </category>
+        <category id="general" label="Watchlist">
+                <setting id="remote_path" type="folder" label="Backup Location" visible="True"/>
+                <setting id="remote_restore_path" type="file" label="Restore from Zip File" visible="true"/>
+        </category>
+        <category id="general" label="Tmdb Movie Lists">
+                <setting type="lsep" label="List 1"/>
+                <setting id="tmdb.movielist_name1" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id1" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 2"/>
+                <setting id="tmdb.movielist_name2" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id2" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 3"/>
+                <setting id="tmdb.movielist_name3" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id3" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 4"/>
+                <setting id="tmdb.movielist_name4" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id4" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 5"/>
+                <setting id="tmdb.movielist_name5" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id5" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 6"/>
+                <setting id="tmdb.movielist_name6" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id6" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 7"/>
+                <setting id="tmdb.movielist_name7" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id7" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 8"/>
+                <setting id="tmdb.movielist_name8" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id8" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 9"/>
+                <setting id="tmdb.movielist_name9" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id9" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 10"/>
+                <setting id="tmdb.movielist_name10" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id10" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 11"/>
+                <setting id="tmdb.movielist_name11" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id11" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 12"/>
+                <setting id="tmdb.movielist_name12" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id12" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 13"/>
+                <setting id="tmdb.movielist_name13" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id13" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 14"/>
+                <setting id="tmdb.movielist_name14" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id14" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 15"/>
+                <setting id="tmdb.movielist_name15" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id15" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 16"/>
+                <setting id="tmdb.movielist_name16" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id16" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 17"/>
+                <setting id="tmdb.movielist_name17" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id17" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 18"/>
+                <setting id="tmdb.movielist_name18" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id18" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 19"/>
+                <setting id="tmdb.movielist_name19" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id19" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 20"/>
+                <setting id="tmdb.movielist_name20" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id20" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 21"/>
+                <setting id="tmdb.movielist_name21" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id21" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 22"/>
+                <setting id="tmdb.movielist_name22" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id22" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 23"/>
+                <setting id="tmdb.movielist_name23" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id23" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 24"/>
+                <setting id="tmdb.movielist_name24" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id24" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 25"/>
+                <setting id="tmdb.movielist_name25" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id25" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 26"/>
+                <setting id="tmdb.movielist_name26" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id26" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 27"/>
+                <setting id="tmdb.movielist_name27" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id27" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 28"/>
+                <setting id="tmdb.movielist_name28" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id28" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 29"/>
+                <setting id="tmdb.movielist_name29" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id29" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 30"/>
+                <setting id="tmdb.movielist_name30" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.movielist_id30" type="text" label="List ID" default="" visible="true"/>
+        </category>
+        <category id="general" label="Tmdb TV Lists">
+                <setting type="lsep" label="List 1"/>
+                <setting id="tmdb.tvlist_name1" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id1" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 2"/>
+                <setting id="tmdb.tvlist_name2" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id2" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 3"/>
+                <setting id="tmdb.tvlist_name3" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id3" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 4"/>
+                <setting id="tmdb.tvlist_name4" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id4" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 5"/>
+                <setting id="tmdb.tvlist_name5" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id5" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 6"/>
+                <setting id="tmdb.tvlist_name6" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id6" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 7"/>
+                <setting id="tmdb.tvlist_name7" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id7" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 8"/>
+                <setting id="tmdb.tvlist_name8" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id8" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 9"/>
+                <setting id="tmdb.tvlist_name9" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id9" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 10"/>
+                <setting id="tmdb.tvlist_name10" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id10" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 11"/>
+                <setting id="tmdb.tvlist_name11" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id11" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 12"/>
+                <setting id="tmdb.tvlist_name12" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id12" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 13"/>
+                <setting id="tmdb.tvlist_name13" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id13" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 14"/>
+                <setting id="tmdb.tvlist_name14" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id14" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 15"/>
+                <setting id="tmdb.tvlist_name15" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id15" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 16"/>
+                <setting id="tmdb.tvlist_name16" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id16" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 17"/>
+                <setting id="tmdb.tvlist_name17" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id17" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 18"/>
+                <setting id="tmdb.tvlist_name18" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id18" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 19"/>
+                <setting id="tmdb.tvlist_name19" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id19" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 20"/>
+                <setting id="tmdb.tvlist_name20" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id20" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 21"/>
+                <setting id="tmdb.tvlist_name21" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id21" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 22"/>
+                <setting id="tmdb.tvlist_name22" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id22" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 23"/>
+                <setting id="tmdb.tvlist_name23" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id23" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 24"/>
+                <setting id="tmdb.tvlist_name24" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id24" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 25"/>
+                <setting id="tmdb.tvlist_name25" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id25" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 26"/>
+                <setting id="tmdb.tvlist_name26" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id26" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 27"/>
+                <setting id="tmdb.tvlist_name27" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id27" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 28"/>
+                <setting id="tmdb.tvlist_name28" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id28" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 29"/>
+                <setting id="tmdb.tvlist_name29" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id29" type="text" label="List ID" default="" visible="true"/>
+                <setting type="lsep" label="List 30"/>
+                <setting id="tmdb.tvlist_name30" type="text" label="List Name" default="" visible="true"/>
+                <setting id="tmdb.tvlist_id30" type="text" label="List ID" default="" visible="true"/>
+        </category>
+</settings>

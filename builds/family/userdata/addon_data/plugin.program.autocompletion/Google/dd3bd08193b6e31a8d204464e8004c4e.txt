@@ -1,0 +1,1 @@
+["Fir", ["firefox", "firebase", "firefly", "f\u0131r\u0131n", "firebase console", "firuze", "firenze", "f\u0131r\u0131nda patates", "first man", "f\u0131r\u0131nda m\u00fccver"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

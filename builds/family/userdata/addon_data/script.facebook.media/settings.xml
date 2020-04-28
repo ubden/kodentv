@@ -1,0 +1,11 @@
+<settings>
+    <setting id="current_friend_name" value="" />
+    <setting id="current_nav_path" value="" />
+    <setting id="current_user_pic" value="facebook-media-icon-generic-user.png" />
+    <setting id="debug" value="false" />
+    <setting id="disable_auto_login" value="false" />
+    <setting id="last_item_name" value="OPTIONS" />
+    <setting id="photo_limit" value="200" />
+    <setting id="progress" value="" />
+    <setting id="slideshow_interval" value="5" />
+</settings>

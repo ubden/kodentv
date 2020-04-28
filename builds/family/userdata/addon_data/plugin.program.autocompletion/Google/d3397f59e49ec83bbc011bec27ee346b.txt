@@ -1,0 +1,1 @@
+["Crew Spor", ["crew sport", "crew sport socks", "crew sportswear", "crew sports shoes", "crew sports shorts", "crew sports basketball", "crew sport near me", "crew sport in spanish", "crew sport positions", "crew sports error"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

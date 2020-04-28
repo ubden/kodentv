@@ -1,0 +1,1 @@
+["[B]UK T", ["b toys uk", "btec uk", "b&q uk tools", "r&b uk top 40", "strep b uk test", "b&q trade uk", "group strep b test uk", "b tech uk", "b tempt'd uk", "b tight uk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

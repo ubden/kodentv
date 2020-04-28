@@ -1,0 +1,1 @@
+["[COLOR gold]UK-TU[/COLOR]", ["color gold uk-to /color "], [], {"google:suggesttype": [""]}]

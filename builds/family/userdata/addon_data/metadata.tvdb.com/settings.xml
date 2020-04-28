@@ -1,0 +1,11 @@
+<settings version="2">
+    <setting id="absolutenumber" default="true">false</setting>
+    <setting id="alsoimdb" default="true">false</setting>
+    <setting id="dvdorder" default="true">false</setting>
+    <setting id="fallback">true</setting>
+    <setting id="fallbacklanguage">tr</setting>
+    <setting id="fanart">true</setting>
+    <setting id="language">tr</setting>
+    <setting id="RatingS">IMDb</setting>
+    <setting id="usefallbacklanguage1">true</setting>
+</settings>

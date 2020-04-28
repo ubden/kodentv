@@ -1,0 +1,1 @@
+["Popule", ["populerdizi", "pop\u00fcler diziler", "pop\u00fcler kitaplar", "pop\u00fcler oyunlar", "pop\u00fcler k\u00fclt\u00fcr", "pop\u00fcler bilim", "populele", "populele 2", "pop\u00fcler erkek isimleri", "populizm"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

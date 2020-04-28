@@ -1,0 +1,1 @@
+["[B]Ca", ["b caddesi", "b caddesi 50. y\u0131l mahallesi sultangazi/istanbul", "b cardi", "b cables", "b carotene", "b catenin", "b capital group", "b cafe", "b cafe izmir", "b car tuning"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

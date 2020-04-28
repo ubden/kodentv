@@ -1,0 +1,1 @@
+["San", ["sans topu", "san sebastian tarif", "sanal \u00e7ad\u0131r", "sansar", "sandalye", "sanalika", "sanal m\u00fcze", "sanal market", "sanal ma\u011faza", "sansar salvo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

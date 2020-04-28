@@ -1,0 +1,1 @@
+["U", ["u\u00e7ak bileti", "ubis", "udemy", "unorthodox", "un helvas\u0131", "ufka yolculuk", "un kurabiyesi", "ups kargo", "uzem", "uzaktan e\u011fitim"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

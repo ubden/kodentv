@@ -1,0 +1,1 @@
+["Tem", ["temizmama", "temel ihtiya\u00e7 kredisi", "tempobet", "temass\u0131z ate\u015f \u00f6l\u00e7er", "temp mail", "temel ihtiya\u00e7 kredi ba\u015fvurusu", "tema", "tembel hayvan", "temel reis", "tema istanbul"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

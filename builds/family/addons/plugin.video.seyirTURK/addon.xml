@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.seyirTURK"
+       name="seyirTURK"
+       version="3.3.3"
+       provider-name="tengildet@seyirTURK">
+  <requires>
+    <import addon="xbmc.python" version="2.23.0"/>
+	  </requires>
+  <extension point="xbmc.python.pluginsource" provides="video" library="seyirTURK.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary>seyirTURK - Tam sürüm</summary>
+    <description>Online Video Browser [CR]Forum: https://seyirturk.tk/forum [CR]Websitesi: https://seyirturk.tk</description>
+    <platform>all</platform>
+    <license>@</license>
+    <forum>https://seyirturk.tk/forum</forum>
+    <website>https://seyirturk.tk</website>
+    <email>tengildet@seyirturk.tk</email>
+  </extension>
+
+
+</addon>

@@ -1,0 +1,1 @@
+["URAN", ["uran\u00fcs", "uranyum", "uranium pc", "uranus otel", "uranium", "uran holding", "uran\u00fcs kova", "uranyen astroloji", "uranus hotels", "uran\u00fcs gezegeni"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

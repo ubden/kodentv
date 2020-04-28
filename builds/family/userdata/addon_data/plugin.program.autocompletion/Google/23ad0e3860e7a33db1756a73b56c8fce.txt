@@ -1,0 +1,1 @@
+["Pa", ["parasite", "pandora", "pa\u015fabah\u00e7e", "pankek tarifi", "pamukkale", "passo", "paypal", "parazit", "pakistan", "papa johns"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

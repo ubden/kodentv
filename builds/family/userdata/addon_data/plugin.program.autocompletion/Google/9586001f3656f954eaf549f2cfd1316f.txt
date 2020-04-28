@@ -1,0 +1,1 @@
+["[COLOR red]4K", ["red color 4k wallpapers", "red color 4k wallpaper", "red color 4k", "red color 4k background"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

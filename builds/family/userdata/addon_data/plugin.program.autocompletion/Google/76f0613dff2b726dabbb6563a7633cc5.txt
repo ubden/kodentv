@@ -1,0 +1,1 @@
+["[COLOR aq", ["color iq test", "color iq chart", "color iq test sephora", "color iq test makeup", "color iqc user manual", "color iq number", "color iq sephora app", "color iq 2y06", "color iq sephora review", "color iq 2y08"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

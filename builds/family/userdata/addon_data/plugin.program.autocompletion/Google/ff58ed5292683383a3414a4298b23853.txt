@@ -1,0 +1,1 @@
+["\u015fO", ["\u015fok", "\u015fok akt\u00fcel", "\u015fokopop", "\u015fofben", "\u015fok \u00e7al\u0131\u015fma saatleri", "\u015foray uzun", "\u015fort", "\u015fok diyet", "\u015fof\u00f6r tdk", "\u015fok hisse"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

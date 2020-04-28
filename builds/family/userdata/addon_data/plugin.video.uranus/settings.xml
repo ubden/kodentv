@@ -1,0 +1,165 @@
+<settings version="2">
+    <setting id="alluc_debrid" default="true">false</setting>
+    <setting id="alluc_max_results">100</setting>
+    <setting id="alluc_password" default="true"></setting>
+    <setting id="alluc_username" default="true"></setting>
+    <setting id="appearance.1" default="true">Default</setting>
+    <setting id="appearance.alt" default="true"></setting>
+    <setting id="autoplay.sd" default="true">false</setting>
+    <setting id="bookmarks">true</setting>
+    <setting id="cachesources">true</setting>
+    <setting id="calendar_watching" default="true">false</setting>
+    <setting id="debridsources" default="true">false</setting>
+    <setting id="downloads" default="true">false</setting>
+    <setting id="enable_alluc" default="true">false</setting>
+    <setting id="episodes_colours" default="true">0</setting>
+    <setting id="episodes_notaired">true</setting>
+    <setting id="fanart">true</setting>
+    <setting id="hosts.captcha">true</setting>
+    <setting id="hosts.mode">4</setting>
+    <setting id="hosts.quality" default="true">0</setting>
+    <setting id="hosts.sort.provider" default="true">false</setting>
+    <setting id="indicators" default="true">0</setting>
+    <setting id="indicators.alt">1</setting>
+    <setting id="inprogress_db">true</setting>
+    <setting id="inprogress_limit">100</setting>
+    <setting id="local.watched">true</setting>
+    <setting id="movie.download.path" default="true"></setting>
+    <setting id="movie.widget">2</setting>
+    <setting id="nanscraper" default="true"></setting>
+    <setting id="progress.dialog" default="true">0</setting>
+    <setting id="remote_path" default="true"></setting>
+    <setting id="remote_restore_path" default="true"></setting>
+    <setting id="resolveurl" default="true"></setting>
+    <setting id="scrapers.timeout.1">45</setting>
+    <setting id="show_specials" default="true">false</setting>
+    <setting id="subtitles">true</setting>
+    <setting id="subtitles.lang.1">Turkish</setting>
+    <setting id="subtitles.lang.2">Turkish</setting>
+    <setting id="subtitles.utf">true</setting>
+    <setting id="tmdb.movielist_id1" default="true"></setting>
+    <setting id="tmdb.movielist_id10" default="true"></setting>
+    <setting id="tmdb.movielist_id11" default="true"></setting>
+    <setting id="tmdb.movielist_id12" default="true"></setting>
+    <setting id="tmdb.movielist_id13" default="true"></setting>
+    <setting id="tmdb.movielist_id14" default="true"></setting>
+    <setting id="tmdb.movielist_id15" default="true"></setting>
+    <setting id="tmdb.movielist_id16" default="true"></setting>
+    <setting id="tmdb.movielist_id17" default="true"></setting>
+    <setting id="tmdb.movielist_id18" default="true"></setting>
+    <setting id="tmdb.movielist_id19" default="true"></setting>
+    <setting id="tmdb.movielist_id2" default="true"></setting>
+    <setting id="tmdb.movielist_id20" default="true"></setting>
+    <setting id="tmdb.movielist_id21" default="true"></setting>
+    <setting id="tmdb.movielist_id22" default="true"></setting>
+    <setting id="tmdb.movielist_id23" default="true"></setting>
+    <setting id="tmdb.movielist_id24" default="true"></setting>
+    <setting id="tmdb.movielist_id25" default="true"></setting>
+    <setting id="tmdb.movielist_id26" default="true"></setting>
+    <setting id="tmdb.movielist_id27" default="true"></setting>
+    <setting id="tmdb.movielist_id28" default="true"></setting>
+    <setting id="tmdb.movielist_id29" default="true"></setting>
+    <setting id="tmdb.movielist_id3" default="true"></setting>
+    <setting id="tmdb.movielist_id30" default="true"></setting>
+    <setting id="tmdb.movielist_id4" default="true"></setting>
+    <setting id="tmdb.movielist_id5" default="true"></setting>
+    <setting id="tmdb.movielist_id6" default="true"></setting>
+    <setting id="tmdb.movielist_id7" default="true"></setting>
+    <setting id="tmdb.movielist_id8" default="true"></setting>
+    <setting id="tmdb.movielist_id9" default="true"></setting>
+    <setting id="tmdb.movielist_name1" default="true"></setting>
+    <setting id="tmdb.movielist_name10" default="true"></setting>
+    <setting id="tmdb.movielist_name11" default="true"></setting>
+    <setting id="tmdb.movielist_name12" default="true"></setting>
+    <setting id="tmdb.movielist_name13" default="true"></setting>
+    <setting id="tmdb.movielist_name14" default="true"></setting>
+    <setting id="tmdb.movielist_name15" default="true"></setting>
+    <setting id="tmdb.movielist_name16" default="true"></setting>
+    <setting id="tmdb.movielist_name17" default="true"></setting>
+    <setting id="tmdb.movielist_name18" default="true"></setting>
+    <setting id="tmdb.movielist_name19" default="true"></setting>
+    <setting id="tmdb.movielist_name2" default="true"></setting>
+    <setting id="tmdb.movielist_name20" default="true"></setting>
+    <setting id="tmdb.movielist_name21" default="true"></setting>
+    <setting id="tmdb.movielist_name22" default="true"></setting>
+    <setting id="tmdb.movielist_name23" default="true"></setting>
+    <setting id="tmdb.movielist_name24" default="true"></setting>
+    <setting id="tmdb.movielist_name25" default="true"></setting>
+    <setting id="tmdb.movielist_name26" default="true"></setting>
+    <setting id="tmdb.movielist_name27" default="true"></setting>
+    <setting id="tmdb.movielist_name28" default="true"></setting>
+    <setting id="tmdb.movielist_name29" default="true"></setting>
+    <setting id="tmdb.movielist_name3" default="true"></setting>
+    <setting id="tmdb.movielist_name30" default="true"></setting>
+    <setting id="tmdb.movielist_name4" default="true"></setting>
+    <setting id="tmdb.movielist_name5" default="true"></setting>
+    <setting id="tmdb.movielist_name6" default="true"></setting>
+    <setting id="tmdb.movielist_name7" default="true"></setting>
+    <setting id="tmdb.movielist_name8" default="true"></setting>
+    <setting id="tmdb.movielist_name9" default="true"></setting>
+    <setting id="tmdb.tvlist_id1" default="true"></setting>
+    <setting id="tmdb.tvlist_id10" default="true"></setting>
+    <setting id="tmdb.tvlist_id11" default="true"></setting>
+    <setting id="tmdb.tvlist_id12" default="true"></setting>
+    <setting id="tmdb.tvlist_id13" default="true"></setting>
+    <setting id="tmdb.tvlist_id14" default="true"></setting>
+    <setting id="tmdb.tvlist_id15" default="true"></setting>
+    <setting id="tmdb.tvlist_id16" default="true"></setting>
+    <setting id="tmdb.tvlist_id17" default="true"></setting>
+    <setting id="tmdb.tvlist_id18" default="true"></setting>
+    <setting id="tmdb.tvlist_id19" default="true"></setting>
+    <setting id="tmdb.tvlist_id2" default="true"></setting>
+    <setting id="tmdb.tvlist_id20" default="true"></setting>
+    <setting id="tmdb.tvlist_id21" default="true"></setting>
+    <setting id="tmdb.tvlist_id22" default="true"></setting>
+    <setting id="tmdb.tvlist_id23" default="true"></setting>
+    <setting id="tmdb.tvlist_id24" default="true"></setting>
+    <setting id="tmdb.tvlist_id25" default="true"></setting>
+    <setting id="tmdb.tvlist_id26" default="true"></setting>
+    <setting id="tmdb.tvlist_id27" default="true"></setting>
+    <setting id="tmdb.tvlist_id28" default="true"></setting>
+    <setting id="tmdb.tvlist_id29" default="true"></setting>
+    <setting id="tmdb.tvlist_id3" default="true"></setting>
+    <setting id="tmdb.tvlist_id30" default="true"></setting>
+    <setting id="tmdb.tvlist_id4" default="true"></setting>
+    <setting id="tmdb.tvlist_id5" default="true"></setting>
+    <setting id="tmdb.tvlist_id6" default="true"></setting>
+    <setting id="tmdb.tvlist_id7" default="true"></setting>
+    <setting id="tmdb.tvlist_id8" default="true"></setting>
+    <setting id="tmdb.tvlist_id9" default="true"></setting>
+    <setting id="tmdb.tvlist_name1" default="true"></setting>
+    <setting id="tmdb.tvlist_name10" default="true"></setting>
+    <setting id="tmdb.tvlist_name11" default="true"></setting>
+    <setting id="tmdb.tvlist_name12" default="true"></setting>
+    <setting id="tmdb.tvlist_name13" default="true"></setting>
+    <setting id="tmdb.tvlist_name14" default="true"></setting>
+    <setting id="tmdb.tvlist_name15" default="true"></setting>
+    <setting id="tmdb.tvlist_name16" default="true"></setting>
+    <setting id="tmdb.tvlist_name17" default="true"></setting>
+    <setting id="tmdb.tvlist_name18" default="true"></setting>
+    <setting id="tmdb.tvlist_name19" default="true"></setting>
+    <setting id="tmdb.tvlist_name2" default="true"></setting>
+    <setting id="tmdb.tvlist_name20" default="true"></setting>
+    <setting id="tmdb.tvlist_name21" default="true"></setting>
+    <setting id="tmdb.tvlist_name22" default="true"></setting>
+    <setting id="tmdb.tvlist_name23" default="true"></setting>
+    <setting id="tmdb.tvlist_name24" default="true"></setting>
+    <setting id="tmdb.tvlist_name25" default="true"></setting>
+    <setting id="tmdb.tvlist_name26" default="true"></setting>
+    <setting id="tmdb.tvlist_name27" default="true"></setting>
+    <setting id="tmdb.tvlist_name28" default="true"></setting>
+    <setting id="tmdb.tvlist_name29" default="true"></setting>
+    <setting id="tmdb.tvlist_name3" default="true"></setting>
+    <setting id="tmdb.tvlist_name30" default="true"></setting>
+    <setting id="tmdb.tvlist_name4" default="true"></setting>
+    <setting id="tmdb.tvlist_name5" default="true"></setting>
+    <setting id="tmdb.tvlist_name6" default="true"></setting>
+    <setting id="tmdb.tvlist_name7" default="true"></setting>
+    <setting id="tmdb.tvlist_name8" default="true"></setting>
+    <setting id="tmdb.tvlist_name9" default="true"></setting>
+    <setting id="tmdb_apikey" default="true"></setting>
+    <setting id="trakt.refresh" default="true"></setting>
+    <setting id="trakt.token" default="true"></setting>
+    <setting id="trakt.user" default="true"></setting>
+    <setting id="tv.download.path" default="true"></setting>
+</settings>

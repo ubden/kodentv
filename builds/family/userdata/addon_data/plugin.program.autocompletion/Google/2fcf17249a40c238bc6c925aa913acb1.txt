@@ -1,0 +1,1 @@
+["TR D\u0130Z\u0130LE", ["tr dizileri", "tr diziler", "tr dizileri izle", "fox tr diziler", "show tr diziler", "startv.com.tr diziler", "fox tv tr diziler", "atv tv tr diziler", "atv tr diziler", "tr 1 dizileri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

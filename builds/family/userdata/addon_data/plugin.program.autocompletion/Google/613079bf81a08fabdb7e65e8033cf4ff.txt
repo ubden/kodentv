@@ -1,0 +1,1 @@
+["TurkVod Fi", ["turkvod film arama", "turkvod film indirme", "turkvod filmler a\u00e7\u0131lm\u0131yor", "turkvod film", "turkvod film izle", "turkvod fire tv stick", "turkvod fire tv stick 2018", "turkvod fire tv", "turkvod fix", "turkvod fire stick"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

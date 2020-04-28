@@ -1,0 +1,1 @@
+["Indigo", ["indigo", "indigo rengi", "indigo mavisi", "indigo renk", "indigo kitap", "indigo kristal ne demek", "indigo nedir", "indigo tak\u0131", "indigo dergisi", "indigo child"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

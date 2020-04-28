@@ -1,0 +1,81 @@
+<xml>
+
+<dir>
+<title>In Theater Movies, Now Playing (Top Max Count)</title>
+<imdburl>https://www.imdb.com/search/title?title_type=feature&release_date=2018-01-30,2020-12-30&groups=now-playing-us&languages=en&sort=alpha,asc&count=100</imdburl>
+</dir>
+
+
+<dir>
+<title>New Releases Movies (Top 100)</title>
+<imdburl>http://www.imdb.com/search/title?title_type=feature&&count=100</imdburl>
+</dir>
+
+<dir>
+<title>Trending Movies (Top 100)</title>
+<imdburl>chart/moviemeter</imdburl>
+</dir>
+
+<dir>
+<title>Top Rated</title>
+<tmdb>movies/top_rated</tmdb>
+<summary>Top Rated TMDB Movies</summary>
+</dir>
+
+<dir>
+<title>Most Voted Movies</title>
+<imdburl>chart/top</imdburl>
+</dir>
+
+<dir>
+<title>Movies By Cities</title>
+<link>file://movies.cities.xml</link>
+</dir>
+
+<dir>
+<title>Actors</title>
+<link>file://people.xml</link>
+<summary>Actors</summary>
+</dir>
+
+<dir>
+<title>Movies Genres</title>
+<link>file://movies.genre.xml</link>
+</dir>
+
+<dir>
+<title>Movies Years</title>
+<link>file://movie.years.xml</link>
+</dir>
+
+<dir>
+<title>Upcoming Movies</title>
+<tmdb>movie/upcoming</tmdb>
+<summary>Shows Trailers For Upcoming Movies</summary>
+</dir>
+
+<dir>
+<title>Oscar-Award for Best Picture (Top Max Count)</title>
+<imdburl>https://www.imdb.com/search/title?title_type=feature&groups=best_picture_winner&languages=en&sort=year,desc&count=100</imdburl>
+</dir>
+
+<dir>
+<title>Oscar-Nominated for Best Picture (Top 250)</title>
+<imdburl>https://www.imdb.com/search/title?title_type=feature&groups=oscar_nominee&languages=en&sort=year,desc&count=250</imdburl>
+</dir>
+
+<dir>
+<title>National Film Board Preserved 1918 to 1954</title>
+<imdburl>https://www.imdb.com/search/title?title_type=feature&release_date=1918-01-01,1954-12-31&user_rating=1.0,10.0&groups=national_film_preservation_board_winner&languages=en&adult=include&sort=year,desc&count=250</imdburl>
+</dir>
+
+<dir>
+<title>National Film Board Preserved 1955 to 2019</title>
+<imdburl>https://www.imdb.com/search/title?title_type=feature&release_date=1955-01-01,2019-12-31&user_rating=1.0,10.0&groups=national_film_preservation_board_winner&languages=en&adult=include&sort=year,desc&count=250</imdburl>
+</dir>
+
+<item>
+<title>**********************************</title>
+</item>
+
+</xml>

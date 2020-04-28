@@ -1,0 +1,1 @@
+["[B]G", ["b good maske", "b good", "b g store", "b good dezenfektan", "b glukan", "b g", "b guitar chord", "b good antiseptik", "b gata h kei", "b grubu vitaminleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

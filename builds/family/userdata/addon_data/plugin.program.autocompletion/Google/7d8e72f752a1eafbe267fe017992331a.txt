@@ -1,0 +1,1 @@
+["[COLOR red]4", ["color red 40", "color red 40 lake", "color red 40 ingredients", "color red 40 vegan", "color red 40 halal", "red color 4k wallpapers", "red color 4k wallpaper", "red color 4k", "food color red 40", "color red bootstrap 4"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

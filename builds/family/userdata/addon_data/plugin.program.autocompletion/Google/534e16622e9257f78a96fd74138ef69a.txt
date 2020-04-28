@@ -1,0 +1,1 @@
+["SON", ["son dakika", "son dakika deprem", "son dakika corona", "son deprem", "sonic", "sony", "sonoyuncu", "son haber", "soner yal\u00e7\u0131n", "son dakika s\u00f6zc\u00fc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

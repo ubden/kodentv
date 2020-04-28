@@ -1,0 +1,1 @@
+["yes", ["yes", "yesterday", "yes man", "yesterday lyrics", "yesstyle", "ye\u015filk\u00f6y", "yesillimon", "yes or no", "ye\u015fil mercimek yeme\u011fi", "yesen burger"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

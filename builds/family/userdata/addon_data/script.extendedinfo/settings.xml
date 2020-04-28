@@ -1,0 +1,45 @@
+<settings version="2">
+    <setting id="AddOrPlayMovie" default="true">play</setting>
+    <setting id="AddOrPlayTVShow" default="true">play</setting>
+    <setting id="alt_browser_layout">true</setting>
+    <setting id="AlternateAddonMovie" default="true">iSTREAM</setting>
+    <setting id="AlternateAddonTVShow" default="true">iSTREAM</setting>
+    <setting id="AutoAddMovie" default="true">false</setting>
+    <setting id="AutoAddTVShow" default="true">false</setting>
+    <setting id="autocomplete_lang" default="true">en</setting>
+    <setting id="autocomplete_lang_local" default="true">en</setting>
+    <setting id="autocomplete_provider" default="true">youtube</setting>
+    <setting id="autoplay_trailer">true</setting>
+    <setting id="AutoPlayAlternateMovie" default="true">true</setting>
+    <setting id="AutoPlayAlternateTVShow" default="true">true</setting>
+    <setting id="changelog_version" default="true">5.0.4</setting>
+    <setting id="classic_search" default="true">true</setting>
+    <setting id="colormain" default="true">bb000000</setting>
+    <setting id="colorthemed" default="true">ff0084ff</setting>
+    <setting id="CustomIsearchMovie" default="true">true</setting>
+    <setting id="CustomIsearchShow" default="true">true</setting>
+    <setting id="ExtendedYoutubeMovie" default="true">true</setting>
+    <setting id="ExtendedYoutubeShow" default="true">true</setting>
+    <setting id="fav_thumb" default="true">true</setting>
+    <setting id="first_start_infodialog" default="true">True</setting>
+    <setting id="force_native_layout" default="true">false</setting>
+    <setting id="include_adults">true</setting>
+    <setting id="infodialog_onclick" default="true">true</setting>
+    <setting id="LanguageID">tr</setting>
+    <setting id="LibraryAddonMovie" default="true">SALTS</setting>
+    <setting id="LibraryAddonTVShow" default="true">SALTS</setting>
+    <setting id="MainAddonMovie" default="true">Exodus</setting>
+    <setting id="MainAddonTVShow" default="true">Exodus</setting>
+    <setting id="netflix_view" default="true">false</setting>
+    <setting id="player_main_movie" default="true">library</setting>
+    <setting id="player_main_tv" default="true">library</setting>
+    <setting id="plugin_script" default="true">false</setting>
+    <setting id="PulsarModeMovie" default="true">play</setting>
+    <setting id="PulsarModeTVShow" default="true">play</setting>
+    <setting id="resume" default="true">true</setting>
+    <setting id="tmdb_api" default="true"></setting>
+    <setting id="tmdb_password" default="true"></setting>
+    <setting id="tmdb_username" default="true"></setting>
+    <setting id="viewtype_selection" default="true">500</setting>
+    <setting id="window_mode" default="true">false</setting>
+</settings>

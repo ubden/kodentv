@@ -1,0 +1,1 @@
+["Belgesel", ["belgesel izle", "belgesel", "belgeseller", "belgesel ingilizce", "belgesel kanallar\u0131", "belgesel \u00f6nerileri", "belgesel t\u00fcrleri", "belgesel foto\u011fraf\u00e7\u0131l\u0131\u011f\u0131", "belgesel film", "belgesel ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

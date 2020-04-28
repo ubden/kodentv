@@ -1,0 +1,1 @@
+["I", ["instagram", "i\u015fkur", "ikea", "imsakiye", "imsak", "i\u015f bankas\u0131", "iphone 11", "iftar men\u00fcs\u00fc", "imsakiye istanbul 2020", "itopya"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

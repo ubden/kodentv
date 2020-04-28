@@ -1,0 +1,26 @@
+<settings>
+    <setting id="accache" value="true" />
+    <setting id="accrash" value="true" />
+    <setting id="acpackages" value="true" />
+    <setting id="acstartup" value="true" />
+    <setting id="acthumbs" value="false" />
+    <setting id="addon_debug" value="false" />
+    <setting id="api_interval" value="0" />
+    <setting id="cachemb" value="0" />
+    <setting id="checkaddonupdates" value="true" />
+    <setting id="checkupdates" value="true" />
+    <setting id="clearday" value="0" />
+    <setting id="email" value="" />
+    <setting id="email_prompt" value="false" />
+    <setting id="enable_dropbox" value="false" />
+    <setting id="enable_pastebin" value="true" />
+    <setting id="enable_tvaddons" value="false" />
+    <setting id="enable_ubuntu" value="false" />
+    <setting id="include_old" value="true" />
+    <setting id="maint_check_folders" value="true" />
+    <setting id="maint_check_log" value="true" />
+    <setting id="packagesmb" value="0" />
+    <setting id="startupsize" value="true" />
+    <setting id="thumbsmb" value="3" />
+    <setting id="zip" value="special://home/backupdir" />
+</settings>

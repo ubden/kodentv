@@ -1,0 +1,1 @@
+["Bay", ["bayi toplant\u0131s\u0131", "bayrampa\u015fa", "bayram 2020", "bayburt", "bayi toplant\u0131s\u0131 izle", "bayramo\u011flu d\u00f6ner", "baykar", "bayraklar", "bayern", "bayer"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

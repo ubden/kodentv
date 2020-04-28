@@ -1,0 +1,1 @@
+["[COLOR aqu", ["color aqua", "color aquamarine", "color aqua blue", "color aquatint", "color aqua in spanish", "color aqua meaning", "color aquarium", "color aquarius", "color aqua en ingles", "color aguamarina"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

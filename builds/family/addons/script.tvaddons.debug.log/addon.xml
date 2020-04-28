@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.tvaddons.debug.log" name="TVA Log Uploader" version="1.0.9" provider-name="tvaddons.co">
+    <requires>
+        <import addon="xbmc.python" version="2.20.0"/>
+    </requires>
+    <extension point="xbmc.python.script" library="default.py">
+        <provides>executable</provides>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary lang="en">Upload Debug Logs to Shareable Location</summary>
+        <description lang="en">This add-on gives you the ability to upload your Kodi error logs to a shareable location, and can also optionally email you the link to your logs. Before you get started, be sure to Toggle ON the “Enable debug logging” function under the SYSTEM -> Settings -> System -> Logging menu within Kodi.</description>
+        <language></language>
+        <platform>all</platform>
+        <website>https://www.tvaddons.co/</website>
+        <source>https://github.com/tknorris/script.tvaddons.debug.log</source>
+        <forum>https://forums.tvaddons.co/maintenance-tool/</forum>
+    </extension>
+</addon>

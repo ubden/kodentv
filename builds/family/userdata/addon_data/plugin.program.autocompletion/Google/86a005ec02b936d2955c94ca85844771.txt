@@ -1,0 +1,1 @@
+["[TANITIM M", ["tan\u0131t\u0131m maili", "tan\u0131t\u0131m m\u00fczikleri", "tan\u0131t\u0131m m\u00fczi\u011fi", "tan\u0131t\u0131m mektubu", "tan\u0131t\u0131m meb gov tr", "tanitim meb", "tanitim metin2turkuaz net", "tanitim meb com tr", "tanitim meb.gov.tr"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="32616">
+        <setting label="Debugger of Errors" type="lsep" />
+        <setting id="addon_debug" type="bool" label="Enable Debug" default="false" />
+        <setting id="debug.location" type="enum" label="32617" lvalues="32618|32619" default="0" />
+    </category>
+</settings>

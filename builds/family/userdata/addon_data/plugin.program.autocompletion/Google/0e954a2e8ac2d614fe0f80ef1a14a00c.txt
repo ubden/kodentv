@@ -1,0 +1,1 @@
+["Bet", ["bets10", "bet\u00fcl \u00e7akmak", "bet365", "better call saul", "bet\u00fcl \u00e7akmak ya\u015f", "betebet", "betimleme nedir", "beta", "beta glukan", "betaserc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

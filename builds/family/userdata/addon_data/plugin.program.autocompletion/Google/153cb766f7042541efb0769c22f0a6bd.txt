@@ -1,0 +1,1 @@
+[".adg", [".adgjmptw", ".adgjm", ".adgj", "adguard chrome", "adguard reklam engelleyici", "adguard premium apk", "adguard opera", "adguard dns", "adguard premium", "adguard apk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

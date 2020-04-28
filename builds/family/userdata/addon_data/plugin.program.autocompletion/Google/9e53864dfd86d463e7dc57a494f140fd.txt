@@ -1,0 +1,1 @@
+["Ulus", ["ulus 29", "ulusal tez merkezi", "ulusoy", "ulus cafe", "ulus baker", "ulusal ajans", "uluslararas\u0131 ili\u015fkiler", "uluslar\u0131n d\u00fc\u015f\u00fc\u015f\u00fc", "ulusal kanal", "ulus park"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

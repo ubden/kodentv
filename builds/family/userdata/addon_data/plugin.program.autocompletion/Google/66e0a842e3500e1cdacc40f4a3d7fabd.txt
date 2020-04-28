@@ -1,0 +1,1 @@
+["[COLOR gold]UTR YERL\u0130 D\u0130Z\u0130LE[/COLOR]", ["color gold utr yerli dizile /color izle"], [], {"google:suggesttype": ["TAIL"]}]

@@ -1,0 +1,1 @@
+["BAKIM ARA\u00c7LARI", ["bak\u0131m arabas\u0131"], [], {"google:fieldtrialtriggered": true, "google:suggesttype": ["QUERY"]}]

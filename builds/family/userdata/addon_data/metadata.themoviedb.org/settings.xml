@@ -1,0 +1,10 @@
+<settings version="2">
+    <setting id="certprefix" default="true">Rated </setting>
+    <setting id="fanart">true</setting>
+    <setting id="imdbanyway">true</setting>
+    <setting id="keeporiginaltitle" default="true">false</setting>
+    <setting id="language">tr</setting>
+    <setting id="RatingS" default="true">TMDb</setting>
+    <setting id="tmdbcertcountry">tr</setting>
+    <setting id="trailer">true</setting>
+</settings>

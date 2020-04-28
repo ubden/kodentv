@@ -1,0 +1,1 @@
+["Sety", ["sety g\u00fcvenlik", "setyap in\u015faat", "sedye", "setyol", "sett r\u00fcn", "setyap\u0131", "sety \u00f6zel g\u00fcvenlik hizmetleri limited \u015firketi", "setyap in\u015faat ankara", "setur", "set yaz\u0131l\u0131m"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

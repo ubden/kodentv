@@ -1,0 +1,1 @@
+["Yer", ["yerebatan sarn\u0131c\u0131", "yer elmas\u0131", "yeralt\u0131ndan notlar", "yer f\u0131st\u0131\u011f\u0131", "yer minderi", "yerli komedi filmleri", "yersinia pestis", "yerli otomobil", "yerine sevemem", "yery\u00fcz\u00fc doktorlar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

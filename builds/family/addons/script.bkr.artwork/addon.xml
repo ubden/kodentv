@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.bkr.artwork" version="2018.04.02" name="BoxsetKings Artwork" provider-name="[B][COLOR gold][Brackets][/COLOR][/B]">
+	<requires>
+		<import addon="xbmc.python" version="2.19.0"/>
+	</requires>
+	<extension point="xbmc.python.script" library="default.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary>Themes for BoxsetKings Reborn</summary>
+		<platform>all</platform>
+        <assets>
+	      <icon>icon.png</icon>
+		</assets>		
+	</extension>
+</addon>

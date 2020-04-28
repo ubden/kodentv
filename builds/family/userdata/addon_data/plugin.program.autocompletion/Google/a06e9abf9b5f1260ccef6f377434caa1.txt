@@ -1,0 +1,1 @@
+["Cook", ["cookie tarifi", "cookie", "cooking", "cooker", "cookplus", "cookie clicker", "cookie monster", "cookshop men\u00fc", "cook", "cookie dough"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

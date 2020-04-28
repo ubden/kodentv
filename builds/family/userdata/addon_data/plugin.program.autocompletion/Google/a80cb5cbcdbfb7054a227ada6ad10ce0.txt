@@ -1,0 +1,1 @@
+["[B]G\u00dc\u00c7[/B]", ["b power bakugan", "b power board", "power bank b&m", "bradwell b power station", "b&b power", "busy b power washing", "b&b power sports", "b&b power equipment", "b&b power washing", "power bowl b good"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

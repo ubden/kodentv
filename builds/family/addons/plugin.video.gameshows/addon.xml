@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.gameshows" name="Game Shows" version="1.0" provider-name="somethingelsepromotions">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.addon.common" version="2.0.0"/>
+    <import addon="plugin.video.youtube" version="5.1.19"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+    <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Game Shows</summary>
+    <description lang="en">Game Shows, Quiz shows - new and old - from around the world.</description>
+    <platform>all</platform>
+  </extension>
+</addon>

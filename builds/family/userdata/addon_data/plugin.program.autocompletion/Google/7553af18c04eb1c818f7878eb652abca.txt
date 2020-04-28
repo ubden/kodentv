@@ -1,0 +1,1 @@
+["Temptestr", ["tempestria", "oakton tempest"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

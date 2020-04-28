@@ -1,0 +1,1 @@
+["Sceub", ["scrubs", "scrub", "stubhub", "scrubs izle", "scrubber", "scrubhub", "scrubs ne demek", "scrubs al", "scrubs dizi", "scrubs nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

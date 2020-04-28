@@ -1,0 +1,1 @@
+["Yeni Fi(IMDb)", ["yeni hayat filmi imdb", "yeni ahit filmi imdb", "yeni ba\u015ftan filmi imdb"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

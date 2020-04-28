@@ -1,0 +1,1 @@
+["VER", ["vergi dairesi", "vertigo nedir", "vertigo", "versace", "vergi borcu \u00f6deme", "vergi aff\u0131", "versace eros", "vermidon", "verem sava\u015f", "verem"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

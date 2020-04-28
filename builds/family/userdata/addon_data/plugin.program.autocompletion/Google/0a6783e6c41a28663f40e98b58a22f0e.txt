@@ -1,0 +1,1 @@
+["M", ["maps", "mango", "media markt", "minecraft", "mail", "microsoft teams", "massimo dutti", "margot robbie", "mcdonalds", "mercedes"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

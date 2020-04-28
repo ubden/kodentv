@@ -1,0 +1,1 @@
+["[TANIT", ["tanita", "tanita tikaram", "tanita tart\u0131", "tanita bc 730", "tanita bask\u00fcl", "tanit phoenix", "tanita bc 601", "tanita mc 780", "tanita bc 418", "tanita tikaram lens"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

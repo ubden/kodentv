@@ -1,0 +1,1 @@
+["Paketler", ["paketleri", "paketler t\u00fcrk telekom", "paketler turkcell", "paketler vodafone", "paketler turkcell faturasiz", "paketleri turkcell", "paketler vodafone faturas\u0131z", "paketler kktcell", "paketler telekom", "paketler bimcell"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

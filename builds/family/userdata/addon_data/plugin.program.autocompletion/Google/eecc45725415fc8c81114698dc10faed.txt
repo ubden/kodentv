@@ -1,0 +1,1 @@
+["Log", ["logitech", "logo", "logo maker", "logitech g29", "logitech mouse", "logan paul", "logitech g300s", "logic", "logitech gaming software", "logic pro x"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

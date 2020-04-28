@@ -1,0 +1,1 @@
+["Spor Wi", ["spor wikipedia", "spor wix", "spor wikiwand", "spor win", "bein sports", "sports with do", "sports with x", "sports with a net", "sports wikipedia", "sports william hill"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

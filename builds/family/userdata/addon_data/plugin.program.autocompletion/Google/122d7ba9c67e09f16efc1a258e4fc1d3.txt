@@ -1,0 +1,1 @@
+["Ubden", ["ubden", "ub dental", "undeniable", "ub dental clinic", "ub dentistry", "ub dental intranet", "ub dental academic calendar", "ub dental school tuition", "ub dental school requirements", "ub dental emergency"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

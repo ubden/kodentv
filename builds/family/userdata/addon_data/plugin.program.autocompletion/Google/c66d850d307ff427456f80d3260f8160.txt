@@ -1,0 +1,1 @@
+["REMS", ["remsima", "remsa mayo", "remsan", "remspor", "rems", "remscheid", "remsa balata", "remsan silivri", "rems pafta", "remsa"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

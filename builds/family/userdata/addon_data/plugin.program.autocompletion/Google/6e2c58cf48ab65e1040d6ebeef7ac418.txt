@@ -1,0 +1,1 @@
+["Y", ["youtube", "yemek sepeti", "yurti\u00e7i kargo", "yahoo mail", "yandex", "yap\u0131 kredi", "youtube mp3", "y", "yasak elma", "yahoo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

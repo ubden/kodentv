@@ -1,0 +1,1 @@
+["SeyirTurk Filml", ["seyirturk film", "seyirturk filmi", "seyirturk filmler", "seyirturk filmi izle", "seyirturk film izle"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL", "TAIL"]}]

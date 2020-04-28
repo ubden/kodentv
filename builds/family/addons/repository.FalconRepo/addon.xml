@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+    <addon id="repository.FalconRepo" name="Falcon Repo" version="1.1.0" provider-name="Team Falcon">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="Falcon Repo">
+            <info compressed="false">http://Teamfalcon.exposed/_files/addons.xml</info>
+            <checksum>http://Teamfalcon.exposed/_files/addons.xml.md5</checksum>
+            <datadir zip="true">http://Teamfalcon.exposed/_files/</datadir>
+            <hashes>false</hashes>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>Repository</summary>
+            <description>Home Of Team Falcon Addons.</description>
+            <platform>all</platform>
+    </extension>
+</addon>

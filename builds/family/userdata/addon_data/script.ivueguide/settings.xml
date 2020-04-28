@@ -1,0 +1,18 @@
+<settings>
+    <setting id="addons.ini.type" value="0" />
+    <setting id="alternative.playback" value="false" />
+    <setting id="autostart" value="false" />
+    <setting id="enable.osd" value="true" />
+    <setting id="logos" value="http://ivuetvguide.com/ivueguide/logos/" />
+    <setting id="logos.enabled" value="true" />
+    <setting id="logos.source" value="0" />
+    <setting id="mainurl" value="http://ivuetvguide.com/ivueguide/" />
+    <setting id="notifications.enabled" value="true" />
+    <setting id="password" value="jones" />
+    <setting id="skin" value="Default" />
+    <setting id="userid" value="jjohn" />
+    <setting id="username" value="John" />
+    <setting id="userurl" value="http://ivuetvguide.com/ivueguide/" />
+    <setting id="xmltv.interval" value="1" />
+    <setting id="xmltv.type" value="0" />
+</settings>

@@ -1,0 +1,52 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID>130</defaultID>
+		<label>130</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(SystemInfo)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1037</defaultID>
+		<label>1037</label>
+		<label2>Video eklentileri</label2>
+		<icon>DefaultAddonVideo.png</icon>
+		<thumb />
+		<action>ActivateWindow(Videos,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>1043</defaultID>
+		<label>1043</label>
+		<label2>Program eklentileri</label2>
+		<icon>DefaultAddonProgram.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,Addons,return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>20077</defaultID>
+		<label>20077</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(SkinSettings)</action>
+		<disabled>True</disabled>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Zipten Dosya Yükle</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://DefaultHardDisk.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Zipten+Dosya+Y%C3%BCkle&amp;mode=650&amp;cmd=ActivateWindow%2810040%2C%22addons%3A%2F%2Finstall%2F%22%2Creturn%29&amp;image=DefaultHardDisk.png&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>7</defaultID>
+		<label>7</label>
+		<label2 />
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(FileManager)</action>
+	</shortcut>
+</shortcuts>

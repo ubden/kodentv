@@ -1,0 +1,1 @@
+["h", ["hepsiburada", "hava durumu", "hotmail", "h\u00fcrriyet", "haberler", "hm", "huawei", "harry potter", "hagia sophia", "hangouts"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

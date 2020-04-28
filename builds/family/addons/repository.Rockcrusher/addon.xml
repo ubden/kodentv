@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Rockcrusher" name="[COLOR red]Rocks Repository[/COLOR]" version="2.3" provider-name="Rock">
+	<extension point="xbmc.addon.repository" name="[COLOR red]Rocks Repository[/COLOR]">
+        <info compressed="false">http://Rockodi.com/addons.xml</info>
+        <checksum>http://Rockodi.com/addons.xml.md5</checksum>
+        <datadir zip="true">http://Rockodi.com/</datadir>
+<dir>
+    <info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+    <checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+    <datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+</dir>	
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Rocks Addons</summary>
+        <description>Rocks Repository</description>
+        <disclaimer lang="en">Author does not host or distribute any of the content displayed by this addon. Author does not have any affiliation with the content provider.
+        </disclaimer>
+        <platform>all</platform>
+    </extension>
+</addon>

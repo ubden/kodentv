@@ -1,0 +1,1 @@
+["Now", ["nowgoal", "now you see me", "now is good", "now ne demek", "now", "nowanstore", "now you see me 2", "nowzaradan", "now you see me 3", "noxwin"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

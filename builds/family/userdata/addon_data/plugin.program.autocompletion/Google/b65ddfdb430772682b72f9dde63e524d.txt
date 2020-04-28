@@ -1,0 +1,1 @@
+["[B]Spor[/B", ["b&b sports management", "b'z sports bar", "brooks sports b.v", "b&b sports", "b bets sports", "sports b b c", "b'z sports bar and grill", "b sports berchem", "b sports berchem sainte agathe", "b's sports bar victor iowa"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

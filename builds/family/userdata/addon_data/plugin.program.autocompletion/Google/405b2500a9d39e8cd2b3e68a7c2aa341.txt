@@ -1,0 +1,1 @@
+["Tempte", ["tempted", "tempted konusu", "tempted yorum", "tempted ne demek", "tempted 1", "tempted imdb", "tempted 7. b\u00f6l\u00fcm", "tempted 17.b\u00f6l\u00fcm", "tempted fragman", "tempted 2. b\u00f6l\u00fcm izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

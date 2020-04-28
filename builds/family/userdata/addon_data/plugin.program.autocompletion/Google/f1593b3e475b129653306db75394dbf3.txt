@@ -1,0 +1,1 @@
+["Kolek", ["kolektif house", "koleksiyon", "kolektif house levent", "kolektif house maslak", "kolektif ne demek", "kolektif house ata\u015fehir", "kolektif", "koleksiyoncu", "kolektif academy", "kolektif bilin\u00e7"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

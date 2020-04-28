@@ -1,0 +1,1 @@
+["[B]T", ["b the beginning", "b tipi likit fon", "b tekstil", "btrans", "b toys", "b tipi ehliyet", "b to b", "b twin", "b tipi koruyucu elbise", "b tipi ki\u015filik"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

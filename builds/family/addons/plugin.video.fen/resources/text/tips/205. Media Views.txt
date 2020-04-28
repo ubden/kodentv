@@ -1,0 +1,3 @@
+[COLOR dodgerblue][B]Media Views[/B][/COLOR]
+[I]In Tools->Set Views you can set the desired views for Movies, TV Shows etc so that they will honor that view when navigating through Fen.
+Set "Delay for Setting Viewtype" in Settings->General->Navigation to adjust the delay before Fen sets the view type (needed for Kodi 18). The more powerful the device you use, the shorter delay you can set.[/I]

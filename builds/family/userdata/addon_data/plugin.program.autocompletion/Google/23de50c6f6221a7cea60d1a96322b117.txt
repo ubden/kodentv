@@ -1,0 +1,1 @@
+["Crew Ki", ["crew kids", "crew kids clothing", "crew kicks", "crew kit", "crew kick 75", "crew kick 75 keds", "crew kitchen", "crew kick 75 leather", "crew kings", "crew kick 75 sneaker"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

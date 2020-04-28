@@ -1,0 +1,1 @@
+["7of", ["7 of swords", "7 ofset jant", "7 of wands", "7 of 9", "7 of pentacles", "7 of cups", "7 of swords reversed", "7 of wands reversed", "7 of cups as feelings", "7 of 9 star trek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

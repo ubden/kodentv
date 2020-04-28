@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.cdrepo" name="[COLOR deepskyblue]CellarDoorTV [COLOR white]Repo[/COLOR]" provider-name="[COLOR forestgreen][B]C[/COLOR][COLOR gold]D[/COLOR][COLOR ghostwhite]T[/COLOR][COLOR mediumblue]V[/B][/COLOR]" version="9.6">
+	<requires>
+		<import addon="xbmc.addon" version="12.0.0"/>
+	</requires>
+	<extension name="[COLOR forestgreen][B]C[/COLOR][COLOR gold]D[/COLOR][COLOR ghostwhite]T[/COLOR][COLOR mediumblue]V[/B][/COLOR] [COLOR ghostwhite]Repo" point="xbmc.addon.repository">
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/MrKoyu/repo/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/MrKoyu/repo/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/MrKoyu/repo/master/zips</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/Gujal00/smrzips/master/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/Gujal00/smrzips/master/zips/</datadir>
+		</dir>
+		<dir>
+			<info compressed="false">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml</info>
+			<checksum>https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/addons.xml.md5</checksum>
+			<datadir zip="true">https://raw.githubusercontent.com/teamuniversal/scrapers/master/_modules4all/zips/</datadir>
+		</dir>
+	</extension>
+	<extension point="xbmc.service" library="service.py" start="[login|startup]" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en">CellarDoorTV Repository</summary>
+		<description lang="en">[COLOR gold]The Future Of Home Entertainment[/COLOR][CR]Kodi Repository for [COLOR steelblue]CellarDoorTV[/COLOR][CR][COLOR forestgreen][B]C[/COLOR][COLOR gold]D[/COLOR][COLOR ghostwhite]T[/COLOR][COLOR mediumblue]V[/B][/COLOR] [COLOR white]Repo[/COLOR] allows you to install CDTV Wizard Krypton and CDTV Wizard Leia to get access to the latest CDTV Custom Builds and more.</description>
+		<platform>all</platform>
+		<assets>
+			<icon>icon.gif</icon>
+			<fanart>fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>

@@ -1,0 +1,1 @@
+["URANI", ["uranium pc", "uranium", "urania", "uranium 235", "uranium h264", "uranium price", "uranium pro", "uranium dvr", "urania tanr\u0131\u00e7as\u0131", "uranium calories"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

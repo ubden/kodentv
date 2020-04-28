@@ -1,0 +1,1 @@
+["M", ["mynet", "milliyet", "mhrs", "maske", "mebbis", "migros", "mucize doktor", "morhipo", "mango", "mng kargo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

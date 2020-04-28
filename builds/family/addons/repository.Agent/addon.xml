@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="repository.Agent" name=" [COLOR gold]AGENT 47[/COLOR]" version="1.0.4" provider-name="[COLOR red][B] COLD[/B][/COLOR][COLOR royalblue][B]FIRE[/B][/COLOR]">
+        <requires>
+            <import addon="xbmc.addon" version="12.0.0"/>
+        </requires>
+        <extension point="xbmc.addon.repository" name="[COLOR gold]AGENT 47[/COLOR]">
+            <info compressed="false">https://raw.githubusercontent.com/anakondascc/repo-run/master/repo/addons.xml</info>
+		    <checksum>https://raw.githubusercontent.com/anakondascc/repo-run/master/repo/addons.xml.md5</checksum>
+		    <datadir zip="true">https://raw.githubusercontent.com/anakondascc/repo-run/master/repo/zip</datadir>
+        </extension>
+        <extension point="xbmc.addon.metadata">
+            <summary>[COLOR cyan]Best of the best from C0LDFIRE[/COLOR]</summary>
+            <description>Home of [COLOR red][B]COLD[/B][/COLOR][COLOR royalblue][B]FIRE[/B][/COLOR] builds and add-ons</description>
+            <platform>all</platform>
+    </extension>
+</addon>

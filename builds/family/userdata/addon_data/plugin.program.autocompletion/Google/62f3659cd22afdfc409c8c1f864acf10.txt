@@ -1,0 +1,1 @@
+["Turk\u015f", ["t\u00fcrk\u015feker", "turk", "t\u00fcrkiye haritas\u0131", "turkish", "turkiye nufus", "t\u00fcrk i\u015fi", "t\u00fcrk \u015feker duyuru", "turkish studies", "t\u00fcrkiye", "t\u00fcrk\u00e7e"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

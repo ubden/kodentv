@@ -1,0 +1,1 @@
+["GAMIN", ["gaming laptop", "gaming mouse", "gaming pc", "gaming kulakl\u0131k", "gaming chair", "gaming istanbul", "gaming", "gaming monitor", "gaming klavye", "gaming koltuk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

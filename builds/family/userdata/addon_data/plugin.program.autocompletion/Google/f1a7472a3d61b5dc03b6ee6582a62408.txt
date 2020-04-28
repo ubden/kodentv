@@ -1,0 +1,1 @@
+["hA", ["hava durumu", "haberler", "habert\u00fcrk", "haber7", "haber", "halkbank", "harita", "harry potter", "hadise", "hailey baldwin"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

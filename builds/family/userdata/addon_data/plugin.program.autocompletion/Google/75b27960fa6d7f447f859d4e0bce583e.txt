@@ -1,0 +1,1 @@
+["New (Trakt)", ["new trakt\u00f6r fiyat listesi", "new traktor controller 2018", "new traktor", "new traktor controller", "new traktor s4", "new trakt\u00f6r", "new traktor update", "new traktor mixer", "new traktor s2", "new traktor pro 3"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

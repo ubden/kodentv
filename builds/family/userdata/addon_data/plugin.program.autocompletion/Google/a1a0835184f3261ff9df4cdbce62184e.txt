@@ -1,0 +1,1 @@
+["G\u0130R", ["giresun", "giresun uzem", "giresunspor", "girl", "giresun imsakiye", "giri\u015f", "giresun iftar vakti", "giri\u015fimcilik", "girit", "giray alt\u0131nok"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

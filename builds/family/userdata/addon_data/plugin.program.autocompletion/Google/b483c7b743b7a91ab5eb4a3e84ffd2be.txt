@@ -1,0 +1,1 @@
+["YouTube Anime", ["youtube anime", "youtube anime series", "youtube anime girl", "youtube anime banner", "youtube anime music", "youtube anime movie", "youtube anime channel", "youtube anime songs", "youtube anime channel art", "youtube anime openings"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
