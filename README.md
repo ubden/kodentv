@@ -12,5 +12,5 @@ UkTurks
 
 ** 
 
-# Kurulumdan Sonra UkTurk Eklentisini Kullanmak İçin Pin Gereklidir. 
+***Kurulumdan Sonra UkTurk Eklentisini Kullanmak İçin Pin Gereklidir.***
 https://addoncloud.org/pin adresinden sayfanın orta kısmında yer alan "GENERATE PIN" butonunu tıklayıp 5 haneli pini almanız gerekmektedir. Buil açılınca sizden bu pini isteyecek ve otomatik alan açılacaktır Buraya Pin girişini yapabilirsiniz.
