@@ -36,7 +36,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin içerik
 
 name="Fresh Start Kodi Leia"
 version=" "
-url="https://ubden.github.io/kodentv/plugin.video.kodentvwizard.zip"
+url="https://ubden.github.io/kodentv/plugin.video.kodentvfreshstart.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
