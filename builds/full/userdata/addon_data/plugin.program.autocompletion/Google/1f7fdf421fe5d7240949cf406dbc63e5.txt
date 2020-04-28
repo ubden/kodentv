@@ -1,0 +1,1 @@
+["eZA", ["ezan", "ezan vakitleri", "ezan duas\u0131", "ezan sesi", "ezan okunurken su icilirmi", "ezan ka\u00e7ta okunuyor sahur", "ezan vakitleri adana", "ezan adana", "ezan s\u00f6zleri", "ezana ka\u00e7 saat var"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

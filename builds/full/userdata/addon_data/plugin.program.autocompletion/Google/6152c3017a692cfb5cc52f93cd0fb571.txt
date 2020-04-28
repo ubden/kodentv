@@ -1,0 +1,1 @@
+["Depoda", ["depodans", "depodankap\u0131ya", "depodanbul", "depo darbo laikas", "depodance", "depodase s tablets", "depodan benzin nas\u0131l \u00e7ekilir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

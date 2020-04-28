@@ -1,0 +1,1 @@
+["Uk Tur", ["uk turkey", "uk turk repo", "uk t\u00fcrk", "uk turk playlists", "uk turkey time", "uk turk playlist", "uk t\u00fcrk\u00e7esi", "uk turk playlist pin", "uk turkey flights", "uk turkey news"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

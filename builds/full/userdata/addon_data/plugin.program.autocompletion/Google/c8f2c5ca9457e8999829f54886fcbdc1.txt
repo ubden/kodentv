@@ -1,0 +1,1 @@
+["[B]Sp", ["b sport", "b spor", "b sp", "b sports", "b spline", "b cepacia", "b spinoza ahlak g\u00f6r\u00fc\u015f\u00fc", "b spr 600", "b sport 1 belgium", "b sport canl\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

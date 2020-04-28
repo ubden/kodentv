@@ -1,0 +1,1 @@
+["Purge Packages", ["purge packages", "purge package ubuntu", "purge package debian", "purge package centos", "purge package arch", "purge packages using dpkg", "purge packages npm", "conda purge packages", "purge all packages ubuntu", "purge removed packages"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

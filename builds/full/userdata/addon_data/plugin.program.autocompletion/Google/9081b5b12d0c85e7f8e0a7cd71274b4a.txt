@@ -1,0 +1,1 @@
+["[B]M\u00fcz", ["b m\u00fczikli slayt", "b m\u00fczik", "b m\u00fcze", "m\u00fczikte b nedir", "m\u00fczikte b harfi", "m\u00fczede bir gece", "r&b m\u00fczik", "r&b m\u00fczik nedir", "b sesi m\u00fczikli slayt", "r&b m\u00fczik \u00f6rnekleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["http://https://github.com/ubden/kodentv/releases.atom", ["http //https //github.com/ubden/kodentv/releases.atomica"], [], {"google:suggesttype": ["TAIL"]}]

@@ -1,0 +1,1 @@
+["[FILM T", ["film tavsiyeleri", "film t\u00fcrleri", "film tavsiyesi 2020", "film t\u00fcrk", "film t\u00fcrk\u00e7e", "film tavsiye 2020", "film tavsiyeleri 2020", "film tv", "film tdk", "film tavsiyeleri 2019"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

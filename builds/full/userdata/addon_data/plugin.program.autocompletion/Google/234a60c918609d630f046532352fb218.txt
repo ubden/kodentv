@@ -1,0 +1,1 @@
+["Turkis", ["turkish airlines", "turkish", "turkish technic", "turkish cargo", "turkish anime", "turkish bank", "turkishexporter", "turkish to english", "turkish studies", "turkish do&co"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

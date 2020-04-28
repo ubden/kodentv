@@ -1,0 +1,1 @@
+["[COLOR gold]UBDE", ["color under gold"], [], {"google:suggesttype": ["QUERY"]}]

@@ -1,0 +1,1 @@
+["NB", ["nba", "nba 2k20", "nba all star 2020", "nb", "nbb", "nba ma\u00e7lar\u0131", "nba tak\u0131mlar\u0131", "nba all star", "nbl probiyotik", "nba 2k20 apk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

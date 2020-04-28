@@ -1,0 +1,1 @@
+["Paketl", ["paketleme makinas\u0131", "paketleme", "paketleme malzemeleri", "paketleme makinesi", "paketleri", "paketleme ka\u011f\u0131d\u0131", "paketleme i\u015fi", "paketli maske", "paketli g\u0131dalar", "paketli g\u0131dalar\u0131n zararlar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

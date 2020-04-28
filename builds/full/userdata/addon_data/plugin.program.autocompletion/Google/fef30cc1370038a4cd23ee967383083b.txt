@@ -1,0 +1,1 @@
+["S5", ["s5", "s500", "s5 mini", "s5 ekran", "s500 casper", "s5 batarya", "s5 samsung", "s5 epey", "s5 fiyat", "s5 mini batarya"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

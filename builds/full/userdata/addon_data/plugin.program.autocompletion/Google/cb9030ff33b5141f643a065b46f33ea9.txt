@@ -1,0 +1,1 @@
+["NE", ["netflix", "nesine", "netflix dizileri", "netflix fiyat", "netflix party", "new balance", "network", "nefis yemek tarifleri", "netflix indir", "netflix filmleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

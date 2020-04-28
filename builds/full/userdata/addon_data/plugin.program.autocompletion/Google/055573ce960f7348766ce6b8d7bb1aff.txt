@@ -1,0 +1,1 @@
+["Beta", ["beta", "beta glukan", "betaserc", "beta bal\u0131\u011f\u0131", "beta hcg", "beta tea", "beta tea adana", "betasus", "beta ne demek", "beta \u00e7ay"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

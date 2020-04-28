@@ -1,0 +1,1 @@
+["Paketleri Tamize", ["paketleri tamizel", "paketleri tamizet"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

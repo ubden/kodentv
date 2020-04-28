@@ -1,0 +1,2 @@
+[COLOR dodgerblue][B]Choose Trailer[/B][/COLOR]
+[I]In Settings->General->Appearance there is an option 'Show Choice for All Trailer Videos'. Enabling this setting will allow you to choose a trailer (if multiple are available) from the context menu for Movies and TV Shows instead of showing the default trailer. The context menu item changes from 'Trailer' to 'Choose Trailer'. Try it out to see...[/I]

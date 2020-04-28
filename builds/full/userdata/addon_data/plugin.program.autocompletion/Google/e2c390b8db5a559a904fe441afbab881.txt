@@ -1,0 +1,1 @@
+["[B]Dizli[/B]", ["denizli b belediyesi", "b ba\u015flayan dizi", "denizli b b", "denizli b\u00fcy\u00fck\u015fehir b", "denizli bereketler b-fit kadinlarin spor ve ya\u015fam merkezi", "denizli b b spor", "b fit denizli bereketli", "b fit denizli bereketler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

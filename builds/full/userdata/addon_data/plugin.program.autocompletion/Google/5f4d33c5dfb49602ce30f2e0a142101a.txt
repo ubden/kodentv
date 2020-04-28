@@ -1,0 +1,1 @@
+["Oy", ["oysho", "oytun erba\u015f", "oyunlar", "oyun skor", "oyun at\u00f6lyesi", "oyunlar 1", "oyuncak m\u00fczesi", "oyuncu koltu\u011fu", "oyunfor", "oyun indir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

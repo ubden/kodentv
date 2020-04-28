@@ -1,0 +1,1 @@
+["Her Place", ["her place", "her place at the table", "her place timmins", "her place salem", "her place huntington wv", "her place museum", "her place lyrics her", "her place salon", "her place in french", "her place of duty"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

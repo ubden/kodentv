@@ -1,0 +1,1 @@
+["PORTAL", ["portal", "portal office", "portal 2", "portal do\u011fa", "portal it\u00fc", "portal nedir", "portal ne demek", "portal uyumsoft", "portalc\u0131y\u0131z", "portal knights"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

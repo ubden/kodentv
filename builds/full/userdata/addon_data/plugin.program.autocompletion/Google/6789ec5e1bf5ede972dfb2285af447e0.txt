@@ -1,0 +1,1 @@
+["r", ["ramazan pidesi", "revani tarifi", "roblox", "recep ivedik 6", "ramazan pidesi tarifleri", "ramazan bayram\u0131", "redmi note 8", "ramazan bayram\u0131 ne zaman ba\u015flar", "renault", "ramo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

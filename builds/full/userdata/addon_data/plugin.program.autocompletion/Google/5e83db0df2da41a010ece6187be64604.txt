@@ -1,0 +1,1 @@
+["UR", ["uraz kayg\u0131laro\u011flu", "urfanatik", "uras benlio\u011flu", "urfa iftar vakti 2020", "uruguay", "url", "uran\u00fcs", "urban outfitters", "urla", "urfadan"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

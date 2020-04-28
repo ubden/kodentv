@@ -1,0 +1,9 @@
+[COLOR dodgerblue][B]Subscriptions[/B][/COLOR]
+[I]Fen Subscriptions has been re-written to incorporate Trakt lists.
+You can choose any Trakt list from your profile (Watchlist, Collection, Personal Lists or Liked Lists).
+Go to Settings->Subscriptions->Trakt Lists and enable 'Use Trakt Lists for Subscriptions'. Then choose a Trakt list for Movies and TV Shows. If you have a mixed list, you can choose the same list for both.
+Fen will add all the contents of that list to your library, and check for new/removed items whenever it does a subscription update. You can set the frequency of the subscription update in the settings. To keep your Kodi library synced correctly, you should turn on both 'Update Kodi Library after Subscription Update' and 'Clean Kodi Library If Items Removed'. This will force Kodi to remove items that Fen has removed from the Subscriptions folder, and add items that have been added to the folder.
+
+[B]Note:
+* Cleaning the Kodi Library may take some time if you have viewed many online videos in Kodi, so turn this off in Fen settings if it is unbearable.
+* Large Trakt lists will take a decent amount of time to update.[/B][/I]

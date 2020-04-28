@@ -1,0 +1,9 @@
+[B]Version 1.0[/B]
+- Initial version
+
+[B]Version 1.0.1[/B]
+- Manual Download
+
+[B]Version 1.0.2[/B]
+- updated addons
+

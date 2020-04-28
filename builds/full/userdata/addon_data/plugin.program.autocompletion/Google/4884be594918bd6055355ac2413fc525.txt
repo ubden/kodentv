@@ -1,0 +1,1 @@
+["[COLORIndigoTools[/COLOR]", ["karyatek color"], [], {"google:suggesttype": ["QUERY"]}]

@@ -1,0 +1,1 @@
+["KU", ["kuzey kore ba\u015fkan\u0131", "kuzey kore", "kubilay aka", "kuzey y\u0131ld\u0131z\u0131", "kurulu\u015f osman", "kurabiye tarifi", "kuzem", "kuzey kore lideri", "kuran\u0131 kerim 3.c\u00fcz", "kurtlar vadisi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

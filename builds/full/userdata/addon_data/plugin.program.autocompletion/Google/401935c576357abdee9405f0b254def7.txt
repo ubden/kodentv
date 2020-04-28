@@ -1,0 +1,1 @@
+["Best", ["best10", "best fm", "best chicken", "beste k\u00f6kdemir", "best friend", "best friends", "best ne demek", "best stalkci", "bestiamt2", "beste bereket"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["TV S", ["tv sehpas\u0131", "tv ses sistemi", "tv seyret", "tv sekiz canl\u0131", "tv series", "tv sat\u0131n al", "tv sehpas\u0131 beyaz", "tv sehpas\u0131 ikea", "tv shows", "tv sabitleyici"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

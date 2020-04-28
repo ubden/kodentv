@@ -1,0 +1,1 @@
+["SEYIRT", ["seyirt\u00fcrk", "seyirtepe", "seyirt\u00fcrk apk", "seyirtmek", "seyirt\u00fcrk 2020", "seyirtepe evleri", "seyirtepe evleri g\u00fczeltepe", "seyirt\u00fcrk indir", "seyirt ne demek", "seyir tepesi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

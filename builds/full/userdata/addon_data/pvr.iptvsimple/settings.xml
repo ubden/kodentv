@@ -1,0 +1,17 @@
+<settings>
+	<setting id="epgPath" value="/Users/Jason/Library/Application Support/Kodi/userdata/addon_data/plugin.video.israelive/guide.xml" />
+	<setting id="epgTSOverride" value="false" />
+	<setting id="m3uUrl" value="" />
+	<setting id="epgUrl" value="" />
+	<setting id="logoPathType" value="1" />
+	<setting id="startNum" value="1" />
+	<setting id="m3uCache" value="true" />
+	<setting id="m3uPath" value="/Users/Jason/Library/Application Support/Kodi/userdata/addon_data/plugin.video.israelive/iptv.m3u" />
+	<setting id="logoFromEpg" value="0" />
+	<setting id="epgTimeShift" value="0" />
+	<setting id="epgPathType" value="0" />
+	<setting id="m3uPathType" value="0" />
+	<setting id="logoPath" value="/Users/Jason/Library/Application Support/Kodi/userdata/addon_data/plugin.video.israelive/logos" />
+	<setting id="logoBaseUrl" value="" />
+	<setting id="epgCache" value="true" />
+</settings>

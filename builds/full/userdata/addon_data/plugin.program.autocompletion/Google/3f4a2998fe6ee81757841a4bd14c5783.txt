@@ -1,0 +1,1 @@
+["Vi", ["video indir", "vivense", "vis a vis", "vitir namaz\u0131 nas\u0131l k\u0131ld\u0131r\u0131l\u0131r", "video", "vikings", "vikipedi", "videolar\u0131", "vicco", "vikingler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

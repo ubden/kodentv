@@ -1,0 +1,1 @@
+["Zipt", ["zip ties", "zip top", "ziptales", "ziptrader", "ziptrak", "ziptransfers", "zip tap", "ziptrek", "ziptron", "ziptrek whistler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

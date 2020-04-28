@@ -1,0 +1,1 @@
+["open", ["open office", "open broadcaster software", "openvpn", "opencart", "openshot", "open dns", "open \u0131v", "open your eyes", "opencv", "open spotify"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

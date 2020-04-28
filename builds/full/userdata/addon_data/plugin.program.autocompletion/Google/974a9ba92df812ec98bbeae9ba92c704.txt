@@ -1,0 +1,1 @@
+["[TA", ["takvim", "tatl\u0131 tarifleri", "tavuk sote", "taraftar tv", "tatil sepeti", "tablet", "tavuk yemekleri", "taner \u00f6lmez", "taksim day\u0131", "tarkan"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

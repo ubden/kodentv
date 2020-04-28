@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>NETFLİX KODİ</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>RESMİ UYGULAMASI</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>KULLANMAK İÇİN</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>GİRİŞ YAPMALISINIZ</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR red]KODENTV[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+	</shortcut>
+</shortcuts>

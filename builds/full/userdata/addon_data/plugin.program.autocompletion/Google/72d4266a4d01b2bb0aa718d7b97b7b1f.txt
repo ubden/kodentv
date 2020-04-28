@@ -1,0 +1,1 @@
+["[B]LA[/B]", ["b la b rapper", "b la b instagram", "b'la boutique", "black la b", "burger la b", "baby la b", "b la blunt", "boca la b", "b and b", "buscar la b"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

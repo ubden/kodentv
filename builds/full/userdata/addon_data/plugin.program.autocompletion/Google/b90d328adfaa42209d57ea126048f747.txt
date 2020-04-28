@@ -1,0 +1,1 @@
+["FILBILGI", ["fil bilgileri", "dil bilgisi", "fil bilgisayar", "dil bilgisi tyt", "dilbilgisi video", "dil bilgisi nedir", "fil hakk\u0131nda bilgi", "fil ile ilgili bilgiler", "fil suresi hakk\u0131nda bilgi", "fil y\u0131l\u0131 hakk\u0131nda bilgi veriniz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

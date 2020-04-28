@@ -1,0 +1,1 @@
+["SUP", ["superonline", "s\u00fcper lig", "super loto", "superstep", "superbox", "supernatural", "supradyn", "supangle", "supernatural izle", "superman"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[COLOR gold][B]B[/B][/COLOR]oxset [COLOR gold][B]K[/B", ["color gold b b /b /color oxset color gold b k /ben", "color gold b b /b /color oxset color gold b k /ba", "color gold b b /b /color oxset color gold b k /bl", "color gold b b /b /color oxset color gold b k /by"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

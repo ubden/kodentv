@@ -1,0 +1,1 @@
+["TR", ["translate", "trendyol", "trabzonspor", "trivago", "trt haber", "trt", "trump", "trello", "tripadvisor", "trt izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

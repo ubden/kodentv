@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+	<defaultcontrol always="true">30</defaultcontrol>
+	<coordinates>
+		<left>0</left>
+		<top>0</top>
+	</coordinates>
+	<animation effect="fade" time="200">WindowOpen</animation>
+	<animation effect="fade" time="200">WindowClose</animation>
+	<depth>0.52</depth>
+	<controls>
+		<control type="image">
+			<visible>![Window.IsVisible(FullscreenVideo) | Window.IsVisible(Visualisation)]</visible>
+			<description>background image</description>
+			<left>0</left>
+			<top>0</top>
+			<width>1280</width>
+			<height>720</height>
+			<texture border="40">DialogBack.png</texture>
+		</control>
+		<control type="image">
+			<visible>Window.IsVisible(FullscreenVideo) | Window.IsVisible(Visualisation)</visible>
+			<description>background image</description>
+			<left>0</left>
+			<top>0</top>
+			<width>1280</width>
+			<height>720</height>
+			<texture border="40">DialogBack2.png</texture>
+		</control>
+		<control type="image">
+			<description>Dialog Header image</description>
+			<left>20</left>
+			<top>16</top>
+			<width>1240</width>
+			<height>40</height>
+			<texture>dialogheader.png</texture>
+		</control>
+		<control type="label" id="60">
+			<description>header label</description>
+			<left>40</left>
+			<top>20</top>
+			<width>1200</width>
+			<height>30</height>
+			<font>font13_title</font>
+			<align>center</align>
+			<aligny>center</aligny>
+			<textcolor>FFEB9E17</textcolor>
+			<shadowcolor>FF000000</shadowcolor>
+		</control>
+		<control type="button" id="50">
+			<description>Close Window button</description>
+			<left>1190</left>
+			<top>16</top>
+			<width>64</width>
+			<height>32</height>
+			<label></label>
+			<font></font>
+			<texturefocus colordiffuse="$VAR[MainColorOne]">DialogCloseButton-focus.png</texturefocus>
+			<texturenofocus>DialogCloseButton.png</texturenofocus>
+			<onleft>10</onleft>
+			<onright>10</onright>
+			<onup>10</onup>
+			<ondown>10</ondown>
+			<visible>system.getbool(input.enablemouse)</visible>
+		</control>
+		<control type="image">
+			<left>20</left>
+			<top>60</top>
+			<width>1200</width>
+			<height>645</height>
+			<texture border="15">ContentPanel.png</texture>
+			<include condition="!IsEmpty(Skin.String(MediaPanelTrans))">TransparentEffect</include>
+		</control>
+		<control type="textbox" id="40">
+			<description>log text field</description>
+			<left>30</left>
+			<top>70</top>
+			<width>1180</width>
+			<height>632</height>
+			<align>left</align>
+			<font>font10</font>
+			<!--<autoscroll time="3000" delay="4000" repeat="5000">true</autoscroll>-->
+		</control>
+		<!--
+		<control type="progress" id="40">
+			<description>Progressbar</description>
+			<left>50</left>
+			<top>250</top>
+			<width>440</width>
+			<height>25</height>
+		</control>-->
+		<control type="button" id="10">
+			<description>Up button</description>
+			<right>15</right>
+			<bottom>115</bottom>
+			<width>40</width>
+			<height>40</height>
+			<font>font12_title</font>
+			<textcolor>white</textcolor>
+			<focusedcolor>white</focusedcolor>
+			<align>center</align>
+			<onleft>10</onleft>
+			<onright>10</onright>
+			<onup>10</onup>
+			<ondown>20</ondown>
+			<texturefocus colordiffuse="FF0084FF">arrow-big-up.png</texturefocus>
+            <texturenofocus>arrow-big-up.png</texturenofocus>
+		</control>
+		<control type="button" id="20">
+			<description>Down button</description>
+			<right>15</right>
+			<bottom>70</bottom>
+			<width>40</width>
+			<height>40</height>
+			<font>font12_title</font>
+			<textcolor>white</textcolor>
+			<focusedcolor>white</focusedcolor>
+			<align>center</align>
+			<onleft>20</onleft>
+			<onright>20</onright>
+			<onup>10</onup>
+			<ondown>30</ondown>
+            <texturefocus colordiffuse="FF0084FF">arrow-big-down.png</texturefocus>
+            <texturenofocus>arrow-big-down.png</texturenofocus>
+		</control>
+		<control type="button" id="30">
+			<description>Live button</description>
+			<right>15</right>
+			<bottom>25</bottom>
+			<width>40</width>
+			<height>40</height>
+			<font>font12_title</font>
+			<textcolor>white</textcolor>
+			<focusedcolor>white</focusedcolor>
+			<align>center</align>
+			<onleft>30</onleft>
+			<onright>30</onright>
+			<onup>20</onup>
+			<ondown>30</ondown>
+			<texturefocus colordiffuse="FF0084FF">arrow-big-right.png</texturefocus>
+            <texturenofocus>arrow-big-right.png</texturenofocus>
+		</control>
+	</controls>
+</window>
+

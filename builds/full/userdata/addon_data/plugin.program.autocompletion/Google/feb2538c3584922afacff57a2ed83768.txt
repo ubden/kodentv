@@ -1,0 +1,1 @@
+["Paketleri T", ["paketleri t\u00fcrk telekom", "paketleri turkcell", "paket telkomsel", "paket telkomsel murah", "paket tracking", "paket telkomsel gojek", "paket tri murah", "paket tri", "paket tau telkomsel", "turkcell paketleri faturas\u0131z"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

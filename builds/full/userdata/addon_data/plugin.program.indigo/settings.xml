@@ -1,0 +1,56 @@
+<settings version="2">
+    <setting id="accache" default="true">false</setting>
+    <setting id="accrash" default="true">false</setting>
+    <setting id="acpackages" default="true">false</setting>
+    <setting id="acstartup" default="true">false</setting>
+    <setting id="acthumbs" default="true">false</setting>
+    <setting id="addoninstaller" default="true">false</setting>
+    <setting id="adult" default="true">false</setting>
+    <setting id="audio">true</setting>
+    <setting id="auto-view">true</setting>
+    <setting id="automain" default="true">false</setting>
+    <setting id="automb" default="true">false</setting>
+    <setting id="blockLink" default="true">exp=&quot;48&quot;block=&quot;repository.fredsrepo&quot;block=&quot;script.navi-x&quot;block=&quot;repository.metalkettle&quot;block=&quot;script.modules.python.requests&quot;block=&quot;script.bubbles.resources&quot;block=&quot;script.bubbles.artwork&quot;block=&quot;script.bubbles.binaries&quot;block=&quot;script.bubbles.icons&quot;block=&quot;script.bubbles.skins&quot;block=&quot;plugin.video.bubbles&quot;block=&quot;repository.bubbles&quot;block=&quot;repository.bubbles.1&quot;block=&quot;repository.xvbmc&quot;block=&quot;repository.supremacy&quot;block=&quot;repository.13clowns&quot;block=&quot;repository.maverickrepo&quot;block=&quot;repository.eggman&quot;block=&quot;repository.onenation&quot;block=&quot;repository.kodiuktv&quot;block=&quot;repository.goldengun&quot;block=&quot;script.block.tvaddons&quot;block=&quot;repository.thecrew&quot;block=&quot;program.fuck.indigo&quot;block=&quot;repository.atreides&quot;block=&quot;repository.atreides.tools&quot;block=&quot;script.thecrew.metadata&quot;block=&quot;script.thecrew.artwork&quot;block=&quot;script.module.thecrew&quot;</setting>
+    <setting id="cachemb" default="true">0</setting>
+    <setting id="clearday">7</setting>
+    <setting id="default_dir" default="true">xbmc.translatePath(&apos;special://home/&apos;)</setting>
+    <setting id="default_url" default="true">https://raw.githubusercontent.com/keraf/NoCoin/master/src/blacklist.txt</setting>
+    <setting id="default_url_t">true</setting>
+    <setting id="featured">true</setting>
+    <setting id="github_key" default="true"></setting>
+    <setting id="hasran">true</setting>
+    <setting id="maint_check_folders">true</setting>
+    <setting id="newest">true</setting>
+    <setting id="notifications-on-startup" default="true">false</setting>
+    <setting id="notify">4</setting>
+    <setting id="packagesmb" default="true">0</setting>
+    <setting id="program">true</setting>
+    <setting id="repositories" default="true">false</setting>
+    <setting id="scan_default_dir">true</setting>
+    <setting id="scan_dir0" default="true"></setting>
+    <setting id="scan_dir1" default="true"></setting>
+    <setting id="scan_dir2" default="true"></setting>
+    <setting id="scan_dir3" default="true"></setting>
+    <setting id="scan_dir4" default="true"></setting>
+    <setting id="scan_dir5" default="true"></setting>
+    <setting id="scan_dir6" default="true"></setting>
+    <setting id="scan_warning" default="true">false</setting>
+    <setting id="scriptblock">true</setting>
+    <setting id="set_rtmp">true</setting>
+    <setting id="sevicehasran">true</setting>
+    <setting id="skincat">true</setting>
+    <setting id="thumbsmb" default="true">0</setting>
+    <setting id="toprepositories">true</setting>
+    <setting id="tt_togglesetting" default="true">false</setting>
+    <setting id="updated">true</setting>
+    <setting id="user_url0" default="true"></setting>
+    <setting id="user_url1" default="true"></setting>
+    <setting id="user_url2" default="true"></setting>
+    <setting id="user_url3" default="true"></setting>
+    <setting id="user_url4" default="true"></setting>
+    <setting id="user_url5" default="true"></setting>
+    <setting id="video">true</setting>
+    <setting id="wizardran" default="true">false</setting>
+    <setting id="world">true</setting>
+    <setting id="zip" default="true">Click Here</setting>
+</settings>

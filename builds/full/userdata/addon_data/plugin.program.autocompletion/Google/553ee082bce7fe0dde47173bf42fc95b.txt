@@ -1,0 +1,1 @@
+["Ge", ["gezginler", "geforce now", "gel dese a\u015fk", "general mobile", "gezegenler", "genciz biz", "gelir vergisi \u00f6deme", "ge\u00e7mi\u015f", "geceler", "gerilim filmleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,43 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Film Modülleri</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.turkvod%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.turkvod/?url=http%3A%2F%2Fturkvod.org%2F10%2Findex_film.php&amp;name=FILM+MODULLERI&amp;mode=1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Dizi Modülleri</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://DefaultFolder.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=TurkVod+Diziler&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CTurkVod+Diziler&amp;image=DefaultFolder.png&amp;fanart=C%3A%5CUsers%5CCankurt%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.program.super.favourites%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>IPTV MODULLERI</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.turkvod%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.turkvod/?url=http%3A%2F%2Fturkvod.org%2F10%2Findex_tv.php&amp;name=IPTV+MODULLERI+-+TV&amp;mode=1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>DIGER PORTALLAR</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.turkvod%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.turkvod/?url=http%3A%2F%2Fturkvod.org%2F10%2F01_turkportal.php&amp;name=DIGER+PORTALLAR&amp;mode=1",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>TURKvod RADYO</label>
+		<label2>Video Add-On</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.turkvod%5cicon.png/</thumb>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.turkvod/?url=http%3A%2F%2Fturkvod.org%2F10%2Fradio_index.php&amp;name=TURKvod+RADYO&amp;mode=1",return)</action>
+	</shortcut>
+</shortcuts>

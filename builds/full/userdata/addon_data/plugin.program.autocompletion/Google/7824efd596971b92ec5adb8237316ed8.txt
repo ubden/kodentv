@@ -1,0 +1,1 @@
+["NET", ["netflix", "netflix dizileri", "netflix fiyat", "netflix party", "network", "netflix indir", "netflix filmleri", "netten br\u00fcte", "netflix \u00fcye ol", "net"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

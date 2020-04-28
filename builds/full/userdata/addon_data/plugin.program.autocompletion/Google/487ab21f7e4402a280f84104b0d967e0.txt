@@ -1,0 +1,1 @@
+["[b]", ["b vitamini", "b ile hayvan", "b ile bitki", "b fit", "b akoru", "b harfi", "b ile e\u015fya", "b blok", "b ile biten kelimeler", "b good maske"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

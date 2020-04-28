@@ -1,0 +1,1 @@
+["TR D", ["tr dizin", "tr dizin dergi listesi", "tr dolar", "tr de corona", "tr domain", "tr dublaj", "tr dizin ulakbim", "tr dizin 2020 kriterleri", "tr dizin nedir", "tr dollar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

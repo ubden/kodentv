@@ -1,0 +1,1 @@
+["[COLOR gold][B]B[/B][/COLOR]oxset [C", ["color gold b b /b /color oxset cell", "color gold b b /b /color oxset core"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

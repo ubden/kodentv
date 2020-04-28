@@ -1,0 +1,2 @@
+[COLOR dodgerblue][B]Add/Remove Function[/B][/COLOR]
+[I]In Fen there is an Add/Remove context menu item for Movies and TV Shows. This is where you can add/remove a Movie or TV Show to Fen Favorites, Subscriptions or a Trakt list. The remove option also has 'Remove from cache', which will refresh all metadata for the chosen Movie or TV Show. Try it out to see...[/I]

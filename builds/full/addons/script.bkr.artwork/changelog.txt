@@ -1,0 +1,6 @@
+[B]2018.04.11[/B]
+- Reworked icons.
+-changed from png to jpg to help reduce size.
+
+[B]2018.04.02[/B]
+- Rebrand Elysium to Eden

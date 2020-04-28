@@ -1,0 +1,1 @@
+["Paketleri", ["paketleri vodafone", "paketleri turkcell", "paketleri t\u00fcrk telekom", "paketleri mobilya d\u00fc\u011f\u00fcn", "netflix paketleri", "selfy paketleri", "bimcell paketleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

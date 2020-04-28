@@ -1,0 +1,1 @@
+["San", ["sanal market", "sanal \u00e7ad\u0131r", "sancaktepe", "sanalika", "san sebastian tarifi", "sandalye", "sandra bullock", "san marino", "sanofi", "sanslicark"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

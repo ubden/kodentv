@@ -1,0 +1,1 @@
+["\u0131", ["\u0131nstagram", "\u0131slak kek", "\u0131slak kek tarifi", "\u0131phone 11", "\u0131phone 7 plus", "\u0131phone 7", "\u0131phone 8 plus", "\u0131kea", "\u0131cloud", "\u0131phone x"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

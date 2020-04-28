@@ -1,0 +1,1 @@
+["[COLOR gold]UK-TURK D[/COLOR]", [], [], {"google:suggesttype": []}]

@@ -1,0 +1,1 @@
+["[B]Tu", ["b tunnel", "b tube", "b tuchman", "b tunnel smoke", "b tuzhisar hava durumu", "b turn to my fans lyrics", "b tu\u015fu \u00e7al\u0131\u015fm\u0131yor", "b-tu", "b turbo", "b turtle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

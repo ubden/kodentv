@@ -1,0 +1,2 @@
+[COLOR dodgerblue][B]Cached Only Torrents[/B][/COLOR]
+[I]If you have a debrid account with Real-Debrid and/or Premiumize and/or All-Debrid, you can now choose to show only cached torrents in Fen. Simply Authorize you debrid accounts in Settings->Accounts, enable cached torrents only in Settings->Results->Torrents Sorting & Filtering->Show Cached Torrents Only. Now Fen will show only torrents cached on those services.[/I]

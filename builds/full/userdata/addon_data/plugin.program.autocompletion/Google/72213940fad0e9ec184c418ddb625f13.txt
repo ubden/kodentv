@@ -1,0 +1,1 @@
+["Yeni B\u00f6l\u00fcm(Trakt)", ["trakt\u00f6rmetre yeni b\u00f6l\u00fcm"], [], {"google:suggesttype": ["QUERY"]}]

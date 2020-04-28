@@ -1,0 +1,1 @@
+["Tema Rest", ["tema restaurant", "tema restoranlar", "tema restoran", "restaurant tema", "tema_rest", "tema restaurang stockholm", "tema restoran cacak", "tema restaurants", "tema restaurante", "tema restoran yang menarik"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

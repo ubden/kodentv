@@ -1,0 +1,1 @@
+["POR", ["porsche", "portmanto", "portekiz", "portakal", "portakall\u0131 kek", "porto", "porsuk", "porto riko", "portakal bah\u00e7em", "portakal kalori"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

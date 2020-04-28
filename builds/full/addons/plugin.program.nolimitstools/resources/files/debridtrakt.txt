@@ -1,0 +1,34 @@
+<items>
+	<plugin>script.module.urlresolver</plugin>
+        <plugin>script.mrknow.urlresolver</plugin>
+        <plugin>plugin.video.bubbles</plugin>
+	<plugin>plugin.video.specto</plugin>
+        <plugin>plugin.video.AnArchy</plugin>
+        <plugin>plugin.video.covenant</plugin>
+        <plugin>plugin.video.blamo</plugin>
+	<plugin>plugin.video.exodus</plugin>
+        <plugin>plugin.video.exoshark</plugin>
+        <plugin>plugin.video.gurzil</plugin>
+	<plugin>plugin.video.meta</plugin>
+	<plugin>plugin.video.metalliq</plugin>
+        <plugin>plugin.video.neptune</plugin>
+        <plugin>plugin.video.sedundnes</plugin>
+        <plugin>plugin.video.piranha</plugin>
+        <plugin>plugin.video.placenta</plugin>
+        <plugin>plugin.video.poseidon</plugin>
+        <plugin>plugin.video.resistance</plugin>
+	<plugin>plugin.video.salts</plugin>
+	<plugin>plugin.video.saltshd.lite</plugin>
+        <plugin>plugin.video.saltsrd.lite</plugin>
+        <plugin>plugin.video.streamhub</plugin>
+        <plugin>plugin.video.TheDeLorean</plugin>
+	<plugin>plugin.video.theroyalwe</plugin>
+	<plugin>script.trakt</plugin>
+        <plugin>plugin.video.ugottoc</plugin>
+        <plugin>plugin.video.uranus</plugin>
+	<plugin>plugin.video.velocity</plugin>
+	<plugin>plugin.video.velocitykids</plugin>
+	<plugin>plugin.video.verdict</plugin>
+        <plugin>plugin.video.wtfork</plugin>
+
+</items>

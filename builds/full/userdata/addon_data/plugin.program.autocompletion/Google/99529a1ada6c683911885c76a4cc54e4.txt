@@ -1,0 +1,1 @@
+["Fen D", ["fen deneyleri", "fen denemeleri", "fen dersi", "fen dershanesi", "fen denemeleri tyt", "fen ders kitab\u0131", "fen denemesi", "fen deneme 8.s\u0131n\u0131f", "fen deneyi", "fen ders kitab\u0131 cevaplar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

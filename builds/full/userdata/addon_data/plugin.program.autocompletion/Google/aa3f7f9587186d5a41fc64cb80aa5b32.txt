@@ -1,0 +1,1 @@
+["Turkish T", ["turkish technic", "turkish to english", "turkish twitter", "turkish tv legends", "turkish tea", "turkish to english translate", "turkish trap", "turkish translate", "turkish traditions", "turkish technic staj"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

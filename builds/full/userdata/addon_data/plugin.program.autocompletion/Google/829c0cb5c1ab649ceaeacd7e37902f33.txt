@@ -1,0 +1,1 @@
+["Movies", ["moviestarplanet", "moviestarplanet 2", "movies", "movies ne demek", "movies to watch", "moviestar", "moviesfoundonline", "movies 2019", "moviestarplanet 2 oyna", "moviestarplanet 2 beta oyna"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

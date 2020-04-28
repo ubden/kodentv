@@ -1,0 +1,1 @@
+["Cart", ["cartoon network", "carters", "cartoon network yar\u0131\u015fmas\u0131", "cartier", "cartoon network izle", "cartoon network oyunlar\u0131", "cartel", "cartier saat", "cartier bileklik", "carty bana bir masal anlat s\u00f6zleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

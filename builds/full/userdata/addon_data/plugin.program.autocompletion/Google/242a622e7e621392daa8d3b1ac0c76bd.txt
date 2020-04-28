@@ -1,0 +1,1 @@
+["Insta", ["instagram", "instagram dondurma", "instagram hesap silme", "instadp", "instagram logo", "instagram giri\u015f", "instagram hesap kapatma", "instax", "instax mini 9", "instagram video indirme"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

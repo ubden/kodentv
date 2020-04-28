@@ -1,0 +1,9 @@
+<settings version="2">
+    <setting id="adult">true</setting>
+    <setting id="count">233</setting>
+    <setting id="enable_meta">true</setting>
+    <setting id="fav">no</setting>
+    <setting id="password">1234</setting>
+    <setting id="pin">S5DASD</setting>
+    <setting id="tv" default="true">XXX</setting>
+</settings>

@@ -1,0 +1,1 @@
+["Youtu", ["youtube", "youtube mp3", "youtube video indir", "youtub", "youtubeci", "youtu", "youtube youtube", "youtube music", "youtube m\u00fczik", "youtube vanced"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

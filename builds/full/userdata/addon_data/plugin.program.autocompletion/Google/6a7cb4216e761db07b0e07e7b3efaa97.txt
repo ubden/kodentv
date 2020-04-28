@@ -1,0 +1,1 @@
+["Te(IPTV)", ["iptv shqip te rriturit password", "iptv shqip per te rritur", "iptv waar te koop", "te rriturit iptv shqip", "iptv te koop", "iptv me te mira", "iptv te rriturit", "iptv per te rritur", "iptv shqip per te rriturit", "iptv te rriturit password"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

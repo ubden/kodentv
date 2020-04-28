@@ -1,0 +1,1 @@
+["Mutfak", ["mutfak robotu", "mutfak dolab\u0131", "mutfak masas\u0131", "mutfak tart\u0131s\u0131", "mutfak", "mutfak sanatlar\u0131 akademisi", "mutfak kitap", "mutfak tezgah\u0131", "mutfak hal\u0131s\u0131", "mutfak \u015fefi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

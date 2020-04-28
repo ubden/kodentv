@@ -1,0 +1,67 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>SUPER FAVORILER</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Build+Menus&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus&amp;image=C%3A%5CUsers%5CCankurt%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.program.super.favourites%5Cicon.png&amp;fanart=C%3A%5CUsers%5CCankurt%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.program.super.favourites%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>script.toolbox</defaultID>
+		<label>ToolBox Script</label>
+		<label2>Program</label2>
+		<icon>DefaultAddon.png</icon>
+		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cscript.toolbox%5cicon.png/</thumb>
+		<action>RunAddOn(script.toolbox)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR cadetblue]Hız Testi[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cscript.speedtestnet%5cicon.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+cadetblue%5DH%C4%B1z+Testi%5B%2FCOLOR%5D&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fscript.speedtestnet%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%255Cscript.speedtestnet%255Cfanart.jpg%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cscript.speedtestnet%5Cicon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cscript.speedtestnet%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Oto Temizleme</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cscript.diamondautoclean%5cicon.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Oto+Temizleme&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fscript.diamondautoclean%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%255Cscript.diamondautoclean%255Cfanart.jpg%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cscript.diamondautoclean%5Cicon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cscript.diamondautoclean%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Buffering Fix</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://special%3a%2f%2fhome%2faddons%5cplugin.program.nolimitstools%5cresources%5cart%5csettings-icon.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Buffering+Fix&amp;mode=650&amp;cmd=ActivateWindow%2810001%2C%22plugin%3A%2F%2Fplugin.program.nolimitstools%2F%3Fdescription%26fanart%3DC%253a%255cUsers%255cCankurt%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.program.nolimitstools%255cfanart.jpg%26iconimage%3DC%253a%255cUsers%255cCankurt%255cAppData%255cRoaming%255cKodi%255caddons%255cplugin.program.nolimitstools%255cresources%255cart%255csettings-icon.png%26mode%3D30%26name%3D%255bCOLOR%2520ghostwhite%255dBUFFERING%2520FIX%2520%28AdvancedSettings.XML%29%255b%252fCOLOR%255d%26url%3Dhttp%253a%252f%252fechocoder.com%252f%26sf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%255Cplugin.program.nolimitstools%255Cfanart.jpg%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.program.nolimitstools%5Cresources%5Cart%5Csettings-icon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.program.nolimitstools%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID>plugin.video.usbwizard</defaultID>
+		<label>Backup Restore</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.usbwizard%5cicon.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.video.usbwizard",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR brown]Clean Kodi[/COLOR]</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fnoobsandnerds.com%2fTI%2fart%2fmainmenu%2fmaintenance.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+brown%5DClean+Kodi%5B%2FCOLOR%5D&amp;mode=650&amp;cmd=ActivateWindow%2810001%2C%22plugin%3A%2F%2Fplugin.program.totalinstaller%2F%3Fdescription%26fanart%26iconimage%3Dhttp%253a%252f%252fnoobsandnerds.com%252fTI%252fart%252fmainmenu%252fmaintenance.png%26mode%3Dtools_clean%26name%3DClean%2520up%2520my%2520Kodi%26url%26video%22%2Creturn%29&amp;image=http%3A%2F%2Fnoobsandnerds.com%2FTI%2Fart%2Fmainmenu%2Fmaintenance.png&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>[COLOR gold]UBDEN.COM[/COLOR]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>noop</action>
+	</shortcut>
+</shortcuts>

@@ -1,0 +1,236 @@
+<!DOCTYPE html>
+<html>
+<head>
+
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Create Stream</title>
+
+<script type="text/javascript" src="/webui/javascript/jquery-1.8.2.min.js"></script>
+<script type="text/javascript" src="/webui/javascript/json2.js"></script>
+
+<script type="text/javascript">
+function sendRequest(data, async) {
+
+    if(typeof async != 'boolean') {
+      async = true;
+    }
+
+    var ajaxSettings = {
+        url: '/webui/json/',
+        type: 'GET',
+        contentType: 'json',
+        dataType: 'json',
+        cache: false,
+        data: {'q': JSON.stringify(data)},
+        error: function(request, error_string, exception) {
+            alert("request failed");
+        },
+        success: function(response) {
+            console.log("response: " + response);
+            
+            if(typeof response != 'object') {
+                alert("Malformed response");
+            }
+            
+            if(response.success === "true") {
+                window.location.href = "http://127.0.0.1:" + response.port + "/app/stream";
+            }
+            else {
+                if(response.error) {
+                    alert(response.error);
+                }
+                else {
+                    alert("Unknown error");
+                }
+            }
+        },
+        async: async
+    };
+
+    $.ajax( ajaxSettings );
+}
+
+$(document).ready(function() {
+        $("#button-create-stream").click(function() {
+                var name = $("#name").val(),
+                    quality = $("#quality").val(),
+                    category = $("#category").val(),
+                    source = $("#source").val(),
+                    cache_dir = $("#cache_dir").val(),
+                    publish_dir = $("#publish_dir").val(),
+                    bitrate = $("#bitrate").val(),
+                    trackers = $("#trackers").val(),
+                    maxConnections = $("#maxConnections").val(),
+                    maxPeers = $("#maxPeers").val(),
+                    maxUploadSlots = $("#maxUploadSlots").val();
+                    
+                if(name.length == 0) {
+                    alert("Empty name");
+                    return false;
+                }
+                
+                if(quality.length == 0) {
+                    alert("Empty quality");
+                    return false;
+                }
+                
+                if(category.length == 0) {
+                    alert("Empty category");
+                    return false;
+                }
+                
+                if(cache_dir.length == 0) {
+                    alert("Cache directory must be specified");
+                    return false;
+                }
+                
+                if(publish_dir.length == 0) {
+                    alert("Publish directory must be specified");
+                    return false;
+                }
+                
+                if(source.length == 0) {
+                    alert("Empty source");
+                    return false;
+                }
+                
+                bitrate = parseInt(bitrate);
+                if(!bitrate) {
+                    alert("Empty bitrate");
+                    return false;
+                }
+                
+                sendRequest({
+                        method: "create_stream",
+                        arguments: {
+                            name: name,
+                            cache_dir: cache_dir,
+                            publish_dir: publish_dir,
+                            source: source,
+                            bitrate: bitrate,
+                            host: $("#host").val(),
+                            port: $("#port").val(),
+                            piecesize: $("#piecesize").val(),
+                            trackers: trackers,
+                            max_connections: maxConnections,
+                            max_peers: maxPeers,
+                            max_upload_slots: maxUploadSlots,
+                            quality: quality,
+                            category: category,
+                        }
+                });
+        });
+});
+</script>
+
+<style>
+textarea, select, input[type=text] {
+    width: 500px;
+}
+</style>
+
+</head>
+
+<body>
+
+<table border="0" cellspacing="0" cellpadding="5">
+    <tr>
+        <td>Name:<td>
+        <td><input type="text" id="name" value="" /></td>
+    </tr>
+    <tr>
+        <td>Publish directory:<td>
+        <td><input type="text" id="publish_dir" value="{publish_dir}" /></td>
+    </tr>
+    <tr>
+        <td>Cache directory:<td>
+        <td><input type="text" id="cache_dir" value="{cache_dir}" /></td>
+    </tr>
+    <tr>
+        <td>Source (MPEG-TS HTTP stream):<td>
+        <td><input type="text" id="source" value="" /></td>
+    </tr>
+    <tr>
+        <td>Bitrate (kbit/s):<td>
+        <td><input type="text" id="bitrate" value="" /></td>
+    </tr>
+    <tr>
+        <td>Quality:<td>
+        <td>
+            <select id="quality">
+                <option value="">Select quality</option>
+                <option value="SD">SD</option>
+                <option value="HD">HD</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Category:<td>
+        <td>
+            <select id="category">
+                <option value="">Select category</option>
+                <option value="informational">Informational</option>
+                <option value="entertaining">Entertaining</option>
+                <option value="educational">Educational</option>
+                <option value="movies">Movies</option>
+                <option value="documentaries">Documentaries</option>
+                <option value="sport">Sport</option>
+                <option value="fashion">Fashion</option>
+                <option value="music">Music</option>
+                <option value="regional">Regional</option>
+                <option value="ethnic">Ethnic</option>
+                <option value="religion">Religion</option>
+                <option value="teleshop">Teleshop</option>
+                <option value="erotic_18_plus">Erotic 18+</option>
+                <option value="other_18_plus">Other 18+</option>
+                <option value="cyber_games">Cyber games</option>
+                <option value="amateur">Amateur</option>
+                <option value="webcam">Webcam</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Max connections:<td>
+        <td><input type="text" id="maxConnections" value="1000" /></td>
+    </tr>
+    <tr>
+        <td>Max peers:<td>
+        <td><input type="text" id="maxPeers" value="50" /></td>
+    </tr>
+    <tr>
+        <td>Max upload slots:<td>
+        <td><input type="text" id="maxUploadSlots" value="7" /></td>
+    </tr>
+    <tr>
+        <td>Piece length:<td>
+        <td>
+            <select id="piecesize">
+                <option value="auto">Auto</option>
+                <option value="16384">16K</option>
+                <option value="32768">32K</option>
+                <option value="65536">64K</option>
+                <option value="131072">128K</option>
+            </select>
+        </td>
+    </tr>
+    <tr>
+        <td>Trackers:<td>
+        <td><textarea id="trackers"></textarea></td>
+    </tr>
+    <tr>
+        <td>Port:<td>
+        <td><input type="text" id="port" value="7764" /></td>
+    </tr>
+    <tr>
+        <td>Host:<td>
+        <td><input type="text" id="host" value="" /></td>
+    </tr>
+    <tr>
+        <td>&nbsp;<td>
+        <td><input type="button" id="button-create-stream" value="Create stream" /></td>
+    </tr>
+</table>
+
+</body>
+
+</html>

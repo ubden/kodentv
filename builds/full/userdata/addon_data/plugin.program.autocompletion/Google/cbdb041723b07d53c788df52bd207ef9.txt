@@ -1,0 +1,1 @@
+["Oto Te", ["oto teyp", "oto teyp \u00e7evirici", "oto teyp tamiri", "oto temizlik seti", "oto telefon tutucu", "oto temizlik \u00fcr\u00fcnleri", "oto teyp fiyatlar\u0131", "oto teyp ekranl\u0131", "oto teyp a101", "oto tesisat"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

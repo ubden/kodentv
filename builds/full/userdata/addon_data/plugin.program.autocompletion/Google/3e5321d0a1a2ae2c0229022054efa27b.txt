@@ -1,0 +1,1 @@
+["NETFL\u0130X KOD\u0130", ["netflix kodi", "netflix kodi addon", "netflix kodi free", "netflix kodi repository", "netflix kodi android", "netflix kodi 18.5", "netflix kodi 4k", "netflix kodi addon 2018", "netflix kodi 16.1", "netflix kodi 18"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

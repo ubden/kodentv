@@ -1,0 +1,1 @@
+["EN", ["en uygun", "enes batur", "en son haber", "enpara", "en uygun kredi", "en iyi filmler", "english home", "enza home", "enerjisa", "enfluvir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

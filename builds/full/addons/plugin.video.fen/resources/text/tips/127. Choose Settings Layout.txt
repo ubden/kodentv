@@ -1,0 +1,6 @@
+[COLOR dodgerblue][B]Choose Settings Layout[/B][/COLOR]
+[I]You can now Choose between a Basic or Advanced layout for Fen's settings. Change this setting at Settings->General->Appearance.
+
+The 'Basic' layout will have a normal settings structure, where the settings for each tab simply run down the page. The 'Advanced' structure will incorporate Submenus for each tab's settings, meaning you won't see all settings for that tab at once. You can cycle through the submenus to see differently themed settings (this was Fen's previous way of showing settings).
+
+I understand the settings in Fen can be confusing, and possibly people didn't know they could cycle through submenus, so this is a better alternative where you can choose which layout suits you best. The default will be set to 'Basic'.[/I]
