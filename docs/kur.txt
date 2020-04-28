@@ -1,6 +1,6 @@
 name="----- SUNUCU 1 -----"
 version="5.2020"
-url="https://github.com/ubden/kodentv/releases/download/full_5_2020/kodentv_ful_5_2020.zip"
+url="https://github.com/ubden/kodentv/releases/download/final_52020/final.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
