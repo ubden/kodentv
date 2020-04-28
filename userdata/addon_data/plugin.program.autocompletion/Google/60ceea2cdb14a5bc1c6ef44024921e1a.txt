@@ -1,1 +1,0 @@
-["Firm", ["firmino", "firmware", "firma sorgulama", "firm", "firmenich", "firmware nedir", "firmament", "firmapedia", "firm meaning", "firm ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

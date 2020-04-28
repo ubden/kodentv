@@ -1,1 +1,0 @@
-["e", ["eba", "e devlet", "eba giri\u015f", "e okul", "ek\u015fi", "e nab\u0131z", "euro", "eba canl\u0131 ders", "evkur", "en uygun"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

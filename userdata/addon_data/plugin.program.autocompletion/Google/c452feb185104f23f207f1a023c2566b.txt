@@ -1,1 +1,0 @@
-["[COLOR gold]Yerl[/COLOR]", ["color gold real /color "], [], {"google:suggesttype": [""]}]

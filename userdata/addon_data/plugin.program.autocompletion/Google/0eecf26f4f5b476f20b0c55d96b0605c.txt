@@ -1,1 +1,0 @@
-["Bes", ["be\u015fikta\u015f", "bes karnemiz", "bes", "best10", "best fm", "best chicken", "besmele", "beste k\u00f6kdemir", "be\u015fikta\u015f ma\u00e7\u0131", "be\u015famel sos"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

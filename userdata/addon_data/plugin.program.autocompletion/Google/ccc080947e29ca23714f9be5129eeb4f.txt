@@ -1,1 +1,0 @@
-["Install f", ["install flash player", "install flutter", "install firefox", "install flask", "install fortnite", "install facebook app", "install ffmpeg", "install fastlane", "install ffmpeg mac", "install flutter mac"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

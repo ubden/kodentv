@@ -1,1 +1,0 @@
-["Pul", ["pull and bear", "pulp fiction", "pulsar", "pulsar 200 ns", "pulibet", "pulive tv", "pulmicort", "pulsar 200 rs", "pulmorest", "pull and bear mont"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

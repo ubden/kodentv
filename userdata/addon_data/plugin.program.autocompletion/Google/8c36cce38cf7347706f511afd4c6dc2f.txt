@@ -1,1 +1,0 @@
-["Mu", ["mucize doktor", "mudo", "mudo concept", "mubi", "music", "murat boz", "murat \u00f6v\u00fc\u00e7", "murda", "muhallebi tarifi", "muslera"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

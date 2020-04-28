@@ -1,1 +1,0 @@
-["wolfs", ["wolfsburg", "wolfskin", "wolfsbane", "wolfsburg malm\u00f6", "wolfsburg kadro", "wolfsberger", "wolfsberg", "wolfsburg 2", "wolfstar", "wolfsburg forma"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

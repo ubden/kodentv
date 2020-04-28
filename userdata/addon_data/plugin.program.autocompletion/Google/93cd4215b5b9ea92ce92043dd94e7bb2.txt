@@ -1,1 +1,0 @@
-["[COLOR aqua]A[/COLOR]", ["aqua color color make"], [], {"google:suggesttype": ["QUERY"]}]

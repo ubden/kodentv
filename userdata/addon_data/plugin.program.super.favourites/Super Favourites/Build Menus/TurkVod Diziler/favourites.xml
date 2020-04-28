@@ -1,4 +1,0 @@
-<favourites>
-	<favourite name="DIZI MODULLERI - YERLI" thumb="DefaultFolder.png">ActivateWindow(10025,&quot;plugin://plugin.video.turkvod/?mode=1&amp;name=DIZI%20MODULLERI%20-%20YERLI&amp;url=http%3a%2f%2fturkvod.org%2f10%2findex_dizi_tr.php&amp;sf_options=desc%3D%2A%2A%2A+TURKvod+SINIRLI+SURUMU+KULLANIYORSUNUZ.+TAM+SURUM+ICIN+WWW.TURK-DREAMWORLD.COM+U+ZIYARET+EDINIZ+%2A%2A%2A%26_options_sf&quot;,return)</favourite>
-	<favourite name="DIZI MODULLERI - YABANCI" thumb="DefaultFolder.png">ActivateWindow(10025,&quot;plugin://plugin.video.turkvod/?mode=1&amp;name=DIZI%20MODULLERI%20-%20YABANCI&amp;url=http%3a%2f%2fturkvod.org%2f10%2findex_dizi_yab.php&amp;sf_options=desc%3D%2A%2A%2A+TURKvod+SINIRLI+SURUMU+KULLANIYORSUNUZ.+TAM+SURUM+ICIN+WWW.TURK-DREAMWORLD.COM+U+ZIYARET+EDINIZ+%2A%2A%2A%26_options_sf&quot;,return)</favourite>
-</favourites>

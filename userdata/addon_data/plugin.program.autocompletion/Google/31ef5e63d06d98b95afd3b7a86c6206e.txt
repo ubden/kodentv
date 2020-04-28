@@ -1,1 +1,0 @@
-["[COLOR orange]7F\u0130LMLER[/COLOR]", ["color l\u0131nez"], [], {"google:suggesttype": ["QUERY"]}]

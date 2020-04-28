@@ -1,1 +1,0 @@
-["CCTV", ["cctv", "cctv kamera", "cctv kablo", "cctv nedir", "cctvdepo", "cctv kamera kablosu", "cctv camera", "cctv eye", "cctv izle", "cctv eye apk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

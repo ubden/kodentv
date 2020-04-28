@@ -1,1 +1,0 @@
-["[COLOR go", ["color goggles", "color google", "color goggles vac", "color gold", "color goggles a\u00e7\u0131lm\u0131yor", "color goggles not working", "color go server", "color goggles v1.0.0", "color go sac boyasi", "color go sac boyasi katalogu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

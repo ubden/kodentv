@@ -1,1 +1,0 @@
-["d", ["dolar", "d\u00f6viz", "dizibox", "deprem", "defacto", "discord", "denizbank", "decathlon", "dominos", "d\u00fcnya haritas\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

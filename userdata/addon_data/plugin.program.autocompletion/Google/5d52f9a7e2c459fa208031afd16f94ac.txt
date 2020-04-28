@@ -1,1 +1,0 @@
-["[/", ["/", "/ ne anlama gelir", "/ ne demek", "//intranet", "/ i\u015fareti ne demek", "/admin", "/ anlam\u0131", "//dino", "/ hangi emoji", "//plugins"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

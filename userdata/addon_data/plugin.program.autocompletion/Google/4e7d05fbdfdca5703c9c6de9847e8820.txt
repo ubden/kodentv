@@ -1,1 +1,0 @@
-["Super Favourites - Spor Wigdet", ["super favourites - spor widget", "super favourites - spor widgets"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

@@ -1,1 +1,0 @@
-["Vevo Muzil", ["vevo m\u00fczik", "vevo m\u00fczik dinle", "vevo m\u00fczik ileti\u015fim", "vevo yabanc\u0131 m\u00fczik", "m\u00fczik vevo nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

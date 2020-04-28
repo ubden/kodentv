@@ -1,1 +1,0 @@
-["H\u0131l", ["h\u0131lt\u0131", "h\u0131lux", "h\u0131lltown", "h\u0131lf\u0131ger", "h\u0131lton otel", "h\u0131ll kartal", "hilltown", "h\u0131lf\u0131ger saat", "h\u0131lful fudul", "h\u0131 level"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

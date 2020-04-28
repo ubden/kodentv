@@ -1,1 +1,0 @@
-["[COLOR gold]ub", ["color fresh create uber gold"], [], {"google:suggesttype": ["QUERY"]}]

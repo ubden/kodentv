@@ -1,1 +1,0 @@
-["Clean kOD", ["clean code", "clean code kitap", "clean code t\u00fcrk\u00e7e", "clean code nedir", "clean code book", "clean code a handbook of agile software craftsmanship", "clean code principles", "clean coder", "clean code sat\u0131n al", "clean code c#"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

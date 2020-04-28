@@ -1,6 +1,0 @@
-<settings version="2">
-    <setting id="autoplay">true</setting>
-    <setting id="cache_time">8</setting>
-    <setting id="data_time" default="true">1587908193</setting>
-    <setting id="inputstream" default="true">false</setting>
-</settings>

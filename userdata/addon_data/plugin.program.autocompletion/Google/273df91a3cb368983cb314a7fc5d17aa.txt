@@ -1,1 +1,0 @@
-["SUPER FA", ["superfabric", "super fancy pants adventure", "super fast", "super fancy pants adventure apk", "super fat burner", "super family", "super famicom", "super fancy pants adventure indir pc", "super fast izle", "super fast charging"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

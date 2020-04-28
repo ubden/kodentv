@@ -1,1 +1,0 @@
-["SEYIR", ["seyir tepesi mu\u011fla", "seyirt\u00fcrk", "seyir tepesi", "seyirmeler", "seyir", "seyir teras\u0131", "seyir koleji", "seyir defteri", "seyir ne demek", "seyirci"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Fen", ["fenerbah\u00e7e", "fenerbah\u00e7e beko", "fen bilimleri", "fener", "fener ma\u00e7\u0131", "fenerbah\u00e7e kadro", "fenomen", "fenerbah\u00e7e ma\u00e7\u0131", "fener hisse", "fendi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

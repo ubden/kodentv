@@ -1,1 +1,0 @@
-["TURKCE", ["turkcell", "turkcell superbox", "turkcell paketler", "turkcell superonline", "t\u00fcrk\u00e7e ingilizce", "turkcell tv", "turkcell internet", "t\u00fcrk\u00e7e \u00e7eviri", "turkcell telefon", "turkcell fatura \u00f6deme"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

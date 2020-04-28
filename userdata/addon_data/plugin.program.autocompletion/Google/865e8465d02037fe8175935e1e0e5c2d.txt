@@ -1,1 +1,0 @@
-["WhiteCr", ["whitecrow", "whitecream", "white creative", "whitecroft lighting", "whitecrit", "whitecrow research", "whitecross street market", "whitecross vets", "whitecraigs golf club", "whitecraigs rugby club"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

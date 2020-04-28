@@ -1,1 +1,0 @@
-["[sey", ["seyahat izin belgesi", "seyahat yasa\u011f\u0131 ne zaman kalkacak", "seyahat izin belgesi \u015fartlar\u0131", "seyit onba\u015f\u0131", "seyrantepe", "sey\u015feller", "seyhan soylu", "\u015feyma suba\u015f\u0131", "seyido\u011flu", "seyahat izni"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

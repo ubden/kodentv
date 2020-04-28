@@ -1,1 +1,0 @@
-["Aou", ["aouar", "outlook", "aouchiche", "aout", "aort", "autocad", "youtube", "aorus", "aqua", "aouar fifa 20"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[COLOR yellow]ARA", ["yellow color in arabic", "yellow color meaning in arabic"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

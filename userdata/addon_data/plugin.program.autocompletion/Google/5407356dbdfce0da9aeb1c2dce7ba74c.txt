@@ -1,1 +1,0 @@
-["PO\u00dcL", ["pool", "pool table", "pool game", "pool party", "poole", "pooltext", "pooling", "pool live tour", "pool noodle", "pools closed"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

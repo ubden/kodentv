@@ -1,1 +1,0 @@
-["[B]Filmler[", ["b ile ba\u015flayan filmler", "en iyi b filmler", "b'l'm kurgu filmleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

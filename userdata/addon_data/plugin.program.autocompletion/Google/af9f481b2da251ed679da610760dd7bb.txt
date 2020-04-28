@@ -1,1 +1,0 @@
-["Adu", ["aduzem", "ad\u00fc", "ad\u00fczem", "adultswim", "aduket", "ad\u00fc obis", "aduriz", "aduket oyna", "adut akech", "aduket ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

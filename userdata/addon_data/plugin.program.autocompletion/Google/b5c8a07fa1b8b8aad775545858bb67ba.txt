@@ -1,1 +1,0 @@
-["Spor Wid", ["sports widget google", "sports widget", "sports widgets", "sports widget android", "sports widgets for websites", "sports widow", "sports widget iphone", "sports widgets for android", "sports widget mac", "sports wide open"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

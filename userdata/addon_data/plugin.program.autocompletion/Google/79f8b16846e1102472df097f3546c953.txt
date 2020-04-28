@@ -1,1 +1,0 @@
-["[B]Diziler[", ["tims&b dizileri", "b ile diziler", "b ba\u015flayan diziler", "kanal b dizileri", "b ile ba\u015flayan diziler", "b harfiyle ba\u015flayan diziler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

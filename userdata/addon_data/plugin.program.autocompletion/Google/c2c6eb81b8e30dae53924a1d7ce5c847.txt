@@ -1,1 +1,0 @@
-["Oyu", ["oyunlar", "oyun", "oyun oyna", "oyun indir", "oyuncak", "oyuncu f\u0131rat \u00e7elik", "oyun kolu", "oyun indir club", "oyuncu koltu\u011fu", "oyun bilgisayar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

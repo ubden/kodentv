@@ -1,1 +1,0 @@
-["Kodi l", ["kodi linux", "kodi lee", "kodi lig tv", "kodi lg tv", "kodi lig tv 2020", "kodi link 2020", "kodi live tv eklentisi", "kodi lig tv eklenti", "kodi leia", "kodi linki"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Popul", ["popular science", "pop\u00fclist", "population", "popular science t\u00fcrkiye", "popular", "pop\u00fclasyon", "population ne demek", "population of usa", "populus alba", "populus nigra"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,4 +1,0 @@
-<settings version="2">
-    <setting id="mode" default="true">random</setting>
-    <setting id="refresh">10</setting>
-</settings>

@@ -1,1 +1,0 @@
-["SCRUP TR FILML", ["scrup tr film", "scrup tr filmi", "scrup tr filmler", "scrup tr filmleri"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

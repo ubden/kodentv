@@ -1,1 +1,0 @@
-["Kodi", ["kodi", "kodiaq", "kodi turkvod", "kodi nedir", "kodi eklentileri", "kodi turkvod 2020", "kodi kurulum", "kodi 2020", "kodilan", "kodiaq 2020"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

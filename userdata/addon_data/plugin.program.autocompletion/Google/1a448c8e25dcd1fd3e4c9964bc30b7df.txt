@@ -1,1 +1,0 @@
-["wol", ["wolfteam", "wolfteam indir", "wolverine", "wolfteam kur", "wolksvagen golf", "wolves", "wolfteam hile", "wolfteam giri\u015f", "wolfteam hesap a\u00e7", "wolksvagen polo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

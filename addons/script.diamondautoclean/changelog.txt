@@ -1,2 +1,0 @@
-﻿2.0
-- Initial Release

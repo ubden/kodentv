@@ -1,1 +1,0 @@
-["TUR", ["turkcell", "tureng", "turktelekom", "turknet", "t\u00fcrk telekom", "t\u00fcrkiye haritas\u0131", "turktelekom online", "turkcell superbox", "t\u00fcrkiye", "turkcell paketler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

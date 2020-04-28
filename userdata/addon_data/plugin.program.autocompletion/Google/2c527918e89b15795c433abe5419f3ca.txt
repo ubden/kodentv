@@ -1,1 +1,0 @@
-["AUTOCLE", ["autoclean", "autoclean taban", "autoclear", "autoclean taban nedir", "autoclean kocaeli", "autoclean taban m\u0131 durilium taban m\u0131", "autoclean ne demek", "autoclean taban \u00f6zellikleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

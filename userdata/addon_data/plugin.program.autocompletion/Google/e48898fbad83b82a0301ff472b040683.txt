@@ -1,1 +1,0 @@
-["Exo", ["exo", "exotic shorthair", "exoderil", "exo \u00fcyeleri", "exorcist", "exodus", "exo kai", "exoderil nedir", "exo chen", "exotic"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Oto", ["otob\u00fcs bileti", "otob\u00fcs", "otomatik portakal", "otogar", "oto teyp", "oto aksesuar", "otovadeli", "otoko\u00e7", "otostop\u00e7unun galaksi rehberi", "otorapor"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

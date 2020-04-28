@@ -1,1 +1,0 @@
-["[COLOR red]", ["color red just red", "color red meaning", "color red parf\u00fcm", "color red", "color red symbolism", "color red html", "color red quotes", "color red song", "color red code", "color red latex"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

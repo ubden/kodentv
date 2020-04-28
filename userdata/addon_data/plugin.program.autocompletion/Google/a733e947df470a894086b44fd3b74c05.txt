@@ -1,1 +1,0 @@
-["[B]B", ["b blok", "b blok bakery", "b bitki", "b blok be\u015fikta\u015f", "b butik mobilya", "b blok san sebastian", "b b", "b braun", "b burger", "b b1 f m"], [], {"google:fieldtrialtriggered": true, "google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

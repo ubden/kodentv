@@ -1,1 +1,0 @@
-["Ukturks", ["uk turks pin", "uk turks", "ukturks pin kodu", "ukturk repo", "ukturks pin generator", "ukturks playlist"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

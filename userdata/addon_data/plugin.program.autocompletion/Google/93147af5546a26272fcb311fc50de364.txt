@@ -1,1 +1,0 @@
-["[COLOR gold]OYUNCUL[/COLOR]", ["color gold oyuncular /color "], [], {"google:suggesttype": [""]}]

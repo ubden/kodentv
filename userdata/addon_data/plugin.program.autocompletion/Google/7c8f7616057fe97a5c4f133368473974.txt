@@ -1,1 +1,0 @@
-["Depodan", ["depodans", "depodankap\u0131ya", "depodanbul", "despondent", "despondency", "despondent meaning", "despondent ne demek", "depodance", "despondence", "despondent synonym"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Vevo Muzi", ["vevo m\u00fczik", "vevo m\u00fczik dinle", "vevo m\u00fczik ileti\u015fim", "vevo music", "vevo muziek", "vevo muzica", "krajiska muzika vevo", "muzica vevo 2018", "vevo yabanc\u0131 m\u00fczik", "m\u00fczik vevo nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

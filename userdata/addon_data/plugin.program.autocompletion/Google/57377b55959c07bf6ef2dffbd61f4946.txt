@@ -1,1 +1,0 @@
-["Yeni B", ["yeni b\u00f6l\u00fcm\u00fc", "yeni bir i\u015f", "yeni b\u00f6l\u00fcmleri", "yeni bur\u00e7lar", "yeni bahar", "yeni baraj taksi", "yeni beygir", "yeni bir ba\u015flang\u0131\u00e7", "yeni baraj mahallesi", "yeni ba\u015flayan diziler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

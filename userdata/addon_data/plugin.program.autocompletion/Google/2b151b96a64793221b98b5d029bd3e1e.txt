@@ -1,1 +1,0 @@
-["NMC", ["nmc", "nmc battery", "nmcli", "nm\u00e7al", "nmc pro", "nmcrl", "mc skin", "nmc tar\u0131m", "nmc batarya", "nmc uk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

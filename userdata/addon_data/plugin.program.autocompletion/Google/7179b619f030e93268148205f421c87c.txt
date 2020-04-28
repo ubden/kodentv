@@ -1,1 +1,0 @@
-["D\u0130", ["discord", "dizibox", "dizimag", "digiturk", "diken", "dictionary", "dizilla", "divarese", "dior", "digiturk play"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

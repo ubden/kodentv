@@ -1,1 +1,0 @@
-["[COLOR red]13 Errors Found in Log[/COLOR]", ["color red 13 errors found in log /color code", "color red 13 errors found in log /color kft", "color red 13 errors found in log /color error"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

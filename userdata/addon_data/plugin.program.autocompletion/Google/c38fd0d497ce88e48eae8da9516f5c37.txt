@@ -1,1 +1,0 @@
-["[B]Lay", ["b lay", "b lay tong", "b lay tong phuket", "b layer of soil", "b layered", "belay climbing", "b layne home", "b lay tong beach resort", "b lay tong hotel", "b lay tong hotel phuket"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

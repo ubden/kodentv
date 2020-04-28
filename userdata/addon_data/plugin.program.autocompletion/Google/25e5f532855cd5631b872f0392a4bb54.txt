@@ -1,1 +1,0 @@
-["[COLOR y", ["color yaz\u0131l\u0131m", "color y\u00fckle", "color yellow", "color your life mascara", "color your benz", "color your photos", "color your world", "color your name", "color yellow meaning", "color your nails"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

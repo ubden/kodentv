@@ -1,1 +1,0 @@
-["[ARA", ["aras kargo", "arabam", "aram\u0131zda kals\u0131n", "araba", "ara\u00e7 kiralama", "araba oyunlar\u0131", "aras kargo takibi", "arabalar", "arap tava", "ara\u00e7 muayene"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

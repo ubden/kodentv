@@ -1,1 +1,0 @@
-["Sanal", ["sanal \u00e7ad\u0131r", "sanalika", "sanal m\u00fcze", "sanal market", "sanal ma\u011faza", "sanal bas\u0131n", "sanal kamp\u00fcs", "sanal akademi", "sanal ger\u00e7eklik g\u00f6zl\u00fc\u011f\u00fc", "sanal okulumuz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

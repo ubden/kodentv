@@ -1,1 +1,0 @@
-["UK Turks TV S", ["uk turk tv shows not working", "uk turk tv stopped working"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

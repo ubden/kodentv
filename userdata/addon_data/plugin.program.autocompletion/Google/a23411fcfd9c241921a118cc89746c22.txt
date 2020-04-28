@@ -1,1 +1,0 @@
-["seyirTURK[/B", ["seyirturk benzeri programlar 2019", "seyirturk benzeri programlar 2018", "seyirturk benzeri programlar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

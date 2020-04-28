@@ -1,1 +1,0 @@
-["BAKIM", ["bak\u0131m", "bak\u0131m paras\u0131", "bak\u0131m evi", "bakimder", "bak\u0131m paras\u0131 ne kadar", "bak\u0131m seti", "bak\u0131mday\u0131z", "bak\u0131m maa\u015f\u0131", "bak\u0131ml\u0131 kad\u0131n", "bak\u0131m paras\u0131 yatan iller"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

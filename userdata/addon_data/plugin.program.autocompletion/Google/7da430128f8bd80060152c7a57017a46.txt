@@ -1,1 +1,0 @@
-["Vid", ["video indir", "video", "videolar\u0131", "videolig", "videolar", "video izle", "video converter", "videosu", "video birle\u015ftirme", "vida"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

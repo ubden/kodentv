@@ -1,1 +1,0 @@
-["[B]FAVOR[/B]", ["one kind favor b.b. king"], [], {"google:suggesttype": ["QUERY"]}]

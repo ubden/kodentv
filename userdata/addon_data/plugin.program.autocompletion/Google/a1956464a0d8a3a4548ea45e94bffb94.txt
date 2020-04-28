@@ -1,1 +1,0 @@
-["TurkCo", ["turkcoat", "turkcone", "turkcom", "turkcorap", "turco", "turkcoat dergisi", "turkcoder", "turk covid", "t\u00fcrkomp", "turkvod"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["UkTu", ["ukturk pin", "ukturk", "ukturk 2020", "ukturk pin kodu", "ukturk repo", "ukturk sa\u011fl\u0131k formu", "kutup ne demek", "uk turkey", "ukturk repository zip", "ukturk pin code"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

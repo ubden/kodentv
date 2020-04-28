@@ -1,1 +1,0 @@
-["[BIL", ["biletix", "bilgi learn", "billie eilish", "bilmeceler", "bilyoner", "bill gates", "bilgisayar", "bilet al", "bilim kurgu filmleri", "bilgi sis"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

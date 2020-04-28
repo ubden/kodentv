@@ -1,1 +1,0 @@
-[".Ba", [".bat kodlar\u0131", ".bat", ".bak dosyas\u0131", ".bashrc", ".bak dosyas\u0131 nedir", ".bat dosyas\u0131", ".ba", ".bat nedir", ".bak", ".bat komutlar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[co", ["covid 19", "corona", "coronavirus", "corona son durum", "corona vir\u00fcs\u00fc son dakika vaka say\u0131s\u0131", "\u00e7orba tarifleri", "corona t\u00fcrkiye", "corona vir\u00fcs", "coronavirus map", "columbia"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Filmle", ["filmler", "filmler 2020", "filmler 2019", "filmler 2018", "filmler komedi", "filmler ve filimler", "filmlerde fig\u00fcranlar\u0131n \u00e7\u0131kard\u0131\u011f\u0131", "filmler t\u00fcrk", "filmler filmler", "filmler aksiyon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

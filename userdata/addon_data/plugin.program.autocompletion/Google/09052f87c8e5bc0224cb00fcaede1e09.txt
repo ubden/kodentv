@@ -1,1 +1,0 @@
-["SUPERF", ["superfresh", "superfb", "superfresh pizza", "superfabric", "superfresh patates", "superfresh pizza tost", "superfresh mant\u0131", "superfm", "superfresh b\u00f6rek", "superfresh bezelye"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

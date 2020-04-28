@@ -1,1 +1,0 @@
-["[B]D\u0130[/B]", ["b&b di piazza del duomo", "b&b di camilla", "b&b di", "b&b monaco di baviera", "b&b di camilla pisa", "b&b di lusso", "b&b di nomi", "b&b lago di braies", "b&b mola di bari", "b&b civita di bagnoregio"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

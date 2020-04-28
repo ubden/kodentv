@@ -1,1 +1,0 @@
-["https://wubden.com", ["winden", "winden almanya", "windenburg sims 4", "winden power plant", "winden kasabas\u0131", "winden nerede", "windenergie", "wind energy", "winden caves", "winden meaning"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

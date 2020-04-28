@@ -1,1 +1,0 @@
-["S", ["son dakika", "s\u00f6zc\u00fc", "sahibinden", "sabah", "survivor", "sa\u011fl\u0131k bakanl\u0131\u011f\u0131", "sahur vakti", "speedtest", "steam", "son dakika deprem"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

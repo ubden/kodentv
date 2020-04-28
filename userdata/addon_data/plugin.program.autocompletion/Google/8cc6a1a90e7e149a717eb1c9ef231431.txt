@@ -1,1 +1,0 @@
-["Pak", ["pakistan", "pakmaya", "pakistan population", "paksoy", "pakistani rupees", "paket taxi", "pakistan n\u00fcfusu", "pakmaya kuru maya", "pakistan news", "pakmaya ya\u015f maya"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

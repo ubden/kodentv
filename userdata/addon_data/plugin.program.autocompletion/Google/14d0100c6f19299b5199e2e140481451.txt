@@ -1,1 +1,0 @@
-["GAMING ZONE", ["gaming zone", "gaming zone near me", "gaming zone apk", "gaming zone in delhi", "gaming zone lahore", "gaming zone logo", "gaming zone in karachi", "gaming zone in noida", "gaming zone in jaipur", "gaming zone in hyderabad"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

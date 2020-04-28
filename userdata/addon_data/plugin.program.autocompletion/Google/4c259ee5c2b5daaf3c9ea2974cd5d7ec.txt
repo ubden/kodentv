@@ -1,1 +1,0 @@
-["IPTV", ["iptv", "iptv apk", "iptv sat\u0131\u015f", "iptv ek\u015fi", "iptv smarters indir", "iptv extreme pro", "iptv smarters pro apk", "iptv apk 2020", "iptv smarters windows", "iptv kanal listesi m3u indir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

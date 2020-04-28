@@ -1,1 +1,0 @@
-["OpenInf", ["open infectious diseases journal", "opening day", "openinfra map", "open infra summit", "open infrastructure summit", "mlb opening day", "openinfo bible", "openinfra days nordic", "openinfra days 2019", "openinfra 2019"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

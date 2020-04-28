@@ -1,1 +1,0 @@
-["%appd", ["appdata", "appdynamics", "appdata nerede", "appdb", "appdynamics nedir", "appdata local temp", "appdata roaming", "appdata ne demek", "appdata silmek", "appdata temizleme"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

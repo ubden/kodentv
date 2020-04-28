@@ -1,1 +1,0 @@
-["TRD\u0130Z\u0130LER", ["tr dizileri", "tr diziler"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

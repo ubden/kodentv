@@ -1,1 +1,0 @@
-["[COLOR orchid]\u00a4[/COL", ["color orchid color", "orchid color colorhexa", "color colored orchid"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

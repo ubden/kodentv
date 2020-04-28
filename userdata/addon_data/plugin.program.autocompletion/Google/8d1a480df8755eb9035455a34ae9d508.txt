@@ -1,1 +1,0 @@
-["Youtube A", ["youtube abone hilesi", "youtube a\u00e7", "youtube abone kasma", "youtube apk", "youtube abone sayac\u0131", "youtube adblock", "youtube arka plan", "youtube audio library", "youtube abone sat\u0131n al", "youtube active"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

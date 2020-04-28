@@ -1,1 +1,0 @@
-["[B]D", ["b design", "b den hayvan", "b dortmund", "b den bitki", "b daman", "b dortmunt", "b day ne demek", "b delicious", "b drop nedir", "b dayz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

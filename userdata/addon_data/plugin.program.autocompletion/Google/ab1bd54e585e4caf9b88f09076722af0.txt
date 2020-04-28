@@ -1,1 +1,0 @@
-["skinsetting", ["skin setting", "skin setting spray", "skin settings minecraft", "skin setting glowing base", "skin setting tone-up sun base", "skin setting smoothing base", "skin_settings krpano", "skin setting tone balancing base", "skin settings csgo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

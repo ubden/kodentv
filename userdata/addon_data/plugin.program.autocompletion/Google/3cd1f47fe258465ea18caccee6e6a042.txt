@@ -1,1 +1,0 @@
-["skinsettings", ["skin settings minecraft", "skin settings", "skin settings in asp.net", "skin_settings krpano", "skin settings cost", "skin settings csgo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

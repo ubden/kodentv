@@ -1,1 +1,0 @@
-["[X", ["xiaomi", "xiaomi redmi note 8", "xiaomi redmi note 8 pro", "xbox", "xiaomi redmi note 7", "xbox one s", "xiaomi mi 9", "xiaomi note 8", "xiaomi mi 10 pro", "xiaomi kulakl\u0131k"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

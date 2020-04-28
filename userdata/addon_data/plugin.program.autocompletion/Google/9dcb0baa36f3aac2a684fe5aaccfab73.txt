@@ -1,1 +1,0 @@
-["Scrup", ["scrup", "scrubs", "scrup hem\u015fire", "scrupulous", "scruples", "scruple", "scrubs izle", "scrup forma", "scrupulously", "scrupulous ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

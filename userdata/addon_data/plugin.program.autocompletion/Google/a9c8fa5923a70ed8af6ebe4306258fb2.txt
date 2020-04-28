@@ -1,1 +1,0 @@
-["Spor W", ["spot welding", "spot welder", "spot welding machine", "spor words", "spor wiki", "spor weekend", "sporeworks", "sportswear", "spor words meaning seed", "spor weekend codul muncii"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

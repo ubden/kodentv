@@ -1,1 +1,0 @@
-["Sana", ["sanal market", "sanal \u00e7ad\u0131r", "sanalika", "sana", "sanayi devrimi", "sanayi 313", "sanayi ve teknoloji bakanl\u0131\u011f\u0131", "sana bir s\u0131r verece\u011fim", "sanal bebek", "sanal ma\u011faza"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

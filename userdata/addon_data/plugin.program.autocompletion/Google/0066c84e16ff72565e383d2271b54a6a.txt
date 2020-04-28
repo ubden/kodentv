@@ -1,1 +1,0 @@
-["[B]YAY[/B]", ["b yy b", "yay burcu b"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

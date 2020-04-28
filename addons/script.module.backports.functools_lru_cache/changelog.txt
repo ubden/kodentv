@@ -1,3 +1,0 @@
-Version 1.6.1
-
-- backports.functools_lru_cache Version 1.6.1

@@ -1,1 +1,0 @@
-["http://gruponetai.com/adryanli", ["http://gruponetai.com/adryanlist/"], [], {"google:suggesttype": ["QUERY"]}]

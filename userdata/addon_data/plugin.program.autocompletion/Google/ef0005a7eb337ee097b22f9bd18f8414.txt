@@ -1,1 +1,0 @@
-["IMDB TOP 25", ["imdb top 250", "imdb top 250 dizi", "imdb top 250 film", "imdb top 250 t\u00fcrk\u00e7e", "imdb top 25", "imdb top 250 t\u00fcrk filmleri", "imdb top 250 netflix", "imdb top 250 english", "imdb top 250 komedi", "imdb top 250 comedy"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

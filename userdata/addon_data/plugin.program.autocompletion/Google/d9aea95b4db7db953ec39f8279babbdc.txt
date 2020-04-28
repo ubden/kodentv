@@ -1,1 +1,0 @@
-["BAK", ["baklava", "bakara suresi", "bak\u0131rk\u00f6y", "baklava tarifi", "bak\u0131rk\u00f6y adliyesi", "bakkal amca", "bakla", "bakan koca", "bakara 187", "bakkallar a\u00e7\u0131k olacak m\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["..", ["..com", "... ne demek", "... ka\u011f\u0131d\u0131", ".. nerede kullan\u0131l\u0131r", "... defteri", "... lambas\u0131", "... anlam\u0131", "... ne anlama gelir", "... ba\u015f\u0131", ".. i\u015fareti"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

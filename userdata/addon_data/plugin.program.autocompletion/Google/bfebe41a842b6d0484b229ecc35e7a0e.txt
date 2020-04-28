@@ -1,1 +1,0 @@
-["7 of 9 Gen\u00e7 \u00c7i", ["7 of 9 gen\u00e7 \u00e7ift\u00e7i", "7 of 9 gen\u00e7 \u00e7izimi", "7 of 9 gen\u00e7 \u00e7i\u00e7ek"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

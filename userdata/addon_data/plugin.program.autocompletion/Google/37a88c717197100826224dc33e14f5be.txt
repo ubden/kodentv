@@ -1,1 +1,0 @@
-["Paketleri Temizl", ["ara\u00e7 temizlik paketleri", "oto temizlik paketleri", "temizlik paketleri", "parke temizlik malzemeleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

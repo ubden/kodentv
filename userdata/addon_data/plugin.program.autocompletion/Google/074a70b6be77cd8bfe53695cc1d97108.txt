@@ -1,1 +1,0 @@
-["IMD", ["imdb", "imdb top 100", "imdb top 250", "imdb 250", "imdb film", "imdb dizi", "imdb nedir", "imdb puan\u0131 y\u00fcksek filmler 2020", "imdb diziler", "imdb ilk 100"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

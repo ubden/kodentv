@@ -1,1 +1,0 @@
-["SUPER F", ["s\u00fcper fm", "s\u00fcper fb", "superfresh", "s\u00fcper fm dinle", "super floss", "super fighters", "s\u00fcper fm frekans", "s\u00fcper film", "superfabric", "superfood"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

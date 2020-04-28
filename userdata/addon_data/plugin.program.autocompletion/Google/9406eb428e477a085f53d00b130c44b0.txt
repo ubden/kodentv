@@ -1,1 +1,0 @@
-["[B]H[/B]", ["b&h black friday 2018", "b&h black friday", "b h b", "h b b o", "b&h photo black friday", "b.h.u b.a"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

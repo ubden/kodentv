@@ -1,1 +1,0 @@
-["Populer Di", ["pop\u00fcler diziler", "pop\u00fcler dizi", "pop\u00fcler diyetler", "pop\u00fcler diziler 2020", "pop\u00fcler diller", "pop\u00fcler diyet isimleri", "pop\u00fcler diyetlerin toplu mezarl\u0131\u011f\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

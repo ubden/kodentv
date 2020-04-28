@@ -1,1 +1,0 @@
-["SP", ["speedtest", "spotify", "sporx", "sputnik", "spend bill gates money", "spor toto", "sportive", "spor ayakkab\u0131", "spartacus", "spiderman"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

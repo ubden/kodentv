@@ -1,1 +1,0 @@
-["Dizi Mod\u00fcll", ["dizi mod\u00fcl\u00fc", "dizi mod\u00fclleri", "dizi mod\u00fcl", "dizi mod\u00fcller"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

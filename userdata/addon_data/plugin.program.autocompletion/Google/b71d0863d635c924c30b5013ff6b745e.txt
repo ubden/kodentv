@@ -1,1 +1,0 @@
-["C", ["carrefour", "cnn", "calculator", "classroom", "coronavirus", "canva", "coursera", "cambridge dictionary", "champions league", "chrome"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["1", ["123movies", "1917", "1 dolar ka\u00e7 tl", "1290sqm", "1 euro", "1 usd to try", "182", "12 monkeys", "16 personalities", "1984"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

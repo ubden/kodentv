@@ -1,1 +1,0 @@
-["PORTAL TOO", ["portal tools", "portal too much wifi", "portal tool box", "portal toolbar gfebs", "portal tool filemaker", "portal room", "portal tools net", "portaltool miennam vnpt invoice vn", "portal tool vnpt invoice vn", "top portal"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

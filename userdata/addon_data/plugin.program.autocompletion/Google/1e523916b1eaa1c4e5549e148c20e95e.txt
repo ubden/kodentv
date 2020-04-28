@@ -1,1 +1,0 @@
-["[B]\u0130D[/B]", ["b and b theaters", "b and b movies", "b and b italia", "b and b movie theater", "airbnb", "b and b studio", "b12", "b and b login", "b and b w", "b and b candy"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

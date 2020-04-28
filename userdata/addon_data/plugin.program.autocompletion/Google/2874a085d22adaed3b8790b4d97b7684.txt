@@ -1,1 +1,0 @@
-["Searc", ["search by image", "search", "search console", "searching", "search history", "search www", "search engine", "search engine optimization", "search associates", "search by photo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

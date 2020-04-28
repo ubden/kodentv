@@ -1,1 +1,0 @@
-["[A", ["a\u015fk 101", "a\u015fk 101 izle", "a101", "a\u00f6f", "atv", "aras kargo", "alt\u0131n", "akbank", "a\u015fk 101 oyuncular\u0131", "acunn"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Canl\u0131 TV", ["canl\u0131 tv", "canl\u0131 tv haber", "canl\u0131 tv eba lise", "canl\u0131 tv me", "canl\u0131 tv today", "canl\u0131 tv tele1", "canl\u0131 tv trt haber", "canli tv habert\u00fcrk", "canl\u0131 tv eba ilkokul", "canl\u0131 tv trt"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

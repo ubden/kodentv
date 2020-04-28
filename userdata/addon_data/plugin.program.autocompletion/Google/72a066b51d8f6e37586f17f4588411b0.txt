@@ -1,1 +1,0 @@
-["L", ["linkedin", "la casa de papel", "letgo", "liverpool", "lol", "lucifer", "little women", "lego", "lc waikiki", "louis vuitton"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

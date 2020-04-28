@@ -1,1 +1,0 @@
-["Rising T", ["rising tente", "rising tide", "rising the sun", "rising thunder", "rising tente fiyatlar\u0131", "rising the heroes", "rising teras", "rising tide marvel", "rising treetops at oakhurst", "rising toys"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

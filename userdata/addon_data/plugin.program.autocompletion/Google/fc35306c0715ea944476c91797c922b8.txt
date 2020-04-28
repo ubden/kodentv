@@ -1,1 +1,0 @@
-["G", ["gmail", "google translate", "google", "google maps", "galatasaray", "google classroom", "google drive", "google scholar", "google earth", "google meet"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

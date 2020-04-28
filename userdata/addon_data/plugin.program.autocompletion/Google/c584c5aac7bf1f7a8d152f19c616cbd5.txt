@@ -1,1 +1,0 @@
-[".", [".\u00e7eviri", ".com", ".\u00e7evir'", ".io", ".y", ".net framework", ".m", ".net", ".net core", ".com domain"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

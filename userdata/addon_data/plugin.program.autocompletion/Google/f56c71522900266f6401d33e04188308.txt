@@ -1,1 +1,0 @@
-["Exod", ["exoderil", "exodus", "exoderil nedir", "exodus gods and kings", "exodia", "exodus nedir", "exodus 3000", "exodus tanr\u0131lar ve krallar", "exoderil sprey", "exoderil fiyat"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

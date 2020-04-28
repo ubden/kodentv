@@ -1,1 +1,0 @@
-["Buffer", ["buffer", "buffer ne demek", "buffering", "buffering ne demek", "buffer solution", "buffer overflow", "buffer trendyol", "buffer t\u00f6rp\u00fc", "buffer tank", "buffer led"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

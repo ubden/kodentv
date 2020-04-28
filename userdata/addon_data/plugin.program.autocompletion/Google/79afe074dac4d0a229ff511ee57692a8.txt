@@ -1,1 +1,0 @@
-["SON E", ["son e\u015f anlaml\u0131s\u0131", "son emel", "son eklenen filmler", "son emel kimin eseri", "son elveda", "son depremler", "son e\u015f sesli midir", "son eft saati", "son eklenen", "son eleme konseyi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

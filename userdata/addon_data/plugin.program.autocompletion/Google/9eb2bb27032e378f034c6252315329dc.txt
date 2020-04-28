@@ -1,1 +1,0 @@
-["Fi", ["finansbank", "film", "find starlink", "fitre ne kadar 2020", "filmler", "film \u00f6nerileri", "fikst\u00fcr", "fil suresi", "fiat", "findeks"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

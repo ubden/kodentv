@@ -1,1 +1,0 @@
-["[B]D\u0130Z[/B]", ["b ba\u015flayan dizi"], [], {"google:suggesttype": ["QUERY"]}]

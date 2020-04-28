@@ -1,1 +1,0 @@
-["TurkVod Film", ["turkvod film arama", "turkvod film indirme", "turkvod filmler a\u00e7\u0131lm\u0131yor", "turkvod film", "turkvod film izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

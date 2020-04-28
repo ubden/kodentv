@@ -1,1 +1,0 @@
-["Car", ["carrefoursa", "cartoon network", "car parking apk", "carpe", "carpe diem", "carters", "\u00e7arp\u0131m tablosu", "cartoon network yar\u0131\u015fmas\u0131", "cardi b", "car parking multiplayer apk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

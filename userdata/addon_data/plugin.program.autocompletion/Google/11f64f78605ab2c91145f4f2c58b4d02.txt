@@ -1,1 +1,0 @@
-["[B][COLOR yellow]DIA[/COLOR][COLOR blue]MOND[/COLOR][C", ["b color yellow dia /color color blue mond /color code", "b color yellow dia /color color blue mond /color command"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

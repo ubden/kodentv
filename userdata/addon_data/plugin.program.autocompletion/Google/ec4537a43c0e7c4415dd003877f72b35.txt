@@ -1,1 +1,0 @@
-["Diziler", ["diziler", "diziler ne zaman ba\u015flar", "diziler yabanc\u0131", "diziler 2020", "dizileri", "diziler netflix", "diziler konu anlat\u0131m\u0131", "diziler 2019", "diziler t\u00fcrk", "diziler \u00e7\u0131km\u0131\u015f sorular"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["m", ["mynet", "mebbis", "milliyet", "memurlar net", "maske", "mhrs", "migros", "mucize doktor", "morhipo", "mp3"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

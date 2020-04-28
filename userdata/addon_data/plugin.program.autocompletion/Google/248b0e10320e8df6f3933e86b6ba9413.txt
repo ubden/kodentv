@@ -1,1 +1,0 @@
-["KODEN.TB", ["koden tb-1500", "koden tb-500", "koden tb-1000", "koden tb-400z"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

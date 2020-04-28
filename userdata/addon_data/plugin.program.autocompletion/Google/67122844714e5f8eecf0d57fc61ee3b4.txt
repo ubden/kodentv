@@ -1,1 +1,0 @@
-["hayal a", ["hayal adas\u0131", "hayal ailesi", "hayal adas\u0131 fragman", "hayal anlam\u0131", "hayal akademisi", "hayal adas\u0131 sinemalar", "hayal alemi", "hayal adas\u0131 t\u00fcrk\u00e7e dublaj", "hayal ailesi polen", "hayal aile"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

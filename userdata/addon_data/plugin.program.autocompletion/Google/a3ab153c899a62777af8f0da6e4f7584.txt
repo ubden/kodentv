@@ -1,1 +1,0 @@
-["V", ["vak\u0131fbank", "vodafone", "vatan bilgisayar", "valorant", "vpn", "vidmate", "volkswagen", "vk", "vans", "vimeo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

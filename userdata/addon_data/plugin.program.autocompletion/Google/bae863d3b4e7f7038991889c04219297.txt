@@ -1,1 +1,0 @@
-["Her TV", ["her tv show", "her tv", "her tv series", "her tv tropes", "her tv on pluto", "her tv ye uygun kumanda", "her tv ye uygun kumanda program\u0131", "her tv internete ba\u011flan\u0131r m\u0131", "her tv'yi a\u00e7an kumanda", "her tv ye uygun ayak"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

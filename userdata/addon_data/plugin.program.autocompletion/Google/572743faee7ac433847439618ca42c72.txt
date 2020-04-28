@@ -1,1 +1,0 @@
-["ub", ["ubis", "ubisoft", "ubys", "uber", "ubuntu", "ubs", "ubom iste", "ublock", "ubisoft store", "uber taksi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

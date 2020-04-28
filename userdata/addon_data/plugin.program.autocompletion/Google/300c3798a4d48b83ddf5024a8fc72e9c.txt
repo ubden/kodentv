@@ -1,1 +1,0 @@
-["De", ["decathlon", "deprem", "defacto", "denizbank", "derimod", "deborah feldman", "deichmann", "deadpool", "desmos", "demi lovato"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

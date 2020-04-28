@@ -1,1 +1,0 @@
-["SCRUP T", ["scrub tak\u0131m", "scrub t\u0131p", "scrub translate", "scrub tureng", "scrub tarifi", "scrub typhus", "scrub typhus nedir", "scrub tattoo", "scrub t\u00fcrkiye \u015fikayet", "scrub t\u00fcrkiye"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

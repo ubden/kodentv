@@ -1,1 +1,0 @@
-["UkTurk Spor", ["uk turk sports"], [], {"google:suggesttype": ["QUERY"]}]

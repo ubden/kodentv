@@ -1,1 +1,0 @@
-["Sist", ["sistit", "sistine chapel", "sistem global", "sisters", "sistine \u015fapeli", "sistemkoin", "sistem geri y\u00fckleme", "sistoskopi", "sistein", "sistem al\u00fcminyum"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

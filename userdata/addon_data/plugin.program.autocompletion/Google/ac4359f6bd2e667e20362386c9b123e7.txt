@@ -1,1 +1,0 @@
-["[B]HER [/B]", ["b herb", "block b her", "block b her lyrics", "block b her mp3", "block b her mp3 download", "block b her album", "block b her ilkpop", "her block b lyrics english", "her b&b", "block b her mp3 matikiri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

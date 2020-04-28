@@ -1,1 +1,0 @@
-["Spor", ["sporx", "spor toto", "sportive", "spor ayakkab\u0131", "spor", "spor istanbul", "spor aletleri", "spor ekran\u0131", "spor hareketleri", "spor salonu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

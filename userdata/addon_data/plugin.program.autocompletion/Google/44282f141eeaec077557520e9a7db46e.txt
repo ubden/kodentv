@@ -1,1 +1,0 @@
-["[B][COLOR white]Ad[/COLOR][/B]", ["b color white and /color /b "], [], {"google:suggesttype": [""]}]
