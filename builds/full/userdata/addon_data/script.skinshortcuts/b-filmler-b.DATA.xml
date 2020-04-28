@@ -14,7 +14,7 @@
 		<label2>Custom item</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.venom%5cresources%5cartwork%5cvenom%5cimdb.png/</thumb>
-		<action>ActivateWindow(Videos,"plugin://plugin.video.venom/?action=newMovies",return)</action>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.tempest/?action=movieWidget",return)</action>
 	</shortcut>
 	<shortcut>
 		<defaultID>script.extendedinfo</defaultID>

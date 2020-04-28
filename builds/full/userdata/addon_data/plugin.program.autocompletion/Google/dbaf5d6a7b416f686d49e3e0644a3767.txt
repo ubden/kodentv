@@ -1,0 +1,1 @@
+["Pink T", ["pink tayt", "pink t\u00fcrkiye", "pink try", "pink tony", "pink t\u00fcrk\u00e7esi", "pink ti\u015f\u00f6rt", "pink t shirt", "pink try \u00e7eviri", "pink tumblr", "pink tax"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

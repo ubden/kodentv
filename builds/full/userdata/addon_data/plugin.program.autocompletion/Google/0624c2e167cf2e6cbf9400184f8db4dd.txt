@@ -1,0 +1,1 @@
+["Facebo", ["facebook", "facebook giri\u015f", "facebook dondurma", "facebook indir", "facebook silme", "facebook video indir", "facebook business", "facebook gaming", "facebook pintipanda", "facebook hesap kapatma"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

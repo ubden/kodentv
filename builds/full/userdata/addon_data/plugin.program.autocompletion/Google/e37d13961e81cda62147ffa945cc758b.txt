@@ -1,0 +1,1 @@
+["Film Ar", ["film ar\u015fivi", "film ara", "film arama motoru", "film arkas\u0131", "film aras\u0131", "film artikel", "film arka plan", "film ar\u015fivi onedio", "film ar\u015fivi yandex", "film araba"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

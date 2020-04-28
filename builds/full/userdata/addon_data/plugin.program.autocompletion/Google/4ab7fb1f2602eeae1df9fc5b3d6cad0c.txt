@@ -1,0 +1,1 @@
+["PDATA%\\Kodi\\", ["pdata kodi indir", "pdata kodi nedir"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

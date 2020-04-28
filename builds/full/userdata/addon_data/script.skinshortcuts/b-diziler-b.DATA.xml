@@ -11,7 +11,7 @@
 	<shortcut>
 		<defaultID />
 		<label>[COLOR red]Yeni Bölümler(Trakt)[/COLOR]</label>
-		<label2>Video Add-On</label2>
+		<label2>Custom item</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb>image://C%3a%5cUsers%5cCankurt%5cAppData%5cRoaming%5cKodi%5caddons%5cplugin.video.venom%5cresources%5cartwork%5cvenom%5ctrakt.png/</thumb>
 		<action>ActivateWindow(Videos,"plugin://plugin.video.venom/?action=tvWidget",return)</action>

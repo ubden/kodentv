@@ -245,7 +245,7 @@
     <setting id="subtitles.charset" default="true">DEFAULT</setting>
     <setting id="subtitles.color" default="true">1</setting>
     <setting id="subtitles.custompath" default="true"></setting>
-    <setting id="subtitles.downloadfirst" default="true">false</setting>
+    <setting id="subtitles.downloadfirst">true</setting>
     <setting id="subtitles.font" default="true">arial.ttf</setting>
     <setting id="subtitles.height" default="true">28</setting>
     <setting id="subtitles.languages">Turkish</setting>
@@ -2769,7 +2769,7 @@
     </resolutions>
     <general>
         <systemtotaluptime>16746</systemtotaluptime>
-        <settinglevel>2</settinglevel>
+        <settinglevel>3</settinglevel>
         <eventlog>
             <level>0</level>
             <showhigherlevels>true</showhigherlevels>

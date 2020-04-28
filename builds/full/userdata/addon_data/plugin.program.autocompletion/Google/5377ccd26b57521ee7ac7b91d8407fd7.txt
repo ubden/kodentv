@@ -1,0 +1,1 @@
+["Kad", ["kadir \u015feker", "kad\u0131k\u00f6y", "kad\u0131k\u00f6y belediyesi", "kad\u0131n", "kadir gecesi 2020", "kaday\u0131f tatl\u0131lar\u0131", "kadir \u015feker kim", "kad\u0131k\u00f6y sinemas\u0131", "kadir inan\u0131r", "kadir ezildi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

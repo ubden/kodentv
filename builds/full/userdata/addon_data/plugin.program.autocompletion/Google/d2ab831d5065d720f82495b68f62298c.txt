@@ -1,0 +1,1 @@
+["Kadn", ["kad\u0131n", "kasnak", "kad\u0131nlar g\u00fcn\u00fc", "kandilli", "kad\u0131nlar", "kandilli rasathanesi", "kadmiyum", "kad\u0131na", "kad\u0131n bot", "kanal d"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

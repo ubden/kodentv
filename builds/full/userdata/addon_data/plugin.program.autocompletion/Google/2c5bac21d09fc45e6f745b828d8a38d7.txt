@@ -1,0 +1,1 @@
+["Facebook M", ["facebook messenger", "facebook mp4", "facebook manager", "facebook mp3 indir", "facebook marketplace", "facebook mobil", "facebook market", "facebook mail", "facebook mesaj silme", "facebook mesajlar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

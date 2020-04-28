@@ -1,0 +1,1 @@
+["Facebook E", ["facebook emoji", "facebook e posta", "facebook ek\u015fi", "facebook eray", "facebook eski oyunlar\u0131", "facebook english", "facebook emojileri", "facebook eski s\u00fcr\u00fcm indir", "facebook eray \u00f6zkenar", "facebook el sallama"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Fa", ["facebook", "fanatik", "fahrettin koca", "farmasi", "fahrettin altun", "fatih terim", "fatih sultan mehmet", "fahrettin koca nereli", "fatih portakal", "falcao"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

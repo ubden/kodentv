@@ -1,0 +1,1 @@
+["Pin", ["pinterest", "ping test", "pink", "pinhani", "pink floyd", "pinokyo", "p\u0131nar deniz", "pin", "pintipanda", "ping nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -250,6 +250,21 @@
             <path pathversion="1">https://ubden.github.io/kodentv/</path>
             <allowsharing>true</allowsharing>
         </source>
+        <source>
+            <name>Directory</name>
+            <path pathversion="1">https://demo.directorylister.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>repo-listing-demo</name>
+            <path pathversion="1">https://daviddarnes.github.io/repo-listing-demo/</path>
+            <allowsharing>true</allowsharing>
+        </source>
+        <source>
+            <name>KodenMedia</name>
+            <path pathversion="1">https://kodentv.ubden.com/</path>
+            <allowsharing>true</allowsharing>
+        </source>
     </files>
     <games>
         <default pathversion="1"></default>

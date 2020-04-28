@@ -1,7 +1,7 @@
 <settings version="2">
     <setting id="addon_debug" default="true">false</setting>
     <setting id="api.language">Turkish</setting>
-    <setting id="appearance.1" default="true">Venom</setting>
+    <setting id="appearance.1">Exodus</setting>
     <setting id="auto.playlistcreate">true</setting>
     <setting id="autoplay.sd" default="true">false</setting>
     <setting id="autoTraktOnStart" default="true">false</setting>
@@ -27,7 +27,7 @@
     <setting id="fanart">true</setting>
     <setting id="fanart.tv.user" default="true"></setting>
     <setting id="first.info" default="true">false</setting>
-    <setting id="flatten.tvshows" default="true">false</setting>
+    <setting id="flatten.tvshows">true</setting>
     <setting id="general.checkAddonUpdates">true</setting>
     <setting id="HEVC">true</setting>
     <setting id="hidecinema" default="true">false</setting>
@@ -49,7 +49,7 @@
     <setting id="library.include_unknown">true</setting>
     <setting id="library.movie" default="true">special://userdata/addon_data/plugin.video.venom/Movies</setting>
     <setting id="library.service.notification">true</setting>
-    <setting id="library.service.update">true</setting>
+    <setting id="library.service.update" default="true">false</setting>
     <setting id="library.tv" default="true">special://userdata/addon_data/plugin.video.venom/TVShows</setting>
     <setting id="library.update">true</setting>
     <setting id="message1" default="true"></setting>
@@ -60,7 +60,7 @@
     <setting id="movie.download.path" default="true"></setting>
     <setting id="movie.unaired.identify">8</setting>
     <setting id="mylists.widget">true</setting>
-    <setting id="navi.anime" default="true">false</setting>
+    <setting id="navi.anime">true</setting>
     <setting id="navi.changelog">true</setting>
     <setting id="navi.movie.collections">true</setting>
     <setting id="navi.movie.imdb.boxoffice">true</setting>
@@ -85,7 +85,7 @@
     <setting id="navi.movie.trakt.popular">true</setting>
     <setting id="navi.movie.trakt.recommended">true</setting>
     <setting id="navi.movie.trakt.trending">true</setting>
-    <setting id="navi.news">true</setting>
+    <setting id="navi.news" default="true">true</setting>
     <setting id="navi.originals" default="true">false</setting>
     <setting id="navi.tv.imdb.airingtoday">true</setting>
     <setting id="navi.tv.imdb.certificates">true</setting>
@@ -185,7 +185,7 @@
     <setting id="tvshows.calendar.extended" default="true">false</setting>
     <setting id="tvshows.direct" default="true">false</setting>
     <setting id="tvshows.networks.view">1</setting>
-    <setting id="tvshows.seasoncount.enabled" default="true">false</setting>
+    <setting id="tvshows.seasoncount.enabled">true</setting>
     <setting id="tvshows.unwatched.enabled" default="true">false</setting>
     <setting id="unaired.identify">8</setting>
     <setting id="upnext.notice" default="true">[B][COLOR FFA0C12C]$ADDON[plugin.video.venom 35397][/COLOR][/B]</setting>

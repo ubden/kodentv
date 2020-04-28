@@ -1,0 +1,1 @@
+["KOLEKSIYON", ["koleksiyon", "koleksiyoncu", "koleksiyon \u00e7ay barda\u011f\u0131", "koleksiyoncu 2", "koleksiyon ne demek", "koleksiyoncu 3", "koleksiyon \u00e7ay seti", "koleksiyoncu izle", "koleksiyoncu 2 izle", "koleksiyonlar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

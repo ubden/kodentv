@@ -1,0 +1,1 @@
+["[COLOR orange][B][COLOR blue]* [/COLOR]Arama[/B][/COLO", ["color orange b color blue * /color arama /b /colon", "color orange b color blue * /color arama /b /color"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

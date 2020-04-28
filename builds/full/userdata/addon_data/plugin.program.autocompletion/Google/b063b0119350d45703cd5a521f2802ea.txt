@@ -1,0 +1,1 @@
+["Ka", ["karaca", "kanal d", "kandilli", "kariyer", "kapibara", "kadir \u015feker", "kahoot", "kamil ko\u00e7", "kanal 7 canl\u0131", "kandilli rasathanesi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

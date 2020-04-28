@@ -1,0 +1,1 @@
+["Dizi Arama", ["dizi arama motoru", "dizi arama", "dizi arama robotu", "dizi arama motoru dizimag", "dizi arama sitesi", "dizide arama c#", "dizide arama", "dizide arama yapma", "netflix dizi arama", "koreant\u00fcrk dizi arama sonu\u00e7lar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

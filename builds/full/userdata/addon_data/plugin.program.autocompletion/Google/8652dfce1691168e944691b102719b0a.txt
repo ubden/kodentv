@@ -1,0 +1,1 @@
+["Kadi", ["kadir \u015feker", "kadir gecesi 2020", "kadir \u015feker kim", "kadir inan\u0131r", "kadir ezildi", "kadir do\u011fulu", "kadir suresi", "kadir has \u00fcniversitesi", "kadir gecesi", "kadir m\u0131s\u0131ro\u011flu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

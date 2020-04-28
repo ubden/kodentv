@@ -14,7 +14,7 @@
 		<label2>Custom item</label2>
 		<icon>DefaultShortcut.png</icon>
 		<thumb />
-		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Diziler&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CDiziler&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.theyidrh%5Cicon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.theyidrh%5Cfanart.jpg&amp;content_type=",return)</action>
+		<action>ActivateWindow(Videos,"plugin://plugin.video.thecrew/?action=calendar&amp;url=added",return)</action>
 	</shortcut>
 	<shortcut>
 		<defaultID />
@@ -82,6 +82,14 @@
 	</shortcut>
 	<shortcut>
 		<defaultID />
+		<label>[B]DİĞER[/B]</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=MiscOld&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CMiscOld&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.Brettus.Documentaries%2Ficon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.Brettus.Documentaries%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
 		<label>[B]XXX[/B]</label>
 		<label2>Custom item</label2>
 		<icon>DefaultShortcut.png</icon>
@@ -116,7 +124,7 @@
 		<defaultID />
 		<label>[B]Güç[/B]</label>
 		<label2>Custom item</label2>
-		<icon>DefaultShortcut.png</icon>
+		<icon>special://skin/extras/icons/DefaultAddonService.png</icon>
 		<thumb />
 		<action>noop</action>
 	</shortcut>

@@ -1,0 +1,1 @@
+["kKOL", ["kolonya", "koltuk tak\u0131m\u0131", "kolpa\u00e7ino", "kolonya cumhuriyeti", "koltuk \u00f6rt\u00fcs\u00fc", "koltuk tak\u0131mlar\u0131", "kolay \u00e7izimler", "kolye", "kolay tatl\u0131", "koltuk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

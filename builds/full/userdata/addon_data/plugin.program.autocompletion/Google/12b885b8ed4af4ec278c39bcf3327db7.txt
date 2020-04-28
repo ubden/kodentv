@@ -1,0 +1,1 @@
+["kode", ["kodein", "kodes", "kodein nedir", "kodein fosfat", "kodes ne demek", "kodeks", "kode", "kodeks nedir", "kodenes", "kodex"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

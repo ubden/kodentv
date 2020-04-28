@@ -1,0 +1,1 @@
+["Dizi A", ["dizi ay", "dizi ak\u0131\u015f\u0131", "dizi arena", "dizi adam\u0131", "dizi adlar\u0131", "dizi apk", "dizi atv", "dizi ajans", "dizi altyaz\u0131lar\u0131", "dizi ayak bile\u011fine ba\u011flayan uzun bacak kemi\u011fi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

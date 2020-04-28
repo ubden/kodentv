@@ -1,0 +1,1 @@
+["Pi", ["pinterest", "pide tarifi", "pizza", "pide tarifi ramazan", "pizza tarifi", "pizza hamuru", "pizza lazza", "pi\u015fi", "pizza hut", "pitbull"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

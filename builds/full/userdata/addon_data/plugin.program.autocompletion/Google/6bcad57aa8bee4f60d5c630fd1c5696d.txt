@@ -1,0 +1,1 @@
+["Chrom", ["chrome", "chrome vpn", "chromecast", "chrome ma\u011faza", "chrome dino", "chrome extensions", "chromium", "chrome remote desktop", "chrome g\u00fcncelleme", "chromebook"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

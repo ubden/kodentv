@@ -1,0 +1,1 @@
+["Kad\u0131n", ["kad\u0131n", "kad\u0131n spor ayakkab\u0131", "kad\u0131n dizisi", "kad\u0131nhan\u0131 haber", "kad\u0131n bot", "kad\u0131nlar bilir", "kad\u0131n mont", "kad\u0131n s\u00fcnneti", "kad\u0131n ayakkab\u0131", "kad\u0131nlar matinesi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

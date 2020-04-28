@@ -1,0 +1,1 @@
+["Chr", ["chrome", "christian bale", "chris hemsworth", "chrome vpn", "chris evans", "chromecast", "christopher nolan", "chrome ma\u011faza", "chrysler", "chris pratt"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

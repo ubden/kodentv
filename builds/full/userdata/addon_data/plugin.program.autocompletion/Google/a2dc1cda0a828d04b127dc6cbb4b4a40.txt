@@ -1,0 +1,1 @@
+["Komedi", ["komedi filmleri", "komedi", "komedi filmleri yerli", "komedi filmleri yabanc\u0131", "komedi film izle", "komedi filmleri 2019", "komedi t\u00fcrk filmleri", "komedi dizileri", "komedi d\u00fckkan\u0131", "komedi filmleri 2018"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

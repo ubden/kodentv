@@ -1,0 +1,1 @@
+["kodent", ["codentry", "codentry ne demek", "codentry elbise", "codentry kazak", "codentry etek", "codentry deri ceket", "codentry bluz", "codentry adl", "codentry elbise fiyatlar\u0131", "codentry pantolon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

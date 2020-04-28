@@ -1,0 +1,1 @@
+["kK", ["kk\u00fc kuzem", "kktc", "kk", "kkk", "kkb", "kk\u00fc obs", "kk\u00fc", "kktc haber", "kkt", "kkdf"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Belgeseller</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Belgesel&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CBelgesel&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.outofthisworld%2Ficon.png&amp;fanart=C%3A%5CUsers%5CCankurt%5CAppData%5CRoaming%5CKodi%5Caddons%5Cplugin.program.super.favourites%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Komedi</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Komedi&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CKomedi&amp;image=http%3A%2F%2Faddoncloud.org%2Fukturk%2FUKTurk%2Fthumbs%2Fnew%2FUk%2520turk%2520thumbnails%2520standup%2520comedy.jpg&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.ukturk%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>KOLEKSIYONLAR</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Koleksiyonlar&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CKoleksiyonlar&amp;image=special%3A%2F%2Fhome%2Faddons%5Cscript.neptune.artwork%5Cresources%5Cmedia%5Cneptune%5Cimdb.jpg&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cscript.neptune.artwork%5Cresources%5Cmedia%5Cneptune%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>YouTube</label>
+		<label2>Program</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb>image://http%3a%2f%2fjed.one%2fbackgrounds%2ficons%2fyoutubefull.png/</thumb>
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=YouTube&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CYouTube&amp;image=http%3A%2F%2Fjed.one%2Fbackgrounds%2Ficons%2Fyoutubefull.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.youtube%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Facebook Media</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>RunAddOn(script.facebook.media)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Chrome Launcher</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.chrome.launcher",return)</action>
+	</shortcut>
+</shortcuts>

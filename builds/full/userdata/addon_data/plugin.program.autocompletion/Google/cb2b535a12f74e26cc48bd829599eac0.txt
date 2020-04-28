@@ -1,0 +1,1 @@
+["Kom", ["komedi filmleri", "komik filmler", "komik s\u00f6zler", "komik videolar", "kombi", "komik f\u0131kralar", "komagene", "kom", "komik", "komik bilmeceler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

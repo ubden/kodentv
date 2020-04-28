@@ -1,0 +1,1 @@
+["k", ["kim kardashian", "karaca", "koton", "kim jong", "kitapyurdu", "kek tarifi", "kanal d", "kozan haber", "korona son dakika t\u00fcrkiye", "kitapse\u00e7"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

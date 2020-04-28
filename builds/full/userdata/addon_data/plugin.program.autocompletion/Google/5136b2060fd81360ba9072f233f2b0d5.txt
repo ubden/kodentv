@@ -1,0 +1,1 @@
+["Kadn F", ["kad\u0131n final", "kad\u0131n fox", "kad\u0131n filmi", "kad\u0131n futbol ligi", "kad\u0131n futbolcu", "kad\u0131n fotosu", "kad\u0131n futbol tak\u0131m\u0131", "kad\u0131n filmleri", "kad\u0131n filozoflar", "kad\u0131n fragman"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
