@@ -1,0 +1,1 @@
+["Zip", ["zippo", "zip code", "zipcar", "zippo \u00e7akmak", "zip", "zipline", "zip code turkey", "zip indir", "zipkin", "zip code nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

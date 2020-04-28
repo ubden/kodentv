@@ -1,0 +1,1 @@
+["%appdata", ["appdata", "appdata nerede", "appdata local temp", "appdata roaming", "appdata ne demek", "appdata silmek", "appdata temizleme", "appdata indir", "appdata t\u00fcrk\u00e7e", "appdata \u00e7eviri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

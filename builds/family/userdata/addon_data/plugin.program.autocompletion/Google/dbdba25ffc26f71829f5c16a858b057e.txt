@@ -1,0 +1,1 @@
+["[B]L", ["b logo", "b loft bursa", "b lenfosit", "b loft hotel", "b logosu", "b l d tv", "b let x", "b likit fon", "b lg learn", "b loft hotel bursa"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["NETFL\u0130X ORJ\u0130NAL UYGULAMASI", ["netflix orijinal i\u00e7erikler", "netflix uygulamalar\u0131", "netflix dizileri uygulamas\u0131", "netflix orjinal i\u00e7erikler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

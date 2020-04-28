@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="script.module.wolfpack" 
+       name="[B][COLOR white]W[/COLOR][COLOR red]OLFPAC[/COLOR][COLOR white]K[/COLOR][/B]" 
+	   version="2.1" 
+	   provider-name="[B][COLOR red]wolfpack[/COLOR][/B]">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+	<import addon="script.module.addon.common" />
+	<import addon="script.module.requests" />
+	<import addon="script.module.urlresolver" />
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="default.py">
+        <provides>all</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Dependency For wolfpack</summary>
+    <description lang="en">Dependency For wolfpack</description>
+	<disclaimer lang="en">Dependency For wolfpack</disclaimer>
+    <platform>all</platform>
+  </extension>
+</addon>

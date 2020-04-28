@@ -1,0 +1,548 @@
+<item>
+<title>[COLOR gold]==================[/COLOR]</title>
+</item>
+
+<item>
+<title>===[COLOR gold]Sports News and Documentaries[/COLOR]==</title>
+</item>
+
+<dir>
+<title>***Sports Portal***</title>
+<link>plugin://plugin.video.alphaquadrant/</link>
+</dir>
+
+<item>
+<title>===[COLOR gold]24/7 Streams[/COLOR]===</title>
+</item>
+
+<dir>
+<title>***24/7 - Filmon Channels***</title>
+<Airtable>247</Airtable>
+</dir>
+
+<dir>
+	<title>***24/7 Tv***</title>
+	<arconaitv>main/shows</arconaitv>
+	<content></content>
+</dir>
+
+<dir>
+	<title>***24/7 Movies***</title>
+	<arconaitv>main/movies</arconaitv>
+	<content></content>
+</dir>
+
+<item>    
+<title>[COLORorange]*====================*[/COLOR]</title>
+</item>
+
+<item>    
+<title>===[COLOR gold]IPTV / M3U[/COLOR]===</title>
+</item>
+
+<item>    
+<title>[COLOR gold]Links Below Take A Long Time To Open[/COLOR]</title>
+</item>
+
+<item>    
+<title>[COLORaqua]*Add To Favorites For Easy Future Access*[/COLOR]</title>
+</item>
+
+<dir>
+<title>[COLOR gold]***[/COLOR]Big World Iptv List (All In Countries)[COLOR gold]***[/COLOR]</title>
+<m3u>https://iptv-org.github.io/iptv/index.country.m3u</m3u>
+</dir>
+
+<dir>
+<title>[COLOR gold]***[/COLOR]Big World Iptv List (All In Categories)[COLOR gold]***[/COLOR]</title>
+<m3u>https://iptv-org.github.io/iptv/index.category.m3u</m3u>
+</dir>
+
+<dir>
+<title>[COLOR gold]***[/COLOR]Big World Iptv List (All In Languagess)[COLOR gold]***[/COLOR]</title>
+<m3u>https://iptv-org.github.io/iptv/index.language.m3u</m3u>
+</dir>
+
+<item>    
+<title>[COLORaqua]*Add To Favorites For Easy Future Access*[/COLOR]</title>
+</item>
+
+<item>    
+<title>[COLORorange]*====================*[/COLOR]</title>
+</item>
+
+<item>    
+<title>[COLOR gold]Links Below DON'T Take As Long To Open[/COLOR]</title>
+</item>
+
+<item>    
+<title>[COLORaqua]*Add To Favorites For Easy Future Access*[/COLOR]</title>
+</item>
+
+<dir>
+<title>***Big Categories List***</title>
+<link>file://genresiptv.xml</link>
+</dir>
+
+<item>    
+<title>======</title>
+</item>
+
+<dir>
+<title>***Big USA List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/us.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big English List***</title>
+<m3u>https://iptv-org.github.io/iptv/languages/en.m3u</m3u>
+</dir>
+
+<item>    
+<title>======</title>
+</item>
+
+<dir>
+<title>***Big Mexico List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/mx.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big Spanish List***</title>
+<m3u>https://iptv-org.github.io/iptv/languages/es.m3u</m3u>
+</dir>
+
+<item>    
+<title>======</title>
+</item>
+
+<dir>
+<title>***Big UK List***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/big-uk.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big Canada List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/ca.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big French List***</title>
+<m3u>https://iptv-org.github.io/iptv/languages/fr.m3u</m3u>
+</dir>
+
+<item>    
+<title>======</title>
+</item>
+
+<dir>
+<title>***Big Germany List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/de.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big German List***</title>
+<m3u>https://iptv-org.github.io/iptv/languages/de.m3u</m3u>
+</dir>
+
+<item>    
+<title>======</title>
+</item>
+
+<dir>
+<title>***Big China List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/cn.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big Chinese List***</title>
+<m3u>https://iptv-org.github.io/iptv/languages/zh.m3u</m3u>
+</dir>
+
+<item>    
+<title>======</title>
+</item>
+
+<dir>
+<title>***Big Japan List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/jp.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big Japanese List***</title>
+<m3u>https://iptv-org.github.io/iptv/languages/ja.m3u</m3u>
+</dir>
+
+<item>    
+<title>======</title>
+</item>
+
+
+<dir>
+<title>***Big Philippines List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/ph.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big Brazil List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/br.m3u</m3u>
+</dir>
+
+<dir>
+<title>***Big Bahamas List***</title>
+<m3u>https://iptv-org.github.io/iptv/countries/bs.m3u</m3u>
+</dir>
+
+<item>    
+<title>[COLORorange]*====================*[/COLOR]</title>
+</item>
+
+<dir>
+<title>***Air Tables World TV***</title>
+<Airtable>tv_channels</Airtable>
+</dir>
+
+<dir>
+<title>***Swift Streamz 1***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-swiftstreamz/</link>
+</dir>
+
+<dir>
+<title>***Swift Streamz 2***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-swiftstreamz2/</link>
+</dir>
+
+<dir>
+<title>***World TV***</title>
+<link>plugin://script.module.7of9-worldtv/</link>
+</dir>
+
+<dir>
+<title>***TV-TAP***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/</link>
+</dir>
+
+  <plugin>
+  <name>***FREE VIEW TV***</name>
+  <link>https://freeview.github.io/iptv/playlist/tv.m3u</link>
+  </plugin>
+  
+  <plugin>
+  <title>***STIRR TV***</title>
+  <link>https://raw.githubusercontent.com/geonsey/Free2ViewTV/master/StirrTV.m3u</link>
+  </plugin>
+  
+  <plugin>
+  <name>***WORLD IPTV***</name>
+  <link>https://raw.githubusercontent.com/hayatiptv/iptv/master/index.m3u</link>
+  </plugin>
+    
+  <plugin>
+  <name>***LOL IPTV***</name>
+  <link>https://raw.githubusercontent.com/bitsbb01/IPTV-M3US/master/newallchans.m3u</link>
+  </plugin>
+  
+  <plugin>
+  <name>***OMG IPTV***</name>
+  <link>https://raw.githubusercontent.com/Free-IPTV/Countries/master/99_All_TV_Stations.m3u</link>
+  </plugin>
+
+<item>    
+<title>===[COLOR gold]Fluxus TV[/COLOR]===</title>
+</item>
+
+<dir>
+<title>***Fluxus IPTV***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-IPTV</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus USA TV***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-USA</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus Lodge TV (English)***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-LodgeTV</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus Stratus TV (USA + Canada)***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-stratus-tv-usa-canada</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus Movies English***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Movies-En</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus Movies Spanish***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Movies-Sp</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus Movies French***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Movies-Fr</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus Movies German***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Movies-Ge</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus Music Videos***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-VideoMusic</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus QVC Shopping***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Shopping</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus US Weather Nation***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Weather</m3u>
+</dir>
+
+<dir>
+<title>***Fluxus Pluto TV***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-PlutoTV</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus Faith***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Faith</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus CCTV***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-CCTV</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus Radio***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-Radio</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus Stratus TV (Mexico)**</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-StratusTVMexico</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus Stratus TV (Latino)***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-StratusTVLatino</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<dir>
+<title>***Fluxus Lodge TV (Spanish)***</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/fluxus/Fluxus-LodgeTVSpanish</m3u>
+<info>Fluxus IPTV Channels List</info>
+</dir>
+
+<item>
+<title>===[COLOR gold]News: Local - World - Politics[/COLOR]===</title>
+</item>
+
+<item>    
+<title>[COLORaqua]*** News Section to be removed**[/COLOR]</title>
+</item>
+
+<item>    
+<title>[COLORaqua]*** It is now its own add-on**[/COLOR]</title>
+</item>
+
+<item>
+<title>ABC 7 SWFL - Live Stream</title>
+<link>https://www.youtube.com/watch?v=IukZ7gOGPj8</link>
+</item>
+
+<item>
+<title>NBC2 - Live Stream</title>
+<link>https://www.youtube.com/watch?v=tPeUHECNLKs</link>
+</item>
+
+<dir>
+<title>Top News Stories</title>
+<link>plugin://plugin.video.youtube/kodion/search/query/?q=news+updated&amp;search_type=video",return)</link>
+</dir>
+
+<dir>
+<title>CNN</title>
+<link>plugin://plugin.video.youtube/playlist/PL6XRrncXkMaWYv31tSdLGUKHDMQ2QtHTx/</link>
+</dir>
+
+<dir>
+<title>PBS NewsHour - Watch Live</title>
+<link>plugin://plugin.video.youtube/playlist/PLgawtcOBBjr9_d8zvTrH6FbG2cdxuCuDo/</link>
+</dir>
+
+<dir>
+<title>World News (Top Stories)</title>
+<link>plugin://plugin.video.youtube/playlist/PLr1-FC1l_JLFcq9r9Y3uFLkH8G37WmMRQ/</link>
+</dir>
+
+<dir>
+<title>National News (Top Stories)</title>
+<link>plugin://plugin.video.youtube/playlist/PLNjtpXOAJhQLmUEyuWw4hW_6gX8JMJUof/</link>
+</dir>
+
+<dir>
+<title>ABC (World News)</title>
+<link>plugin://plugin.video.youtube/playlist/PL5E6638EB9ECF2329/</link>
+</dir>
+
+<dir>
+<title>NBC News (Top stories)</title>
+<link>plugin://plugin.video.youtube/playlist/PL0tDb4jw6kPxZ7ZJtMk6gqiQIU-nMeaVS/</link>
+</dir>
+
+<dir>
+<title>Fox News (Latest Politics)</title>
+<link>plugin://plugin.video.youtube/playlist/PLlTLHnxSVuIyeEZPBIQF_krewJkY2JSwi/</link>
+</dir>
+
+<dir>
+<title>Inside Edition</title>
+<link>plugin://plugin.video.youtube/playlist/UU9k-yiEpRHMNVOnOi_aQK8w/</link>
+</dir>
+
+<dir>
+<title>World News</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/4</link>
+</dir>
+
+<dir>
+<title>US Local - News On</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/newson.php</link>
+</dir>
+
+<dir>
+<title>Local News - USA - IPTV</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/local.m3u.php</m3u>
+</dir>
+
+<dir>
+<title>US Weather Nation</title>
+<m3u>http://7of9.m3u.xyz/jen/7of9-cached/iptv/weather.m3u.php</m3u>
+</dir>
+
+<dir>
+<title>USA Today</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/usa.today/usa.today.php</link>
+</dir>
+
+
+<item>    
+<title>[COLORaqua]*** Will Be Removed, All Can Be Accessed**[/COLOR]</title>
+</item>
+
+<item>    
+<title>[COLORaqua]*** From TAP At Top Of Page **[/COLOR]</title>
+</item>
+
+<dir>
+<title>***TV-TAP Movies***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/2</link>
+</dir>
+
+<dir>
+<title>***TV-TAP Entertainment***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/1</link>
+</dir>
+
+<dir>
+<title>***TV-TAP Kids***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/7</link>
+</dir>
+
+<dir>
+<title>***TV-TAP Sport***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/5</link>
+</dir>
+
+<dir>
+<title>***TV-TAP Documentary***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/6</link>
+</dir>
+
+<dir>
+<title>***TV-TAP Music***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/3</link>
+</dir>
+
+<dir>
+<title>***TV-TAP Food***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/8</link>
+</dir>
+
+<dir>
+<title>***TV-TAP News***</title>
+<thumbnail></thumbnail>
+<link>plugin://script.module.7of9-live/list_channels/4</link>
+</dir>
+
+<item>
+<title>[COLOR gold]==================[/COLOR]</title>
+</item>
+
+<dir>
+<name>Search Youtube</name>
+<link>plugin://plugin.video.youtube/</link>
+</dir>
+
+<plugin>
+<name>Tools, Settings, Clear Cache</name>
+<link>plugin://plugin.video.betaquadrant/?action=openSettings</link>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<name>Testings</name>
+<link>plugin://plugin.video.betaquadrant/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>
+
+<item>
+<title>[COLOR gold]==================[/COLOR]</title>
+</item>
+<dir>
+<title>AUTHORIZE REAL DEBRID [B](RESOLVE-URL)[/B]</title>
+<link>plugin://script.module.resolveurl/?mode=auth_rd</link>
+</dir>
+
+<dir>
+<title>AUTHORIZE REAL DEBRID [B](URL-RESOLVER)[/B]</title>
+<link>plugin://script.module.urlresolver/?mode=auth_rd</link>
+</dir>
+
+<dir>
+<title>PAIR ONLINE HERE</title>
+<pairwith>pairlist</pairwith>
+</dir>
+
+<item>
+<title>[COLOR gold]==================[/COLOR]</title>
+</item>

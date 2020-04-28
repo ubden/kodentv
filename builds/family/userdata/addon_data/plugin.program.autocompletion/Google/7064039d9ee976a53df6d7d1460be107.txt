@@ -1,0 +1,1 @@
+["Film", ["film", "film \u00f6nerileri", "film makinesi", "filmler", "film indir", "filmizlesene", "filma24", "film izle 2020", "filmbox", "filmora"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

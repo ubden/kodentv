@@ -1,0 +1,1 @@
+["[B]SEARCH", ["b search", "b search tree", "b search / burckhart consulting corp", "b search in c", "b* search algorithm", "b_searchlikeex", "b_search_content", "b_search_phrase", "search b/l", "h&b search"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

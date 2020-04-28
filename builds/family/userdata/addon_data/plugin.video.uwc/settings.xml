@@ -1,0 +1,33 @@
+<settings version="2">
+    <setting id="backup_favorites" default="true"></setting>
+    <setting id="backup_keywords" default="true"></setting>
+    <setting id="changelog_seen_version" default="true">1.1.64</setting>
+    <setting id="chatcouple">true</setting>
+    <setting id="chatfemale">true</setting>
+    <setting id="chatmale">true</setting>
+    <setting id="chatplay" default="true">0</setting>
+    <setting id="chatslow" default="true">0</setting>
+    <setting id="chattrans">true</setting>
+    <setting id="chaturbate" default="true">false</setting>
+    <setting id="clear_favorites" default="true"></setting>
+    <setting id="clear_keywords" default="true"></setting>
+    <setting id="daftsexresolver" default="true">0</setting>
+    <setting id="dontask" default="true">false</setting>
+    <setting id="download_path" default="true"></setting>
+    <setting id="favsort" default="true">false</setting>
+    <setting id="jw_pass" default="true"></setting>
+    <setting id="jw_user" default="true"></setting>
+    <setting id="open_smr_settings" default="true"></setting>
+    <setting id="paradisehill" default="true">false</setting>
+    <setting id="porntrexacct" default="true">false</setting>
+    <setting id="posterfanart" default="true">false</setting>
+    <setting id="pt_pass" default="true"></setting>
+    <setting id="pt_user" default="true"></setting>
+    <setting id="restore_favorites" default="true"></setting>
+    <setting id="restore_keywords" default="true"></setting>
+    <setting id="searchsort" default="true">false</setting>
+    <setting id="sortwxf" default="true">0</setting>
+    <setting id="sortxt" default="true">0</setting>
+    <setting id="universal_resolvers">true</setting>
+    <setting id="uwcage" default="true">true</setting>
+</settings>

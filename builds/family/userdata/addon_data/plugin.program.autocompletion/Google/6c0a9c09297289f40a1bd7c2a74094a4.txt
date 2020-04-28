@@ -1,0 +1,1 @@
+["M\u00fcz", ["m\u00fczik dinle", "m\u00fczik indir", "m\u00fczekart", "m\u00fczik", "m\u00fczeyyen senar", "m\u00fczik kutusu", "m\u00fczik aletleri", "m\u00fczekart \u00f6\u011frenci", "m\u00fcz", "m\u00fczayede"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

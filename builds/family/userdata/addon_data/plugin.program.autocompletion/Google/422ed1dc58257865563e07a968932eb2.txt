@@ -1,0 +1,1 @@
+["H\u0131z T", ["h\u0131z testi", "h\u0131z tutkusu", "h\u0131z testi klavye", "h\u0131z tuza\u011f\u0131", "h\u0131z testi ookla", "h\u0131z tutkusu 2", "h\u0131z tutkusu izle", "h\u0131z te", "h\u0131z testi turknet", "h\u0131z tutkunlar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

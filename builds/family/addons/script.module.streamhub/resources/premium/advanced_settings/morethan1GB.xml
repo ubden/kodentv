@@ -1,0 +1,39 @@
+<advancedsettings>
+<network>
+<autodetectpingtime>30</autodetectpingtime> 	<!-- Time (in seconds) between pings for detecting new xboxes. Default 30, minimum 1, maximum 240 -->
+<curlclienttimeout>5</curlclienttimeout> 		<!-- Timeout (in seconds) for player and other connections. Default 10, minimum 1, maximum 1000 -->
+<curllowspeedtime>3</curllowspeedtime> 		<!-- Time (in seconds) the http client should wait before judging a connection as low. Default 20, minimum 1, maximum 1000 -->
+<curlretries>3</curlretries> 					<!-- Number of times the http client retries. Default 2, minimum 0, maximum 10 -->
+<disableipv6>true</disableipv6> 			<!-- Disables ipv6. Default false -->
+<buffermode>1</buffermode>
+<readbufferfactor>20</readbufferfactor>
+<cachemembuffersize>104857600</cachemembuffersize>  	<!-- Size of the player cache in bytes. Default 20M (20*1024*1024), if 0 it uses a SimpleFileCache. -->
+</network>
+<video>
+<vdpauscaling>false</vdpauscaling> <!-- scales with vdpau instead of opengl and turns on its HQ scaler when available, enabling this might slow down rendering and cause framedrops especially on ION systems, this setting requires a vdpau feature set C gpu-->
+<enablehighqualityhwscalers>false</enablehighqualityhwscalers> <!-- allow turning on the spline36 and lanczos3 shader (for GL builds) -->
+<dxvaallowhqscaling>false</dxvaallowhqscaling> <!-- enables high quality video upscaling for Windows -->
+<checkdxvacompatibility>true</checkdxvacompatibility> <!-- Advanced setting not present: let Kodi autodetect cards that support H264 profile > L4.1. Set value to false to enable DXVA no matter what. Set value to true if Kodi doesn't autodetect that the graphics card doesn't support > L4.1 -->
+<skiploopfilter>8</skiploopfilter>
+<stagefright>
+<!-- -1 is default, 0 is never used this codec, 1 is always use this codec, bypassing blacklist -->
+<useavccodec>hd</useavccodec>
+<usevc1codec>hd</usevc1codec>
+<usevpxcodec>hd</usevpxcodec>
+<usemp4codec>hd</usemp4codec>
+<usempeg2codec>hd</usempeg2codec>
+<useswrenderer>false</useswrenderer>
+</stagefright>
+<mediacodec>
+<!-- -1 is default, 0 is never used this codec, 1 is always use this codec, bypassing blacklist -->
+<useavccodec>hd</useavccodec>
+<usevc1codec>hd</usevc1codec>
+<usevpxcodec>hd</usevpxcodec>
+<usemp4codec>hd</usemp4codec>
+<usempeg2codec>1</usempeg2codec>
+<useswrenderer>false</useswrenderer>
+</mediacodec>
+</video>
+</advancedsettings>
+
+<!-- Update By Mark on the 24/09/16 -->

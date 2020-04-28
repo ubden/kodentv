@@ -1,0 +1,1 @@
+["FEN M", ["fen mental", "fen mevsimler ve iklim", "fen merkezi", "fen m\u00fcfredat", "fen meb kitab\u0131", "fen master", "fen madde ve end\u00fcstri test", "fen mat", "fen madde ve end\u00fcstri", "fen mart ay\u0131 \u00f6rnek sorular"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

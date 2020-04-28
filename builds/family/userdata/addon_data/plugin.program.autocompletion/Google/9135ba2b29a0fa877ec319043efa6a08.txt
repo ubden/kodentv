@@ -1,0 +1,1 @@
+["Wh", ["whatsapp", "who", "whatsapp plus", "whatsapp apk", "what", "whatsapp indir", "whatsapp aero", "when they see us", "whatsapp durum s\u00f6zleri", "whiplash"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

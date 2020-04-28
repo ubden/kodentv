@@ -1,0 +1,13 @@
+<settings>
+    <setting id="custom_directory" value="false" />
+    <setting id="default_queue" value="false" />
+    <setting id="default_queue_album" value="false" />
+    <setting id="folder_structure" value="0" />
+    <setting id="golden_path" value="true" />
+    <setting id="gotham_fix" value="false" />
+    <setting id="gotham_fix_2" value="true" />
+    <setting id="hide_fanart" value="false" />
+    <setting id="keep_downloads" value="false" />
+    <setting id="music_dir" value="set" />
+    <setting id="pre-cache" value="250K" />
+</settings>

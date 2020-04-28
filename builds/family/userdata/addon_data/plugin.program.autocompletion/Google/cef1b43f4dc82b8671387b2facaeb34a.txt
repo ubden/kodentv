@@ -1,0 +1,1 @@
+["Te", ["teknosa", "teb", "tefal", "telegram", "tebaa ne demek", "telefon", "tekzen", "tele1", "tekerlemeler", "teknobiyotik"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

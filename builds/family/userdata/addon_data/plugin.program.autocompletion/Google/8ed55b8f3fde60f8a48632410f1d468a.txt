@@ -1,0 +1,1 @@
+["POL", ["polo", "poland", "polonezk\u00f6y", "polonya", "polo garage", "polis", "polaroid", "poligon", "polar", "polat alemdar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

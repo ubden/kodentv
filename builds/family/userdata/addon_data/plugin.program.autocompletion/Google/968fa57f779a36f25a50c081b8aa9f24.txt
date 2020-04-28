@@ -1,0 +1,1 @@
+["En P", ["en para", "en parlak y\u0131ld\u0131z", "en pahal\u0131 saat", "en pahal\u0131 telefon", "en para kredi", "en pratik yemek tarifleri", "en pop\u00fcler oyunlar", "en plus", "en pahal\u0131 bilgisayar", "en pahal\u0131 viski"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

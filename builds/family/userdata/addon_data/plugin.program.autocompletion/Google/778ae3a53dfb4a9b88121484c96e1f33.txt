@@ -1,0 +1,1 @@
+["Video E", ["video edit program\u0131", "video editleme", "video editleme program\u0131", "video edit", "video e\u011fitim", "video edit programlar\u0131", "video edit\u00f6r", "video editor online", "video editing programs", "video editing"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

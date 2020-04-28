@@ -1,0 +1,8 @@
+<settings>
+    <setting id="intro" value="TronIntro.mp4" />
+    <setting id="last_random" value="" />
+    <setting id="path_custom_intro" value="" />
+    <setting id="splash" value="true" />
+    <setting id="use_custom_intro" value="false" />
+    <setting id="use_intro_movie" value="true" />
+</settings>

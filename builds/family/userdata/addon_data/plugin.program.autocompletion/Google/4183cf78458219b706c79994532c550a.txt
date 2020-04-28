@@ -1,0 +1,1 @@
+["TOOL", ["tool", "toolstoy", "toolbox", "tools", "tools ne demek", "tool ne demek", "tooltip", "toolkit", "toolbar", "toolkit for fb"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

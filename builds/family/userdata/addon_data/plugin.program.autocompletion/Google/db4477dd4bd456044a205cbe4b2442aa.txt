@@ -1,0 +1,1 @@
+["TV", ["tv8", "tv8 yay\u0131n ak\u0131\u015f\u0131", "tv izle", "tv \u00fcnitesi", "tv", "tv rehberi", "tv plus", "tv100", "tv yay\u0131n ak\u0131\u015f\u0131", "tv8 5"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

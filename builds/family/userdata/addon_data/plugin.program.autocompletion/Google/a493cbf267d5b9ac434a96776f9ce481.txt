@@ -1,0 +1,1 @@
+["IndigoTools[/COL", ["indigotools /collection"], [], {"google:suggesttype": ["TAIL"]}]

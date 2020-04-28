@@ -1,0 +1,1 @@
+["TURKvodFILM MODULLERI", ["turkvod izle", "turkvod.com", "turkvod berkenkey"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

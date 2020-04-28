@@ -1,0 +1,1 @@
+["wolf", ["wolfteam", "wolfteam indir", "wolfteam kur", "wolfteam hile", "wolfteam giri\u015f", "wolfteam hesap a\u00e7", "wolfram alpha", "wolfdizayn", "wolfenstein", "wolfteam bedava \u00e7arlar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

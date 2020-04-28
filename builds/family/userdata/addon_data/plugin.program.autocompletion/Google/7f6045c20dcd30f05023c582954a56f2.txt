@@ -1,0 +1,1 @@
+["Crew Sho", ["crewshop", "crew shop pegasus", "crew shop pubg", "crew shop brussels airport", "crew shoes", "crew shop frankfurt", "crew shop frankfurt flughafen", "crew shop d\u00fcsseldorf", "crew shop frankfurt airport", "crew shop ferier"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

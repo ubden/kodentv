@@ -1,0 +1,1 @@
+["Maintena", ["maintenance", "maintenance ne demek", "maintenance planner", "maintenance engineer", "maintenance meaning", "maintenance nedir", "maintenant", "maintenance manager", "maintenance calorie calculator", "maintenance manual"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

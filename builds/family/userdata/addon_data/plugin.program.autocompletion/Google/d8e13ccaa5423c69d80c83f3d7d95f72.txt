@@ -1,0 +1,1 @@
+["F", ["facebook", "fox tv", "flights", "friends", "freud", "fox", "florence nightingale", "freepik", "flight radar", "fortnite"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,472 @@
+<settings version="2">
+    <setting id="addon_debug" default="true">false</setting>
+    <setting id="addon_debugspacer" default="true">false</setting>
+    <setting id="addon_debugtime" default="true">false</setting>
+    <setting id="AllDebridResolver_auth" default="true"></setting>
+    <setting id="api.language">Turkish</setting>
+    <setting id="appearance.1">Grey</setting>
+    <setting id="appearance.alt" default="true">-</setting>
+    <setting id="autoplay.sd">true</setting>
+    <setting id="autoTraktOnStart" default="true">false</setting>
+    <setting id="bookmarks">true</setting>
+    <setting id="bookmarks.auto" default="true">false</setting>
+    <setting id="builtin.providers.disableall" default="true"></setting>
+    <setting id="builtin.providers.enableall" default="true"></setting>
+    <setting id="crefresh" default="true">false</setting>
+    <setting id="customList" default="true">https://</setting>
+    <setting id="debrid.only" default="true">false</setting>
+    <setting id="debug.location" default="true">0</setting>
+    <setting id="downloads" default="true">false</setting>
+    <setting id="fanart">true</setting>
+    <setting id="fanart.tv.user" default="true">ea89e598e77bbe257990f630076395bb</setting>
+    <setting id="flatten.tvshows" default="true">false</setting>
+    <setting id="HEVC">true</setting>
+    <setting id="hidecinema" default="true">false</setting>
+    <setting id="hidecinema.rollback">6</setting>
+    <setting id="hosts.captcha" default="true">false</setting>
+    <setting id="hosts.mode">1</setting>
+    <setting id="hosts.quality" default="true">0</setting>
+    <setting id="hosts.sort.provider">true</setting>
+    <setting id="imdb.movielist_id1" default="true"></setting>
+    <setting id="imdb.movielist_id10" default="true"></setting>
+    <setting id="imdb.movielist_id2" default="true"></setting>
+    <setting id="imdb.movielist_id3" default="true"></setting>
+    <setting id="imdb.movielist_id4" default="true"></setting>
+    <setting id="imdb.movielist_id5" default="true"></setting>
+    <setting id="imdb.movielist_id6" default="true"></setting>
+    <setting id="imdb.movielist_id7" default="true"></setting>
+    <setting id="imdb.movielist_id8" default="true"></setting>
+    <setting id="imdb.movielist_id9" default="true"></setting>
+    <setting id="imdb.movielist_name1" default="true"></setting>
+    <setting id="imdb.movielist_name10" default="true"></setting>
+    <setting id="imdb.movielist_name2" default="true"></setting>
+    <setting id="imdb.movielist_name3" default="true"></setting>
+    <setting id="imdb.movielist_name4" default="true"></setting>
+    <setting id="imdb.movielist_name5" default="true"></setting>
+    <setting id="imdb.movielist_name6" default="true"></setting>
+    <setting id="imdb.movielist_name7" default="true"></setting>
+    <setting id="imdb.movielist_name8" default="true"></setting>
+    <setting id="imdb.movielist_name9" default="true"></setting>
+    <setting id="imdb.tvlist_id1" default="true"></setting>
+    <setting id="imdb.tvlist_id10" default="true"></setting>
+    <setting id="imdb.tvlist_id2" default="true"></setting>
+    <setting id="imdb.tvlist_id3" default="true"></setting>
+    <setting id="imdb.tvlist_id4" default="true"></setting>
+    <setting id="imdb.tvlist_id5" default="true"></setting>
+    <setting id="imdb.tvlist_id6" default="true"></setting>
+    <setting id="imdb.tvlist_id7" default="true"></setting>
+    <setting id="imdb.tvlist_id8" default="true"></setting>
+    <setting id="imdb.tvlist_id9" default="true"></setting>
+    <setting id="imdb.tvlist_name1" default="true"></setting>
+    <setting id="imdb.tvlist_name10" default="true"></setting>
+    <setting id="imdb.tvlist_name2" default="true"></setting>
+    <setting id="imdb.tvlist_name3" default="true"></setting>
+    <setting id="imdb.tvlist_name4" default="true"></setting>
+    <setting id="imdb.tvlist_name5" default="true"></setting>
+    <setting id="imdb.tvlist_name6" default="true"></setting>
+    <setting id="imdb.tvlist_name7" default="true"></setting>
+    <setting id="imdb.tvlist_name8" default="true"></setting>
+    <setting id="imdb.tvlist_name9" default="true"></setting>
+    <setting id="imdb.user" default="true"></setting>
+    <setting id="indicators" default="true">0</setting>
+    <setting id="indicators.alt">1</setting>
+    <setting id="label0" default="true"></setting>
+    <setting id="label1" default="true"></setting>
+    <setting id="label10" default="true"></setting>
+    <setting id="label11" default="true"></setting>
+    <setting id="label12" default="true"></setting>
+    <setting id="label13" default="true"></setting>
+    <setting id="label14" default="true"></setting>
+    <setting id="label15" default="true"></setting>
+    <setting id="label16" default="true"></setting>
+    <setting id="label17" default="true"></setting>
+    <setting id="label18" default="true"></setting>
+    <setting id="label19" default="true"></setting>
+    <setting id="label20" default="true"></setting>
+    <setting id="label21" default="true"></setting>
+    <setting id="label22" default="true"></setting>
+    <setting id="label23" default="true"></setting>
+    <setting id="label24" default="true"></setting>
+    <setting id="label25" default="true"></setting>
+    <setting id="label26" default="true"></setting>
+    <setting id="label27" default="true"></setting>
+    <setting id="label28" default="true"></setting>
+    <setting id="label29" default="true"></setting>
+    <setting id="label30" default="true"></setting>
+    <setting id="label31" default="true"></setting>
+    <setting id="label32" default="true"></setting>
+    <setting id="label33" default="true"></setting>
+    <setting id="label34" default="true"></setting>
+    <setting id="label35" default="true"></setting>
+    <setting id="label36" default="true"></setting>
+    <setting id="label37" default="true"></setting>
+    <setting id="label38" default="true"></setting>
+    <setting id="label39" default="true"></setting>
+    <setting id="label40" default="true"></setting>
+    <setting id="library.check">true</setting>
+    <setting id="library.check_episode" default="true">false</setting>
+    <setting id="library.check_movie" default="true">false</setting>
+    <setting id="library.importdelay">true</setting>
+    <setting id="library.include_unknown">true</setting>
+    <setting id="library.movie" default="true">special://userdata/addon_data/plugin.video.scrubsv2/Movies</setting>
+    <setting id="library.service.notification">true</setting>
+    <setting id="library.service.update">true</setting>
+    <setting id="library.tv" default="true">special://userdata/addon_data/plugin.video.scrubsv2/TVShows</setting>
+    <setting id="library.update">true</setting>
+    <setting id="limit_hosts">true</setting>
+    <setting id="lists.widget">1</setting>
+    <setting id="movie.download.path" default="true"></setting>
+    <setting id="movie.widget">1</setting>
+    <setting id="navi.changeLog">true</setting>
+    <setting id="navi.channels">true</setting>
+    <setting id="navi.customList" default="true">false</setting>
+    <setting id="navi.dev" default="true">false</setting>
+    <setting id="navi.docuHeaven">true</setting>
+    <setting id="navi.fitness">true</setting>
+    <setting id="navi.iptvChannels">true</setting>
+    <setting id="navi.jewMC">true</setting>
+    <setting id="navi.kidscorner">true</setting>
+    <setting id="navi.legends">true</setting>
+    <setting id="navi.morestuff">true</setting>
+    <setting id="navi.movieAnticipated">true</setting>
+    <setting id="navi.movieboxoffice">true</setting>
+    <setting id="navi.moviecerts">true</setting>
+    <setting id="navi.moviefeat">true</setting>
+    <setting id="navi.moviegenre">true</setting>
+    <setting id="navi.movielanguages">true</setting>
+    <setting id="navi.movieMosts">true</setting>
+    <setting id="navi.movieoscars">true</setting>
+    <setting id="navi.moviepersons">true</setting>
+    <setting id="navi.moviepopular">true</setting>
+    <setting id="navi.moviepremiere">true</setting>
+    <setting id="navi.movieReviews">true</setting>
+    <setting id="navi.movietheaters">true</setting>
+    <setting id="navi.movietrending">true</setting>
+    <setting id="navi.movieviews">true</setting>
+    <setting id="navi.movieyears">true</setting>
+    <setting id="navi.podcast">true</setting>
+    <setting id="navi.radio">true</setting>
+    <setting id="navi.tvActive">true</setting>
+    <setting id="navi.tvAdded">true</setting>
+    <setting id="navi.tvAiring">true</setting>
+    <setting id="navi.tvAnticipated">true</setting>
+    <setting id="navi.tvCalendar">true</setting>
+    <setting id="navi.tvCertificates">true</setting>
+    <setting id="navi.tvfeat">true</setting>
+    <setting id="navi.tvGenres">true</setting>
+    <setting id="navi.tvLanguages">true</setting>
+    <setting id="navi.tvNetworks">true</setting>
+    <setting id="navi.tvPopular">true</setting>
+    <setting id="navi.tvPremier">true</setting>
+    <setting id="navi.tvRating">true</setting>
+    <setting id="navi.tvReviews">true</setting>
+    <setting id="navi.tvshowMosts">true</setting>
+    <setting id="navi.tvTrending">true</setting>
+    <setting id="navi.tvViews">true</setting>
+    <setting id="navi.userlists">true</setting>
+    <setting id="navi.userlists2">true</setting>
+    <setting id="navi.xxx" default="true">false</setting>
+    <setting id="omdb.key" default="true">74703860</setting>
+    <setting id="open_smu_settings" default="true"></setting>
+    <setting id="preemptive.limit">10</setting>
+    <setting id="preemptive.termination" default="true">false</setting>
+    <setting id="prem.identify" default="true">darkmagenta</setting>
+    <setting id="PremiumizeMeResolver_auth" default="true"></setting>
+    <setting id="prgr.sortorder">1</setting>
+    <setting id="progress.dialog" default="true">0</setting>
+    <setting id="provider.0123putlocker" default="true">false</setting>
+    <setting id="provider.0day" default="true">false</setting>
+    <setting id="provider.123123movies">true</setting>
+    <setting id="provider.123moviesfish" default="true">false</setting>
+    <setting id="provider.123movieshubz" default="true">false</setting>
+    <setting id="provider.1337x" default="true">false</setting>
+    <setting id="provider.1movietv">true</setting>
+    <setting id="provider.1putlocker">true</setting>
+    <setting id="provider.2ddl" default="true">false</setting>
+    <setting id="provider.300mbdownload" default="true">false</setting>
+    <setting id="provider.300mbfilms" default="true">false</setting>
+    <setting id="provider.4anime" default="true">false</setting>
+    <setting id="provider.5movies">true</setting>
+    <setting id="provider.alltube">true</setting>
+    <setting id="provider.alltube3d">true</setting>
+    <setting id="provider.allucxyz">true</setting>
+    <setting id="provider.anime1" default="true">false</setting>
+    <setting id="provider.animebase">true</setting>
+    <setting id="provider.animedao" default="true">false</setting>
+    <setting id="provider.animefreak" default="true">false</setting>
+    <setting id="provider.animego" default="true">false</setting>
+    <setting id="provider.animeheaven" default="true">false</setting>
+    <setting id="provider.animeloads">true</setting>
+    <setting id="provider.animepark" default="true">false</setting>
+    <setting id="provider.animeram" default="true">false</setting>
+    <setting id="provider.animeshow" default="true">false</setting>
+    <setting id="provider.animestreams" default="true">false</setting>
+    <setting id="provider.animetoon" default="true">false</setting>
+    <setting id="provider.animexd" default="true">false</setting>
+    <setting id="provider.bnwmovies">true</setting>
+    <setting id="provider.boxfilm">true</setting>
+    <setting id="provider.bs">true</setting>
+    <setting id="provider.btdb" default="true">false</setting>
+    <setting id="provider.btscene" default="true">false</setting>
+    <setting id="provider.cartoonextra" default="true">false</setting>
+    <setting id="provider.cartoonhd">true</setting>
+    <setting id="provider.cartoonhdto">true</setting>
+    <setting id="provider.cartoontab" default="true">false</setting>
+    <setting id="provider.cartoonwire">true</setting>
+    <setting id="provider.cdahd">true</setting>
+    <setting id="provider.cdapl">true</setting>
+    <setting id="provider.cdax">true</setting>
+    <setting id="provider.cine">true</setting>
+    <setting id="provider.cinemay">true</setting>
+    <setting id="provider.cmovies">true</setting>
+    <setting id="provider.cmovieshd">true</setting>
+    <setting id="provider.cmovieshdbz">true</setting>
+    <setting id="provider.cooltvseries">true</setting>
+    <setting id="provider.couchtuner2">true</setting>
+    <setting id="provider.dadyflix">true</setting>
+    <setting id="provider.ddl">true</setting>
+    <setting id="provider.ddlspot" default="true">false</setting>
+    <setting id="provider.directdl" default="true">false</setting>
+    <setting id="provider.doublr" default="true">false</setting>
+    <setting id="provider.dpstreaming">true</setting>
+    <setting id="provider.dramabus">true</setting>
+    <setting id="provider.ekinomaniak">true</setting>
+    <setting id="provider.ekinotv">true</setting>
+    <setting id="provider.exfs">true</setting>
+    <setting id="provider.extramovies">true</setting>
+    <setting id="provider.eztv" default="true">false</setting>
+    <setting id="provider.ffilms">true</setting>
+    <setting id="provider.filiser">true</setting>
+    <setting id="provider.filman">true</setting>
+    <setting id="provider.filmbit">true</setting>
+    <setting id="provider.filmdom">true</setting>
+    <setting id="provider.filmix">true</setting>
+    <setting id="provider.filmosy">true</setting>
+    <setting id="provider.filmowakrainatv">true</setting>
+    <setting id="provider.filmpalast">true</setting>
+    <setting id="provider.filmv" default="true">false</setting>
+    <setting id="provider.filmwebbooster">true</setting>
+    <setting id="provider.filmxy">true</setting>
+    <setting id="provider.filmy321">true</setting>
+    <setting id="provider.flenixonline">true</setting>
+    <setting id="provider.flixgo">true</setting>
+    <setting id="provider.fmovies" default="true">false</setting>
+    <setting id="provider.fmoviesag">true</setting>
+    <setting id="provider.fmoviesio">true</setting>
+    <setting id="provider.foxx">true</setting>
+    <setting id="provider.fullmoviz">true</setting>
+    <setting id="provider.fullstream">true</setting>
+    <setting id="provider.gamatotv">true</setting>
+    <setting id="provider.ganool123">true</setting>
+    <setting id="provider.ganoolrip" default="true">false</setting>
+    <setting id="provider.geektv">true</setting>
+    <setting id="provider.getmywatchseries" default="true">false</setting>
+    <setting id="provider.glodls" default="true">false</setting>
+    <setting id="provider.gogoanime" default="true">false</setting>
+    <setting id="provider.gogoanime1" default="true">false</setting>
+    <setting id="provider.gogoanimestv" default="true">false</setting>
+    <setting id="provider.gomo">true</setting>
+    <setting id="provider.gomoviesonl" default="true">false</setting>
+    <setting id="provider.goprojectfreetv" default="true">false</setting>
+    <setting id="provider.gostream123">true</setting>
+    <setting id="provider.gostream123net">true</setting>
+    <setting id="provider.gostreamcool">true</setting>
+    <setting id="provider.gowatchseries">true</setting>
+    <setting id="provider.hackimdb" default="true">false</setting>
+    <setting id="provider.hdbest">true</setting>
+    <setting id="provider.hdfilme">true</setting>
+    <setting id="provider.hdmo" default="true">false</setting>
+    <setting id="provider.hdmovie8" default="true">false</setting>
+    <setting id="provider.hdmto">true</setting>
+    <setting id="provider.hdpopcorns">true</setting>
+    <setting id="provider.hdstreams">true</setting>
+    <setting id="provider.hnmovies" default="true">false</setting>
+    <setting id="provider.horrorkino">true</setting>
+    <setting id="provider.horrortube">true</setting>
+    <setting id="provider.hubmovie">true</setting>
+    <setting id="provider.iheartdrama">true</setting>
+    <setting id="provider.iitvx">true</setting>
+    <setting id="provider.ikshow">true</setting>
+    <setting id="provider.iload">true</setting>
+    <setting id="provider.iwannawatch">true</setting>
+    <setting id="provider.kickass2" default="true">false</setting>
+    <setting id="provider.kinonet">true</setting>
+    <setting id="provider.kinow">true</setting>
+    <setting id="provider.kinox">true</setting>
+    <setting id="provider.letmewatchthis">true</setting>
+    <setting id="provider.library" default="true">false</setting>
+    <setting id="provider.limetorr" default="true">false</setting>
+    <setting id="provider.liomenoi">true</setting>
+    <setting id="provider.magnetdl" default="true">false</setting>
+    <setting id="provider.maxrls" default="true">false</setting>
+    <setting id="provider.megashare9" default="true">false</setting>
+    <setting id="provider.mkvcage" default="true">false</setting>
+    <setting id="provider.mkvhub">true</setting>
+    <setting id="provider.movie2k-ag">true</setting>
+    <setting id="provider.movie4k">true</setting>
+    <setting id="provider.movie4kis">true</setting>
+    <setting id="provider.movieneo">true</setting>
+    <setting id="provider.movies123" default="true">false</setting>
+    <setting id="provider.moviescouch">true</setting>
+    <setting id="provider.moviesever">true</setting>
+    <setting id="provider.movietown">true</setting>
+    <setting id="provider.mvrls" default="true">false</setting>
+    <setting id="provider.myasiantv">true</setting>
+    <setting id="provider.mycoolmoviezone">true</setting>
+    <setting id="provider.mycouchtuner">true</setting>
+    <setting id="provider.myhdpopcorn">true</setting>
+    <setting id="provider.mymovie4k">true</setting>
+    <setting id="provider.mymoviesonline" default="true">false</setting>
+    <setting id="provider.myprojectfreetv" default="true">false</setting>
+    <setting id="provider.myputlockers" default="true">false</setting>
+    <setting id="provider.myswatchseri">true</setting>
+    <setting id="provider.mywatchep4">true</setting>
+    <setting id="provider.mywatchepseries">true</setting>
+    <setting id="provider.naszekino">true</setting>
+    <setting id="provider.netzkino">true</setting>
+    <setting id="provider.newepisodes" default="true">false</setting>
+    <setting id="provider.newkino">true</setting>
+    <setting id="provider.pelisplustv">true</setting>
+    <setting id="provider.pepecine">true</setting>
+    <setting id="provider.piratebay" default="true">false</setting>
+    <setting id="provider.pokemonfire" default="true">false</setting>
+    <setting id="provider.portalciyiz" default="true">false</setting>
+    <setting id="provider.proxer">true</setting>
+    <setting id="provider.putlockered" default="true">false</setting>
+    <setting id="provider.putlockerfree">true</setting>
+    <setting id="provider.putlockeronl" default="true">false</setting>
+    <setting id="provider.putlockersio">true</setting>
+    <setting id="provider.putlockersonline">true</setting>
+    <setting id="provider.putlockersplus">true</setting>
+    <setting id="provider.rapidmoviez" default="true">false</setting>
+    <setting id="provider.rarefilmm">true</setting>
+    <setting id="provider.rlsb" default="true">false</setting>
+    <setting id="provider.rlsbb" default="true">false</setting>
+    <setting id="provider.sceneddl" default="true">false</setting>
+    <setting id="provider.scenerls" default="true">false</setting>
+    <setting id="provider.seehd">true</setting>
+    <setting id="provider.serialeco">true</setting>
+    <setting id="provider.serienstream">true</setting>
+    <setting id="provider.series9">true</setting>
+    <setting id="provider.seriesever">true</setting>
+    <setting id="provider.seriesfree">true</setting>
+    <setting id="provider.seriesonline">true</setting>
+    <setting id="provider.seriespapaya">true</setting>
+    <setting id="provider.skstream">true</setting>
+    <setting id="provider.skytorrents" default="true">false</setting>
+    <setting id="provider.solarmoviefree">true</setting>
+    <setting id="provider.solarmovienet" default="true">false</setting>
+    <setting id="provider.stream-to">true</setting>
+    <setting id="provider.streamdream">true</setting>
+    <setting id="provider.streamdreams">true</setting>
+    <setting id="provider.streamingseries">true</setting>
+    <setting id="provider.streamit">true</setting>
+    <setting id="provider.streamsnow">true</setting>
+    <setting id="provider.szukajkatv">true</setting>
+    <setting id="provider.tainiesonline">true</setting>
+    <setting id="provider.tainiomania">true</setting>
+    <setting id="provider.telepisodes">true</setting>
+    <setting id="provider.timewatch">true</setting>
+    <setting id="provider.toonget" default="true">false</setting>
+    <setting id="provider.toonova" default="true">false</setting>
+    <setting id="provider.torrapi" default="true">false</setting>
+    <setting id="provider.torrdown" default="true">false</setting>
+    <setting id="provider.torrentquest" default="true">false</setting>
+    <setting id="provider.tvbox">true</setting>
+    <setting id="provider.tvdownload" default="true">false</setting>
+    <setting id="provider.tvmovieflix">true</setting>
+    <setting id="provider.ultrahdindir" default="true">false</setting>
+    <setting id="provider.video4k">true</setting>
+    <setting id="provider.videoscraper" default="true">false</setting>
+    <setting id="provider.view4u">true</setting>
+    <setting id="provider.view4u2">true</setting>
+    <setting id="provider.warezmovies" default="true">false</setting>
+    <setting id="provider.watch32hd" default="true">false</setting>
+    <setting id="provider.watchanime" default="true">false</setting>
+    <setting id="provider.watchseries">true</setting>
+    <setting id="provider.watchseries4k" default="true">false</setting>
+    <setting id="provider.watchserieshd">true</setting>
+    <setting id="provider.watchseriessi">true</setting>
+    <setting id="provider.watchseriessto" default="true">false</setting>
+    <setting id="provider.watchseriestv">true</setting>
+    <setting id="provider.wsunblock" default="true">false</setting>
+    <setting id="provider.xpause" default="true">false</setting>
+    <setting id="provider.xrysoi">true</setting>
+    <setting id="provider.yesmoviesgg">true</setting>
+    <setting id="provider.yifyddl" default="true">false</setting>
+    <setting id="provider.ytsam" default="true">false</setting>
+    <setting id="provider.zmovies" default="true">false</setting>
+    <setting id="provider.zoogle" default="true">false</setting>
+    <setting id="providers.lang" default="true">English</setting>
+    <setting id="radio.count">50</setting>
+    <setting id="radio.country" default="true">USA</setting>
+    <setting id="RealDebridResolver_auth" default="true"></setting>
+    <setting id="remove.dupes" default="true">false</setting>
+    <setting id="schedTraktTime" default="true">0</setting>
+    <setting id="scrapers.timeout.1">60</setting>
+    <setting id="showRapGat" default="true">false</setting>
+    <setting id="showunaired">true</setting>
+    <setting id="sources.extrainfo">true</setting>
+    <setting id="subtitles" default="true">false</setting>
+    <setting id="subtitles.lang.1" default="true">English</setting>
+    <setting id="subtitles.lang.2" default="true">English</setting>
+    <setting id="subtitles.utf" default="true">false</setting>
+    <setting id="tm.user" default="true">c8b7db701bac0b26edfcc93b39858972</setting>
+    <setting id="tmdb.movielist_id1" default="true"></setting>
+    <setting id="tmdb.movielist_id10" default="true"></setting>
+    <setting id="tmdb.movielist_id2" default="true"></setting>
+    <setting id="tmdb.movielist_id3" default="true"></setting>
+    <setting id="tmdb.movielist_id4" default="true"></setting>
+    <setting id="tmdb.movielist_id5" default="true"></setting>
+    <setting id="tmdb.movielist_id6" default="true"></setting>
+    <setting id="tmdb.movielist_id7" default="true"></setting>
+    <setting id="tmdb.movielist_id8" default="true"></setting>
+    <setting id="tmdb.movielist_id9" default="true"></setting>
+    <setting id="tmdb.movielist_name1" default="true"></setting>
+    <setting id="tmdb.movielist_name10" default="true"></setting>
+    <setting id="tmdb.movielist_name2" default="true"></setting>
+    <setting id="tmdb.movielist_name3" default="true"></setting>
+    <setting id="tmdb.movielist_name4" default="true"></setting>
+    <setting id="tmdb.movielist_name5" default="true"></setting>
+    <setting id="tmdb.movielist_name6" default="true"></setting>
+    <setting id="tmdb.movielist_name7" default="true"></setting>
+    <setting id="tmdb.movielist_name8" default="true"></setting>
+    <setting id="tmdb.movielist_name9" default="true"></setting>
+    <setting id="tmdb.tvlist_id1" default="true"></setting>
+    <setting id="tmdb.tvlist_id10" default="true"></setting>
+    <setting id="tmdb.tvlist_id2" default="true"></setting>
+    <setting id="tmdb.tvlist_id3" default="true"></setting>
+    <setting id="tmdb.tvlist_id4" default="true"></setting>
+    <setting id="tmdb.tvlist_id5" default="true"></setting>
+    <setting id="tmdb.tvlist_id6" default="true"></setting>
+    <setting id="tmdb.tvlist_id7" default="true"></setting>
+    <setting id="tmdb.tvlist_id8" default="true"></setting>
+    <setting id="tmdb.tvlist_id9" default="true"></setting>
+    <setting id="tmdb.tvlist_name1" default="true"></setting>
+    <setting id="tmdb.tvlist_name10" default="true"></setting>
+    <setting id="tmdb.tvlist_name2" default="true"></setting>
+    <setting id="tmdb.tvlist_name3" default="true"></setting>
+    <setting id="tmdb.tvlist_name4" default="true"></setting>
+    <setting id="tmdb.tvlist_name5" default="true"></setting>
+    <setting id="tmdb.tvlist_name6" default="true"></setting>
+    <setting id="tmdb.tvlist_name7" default="true"></setting>
+    <setting id="tmdb.tvlist_name8" default="true"></setting>
+    <setting id="tmdb.tvlist_name9" default="true"></setting>
+    <setting id="torrent.enabled" default="true">false</setting>
+    <setting id="torrent.identify" default="true">darkorange</setting>
+    <setting id="torrent.min.seeders">10</setting>
+    <setting id="torrent.resolveurl" default="true"></setting>
+    <setting id="torrent.resolveurl1" default="true"></setting>
+    <setting id="torrent.resolveurl2" default="true"></setting>
+    <setting id="torrent.sort.them.up">true</setting>
+    <setting id="trakt.auth" default="true"></setting>
+    <setting id="trakt.refresh" default="true"></setting>
+    <setting id="trakt.token" default="true"></setting>
+    <setting id="trakt.user" default="true"></setting>
+    <setting id="trakt.user2" default="true"></setting>
+    <setting id="tv.download.path" default="true"></setting>
+    <setting id="tv.specials">true</setting>
+    <setting id="tv.widget">1</setting>
+    <setting id="tv.widget.alt">2</setting>
+    <setting id="unaired.identify" default="true">darkred</setting>
+</settings>

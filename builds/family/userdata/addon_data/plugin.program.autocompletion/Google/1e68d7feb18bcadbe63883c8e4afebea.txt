@@ -1,0 +1,1 @@
+["Beta Q", ["beta glukan", "beta glucan", "beta glukan solgar", "beta g\u0131da adana", "beta g\u0131da", "beta glukan tablet", "beta glukan \u015furup", "beta glukan venatura", "beta glukan \u00e7inko", "beta glukan kaps\u00fcl"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[B]KOLEKSIYO[/B]", ["b koleksiyon /b "], [], {"google:suggesttype": [""]}]

@@ -1,0 +1,1 @@
+["RES", ["resmi gazete", "resident evil", "resmi tatiller", "resesyon", "restaurant", "resfebe", "resimli magnet", "resmi", "resul dindar", "researchgate"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

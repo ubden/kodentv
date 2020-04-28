@@ -1,0 +1,7 @@
+[COLOR dodgerblue][B]Resume List Browsing[/B][/COLOR]
+[I]Resume List Browsing can be found in Settings->General->Navigation.
+When activated, Fen will remember which page you were up to on all Movie and TV Show lists. If you are 10 pages deep in the Trending Movies list, Fen will automatically jump to page 10 when you next re-enter that list.
+
+You can clear a lists page memory by entering the list, bringing up the context menu, selecting 'Options' and then selecting 'Clear Resume Browsing Page'. Fen will clear the memory for that list, and reload the first page. Alternately, to clear all page memory items for all lists, navigate to Tools->Clear List and Data Info->Clear Browsed Pages Cache. This will clear the memory of pages viewed for all lists.
+
+[B]Note: You cannot use 'Alphabet' for the 'Jump To...' feature if 'Resume List Browsing' is activated. It will default to 'Page'.[/B][/I]

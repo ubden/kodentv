@@ -1,0 +1,1 @@
+["Laydin", ["leydig cells", "lady gaga", "leydi diana", "leydi", "leydig h\u00fccreleri", "lady therma", "leydi ve sokak k\u00f6pe\u011fi", "leydi ile sokak k\u00f6pe\u011fi", "leydilik okulu", "leydi \u00e7ar\u015f\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

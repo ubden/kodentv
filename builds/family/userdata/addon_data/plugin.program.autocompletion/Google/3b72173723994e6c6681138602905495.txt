@@ -1,0 +1,1 @@
+["KULLANMAK \u0130\u00c7\u0130", ["kullanmak i\u00e7in kenevir ekmek", "kullanmak i\u00e7in h\u0131rs\u0131zl\u0131k", "kullanmak i\u00e7in kulland\u0131\u011f\u0131m\u0131z havlu nokta. bir maddeden yap\u0131lm\u0131\u015ft\u0131r", "kullanmak i\u00e7in saklanan tah\u0131l bulmaca"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

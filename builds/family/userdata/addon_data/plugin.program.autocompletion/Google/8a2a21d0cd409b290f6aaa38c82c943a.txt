@@ -1,0 +1,1 @@
+["SeyirTurk Fi", ["seyirturk fire tv stick"], [], {"google:suggesttype": ["QUERY"]}]

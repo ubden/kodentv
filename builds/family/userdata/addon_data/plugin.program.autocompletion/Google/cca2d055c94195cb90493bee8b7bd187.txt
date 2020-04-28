@@ -1,0 +1,1 @@
+["Spe", ["speedtest", "spend bill gates money", "spenser kanunlar\u0131", "spectrum", "spesifik", "spenser confidential", "spek\u00fclasyon", "speaky", "spenser kanunlar\u0131 imdb", "spektral"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

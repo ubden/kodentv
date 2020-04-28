@@ -1,0 +1,1 @@
+["Tu", ["turkcell", "tureng", "turktelekom", "turknet", "tutunamayanlar", "tubidy", "tuba \u00fcnsal", "tuvana t\u00fcrkay", "t\u00fcrk telekom", "t\u00fcrkiye haritas\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

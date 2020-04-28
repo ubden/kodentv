@@ -1,0 +1,1 @@
+["G\u0130", ["gib", "gittigidiyor", "gizem birdan", "gizem karaca", "gigi hadid", "github", "gitar", "gif", "giresun uzem", "giresunspor"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

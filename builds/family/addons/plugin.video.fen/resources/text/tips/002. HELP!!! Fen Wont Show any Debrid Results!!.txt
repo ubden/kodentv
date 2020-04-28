@@ -1,0 +1,6 @@
+[COLOR dodgerblue][B] Fen Wont Show any Debrid Results[/B][/COLOR]
+[I]Fen now resolves all Debrid sources internally. The supported debrid accounts are Real-Debrid, Premiuimize.me and All-Debrid. No other debrid services are currently supported.
+
+You must now authorize your debrid account within Fen's settings @ Settings->Accounts to use your debrid account in Fen.
+
+It is no longer necessary to have your debrid account authorized in ResolveURL to use your debrid account in Fen.[/I]

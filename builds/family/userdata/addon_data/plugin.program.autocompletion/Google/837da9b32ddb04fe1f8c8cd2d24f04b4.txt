@@ -1,0 +1,1 @@
+["Sports Wi", ["sports wikipedia", "sports with balls", "sports wireless headphones", "sports without balls", "sports with o", "sports with e", "sports with n", "sports wireless earbuds", "sports wireless earphones", "sports with most injuries"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

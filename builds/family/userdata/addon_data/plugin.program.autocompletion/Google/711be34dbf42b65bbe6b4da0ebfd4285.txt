@@ -1,0 +1,1 @@
+["Dep", ["deprem", "deprem son dakika", "depremler", "deprem \u00e7antas\u0131", "depression", "depresyon belirtileri", "deprem haritas\u0131", "depeche mode", "depresyon testi", "departed"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

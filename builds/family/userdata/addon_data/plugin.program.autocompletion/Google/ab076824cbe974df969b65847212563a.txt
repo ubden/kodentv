@@ -1,0 +1,1 @@
+["D", ["dolar", "decathlon", "discord", "drive", "dr", "dominos", "dropbox", "dhl", "dyson", "dnr"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

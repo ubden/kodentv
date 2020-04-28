@@ -1,0 +1,1 @@
+["CCT", ["cctv", "cctv kamera", "cctv kablo", "cctv nedir", "cctrax", "cctvdepo", "cctv kamera kablosu", "cctv camera", "cctv eye", "cctv izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

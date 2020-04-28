@@ -1,0 +1,1 @@
+["TemteArama", ["tem aramasi", "clube arama\u00e7an tem estacionamento", "tem estacionamento no arama\u00e7an", "aramado tem loja fisica", "armario tem acento", "aramaico tem vogais", "aramari tem quantos habitantes", "quantos anos aramari tem"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["(Trakt)", ["trakt tv", "trakt tv apk", "trakt activate", "trakt tv app", "trakt app", "trakt api", "trakt tv activate device", "trakt netflix", "trakt.tv/activate enter code", "trakt movies"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

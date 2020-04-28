@@ -1,0 +1,1 @@
+["[COLOR ghostwhite]BUFF", ["color ghostwhite buffalo", "color ghostwhite buffer"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

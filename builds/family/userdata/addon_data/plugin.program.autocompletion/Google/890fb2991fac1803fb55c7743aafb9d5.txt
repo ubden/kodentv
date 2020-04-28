@@ -1,0 +1,1 @@
+["(Install fr)", ["install free fire", "install freenas", "install from tar.gz", "install french drain", "install from github", "install from requirements.txt", "install from aur", "install french doors", "install free fire game", "install freebsd"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

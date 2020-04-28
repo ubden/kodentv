@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+    <coordinates>
+        <left>500</left>
+        <top>250</top>
+    </coordinates>
+    <controls>
+        <control type="group">
+            <description>Background/Framework Images</description>
+            <posx>0</posx>
+            <posy>0</posy>
+            <width>1024</width>
+            <height>576</height>
+            <control type="image">
+                <description>Background Image</description>
+                <texture>bg_full.png</texture>
+            </control>
+            <control type="image">
+                <description>Menu Framework Image</description>
+                <texture>menu_frame.png</texture>
+            </control>
+        </control>
+        <control type="label">
+            <description>Left Menu Header</description>
+            <posx>15</posx>
+            <posy>80</posy>
+            <width>300</width>
+            <align>center</align>
+            <label>Tools Menu</label>
+            <textcolor>$INFO[Window().Property(mhtext)]</textcolor>
+            <height>70</height>
+        </control>
+        <control type="label">
+            <description>Right Menu Header</description>
+            <posx>500</posx>
+            <posy>80</posy>
+            <width>300</width>
+            <align>center</align>
+            <label>Options</label>
+            <textcolor>$INFO[Window().Property(mhtext)]</textcolor>
+            <height>70</height>
+        </control>
+        <control type="group" id="400">
+            <description>Left Side Menu</description>
+            <posx>15</posx>
+            <posy>80</posy>
+            <width>300</width>
+            <control type="list" id="100">
+                <description>Left Menu items</description>
+			    <viewtype label="535">list</viewtype>
+                <posx>15</posx>
+                <posy>50</posy>
+                <onup>150</onup>
+                <ondown>150</ondown>
+                <onright>200</onright>
+              <itemlayout height="50">
+                    <control type="label">
+                        <description>No Focus Items from List</description>
+                        <height>50</height>
+                        <label>$INFO[ListItem.Label]</label>
+                        <textcolor>$INFO[Window().Property(mttext)]</textcolor>
+                    </control>
+                </itemlayout>
+                <focusedlayout height="50">
+                    <control type="label">
+                        <description>Focus Items from List</description>
+                        <height>50</height>
+                        <label>$INFO[ListItem.Label]</label>
+                        <textcolor>$INFO[Window().Property(fttext)]</textcolor>
+						<animation effect="fade" start="100" end="50" time="40" condition="!Control.HasFocus(100)">Conditional</animation>
+                    </control>
+                </focusedlayout>
+            </control>
+            <control type="radiobutton" id="150">
+                <description>Browser Setting</description>
+                <type>radiobutton</type>
+                <posy>440</posy>
+                <label>Use browser</label>
+                <height>50</height>
+                <textcolor>$INFO[Window().Property(mttext)]</textcolor>
+                <focusedcolor>$INFO[Window().Property(fttext)]</focusedcolor>
+                <texturefocus colordiffuse="$INFO[Window().Property(mttext)]">pixel.png</texturefocus>
+                <texturenofocus colordiffuse="$INFO[Window().Property(fttext)]">pixel.png</texturenofocus>
+                <onup>100</onup>
+                <ondown>100</ondown>
+            </control>
+        </control>
+        <control type="group" id="500">
+            <description>Right Side Holder</description>
+            <posx>450</posx>
+            <posy>80</posy>
+            <width>500</width>
+            <control type="list" id="200">
+                <description>Right List items</description>
+			    <viewtype label="535">list</viewtype>
+                <posx>15</posx>
+                <posy>50</posy>
+                <onleft>100</onleft>
+                <itemlayout height="50">
+                    <control type="image">
+                        <left>0</left>
+                        <top>8</top>
+                        <height>30</height>
+                        <width>30</width>
+                        <texture>$INFO[ListItem.Icon]</texture>
+                    </control>
+                    <control type="label">
+                        <description>No Focus Items from List</description>
+                        <height>50</height>
+                        <label>$INFO[ListItem.Label]</label>
+                        <textoffsetx>40</textoffsetx>
+                        <textcolor>$INFO[Window().Property(mttext)]</textcolor>
+                    </control>
+                </itemlayout>
+                <focusedlayout height="50">
+                    <control type="image">
+                        <left>0</left>
+                        <top>8</top>
+                        <height>30</height>
+                        <width>30</width>
+                        <texture>$INFO[ListItem.Icon]</texture>
+                    </control>
+                    <control type="label">
+                        <description>Focus Items from List</description>
+                        <height>50</height>
+                        <label>$INFO[ListItem.Label]</label>
+                        <textoffsetx>40</textoffsetx>
+                        <textcolor>$INFO[Window().Property(fttext)]</textcolor>
+						<animation effect="fade" start="100" end="50" time="40" condition="!Control.HasFocus(200)">Conditional</animation>
+                    </control>
+                </focusedlayout>
+            </control>
+        </control>
+    </controls>
+</window>

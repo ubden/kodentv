@@ -1,0 +1,15 @@
+<xml>
+
+  <dir>
+    <title>Actors</title>
+    <link>file://actors.xml</link>
+    <summary>Actors List</summary>
+  </dir>
+
+  <dir>
+    <title>Actress</title>
+    <link>file://actress.xml</link>
+    <summary>Actress List</summary>
+  </dir>
+  
+</xml>

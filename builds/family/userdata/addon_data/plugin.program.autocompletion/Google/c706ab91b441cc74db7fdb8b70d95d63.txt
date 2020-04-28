@@ -1,0 +1,1 @@
+["Tema Res", ["tema resmi", "tema restaurant", "tema resmi bir kurum mudur", "tema restoranlar", "tema res\u0131mler\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

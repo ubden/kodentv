@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<sounds>
+    <system_actions>
+        <select>Click.wav</select>
+        <parentdir>Back.wav</parentdir>
+        <previusmenu>Back.wav</previusmenu>
+        <screenshot>Shutter.wav</screenshot>
+    </system_actions>
+    <system_windows>
+        <notifyerror>Notify_Error.wav</notifyerror>
+        <notifyinfo>Notify_Info.wav</notifyinfo>
+        <notifywarning>Notify_Warning.wav</notifywarning>
+    </system_windows>
+    <voice_actions>
+        <select>ClickV.wav</select>
+        <parentdir>BackV.wav</parentdir>
+        <previusmenu>BackV.wav</previusmenu>
+        <screenshot>ShutterV.wav</screenshot>
+    </voice_actions>
+    <voice_windows>
+        <notifyerror>Notify_ErrorV.wav</notifyerror>
+        <notifyinfo>Notify_InfoV.wav</notifyinfo>
+        <notifywarning>Notify_WarningV.wav</notifywarning>
+    </voice_windows>
+</sounds>

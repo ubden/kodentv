@@ -1,0 +1,1 @@
+["[COLOR orchid]\u00a4[/COLOR] [B][COLOR white]Search[/COLOR]", ["color orchid \u00a4 /color b color white search /color kft", "color orchid \u00a4 /color b color white search /color ltd", "color orchid \u00a4 /color b color white search /color nedir"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

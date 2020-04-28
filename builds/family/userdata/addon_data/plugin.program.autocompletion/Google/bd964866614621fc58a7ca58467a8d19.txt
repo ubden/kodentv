@@ -1,0 +1,1 @@
+["Sports D", ["sports direct", "sports digitale", "sports day", "sports data", "sports direct ek\u015fi", "sports direct kimin", "sports food", "sports digitale ek\u015fi", "sports dynamic fc", "sports dynamic"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,11 @@
+<settings version="2">
+    <setting id="m3u" default="true"></setting>
+    <setting id="mac_add">50:5B:C2:EA:B7:E3</setting>
+    <setting id="mail" default="true"></setting>
+    <setting id="message" default="true">10</setting>
+    <setting id="recorded_date">26-04-2020</setting>
+    <setting id="root">http://satura.tk/sey/back/</setting>
+    <setting id="sifre" default="true"></setting>
+    <setting id="uclugorunum">true</setting>
+    <setting id="user_id" default="true"></setting>
+</settings>

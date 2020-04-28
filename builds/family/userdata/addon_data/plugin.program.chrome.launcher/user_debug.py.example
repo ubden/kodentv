@@ -1,0 +1,4 @@
+def enable_pydev():
+    import pydevd
+    pydevd.settrace('192.168.0.16', port=51381, stdoutToServer=True, stderrToServer=True)
+    return True

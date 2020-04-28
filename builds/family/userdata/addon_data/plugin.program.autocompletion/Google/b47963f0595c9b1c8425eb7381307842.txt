@@ -1,0 +1,1 @@
+["RESM\u0130 UYGULAMASI", ["resmi uygulamasi", "po\u015fet uygulamasi resmi gazete", "resmi tatil mesai uygulamasi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

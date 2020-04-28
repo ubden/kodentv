@@ -1,0 +1,1 @@
+["https://team-crew.github.io/", ["http://texas-crew.github.io/", "url https //team-crew.github.io/", "new url https //team-crew.github.io/"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

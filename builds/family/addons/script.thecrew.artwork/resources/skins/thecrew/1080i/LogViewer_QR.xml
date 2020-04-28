@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<window>
+    <coordinates>
+        <left>502</left>
+        <top>345</top>
+    </coordinates>
+    <controls>
+        <control type="image">
+            <description>Background Image</description>
+            <left>0</left>
+            <top>0</top>
+            <width>915</width>
+            <height>390</height>
+            <texture border="2">okbg.png</texture>
+        </control>
+        <control type="label">
+            <description>Header Text</description>
+            <textoffsetx>70</textoffsetx>
+            <left>0</left>
+            <top>20</top>
+            <width>915</width>
+            <height>70</height>
+            <label>[B]$INFO[System.AddonTitle(plugin.video.atreides)][/B]</label>
+            <textcolor>$INFO[Window().Property(dhtext)]</textcolor>
+            <align>center</align>
+            <aligny>center</aligny>
+            <shadowcolor>FF000000</shadowcolor>
+        </control>
+        <control type="image" id="501">
+            <description>QR Code Image</description>
+            <left>35</left>
+            <top>85</top>
+            <width>280</width>
+            <height>280</height>
+            <aspectratio aligny="center" align="center">keep</aspectratio>
+        </control>
+        <control type="textbox" id="502">
+            <description>Message Text</description>
+            <left>340</left>
+            <top>85</top>
+            <width>545</width>
+            <height>300</height>
+            <font>font12_title</font>
+            <align>left</align>
+            <aligny>top</aligny>
+            <shadowcolor>FF000000</shadowcolor>
+        </control>
+        <control type="button" id="503">
+            <description>Close Box</description>
+            <left>630</left>
+            <top>310</top>
+            <width>240</width>
+            <height>50</height>
+            <font>font12_title</font>
+            <textcolor>FFF0F0F0</textcolor>
+            <textoffsetx>20</textoffsetx>
+            <label>Close</label>
+            <align>center</align>
+            <aligny>center</aligny>
+            <texturefocus colordiffuse="$VAR[HighlightBarColor]">Buttons/plainbtn_focus.png</texturefocus>
+            <texturenofocus>Buttons/pixel.png</texturenofocus>
+        </control>
+    </controls>
+</window>
+

@@ -1,0 +1,1 @@
+["[COLOR yellow]ARAMA{", ["color yellow arama indir"], [], {"google:suggesttype": ["TAIL"]}]

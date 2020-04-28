@@ -1,0 +1,1 @@
+["[COLOR aqua]ARA[/COLOR]", ["color aqua aura /color "], [], {"google:suggesttype": [""]}]

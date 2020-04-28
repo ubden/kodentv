@@ -1,0 +1,1 @@
+["fE", ["fenerbah\u00e7e", "fenerbah\u00e7e beko", "fesbuk", "fetih suresi", "fen bilimleri", "ferdi tayfur", "fener", "ferrari", "feryal \u00f6ney", "fellah k\u00f6fte"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[COLOR wh", ["color wheel", "color white", "color wheel adobe", "color wheel chart", "color wheel calculator", "color wheel hair", "color wheel ideas", "color wheel definition", "color wheel art", "color wheel images"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

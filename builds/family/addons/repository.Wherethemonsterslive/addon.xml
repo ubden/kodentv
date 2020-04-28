@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<addon id="repository.Wherethemonsterslive" name="Where The Monsters Live Repository" version="1.4" provider-name="Wolfey B">
+	<extension point="xbmc.addon.repository" name="Where The Monsters Live Repository">
+		<info compressed="false">http://secretcircle.one/seeddata/wolfyB/files/addons.xml</info>
+		<checksum>http://secretcircle.one/seeddata/wolfyB/files/addons.xml.md5</checksum>
+		<datadir zip="true">http://secretcircle.one/seeddata/wolfyB/files/</datadir>
+	</extension>
+	<extension point="xbmc.addon.metadata">
+		<summary></summary>
+		<description></description>
+		<platform>all</platform>
+	</extension>
+</addon>
+

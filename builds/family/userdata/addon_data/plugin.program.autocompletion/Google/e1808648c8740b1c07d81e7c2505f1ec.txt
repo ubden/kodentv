@@ -1,0 +1,1 @@
+["Venom D", ["venom dizlik", "venom deri mont", "venom d2", "venom d2 eldiven", "venom dynamic", "venom deri eldiven", "venom d1 mont", "venom d2 mont", "venom dizi", "venom drawing"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["hAT", ["hatay iftar vakti 2020", "hatim oku", "hatayspor", "hatay sahur vakti", "hatay imsak", "hatay iftar vakti", "hatay", "hatim duas\u0131", "hat\u0131rla sevgili", "hatim"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

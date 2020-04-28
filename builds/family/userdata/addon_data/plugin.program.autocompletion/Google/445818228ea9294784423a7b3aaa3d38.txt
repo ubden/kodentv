@@ -1,0 +1,1 @@
+["Dizi", ["dizibox", "dizimag", "dizilla", "dizipub", "dizi", "dizi \u00f6nerileri", "diziler", "dizist", "diziay", "dizigold"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

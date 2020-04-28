@@ -1,0 +1,16 @@
+<?xml version="1.0.1" encoding="UTF-8" standalone="yes"?>
+<addon id="plugin.video.Brettus.Anime" name="[COLOR lime]B[/COLOR][COLOR white]RETTUS [COLOR lime]A[/COLOR][COLOR white]NIME[/COLOR]" version="5.0.1" provider-name="BRETTUS">
+  <requires>
+    <import addon="xbmc.python" version="2.1.0"/>
+    <import addon="script.module.simplejson" version="3.3.0"/>
+    <import addon="script.module.urlresolver"  version="2.1.2"/>
+  </requires>
+  <extension point="xbmc.python.pluginsource" library="community.py">
+        <provides>video</provides>
+  </extension>
+  <extension point="xbmc.addon.metadata">
+    <summary lang="en">Watch All Episodes And Movies For Anime</summary>
+    <description lang="en">Perfect Addon For Any Anime Lover</description>
+    <platform>all</platform>
+  </extension>
+</addon>

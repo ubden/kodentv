@@ -1,0 +1,42 @@
+{
+ "name"         : "Explore [COLOR ff0084ff]-[/COLOR] M4U ([COLOR FF0084FF]M[/COLOR])",
+ "repository"   : "repository.mdrepo",
+ "plugin"       : "plugin.video.mdm4u",
+ "priority"     : 700,
+ "id"           : "explore.m4u.m",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.mdm4u/?url=http%3A%2F%2Fm4ufree.info%2Ftag%2F{title_-}&mode=1",
+    "steps"     : [
+     ".*"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.mdm4u/?url=http%3A%2F%2Fm4ufree.info%2Ftag%2F{sortesttitle_-}&mode=1",
+    "steps"     : [
+     ".*"
+     ],
+    "action"    : "PLAY"
+   }
+  ]
+ ],
+ "tvshows"      : [
+  [
+   {
+    "link"      : "plugin://plugin.video.mdm4u/?url=http://m4ufree.info/tagtvs/{clearname_-}&mode=11",
+    "steps"     : [
+     ".*{clearname}.*",
+     ".*S{season:02d}-E{episode:02d}.*"
+     ],
+    "action"    : "PLAY"
+   }
+  ]
+ ],
+ "musicvideos"  : [],
+ "music"        : [],
+ "live"         : []
+}

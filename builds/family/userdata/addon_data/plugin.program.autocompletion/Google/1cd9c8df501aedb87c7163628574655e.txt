@@ -1,0 +1,1 @@
+["SCR", ["scratch", "scrabble", "screenshot", "scratch indir", "scrikss", "scrubs", "scream", "scratch 2", "screen recorder", "scribd"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["Ukt", ["ukte", "ukte ne demek", "ukte \u00f6zl\u00fcyorum", "ukte askerim", "ukte son sigaram", "ukte ilk g\u00f6z a\u011fr\u0131m", "ukte sana dair s\u00f6zleri", "ukte kalmak", "ukte \u015fark\u0131lar\u0131", "ukte \u00f6zl\u00fcyorum s\u00f6zleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

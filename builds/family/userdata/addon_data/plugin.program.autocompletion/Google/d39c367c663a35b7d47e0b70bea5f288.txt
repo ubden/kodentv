@@ -1,0 +1,1 @@
+["Youtube An", ["youtube ana sayfa", "youtube anahtar kelime", "youtube analytics", "youtube analiz", "youtube ana sayfas\u0131", "youtube anlam\u0131", "youtube animasyon", "youtube android", "youtube analytic", "youtube animasyon filmler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

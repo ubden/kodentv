@@ -1,0 +1,1 @@
+["n", ["netflix", "n11", "nesine", "nike", "ntv", "netflix dizileri", "nihat hatipo\u011flu", "namaz sureleri", "niloya", "nisa b\u00f6l\u00fckba\u015f\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

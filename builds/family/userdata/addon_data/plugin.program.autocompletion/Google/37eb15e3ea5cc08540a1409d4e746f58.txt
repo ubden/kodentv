@@ -1,0 +1,1 @@
+["TURKVOD IP", ["turkvod iphone", "turkvod ipk", "turkvod ip adresi", "turkvod ipk enigma2", "turkvod ipad", "turkvod iptv \u00e7al\u0131\u015fm\u0131yor", "turkvod iptv ekleme", "turkvod iptv y\u00fckleme"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

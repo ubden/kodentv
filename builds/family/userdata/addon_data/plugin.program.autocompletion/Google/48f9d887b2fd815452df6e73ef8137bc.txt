@@ -1,0 +1,1 @@
+["Zi", ["ziraat bankas\u0131", "ziya sel\u00e7uk", "ziraat bank", "zingat", "ziraat kat\u0131l\u0131m", "ziraat atm", "zillow", "zippo", "zion williamson", "ziraat bankas\u0131 kredi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

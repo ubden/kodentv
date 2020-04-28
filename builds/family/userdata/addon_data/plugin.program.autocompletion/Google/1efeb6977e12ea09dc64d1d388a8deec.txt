@@ -1,0 +1,1 @@
+["(\u00d6nc)", ["\u00f6nc haber", "\u00f6nc d\u00f6ner", "\u00f6nc d\u00fcr\u00fcm", "\u00f6nc tv", "\u00f6nc rtv", "umut \u00f6nc", "bir an \u00f6nc", "nazan \u00f6nc", "aylin \u00f6nc", "can \u00f6nc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

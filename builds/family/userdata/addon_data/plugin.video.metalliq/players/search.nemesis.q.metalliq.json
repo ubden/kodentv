@@ -1,0 +1,179 @@
+{
+ "name"         : "Direct [COLOR FF0084FF]-[/COLOR] Nemesis ([COLOR FF0084FF]Q[/COLOR])",
+ "repository"   : "repository.StreamArmy",
+ "plugin"       : "plugin.video.nemesis",
+ "priority"     : 900,
+ "id"           : "search.nemesis.q",
+ "filters"      : {},
+ "postprocess"  : "",
+ "movies"       : [
+  [
+   {
+    "link"      : "plugin://plugin.video.nemesis/?description&amp;fanart=special%3a%2f%2faddons%2fplugin.video.nemesis%2ffanart.jpg&amp;iconimage=special%3a%2f%2faddons%2faddons%2fplugin.video.nemesis%2ficon.png&amp;mode=33&amp;name=Search%20A%20Movie&amp;url={title_+}",
+    "steps"     : [
+     "><{title}.{year}"
+     ],
+    "action"    : "ACTIVATE"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/?description&amp;fanart=special%3a%2f%2faddons%2fplugin.video.nemesis%2ffanart.jpg&amp;iconimage=special%3a%2f%2faddons%2faddons%2fplugin.video.nemesis%2ficon.png&amp;mode=33&amp;name=Search%20A%20Movie&amp;url={title_+}",
+    "steps"     : [
+     "><{title}"
+     ],
+    "action"    : "ACTIVATE"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/?description&amp;fanart=special%3a%2f%2faddons%2fplugin.video.nemesis%2ffanart.jpg&amp;iconimage=special%3a%2f%2faddons%2faddons%2fplugin.video.nemesis%2ficon.png&amp;mode=33&amp;name=Search%20A%20Movie&amp;url={title_+}",
+    "steps"     : [
+     "><.*{title}.*"
+     ],
+    "action"    : "ACTIVATE"
+   }
+  ]
+ ],
+ "tvshows"      : [
+  [
+   {
+    "link"      : "plugin://plugin.video.nemesis/?description&amp;fanart=special%3a%2f%2faddons%2fplugin.video.nemesis%2ffanart.jpg&amp;iconimage=special%3a%2f%2faddons%2faddons%2fplugin.video.nemesis%2ficon.png&amp;mode=71&amp;name=Search%20A%20TVShow&amp;url=search",
+    "steps"     : [
+     "@keyboard:{clearname}",
+     "><{clearname}",
+     "><Season.{season}.Episode.{episode}.{title}"
+     ],
+    "action"    : "ACTIVATE"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/?description&amp;fanart=special%3a%2f%2faddons%2fplugin.video.nemesis%2ffanart.jpg&amp;iconimage=special%3a%2f%2faddons%2faddons%2fplugin.video.nemesis%2ficon.png&amp;mode=71&amp;name=Search%20A%20TVShow&amp;url=search",
+    "steps"     : [
+     "@keyboard:{clearname}",
+     "><{clearname}",
+     "><Season.{season}.Episode.{episode}.{title}"
+     ],
+    "action"    : "ACTIVATE"
+   }
+  ]
+ ],
+ "musicvideos"  : [],
+ "music"        : [],
+ "live"         : [
+  [
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)L($$.*$$)ive TV($$.*$$)",
+     "@any",
+     "><{name}@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)L($$.*$$)ive TV($$.*$$)",
+     "@any",
+     "><.*{name}.*@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)L($$.*$$)ive TV($$.*$$)",
+     "@any",
+     "><{basename}.({extension}|{extension|number_to_text()}|{extension|text_to_number()})@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)L($$.*$$)ive TV($$.*$$)",
+     "@any",
+     "><.*{basename}.({extension}|{extension|number_to_text()}|{extension|text_to_number()}).*@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)I($$.*$$)PTV($$.*$$).*",
+     "@anynotcontaining:CHANNELS",
+     "><{name}@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)I($$.*$$)PTV($$.*$$).*",
+     "@anynotcontaining:CHANNELS",
+     "><.*{name}.*@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)I($$.*$$)PTV($$.*$$).*",
+     "@anynotcontaining:CHANNELS",
+     "><{basename}.({extension}|{extension|number_to_text()}|{extension|text_to_number()})@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)I($$.*$$)PTV($$.*$$).*",
+     "@anynotcontaining:CHANNELS",
+     "><.*{basename}.({extension}|{extension|number_to_text()}|{extension|text_to_number()}).*@page:($$.*$$)Next Page.*($$.*$$)"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)N($$.*$$)ews Channels($$.*$$)",
+     "><{name}"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)N($$.*$$)ews Channels($$.*$$)",
+     "><.*{name}.*"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)N($$.*$$)ews Channels($$.*$$)",
+     "><{basename}.({extension}|{extension|number_to_text()}|{extension|text_to_number()})"
+     ],
+    "action"    : "PLAY"
+   },
+   {
+    "link"      : "plugin://plugin.video.nemesis/",
+    "steps"     : [
+     "($$.*$$)T($$.*$$)v Zone($$.*$$)",
+     "($$.*$$)N($$.*$$)ews Channels($$.*$$)",
+     "><.*{basename}.({extension}|{extension|number_to_text()}|{extension|text_to_number()}).*"
+     ],
+    "action"    : "PLAY"
+   }
+  ]
+ ]
+}

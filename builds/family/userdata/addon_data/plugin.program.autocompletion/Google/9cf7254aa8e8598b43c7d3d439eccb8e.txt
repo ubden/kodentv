@@ -1,0 +1,1 @@
+["PO\u00dc", ["po \u00fcbungen", "po\u00fcndak party hostel", "po\u00fcer bi", "po\u00fcer point", "po \u00fcbungen gym", "po \u00fcbungen mann", "po \u00fcbungen ohne ger\u00e4te", "po \u00fcbungen matte", "po \u00fcbung mit band", "po \u00fcbung gym"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

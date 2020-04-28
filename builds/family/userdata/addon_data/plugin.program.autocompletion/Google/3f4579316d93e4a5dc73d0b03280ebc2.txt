@@ -1,0 +1,1 @@
+["Canl\u0131", ["canl\u0131 tv", "canl\u0131 tv izle", "canl\u0131 yay\u0131n", "canl\u0131 radyo", "canl\u0131 borsa", "canl\u0131 haber", "canl\u0131", "canl\u0131 ders eba", "canl\u0131 alt\u0131n", "canl\u0131 d\u00f6viz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

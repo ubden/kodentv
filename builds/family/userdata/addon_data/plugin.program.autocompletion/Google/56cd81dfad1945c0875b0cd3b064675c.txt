@@ -1,0 +1,1 @@
+["[B]CANLI T[/B]", ["kanal b canli tv izle", "kanal b canli tv", "kanal b tv canli yayin", "b tv canli izle", "f.b tv canli yayini", "f b tv canli izle", "b tv canli", "beyaz tv canli", "f b tv canli", "kanal b tv canli yayin izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

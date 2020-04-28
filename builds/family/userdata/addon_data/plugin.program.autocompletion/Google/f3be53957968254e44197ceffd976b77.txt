@@ -1,0 +1,1 @@
+["Laydinin Y", ["anka leydinin y\u00fcz\u00fc", "leydinin yaz\u0131l\u0131\u015f\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

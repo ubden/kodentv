@@ -1,0 +1,1 @@
+["Depodan Y\u00fckl", ["depo y\u00fckleme sistemleri", "depo y\u00fckleme rampas\u0131", "depo y\u00fckleme eleman\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

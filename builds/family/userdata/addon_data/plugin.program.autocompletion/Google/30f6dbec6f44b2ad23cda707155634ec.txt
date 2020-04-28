@@ -1,0 +1,1 @@
+["Pandora", ["pandora", "pandora adana", "pandora bileklik", "pandora charm", "pandora f\u0131rat", "pandora kitap", "pandora ne demek", "pandoran\u0131n kutusu", "pandora karides", "pandora f\u0131rat \u00f6zal"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

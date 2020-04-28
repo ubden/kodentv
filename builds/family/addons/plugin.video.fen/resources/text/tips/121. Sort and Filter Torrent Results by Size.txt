@@ -1,0 +1,12 @@
+[COLOR dodgerblue][B]Sort and Filter Torrent Results by Size[/B][/COLOR]
+[I]Fen now allows you to sort and filter torrent results by their size.
+
+To [B]sort[/B] torrents by size, enable: Settings->Results->Torrents Sorting & Filtering->Sort Torrents by Size. Default is enabled.
+
+To [B]filter[/B] torrents by size, enable: Settings->Results->Torrents Sorting & Filtering->Filter Torrents by Size. Default is disabled.
+
+When filtering by size, you can set a minimum and maximum size for both Movies and Episodes. You input the values yourself, and they are used by Fen as GB's.
+
+e.g. If you want minimum size for Movies to be 2.5GB, you would input "2.5". If you want 5GB minimum, you could input "5" or "5.0". If you want Episodes minimum to be 756MB you would input "0.756".
+
+Try it out to see...[/I]

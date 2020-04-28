@@ -1,0 +1,1 @@
+["OpenI", ["open\u0131v", "opening speech mun", "opening", "opening speech", "opening ceremony", "openiv", "opening speech examples", "openid", "opening night", "opening soon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

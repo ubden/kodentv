@@ -1,0 +1,1 @@
+["Turk\u015fs", ["turkish airlines", "turkish anime", "turkish studies", "turkish mashup", "turkish delight", "t\u00fcrkistan", "turkish army", "turkishexporter", "turkish technic", "turkish cargo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

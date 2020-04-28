@@ -1,0 +1,1 @@
+["Ye", ["yemek sepeti", "yeditepe \u00fcniversitesi", "yeditepe obs", "yeezy", "yemek", "yemek tarifleri", "yenibiri\u015f", "ye\u015fil mercimek yeme\u011fi", "yeni \u015fafak", "yeni\u00e7a\u011f"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

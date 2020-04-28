@@ -1,0 +1,1 @@
+["[TR", ["translate", "trendyol", "trabzonspor", "trt haber", "trt izle", "trt", "trivago", "trt 1", "trt spor", "trt canl\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
