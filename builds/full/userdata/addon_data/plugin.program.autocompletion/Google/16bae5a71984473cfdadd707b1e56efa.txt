@@ -1,0 +1,1 @@
+["VERI", ["veri nedir", "verimor", "veriban", "veridyen", "veri analizi", "verim", "veri", "veritas", "verimlilik", "verifone"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

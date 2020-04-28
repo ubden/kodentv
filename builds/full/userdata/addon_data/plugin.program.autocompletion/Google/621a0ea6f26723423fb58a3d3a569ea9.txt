@@ -1,0 +1,1 @@
+["Fil", ["film", "filmler", "film \u00f6nerileri", "fil suresi", "file market", "filiz ak\u0131n", "film makinesi", "filtre kahve makinesi", "filipinler", "filtre kahve"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

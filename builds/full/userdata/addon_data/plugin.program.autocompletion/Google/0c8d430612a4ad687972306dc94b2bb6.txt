@@ -1,0 +1,1 @@
+["Hata Log", ["bata logo", "hata logo", "hata loglar\u0131", "hata logosu", "logo hata kodlar\u0131", "logo hata 1053", "logo hata kodu 32070", "logo hata 32070", "logo hata veriyor", "logo hata kodu 1053"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

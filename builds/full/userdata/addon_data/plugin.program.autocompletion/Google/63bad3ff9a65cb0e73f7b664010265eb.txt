@@ -1,0 +1,1 @@
+["[FILM TANITI", ["film tan\u0131t\u0131m\u0131", "film tan\u0131t\u0131m\u0131 ingilizce", "film tanitim yazisi bulmaca", "film tanitimlari", "film tanitim yazisi", "ingilizce film tanitimlari"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

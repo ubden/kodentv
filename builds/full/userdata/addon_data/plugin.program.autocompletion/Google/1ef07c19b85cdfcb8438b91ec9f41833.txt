@@ -1,0 +1,1 @@
+["KODENTV[/", ["kontv canl\u0131", "kontv haber", "kontv frekans", "kontv izle", "kontv canl\u0131 yay\u0131n", "kontv canl\u0131 izle", "kontv frekans 2019", "kontv haber son dakika canl\u0131", "kontv yay\u0131n ak\u0131\u015f\u0131", "kontv yeni frekans"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

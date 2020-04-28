@@ -1,0 +1,2 @@
+[COLOR dodgerblue][B]Context Menu Add-on[/B][/COLOR]
+[I]Fen has a supplementary context menu add-on (Fen Context Menu) that can be found in the Tikipeter repo. This allows limited Fen functionality to be accessed from widgets made from Fen menu items. Some include marking an episode watched through Fen, browsing to a series from a widget episode item, and accesing Fen's settings. It is useful if you make widgets from Fen's menus, and want some Fen functionality from the widgets context menu.[/I]

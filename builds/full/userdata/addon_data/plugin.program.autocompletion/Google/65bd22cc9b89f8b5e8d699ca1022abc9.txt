@@ -1,0 +1,1 @@
+["cClou", ["ccloud", "ccloud tv", "cloud iptv", "ccloud tv repo", "cloud repo", "ccloud tv plex", "cloud tv apk", "soundcloud", "google cloud", "cloud official repo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

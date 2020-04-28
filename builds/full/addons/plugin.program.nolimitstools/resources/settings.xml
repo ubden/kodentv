@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <category label="GENERAL">
+		<setting type="lsep" label="[COLOR=dodgerblue]Backup Settings[/COLOR]"/>
+		<setting id="zip" type="folder"    label="Choose Backup Storage Location:"      default="special://home/backupdir"/>
+	</category>
+	<category label="MAINTENANCE OPTIONS">
+		<setting type="lsep" label="Checks Cache Size, Packages Size, etc"/>
+		<setting id="maint_check_folders" type="bool" label="Enable Folder Size Monitoring For Maintenance Section?" default="true"/>	
+		<setting type="lsep" label="Checks Kodis Log Files for Errors."/>
+		<setting id="maint_check_log" type="bool" label="Auto Check Logs for Errors When Entering Maintenance?" default="true"/>	
+	</category>
+	<category label="AUTO CLEAN OPTIONS">
+		<setting type="lsep" label="Launch Time Options"/>
+		<setting id="acstartup" type="bool" label="Enable Auto Clean" default="false"/>	
+		<setting id="autocleanfreq" type="enum" label="How often to Auto Clean?" values="Always|Daily|3 Days|Weekly" enable="!eq(-4,false)"/>
+		<setting id="nextautocleanup" type="text" label="Next Auto Cleanup: " enable="false" visible="false" default=""/>
+		<setting type="lsep" label="Clean Up Options"/>
+		<setting id="accache" type="bool" label="Clear Cache" default="true"/>
+		<setting id="acpackages" type="bool" label="Purge Packages" default="true"/>
+		<setting id="acthumbs" type="bool" label="Clear Week Old Thumbnails" default="true"/>	
+		<setting id="accrash" type="bool" label="Clear Crash Logs" default="true"/>
+                <setting type="lsep" label="Clearing Video Cache:"/>
+		<setting id="includevideo" type="bool" label="Include Video Addons in Clear Cache: " default="true"/>
+		<setting id="includeall" type="bool" label="Include All Addons: " default="true" enable="!eq(-1,false)" visible="!eq(-1,false)"/>
+		<setting id="includeanarchy" type="bool" label="Include AnArchy Cache DB: " default="true" enable="!eq(-2,false)" visible="!eq(-2,false)"/>
+		<setting id="includebeausplace" type="bool" label="Include Beau's Place Cache DB: " default="true" enable="!eq(-3,false)" visible="!eq(-3,false)"/>
+		<setting id="includebennu" type="bool" label="Include Bennu Cache DB: " default="true" enable="!eq(-4,false)" visible="!eq(-4,false)"/>
+		<setting id="includebonecrusher" type="bool" label="Include Bonecrusher Cache DB: " default="true" enable="!eq(-5,false)" visible="!eq(-5,false)"/>
+		<setting id="includeboxsetkings" type="bool" label="Include Boxset Kings Cache DB: " default="true" enable="!eq(-6,false)" visible="!eq(-6,false)"/>
+		<setting id="includebubbles" type="bool" label="Include Bubbles Cache DB: " default="true" enable="!eq(-7,false)" visible="!eq(-7,false)"/>
+		<setting id="includecovenant" type="bool" label="Include Covenant Cache DB: " default="true" enable="!eq(-8,false)" visible="!eq(-8,false)"/>
+		<setting id="includedeathstreams" type="bool" label="Include Death Streams Cache DB: " default="true" enable="!eq(-9,false)" visible="!eq(-9,false)"/>
+		<setting id="includeelysium" type="bool" label="Include Elysium Cache DB: " default="true" enable="!eq(-10,false)" visible="!eq(-10,false)"/>
+		<setting id="includeexodus" type="bool" label="Include Exodus Cache DB: " default="true" enable="!eq(-11,false)" visible="!eq(-11,false)"/>
+		<setting id="includeexoshark" type="bool" label="Include ExoShark Cache DB: " default="true" enable="!eq(-12,false)" visible="!eq(-12,false)"/>
+		<setting id="includeflixanity" type="bool" label="Include Flixanity Cache DB: " default="true" enable="!eq(-13,false)" visible="!eq(-13,false)"/>
+		<setting id="includegurzil" type="bool" label="Include Gurzil Cache DB: " default="true" enable="!eq(-14,false)" visible="!eq(-14,false)"/>
+		<setting id="includehitlists" type="bool" label="Include The Hit Lists Cache DB: " default="true" enable="!eq(-15,false)" visible="!eq(-15,false)"/>
+		<setting id="includeneptune" type="bool" label="Include Neptune Rising Cache DB: " default="true" enable="!eq(-16,false)" visible="!eq(-16,false)"/>
+		<setting id="includenotsure" type="bool" label="Include Not Sure Cache DB: " default="true" enable="!eq(-17,false)" visible="!eq(-17,false)"/>
+		<setting id="includepiranha" type="bool" label="Include Piranha Cache DB: " default="true" enable="!eq(-18,false)" visible="!eq(-18,false)"/>
+		<setting id="includeposeidon" type="bool" label="Include Poseidon Cache DB: " default="true" enable="!eq(-19,false)" visible="!eq(-19,false)"/>
+		<setting id="includeprojectm" type="bool" label="Include Project M Cache DB: " default="true" enable="!eq(-20,false)" visible="!eq(-20,false)"/>
+		<setting id="includeredpill" type="bool" label="Include Red Pill Cache DB: " default="true" enable="!eq(-21,false)" visible="!eq(-21,false)"/>
+		<setting id="includeresistance" type="bool" label="Include Resistance Cache DB: " default="true" enable="!eq(-22,false)" visible="!eq(-22,false)"/>
+		<setting id="includerevelations" type="bool" label="Include Revelations Cache DB: " default="true" enable="!eq(-23,false)" visible="!eq(-23,false)"/>
+		<setting id="includesalts" type="bool" label="Include Salts Cache DB: " default="true" enable="!eq(-24,false)" visible="!eq(-24,false)"/>
+		<setting id="includesaltshdlite" type="bool" label="Include Salts HD Lite Cache DB: " default="true" enable="!eq(-25,false)" visible="!eq(-25,false)"/>
+		<setting id="includesaltsrdlite" type="bool" label="Include Salts RD Lite Cache DB: " default="true" enable="!eq(-26,false)" visible="!eq(-26,false)"/>
+		<setting id="includesilenthunter" type="bool" label="Include Silent Hunter Cache DB: " default="true" enable="!eq(-27,false)" visible="!eq(-27,false)"/>
+		<setting id="includespecto" type="bool" label="Include Specto Cache DB: " default="true" enable="!eq(-28,false)" visible="!eq(-28,false)"/>
+		<setting id="includesportie" type="bool" label="Include Sportie Cache DB: " default="true" enable="!eq(-29,false)" visible="!eq(-29,false)"/>
+		<setting id="includestreamhub" type="bool" label="Include StreamHub Cache DB: " default="true" enable="!eq(-30,false)" visible="!eq(-30,false)"/>
+		<setting id="includethedelorean" type="bool" label="Include The DeLorean Cache DB: " default="true" enable="!eq(-31,false)" visible="!eq(-31,false)"/>
+		<setting id="includetinklepad" type="bool" label="Include TinklePad Cache DB: " default="true" enable="!eq(-32,false)" visible="!eq(-32,false)"/>
+		<setting id="includetriangulum" type="bool" label="Include Triangulum Cache DB: " default="true" enable="!eq(-33,false)" visible="!eq(-33,false)"/>
+		<setting id="includeukturk" type="bool" label="Include UK Turk Playlists Cache DB: " default="true" enable="!eq(-34,false)" visible="!eq(-34,false)"/>
+		<setting id="includewtfork" type="bool" label="Include What The Fork? Cache DB: " default="true" enable="!eq(-35,false)" visible="!eq(-35,false)"/>
+		<setting id="includexxxodus" type="bool" label="Include XXX-O-DUS Cache DB: " default="true" enable="!eq(-36,false)" visible="!eq(-36,false)"/>
+   	</category>
+	<category label="LOG SETTINGS">
+		<setting type="lsep" label="[COLOR=dodgerblue]Log Settings[/COLOR]"/>
+		<setting id="email" type="text" label="30500"/>
+		<setting id="include_old" type="bool" label="30501" default="true"/>
+		<setting id="addon_debug" type="bool" label="Addon Debug" visible="false" default="false"/>
+		<setting id="email_prompt" type="bool" visible="false" default="false"/>
+		<setting label="30502" type="lsep"/>
+		<setting id="enable_dropbox" type="bool" label="30504" default="false"/>
+		<setting id="enable_pastebin" type="bool" label="30505" default="true"/>
+		<setting id="enable_ubuntu" type="bool" label="30506" default="false"/>
+	</category>
+</settings>

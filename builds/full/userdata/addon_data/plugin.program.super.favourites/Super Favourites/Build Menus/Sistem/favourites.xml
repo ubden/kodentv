@@ -1,0 +1,9 @@
+<favourites>
+	<favourite name="Zipten Dosya Yükle" thumb="DefaultHardDisk.png">ActivateWindow(10040,&quot;addons://install/&quot;,return)</favourite>
+	<favourite name="Depodan Yükle" thumb="DefaultHardDisk.png">ActivateWindow(10040,&quot;addons://repos/&quot;,return)</favourite>
+	<favourite name="Clear Cache" thumb="http://tribeca.tvaddons.ag/tools/maintenance/thumbs/clearcache.jpg">ActivateWindow(10001,&quot;plugin://plugin.video.xbmchubmaintenance/?fanart=%2fUsers%2fJason%2fLibrary%2fApplication%20Support%2fKodi%2faddons%2fplugin.video.xbmchubmaintenance%2ffanart.jpg&amp;iconimage=http%3a%2f%2ftribeca.tvaddons.ag%2ftools%2fmaintenance%2fthumbs%2fclearcache.jpg&amp;mode=4&amp;name=Clear%20Cache&amp;url=url&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.xbmchubmaintenance%2Ffanart.jpg%26desc%3DClear+Cache%26_options_sf&quot;,return)</favourite>
+	<favourite name="Paketleri Temizle" thumb="special://home/addons/plugin.video.tdbwizard/resources/art/tools.png">PlayMedia(&quot;plugin://plugin.video.tdbwizard/?url=url&amp;mode=3&amp;name=%5BCOLOR+white%5DPurge+Packages%5B%2FCOLOR%5D&amp;fanart=%2FUsers%2FJason%2FLibrary%2FApplication+Support%2FKodi%2Faddons%2Fplugin.video.tdbwizard%2Ffanart.jpg&amp;sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%2Fplugin.video.tdbwizard%2Ffanart.jpg%26winID%3D10001%26_options_sf&quot;)</favourite>
+	<favourite name="Video add-ons" thumb="DefaultAddonVideo.png">ActivateWindow(10025,&quot;plugin://xbmc.addon.video&quot;,return)</favourite>
+	<favourite name="Program add-ons" thumb="DefaultAddonProgram.png">ActivateWindow(10025,&quot;plugin://xbmc.addon.executable&quot;,return)</favourite>
+	<favourite name="Music add-ons" thumb="DefaultAddonMusic.png">ActivateWindow(10025,&quot;plugin://xbmc.addon.audio&quot;,return)</favourite>
+</favourites>

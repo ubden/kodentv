@@ -1,0 +1,1 @@
+["%ap", ["apple", "apple watch", "apk", "apk day\u0131", "aptoide", "apple watch 5", "apsiyon", "apple store", "aprilla ahc 5026", "apple destek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["KO", ["koton", "ko\u00e7ta\u015f", "korona son dakika t\u00fcrkiye", "korona", "kolonya", "kore sava\u015f\u0131", "korku filmleri", "komedi filmleri", "kocam\u0131n ailesi", "konut kredisi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["(Insta)", ["insta login", "instant pot", "insta dp", "insta captions", "instacart", "insta fonts", "insta stalker", "insta video download", "instagram", "insta bio"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

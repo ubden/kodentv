@@ -1,0 +1,1 @@
+["Loglar\u0131 Temizler", ["loglar\u0131 temizleme", "windows loglar\u0131 temizleme", "metin2 loglar\u0131 temizleme"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

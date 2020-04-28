@@ -1,0 +1,1 @@
+["IPT", ["iptv", "iptidai ne demek", "iptal", "iptidai", "iptv apk", "iptv sat\u0131\u015f", "iptal olan u\u00e7u\u015flar", "iptorrents", "ipten bileklik", "iptal olan seferler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

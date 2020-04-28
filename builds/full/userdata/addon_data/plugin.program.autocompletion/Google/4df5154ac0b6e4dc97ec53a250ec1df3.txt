@@ -1,0 +1,1 @@
+["Yeni", ["yeni\u00e7a\u011f", "yeni akit", "yeni gelin", "yeni \u015fafak", "yenilmezler", "yenilmezler 3", "yeni as\u0131r", "yeni asya", "yeni zelanda", "yeni filmler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

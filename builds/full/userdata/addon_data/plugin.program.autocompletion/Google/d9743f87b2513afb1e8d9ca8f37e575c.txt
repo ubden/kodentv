@@ -1,0 +1,1 @@
+["Zipten", ["ziptenant", "zipnet", "ziten tablet", "zipten capsule uses", "zipten capsule", "zip tent", "ziten tablet uses", "zipnet ghana", "zipnet limited", "zipnet app"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

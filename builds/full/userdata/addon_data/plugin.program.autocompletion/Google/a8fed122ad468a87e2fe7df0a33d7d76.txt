@@ -1,0 +1,1 @@
+["Sa", ["sahibinden", "samsung", "sabah", "say\u0131sal loto", "saat ka\u00e7", "sambucol", "samsung a70", "samsung s20", "samsung a51", "samsung a50"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

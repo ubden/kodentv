@@ -1,0 +1,1 @@
+["[COLOR red][B]", ["color red bootstrap", "color red background", "color red brown", "color red blue green", "color red bootstrap 4", "color red bull", "color red blue", "color red brick", "color red blue yellow", "color red brown hair"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

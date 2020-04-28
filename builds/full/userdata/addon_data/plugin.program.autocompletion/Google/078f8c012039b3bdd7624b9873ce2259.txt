@@ -1,0 +1,1 @@
+["Cooking", ["cooking", "cooking simulator", "cooking games", "cooking mama", "cooking cream", "cooking class istanbul", "cooking pot", "cooking oil", "cooking fever", "cooking alaturka"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

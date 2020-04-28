@@ -1,0 +1,1 @@
+["(\u00d6nce )", ["\u00f6ncesi okul \u00f6ncesi", "\u00f6ncesi okul \u00f6ncesi etkinlikleri", "\u00f6ncel nazan"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

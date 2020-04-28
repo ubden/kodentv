@@ -1,0 +1,1 @@
+["Ye", ["yemek sepeti", "yeni\u00e7a\u011f", "yemek tarifleri", "ye\u015fil kundura", "yeni akit", "yeni gelin", "yemek duas\u0131", "yeni \u015fafak", "ye\u015fil yol", "yemek \u00e7e\u015fitleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

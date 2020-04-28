@@ -1,0 +1,1 @@
+["Seti", ["seti", "setif katliam\u0131", "setirizin", "setik", "setien", "setik nedir", "setil alkol", "setinox", "setirizin nedir", "setinterval"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["GAMI", ["gmail", "gaming laptop", "gaming mouse", "gaming pc", "gamification", "gaming kulakl\u0131k", "gaming chair", "gaming istanbul", "gaming", "gaming monitor"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,8 @@
+<settings version="2">
+    <setting id="custom_port" default="true"></setting>
+    <setting id="custom_server" default="true"></setting>
+    <setting id="email" default="true"></setting>
+    <setting id="favs" default="true"></setting>
+    <setting id="server" default="true">Gmail</setting>
+    <setting id="zip">C:\Proje\</setting>
+</settings>

@@ -1,0 +1,5 @@
+<favourites>
+	<favourite name="[COLOR chartreuse](Önce Zipten KodenTv Yükleyin)[/COLOR]" thumb="DefaultHardDisk.png">ActivateWindow(10040,&quot;addons://install/&quot;,return)</favourite>
+	<favourite name="[COLOR blue]KodenTV[/COLOR] [COLOR white]Backgrounds - Blue Ice[/COLOR]" thumb="special://home/addons\plugin.program.nolimitsbg2\icon.png">ActivateWindow(10001,&quot;plugin://plugin.program.nolimitsbg2?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.nolimitsbg2%5Cfanart.jpg%26_options_sf&quot;,return)</favourite>
+	<favourite name="[COLOR blue]KodenTv[/COLOR] [COLOR white]Backgrounds - KodenTV Smart[/COLOR]" thumb="special://home/addons\plugin.program.nolimitsbgmagic\icon.png">ActivateWindow(10001,&quot;plugin://plugin.program.nolimitsbgmagic?sf_options=fanart%3Dspecial%3A%2F%2Fhome%2Faddons%5Cplugin.program.nolimitsbgmagic%5Cfanart.jpg%26_options_sf&quot;,return)</favourite>
+</favourites>

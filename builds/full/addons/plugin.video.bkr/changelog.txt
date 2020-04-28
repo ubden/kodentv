@@ -1,0 +1,30 @@
+[B][COLOR limegreen]• [/COLOR][/B][B][COLOR yellowgreen] WELCOME TO[/COLOR][/B] [COLOR gold][B]B[/B][/COLOR]oxset [COLOR gold][B]K[/B][/COLOR]ings [COLOR gold][B]Reborn[/B][/COLOR] [COLOR yellowgreen][B]LATEST UPDATES[/COLOR][/B][B][COLOR limegreen] •[/COLOR][/B]
+
+[COLOR limegreen]None of the Original Devs wanted their names metioned in this addon. Without the original developers this add-on would never exist. Thanks for all they have brought to the community.[CR][COLOR gold][B]B[/B][/COLOR]oxset [COLOR gold][B]K[/B][/COLOR]ings is reborn for anyone to enjoy.[/COLOR]
+
+[COLOR limegreen]For all[/COLOR] [COLOR gold][B]B[/B][/COLOR]oxset [COLOR gold][B]K[/B][/COLOR]ings [COLOR gold][B]Reborn[/B][/COLOR] [COLOR limegreen]features enter your TMDB credentials in addon settings.[/COLOR]
+
+[COLOR crimson]********************************************************************************************[/COLOR]
+
+[B][COLOR limegreen]• [/COLOR][/B] CURRENT STATUS: [COLOR limegreen]Good![/COLOR]
+ 
+[COLOR crimson]********************************************************************************************[/COLOR]
+
+[B][COLOR limegreen]V3.0.0.3[/COLOR][/B]
+[B][COLOR crimson]• [/COLOR][/B] script.module.schism.common update v2018.12.16
+[B][COLOR crimson]• [/COLOR][/B] Requests vulnerability found in …/incapsula/requirements.txt on Oct 29 fixed
+[B][COLOR crimson]• [/COLOR][/B] Vulnerable versions was 2.19.1 - Patched version: 2.20.0
+[B][COLOR crimson]• [/COLOR][/B] Requests Upgrade to version 2.20.0
+[B][COLOR crimson]• [/COLOR][/B] More info here: https://nvd.nist.gov/vuln/detail/CVE-2018-18074
+
+[B][COLOR limegreen]V3.0.0.2[/COLOR][/B]
+[B][COLOR crimson]• [/COLOR][/B] New Trakt API
+
+[B][COLOR limegreen]V3.0.0.1[/COLOR][/B]
+[B][COLOR crimson]• [/COLOR][/B] New Official Repo
+[B][COLOR crimson]• [/COLOR][/B] Intial Release
+[B][COLOR crimson]• [/COLOR][/B] Boxset Kings Fork 
+[B][COLOR crimson]• [/COLOR][/B] Added TV Shows Boxsets
+[B][COLOR crimson]• [/COLOR][/B] Added Collections Boxsets
+[B][COLOR crimson]• [/COLOR][/B] Added Artwork Script
+[B][COLOR crimson]• [/COLOR][/B] Added New Icons and redone all the categories

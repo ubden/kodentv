@@ -1,0 +1,1 @@
+["Paketleri Temizle", ["paketleri temizleme", "paketleri temizlemek"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

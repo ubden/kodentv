@@ -1,0 +1,1 @@
+["Clean", ["clean master", "cleaner", "cleanmax", "clean bandit", "clean", "clean master apk", "clean face", "clean clear", "clean ne demek", "clean my mac"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[COLOR", ["color palette", "color picker", "colorado", "color", "color wheel", "color blind test", "colorista", "color out of space", "color oracle", "color code"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

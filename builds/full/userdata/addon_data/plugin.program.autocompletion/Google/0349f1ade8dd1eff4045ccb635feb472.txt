@@ -1,0 +1,1 @@
+["SON \u00c7IKANLAR", ["son \u00e7ikanlar", "son \u00e7\u0131kanlar m\u00fczik", "son \u00e7\u0131kanlar \u015fark\u0131lar", "son \u00e7\u0131kanlar kitaplar", "son \u00e7\u0131kanlar 2019"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

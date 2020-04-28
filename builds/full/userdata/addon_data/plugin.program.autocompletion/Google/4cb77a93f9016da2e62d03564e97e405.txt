@@ -1,0 +1,1 @@
+["D\u0131\u015f g\u00f6r\u00fcn\u00fcm\u00fc yeniden y\u00fck", ["d\u0131\u015f g\u00f6r\u00fcn\u00fcm\u00fc yeniden y\u00fckle", "d\u0131\u015f g\u00f6r\u00fcn\u00fcm\u00fc yeniden y\u00fckleme", "d\u0131\u015f g\u00f6r\u00fcn\u00fcm\u00fc yeniden y\u00fcklensin"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

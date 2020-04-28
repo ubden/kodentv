@@ -1,0 +1,1 @@
+["Pulse Beat", ["pulse beat", "pulse beat is measured from", "pulse beat app", "pulse beats per minute", "pulse beating fast", "pulse beating in ear", "pulse beat heart rate monitor", "pulse beat rate", "pulse beat gym", "pulse beat meaning"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

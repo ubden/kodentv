@@ -1,0 +1,108 @@
+<settings version="2">
+    <setting id="addon_debug">true</setting>
+    <setting id="adult">true</setting>
+    <setting id="auto-view">true</setting>
+    <setting id="autocleanwiz">true</setting>
+    <setting id="bubbles" default="true"></setting>
+    <setting id="buildname" default="true"></setting>
+    <setting id="buildtheme" default="true"></setting>
+    <setting id="buildversion" default="true"></setting>
+    <setting id="covenant" default="true"></setting>
+    <setting id="debridlastsave">2020-04-30</setting>
+    <setting id="debuglevel">2</setting>
+    <setting id="default.addonupdate" default="true"></setting>
+    <setting id="default.enablerssfeeds" default="true"></setting>
+    <setting id="default.font" default="true"></setting>
+    <setting id="default.rssedit" default="true"></setting>
+    <setting id="default.skincolors" default="true"></setting>
+    <setting id="default.skintheme" default="true"></setting>
+    <setting id="default.skinzoom" default="true"></setting>
+    <setting id="default.soundskin" default="true"></setting>
+    <setting id="default.startupwindow" default="true"></setting>
+    <setting id="default.stereostrength" default="true"></setting>
+    <setting id="defaultskin" default="true"></setting>
+    <setting id="defaultskinignore" default="true">false</setting>
+    <setting id="defaultskinname" default="true"></setting>
+    <setting id="developer">true</setting>
+    <setting id="disableupdate">true</setting>
+    <setting id="elysium" default="true"></setting>
+    <setting id="enable3rd" default="true">false</setting>
+    <setting id="errors" default="true"></setting>
+    <setting id="exodus" default="true"></setting>
+    <setting id="extract" default="true">100</setting>
+    <setting id="genesisreborn" default="true"></setting>
+    <setting id="gurzil" default="true"></setting>
+    <setting id="installed" default="true">false</setting>
+    <setting id="installmethod" default="true">0</setting>
+    <setting id="keepadvanced">false</setting>
+    <setting id="keepdebrid">false</setting>
+    <setting id="keepfavourites">false</setting>
+    <setting id="keeplogin" default="true">false</setting>
+    <setting id="keepprofiles">false</setting>
+    <setting id="keeprepos" default="true">false</setting>
+    <setting id="keepsources" default="true">false</setting>
+    <setting id="keepsuper" default="true">false</setting>
+    <setting id="keeptrakt">false</setting>
+    <setting id="keepwhitelist" default="true">false</setting>
+    <setting id="kodi17iscrap"></setting>
+    <setting id="lastbuildcheck">2020-04-27</setting>
+    <setting id="latestversion" default="true"></setting>
+    <setting id="loginflawless" default="true"></setting>
+    <setting id="loginivue" default="true"></setting>
+    <setting id="loginlastsave" default="true"></setting>
+    <setting id="loginontapptv" default="true"></setting>
+    <setting id="loginotttv" default="true"></setting>
+    <setting id="loginoverlord" default="true"></setting>
+    <setting id="loginsmoothstreams" default="true"></setting>
+    <setting id="loginsportsaccess" default="true"></setting>
+    <setting id="loginsportsmania" default="true"></setting>
+    <setting id="loginsportsnationhd" default="true"></setting>
+    <setting id="logintotalinstaller" default="true"></setting>
+    <setting id="logintvportal" default="true"></setting>
+    <setting id="loginultimatemania" default="true"></setting>
+    <setting id="loginvpnicity" default="true"></setting>
+    <setting id="loginxtreamcodes" default="true"></setting>
+    <setting id="meta" default="true"></setting>
+    <setting id="metalliq" default="true"></setting>
+    <setting id="neptune" default="true"></setting>
+    <setting id="nextcleandate">2020-04-29</setting>
+    <setting id="no-name" default="true"></setting>
+    <setting id="notedismiss" default="true">false</setting>
+    <setting id="noteid" default="true"></setting>
+    <setting id="notify">true</setting>
+    <setting id="numbers" default="true"></setting>
+    <setting id="path" default="true">special://home/backupdir</setting>
+    <setting id="placenta" default="true"></setting>
+    <setting id="poseidon" default="true"></setting>
+    <setting id="ProjectCypher" default="true"></setting>
+    <setting id="pvrclient" default="true"></setting>
+    <setting id="realexodus" default="true"></setting>
+    <setting id="realspecto" default="true"></setting>
+    <setting id="resurl">NGYISMV6J32KM</setting>
+    <setting id="salts" default="true"></setting>
+    <setting id="seperate" default="true">false</setting>
+    <setting id="show15" default="true">false</setting>
+    <setting id="show16">true</setting>
+    <setting id="show17">true</setting>
+    <setting id="show18">true</setting>
+    <setting id="specto" default="true"></setting>
+    <setting id="streamhub" default="true"></setting>
+    <setting id="titus" default="true"></setting>
+    <setting id="trakt" default="true"></setting>
+    <setting id="traktlastsave">2020-04-30</setting>
+    <setting id="ugottoc" default="true"></setting>
+    <setting id="uranus" default="true"></setting>
+    <setting id="urlresolver" default="true"></setting>
+    <setting id="viewType">50</setting>
+    <setting id="wizard1name" default="true"></setting>
+    <setting id="wizard1url" default="true"></setting>
+    <setting id="wizard2name" default="true"></setting>
+    <setting id="wizard2url" default="true"></setting>
+    <setting id="wizard3name" default="true"></setting>
+    <setting id="wizard3url" default="true"></setting>
+    <setting id="wizardlog">true</setting>
+    <setting id="wizlogcleanby">1</setting>
+    <setting id="wizlogcleandays">2</setting>
+    <setting id="wizlogcleanlines">2</setting>
+    <setting id="wizlogcleansize">1</setting>
+</settings>

@@ -1,0 +1,1 @@
+["Collections", ["collections python", "collections java", "collections.sort descending", "collections", "collections agency", "collections in c#", "collections interview questions", "collections textbook", "collectionshield360", "collections google"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

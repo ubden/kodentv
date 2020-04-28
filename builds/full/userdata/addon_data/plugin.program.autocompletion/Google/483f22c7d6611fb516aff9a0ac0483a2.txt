@@ -1,0 +1,1 @@
+["Clean up my", ["clean up my mac", "clean up my phone", "clean up my computer", "clean up my room", "clean up my credit", "clean up my mac free", "clean up my laptop", "clean up my iphone", "clean up my ipad", "clean up my storage"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

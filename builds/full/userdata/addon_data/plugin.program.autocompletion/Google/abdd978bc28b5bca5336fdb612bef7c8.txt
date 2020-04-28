@@ -1,0 +1,1 @@
+["Baya", ["bayan peregrine'in tuhaf \u00e7o\u00e7uklar\u0131", "baya\u011f\u0131 ne demek", "baya\u011f\u0131", "bayan", "bayan spor ayakkab\u0131", "bayan saat", "baya ne demek", "bayan kol saati", "baya", "bayan bot"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["IP", ["iphone 11", "iphone 7 plus", "iphone 7", "iphone x", "iphone 8 plus", "ipek filiz yaz\u0131c\u0131", "iphone 11 pro", "iphone 8", "iphone", "iphone 11 pro max"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

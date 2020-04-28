@@ -1,0 +1,39 @@
+<xml>
+
+<item>
+<title>==[COLORdarkorange] ==================== [/COLOR]==</title>
+</item>
+
+<item>
+<title>[COLORdarkorange]Add-On Optimized for Movies, NOT TV Shows,[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLORdarkorange]If TV Shows Don't Work, I Dont Care.[/COLOR]</title>
+</item>
+
+<item>
+<title>==[COLORdarkorange] ==================== [/COLOR]==</title>
+</item>
+
+<dir>
+  <title>Search TV IMDB</title>  
+  <imdburl>searchseries</imdburl>
+</dir>
+
+<dir>
+<title>Trending Tv Shows</title>
+<trakt>https://api.trakt.tv/shows/trending/?limit=50&page=1</trakt>
+</dir>
+  
+    <dir>
+    <title>On The Air</title>
+    <tmdb>tv/on_the_air</tmdb>
+    <summary>Shows Airing in Next 7 Days</summary>
+  </dir>
+	
+<item>
+<title>==[COLORdarkorange] ==================== [/COLOR]==</title>
+</item>
+  
+</xml>

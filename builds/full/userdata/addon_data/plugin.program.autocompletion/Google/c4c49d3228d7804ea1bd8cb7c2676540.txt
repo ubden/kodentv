@@ -1,0 +1,1 @@
+["Be", ["bershka", "beymen", "bein connect", "bein sports", "besiktas", "bernie sanders", "better call saul", "ben fero", "benetton", "behance"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

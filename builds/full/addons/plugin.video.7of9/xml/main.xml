@@ -1,0 +1,251 @@
+
+<item>
+<title>=======[COLOR lime]All Welcome To 7of9[/COLOR]=======</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]"Of all the souls I have encountered in[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]my travels, his was the most...  human."[/COLOR]</title>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]**********************************[/COLOR][/B]</title>
+</item>
+
+<dir>
+<title>**Fix Youtube Daily Limit Exceeded**</title>
+<link>plugin://plugin.video.thebigfix4yt/</link>
+</dir>
+
+<dir>
+<title>**AUTHORIZE Debrid / Manage Debrid**</title>
+<link>http://7of9.m3u.xyz/jen/puckapks/debridmanage.xml</link>
+</dir>
+
+<item>
+<title>[B][COLOR dodgerblue]**********************************[/COLOR][/B]</title>
+</item>
+
+<dir>
+<title>[COLORyellow]=Delta Quadrant - One-Click - Add-Ons=[/COLOR]</title>
+<link>plugin://plugin.video.deltaquadrant/</link>
+</dir>
+
+<dir>
+<title>[COLORorange]=Movies= (Short Menu)[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/puckapks/movies.xml</link>
+</dir>
+
+<dir>
+<title>[COLORorange]=TV Shows= (Short Menu)[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/puckapks/tvshows.xml</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Movies= (Extended menu)[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/movies/homejen.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=TV Shows= (Extended menu)[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/tvshows/homejen.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Fan/Short Films=[/COLOR]</title>
+<link>plugin://plugin.video.thebigshort/</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Kids - Movies / TV / Anime / Animated=[/COLOR]</title>
+<link>plugin://plugin.video.bigtoons/</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=IPTV / 24-7=[/COLOR]</title>
+<link>plugin://plugin.video.betaquadrant/</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=World News=[/COLOR]</title>
+<link>plugin://plugin.video.gammaquadrant/</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Sports / Sexy Sports=[/COLOR]</title>
+<link>plugin://plugin.video.alphaquadrant/</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Star Trek / Star Wars=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/startrekhome.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Martial Arts=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/movies/martial.arts.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Urban / Gangster=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/urban/home.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Sci-Fi / Fantasy=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/movies/scifi-build.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Horror / Cult=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/movies/horror-build.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Super Heroes=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/super-heroes.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Classic (BNW) Movies=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/movies/bnw.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Actors and Actresses=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/movies/actors-actresses.php</link>
+</dir>
+
+<dir>
+  <title>[COLORwhite]=Trailers, Critics And Shows=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/movies/movie.trailers.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Classic Radio Theater=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/oldtimeradio.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Music=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/music.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Now Thats Funny=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/youtubecinema/funnyvideos.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Celebrity Gossip=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/celebritygossip.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Top Documentaries=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/docs.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Fitness / Sexy Fitness=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/fitness.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Relax=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/youtubecinema/relax.php</link>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Adults 18+ Only - Password Protected=[/COLOR]</title>
+<link>http://7of9.m3u.xyz/jen/7of9-cached/adult/xxx.gateway.php</link>
+<password>get/c2V4bG92ZXI=</password>
+</dir>
+
+<item>
+<title>[B][COLOR dodgerblue]**********************************[/COLOR][/B]</title>
+</item>
+
+<dir>
+<title>[COLORwhite]=Trakt=[/COLOR]</title>
+<link>file://trakt.xml</link>
+<summary>Trakt</summary>
+</dir>
+
+<dir>
+<title>[COLORwhite]=Search=[/COLOR]</title>
+<link>file://search.xml</link>
+<summary>Search</summary>
+</dir>
+
+<dir>
+<name>[COLORwhite]=Search Youtube=[/COLOR]</name>
+<link>plugin://plugin.video.youtube/[/COLOR]</link>
+</dir>
+
+<plugin>
+<name>[COLORwhite]=Tools, Settings, Clear Cache=[/COLOR]</name>
+<link>plugin://plugin.video.7of9/?action=openSettings</link>
+<fanart></fanart>
+</plugin>
+
+<plugin>
+<name>[COLORwhite]=Testings=</name>
+<link>plugin://plugin.video.7of9/?action=developer</link>
+<thumbnail></thumbnail>
+<summary>Testings</summary>
+</plugin>
+
+<dir>
+<title>[COLORwhite]=7of9 - DISCLAIMER=[/COLOR]</title>
+<link>message(http://7of9.m3u.xyz/jen/7of9-cached/Disclaimer.php)</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+</dir>
+
+<item>
+<title>[B][COLOR dodgerblue]**********************************[/COLOR][/B]</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]"And Enterprise feels like a house with[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]all the children gone. No, more empty[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]than even that.  The death of Spock is[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]like an open wound. It seems that I have[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]left the noblest part  of myself back[/COLOR]</title>
+</item>
+
+<item>
+<title>[COLOR dodgerblue]there ...on that newborn planet."?[/COLOR]</title>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]**********************************[/COLOR][/B]</title>
+</item>
+
+<item>
+<title>==[COLORdarkorange] Your Donation Pays Server Cost [/COLOR]==</title>
+</item>
+
+<item>
+<title>==[COLORdarkorange] Donation Email: DiamondBuild@gmx.com [/COLOR]==</title>
+</item>
+
+<item>
+<title>[B][COLOR dodgerblue]**********************************[/COLOR][/B]</title>
+</item>

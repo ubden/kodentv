@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<settings>
+	<!-- GENERAL -->
+	<category label="30030">
+		<setting id="gui_type" type="labelenum" label="30038" values="default|classic" default="default" />
+	</category>
+</settings>

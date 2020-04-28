@@ -1,0 +1,1 @@
+["[B][COLOR yellow]AUTO TEMI[/COLOR][/B]", [], [], {"google:suggesttype": []}]

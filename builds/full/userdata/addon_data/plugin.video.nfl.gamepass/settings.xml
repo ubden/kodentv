@@ -1,0 +1,15 @@
+<settings>
+    <setting id="email" value="jwalworth@yahoo.com" />
+    <setting id="hide_game_length" value="false" />
+    <setting id="local_tz" value="0" />
+    <setting id="password" value="warmcold" />
+    <setting id="preferred_bitrate" value="8" />
+    <setting id="preferred_game_version" value="0" />
+    <setting id="proxy_auth" value="false" />
+    <setting id="proxy_enabled" value="false" />
+    <setting id="proxy_host" value="" />
+    <setting id="proxy_password" value="" />
+    <setting id="proxy_port" value="" />
+    <setting id="proxy_scheme" value="http" />
+    <setting id="proxy_username" value="" />
+</settings>

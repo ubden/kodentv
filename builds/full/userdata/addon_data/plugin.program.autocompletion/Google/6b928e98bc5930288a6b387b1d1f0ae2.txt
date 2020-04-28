@@ -1,0 +1,1 @@
+["Belg", ["belgrad orman\u0131", "belgium", "belgrad", "belgesel izle", "belgium population", "belgesel", "belgrad forest", "belgisiz s\u0131fat", "belgin doruk", "belgisiz zamir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

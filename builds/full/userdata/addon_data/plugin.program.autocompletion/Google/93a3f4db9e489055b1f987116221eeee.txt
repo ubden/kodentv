@@ -1,0 +1,1 @@
+["ubd", ["ubd", "ubd nedir", "ubdt", "ubd plan \u00f6rnekleri", "update", "ubden", "ubs", "ubd uygulayan okullar", "updigo", "under armour"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

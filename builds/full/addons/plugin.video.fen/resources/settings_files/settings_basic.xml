@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<settings>
+    <!-- General -->
+    <category label="General">
+        <!-- Appearance -->
+        <setting label="Appearance" type="lsep" />
+        <setting id="settings_layout" type="action" label="Choose Settings Layout" default="Basic" action="RunPlugin(plugin://plugin.video.fen/?mode=switch_settings)" option="close" />
+        <setting id="theme_installed" type="bool" label="" default="false" visible="false" />
+        <setting id="fen.theme" label="Icon Type" type="labelenum" default="Light" values="Light|Heavy" visible="eq(-1,true)" />
+        <setting id="theme_amble" label="Download Tiki Artwork for Icons" type="text" default="" visible="eq(-2,false)" enable="false" />
+        <setting id="unaired_episode_colour" type="action" label="Choose Unaired Episodes Highlight Color" default="red" action="RunPlugin(plugin://plugin.video.fen/?mode=unaired_episode_color_choice)" />
+        <setting id="show_specials" type="bool" label="Show TV Show Specials When Available" default="false" />
+        <setting id="default_all_episodes" type="bool" label="Flatten TV Show Seasons" default="false" />
+        <setting id="use_season_title" type="bool" label="Use Season Titles When Available" default="false" enable="eq(-1,false)" />
+        <setting id="all_trailers" type="bool" label="Show Choice for All Trailer Videos" default="false" />
+        <setting id="disable_changelog_popup" type="bool" label="Disable Auto View of Changelog When Add-on Updates" default="false" />
+        <!-- Navigation -->
+        <setting label="Navigation" type="lsep" />
+        <setting id="auto_start_fen" type="bool" label="Auto Start FEN when Kodi Starts" default="false" />
+        <setting id="cache_browsed_page" type="bool" label="Resume List Browsing from Last Viewed Page" default="false" />
+        <setting id="paginate.lists" type="bool" label="Paginate Lists When Possible" default="false" />
+        <setting id="page_limit" label="Choose Max Lists items" type="slider" default="20" range="5,1,100" option="int" enable="eq(-1,true)" subsetting="true" />
+        <setting id="nav_jump" label="Jump To... List Navigation" type="enum" default="0" values="Page|Alphabet" visible="eq(-3,false)" enable="eq(-2,true)" subsetting="true" />
+        <setting id="nav_jump_dummy" label="Jump To... List Navigation" type="enum" default="0" values="Page" visible="eq(-4,true)" subsetting="true" />
+        <setting id="ignore_articles" type="bool" label="Ignore Articles When Sorting Lists" default="true" />
+        <setting id="default_openinfo" label="Open Extended Info when Selecting.." type="enum" default="0" values="Off|Movies|TV Shows|Both" />
+        <setting id="thread_main_menus" type="bool" label="Use Threading for Menu Items" default="false" />
+        <!-- Kodi Library -->
+        <setting label="Kodi Library" type="lsep" />
+        <setting id="recent_added_limit" label="Choose Max Kodi Recently Added items" type="slider" default="20" range="5,1,25" option="int" />
+        <!-- UTC Time Offset -->
+        <setting label="UTC Time Offset" type="lsep" />
+        <setting id="datetime.offset" label="UTC (+/-)" type="slider" default="0" range="-15,1,15" option="int" />
+        <!--Settings Backup/Restore -->
+        <setting label="Backup/Restore" type="lsep" />
+        <setting id="backup_directory" type="folder" label="Backup Settings to this Directory" default="" />
+        <setting id="backup.backup" type="action" label="Backup Settings..." default="" action="RunPlugin(plugin://plugin.video.fen/?mode=backup_settings)" subsetting="true" />
+        <setting id="backup.restore" type="action" label="Restore Settings..." default="" action="RunPlugin(plugin://plugin.video.fen/?mode=restore_settings)" subsetting="true" />
+        <!-- Hidden -->
+        <setting id="trakt_refresh_token" label="trakt refresh token" type="text" visible="false" />
+        <setting id="trakt_expires_at" label="trakt expires at" type = "text" visible="false" />
+        <setting id="rd.auth" label="rd auth" type="text" visible="false" />
+        <setting id="rd.client_id" label="rd client_id" type = "text" visible="false" />
+        <setting id="rd.refresh" label="rd refresh" type = "text" visible="false" />
+        <setting id="rd.secret" label="rd secret" type = "text" visible="false" />
+        <setting id="openscrapers.version" label="openscrapers version" type = "text" visible="false" />
+        <setting id="version_number" label="version_number" type = "text" visible="false" />
+        <setting id="version_check" label="version_check" type = "text" visible="false" />
+        <setting id="failing_scrapers.reset_time" label="scrapers reset time" type = "text" visible="false" />
+        <setting id="service_time" type="text" label="Service Time" default="2000-01-01 00:00:00" visible="false" />
+        <setting id="trakt.subscriptions_movie" label="trakt.subscriptions_movie" type="text" default="" visible="hidden" />
+        <setting id="trakt.subscriptions_show" label="trakt.subscriptions_show" type="text" default="" visible="hidden" />
+        <setting id="subscription_timer" label="subscription_timer" type="text" default="24" visible="hidden" />
+        <setting id="choice.general" type="enum" default="0" visible="hidden" />
+        <setting id="choice.accounts" type="enum" default="0" visible="hidden" />
+        <setting id="choice.next_episodes" type="enum" default="0" visible="hidden" />
+        <setting id="choice.trakt" type="enum" default="0" visible="hidden" />
+        <setting id="choice.int_scrapers" type="enum" default="0" visible="hidden" />
+        <setting id="choice.ext_scrapers" type="enum" default="0" visible="hidden" />
+        <setting id="choice.results" type="enum" default="0" visible="hidden" />
+        <setting id="choice.playback" type="enum" default="0" visible="hidden" />
+        <setting id="choice.subscriptions" type="enum" default="0" visible="hidden" />
+        <setting id="choice.downloads" type="enum" default="0" visible="hidden" />
+        <setting id="subtitle_amble" type="text" default="" visible="hidden" />
+    </category>
+    <!-- Accounts -->
+    <category label="Accounts">
+        <!-- Furk -->
+        <setting label="Furk" type="lsep" />
+        <setting id="furk_login" type="text" label="Login" default="" />
+        <setting id="furk_password" type="text" label="Password" default="" />
+        <setting id="furk_api_key" type="text" label="Furk API Key (optional)" default="" />
+        <!-- Easynews -->
+        <setting label="Easynews" type="lsep" />
+        <setting id="easynews_user" type="text" label="Username" default="" />
+        <setting id="easynews_password" type="text" label="Password" default="" />
+        <!-- Real Debrid -->
+        <setting label="Real Debrid" type="lsep" />
+        <setting id="rd.enabled" type="bool" label="Enable Real Debrid Use" default="true" />
+        <setting id="rd.token" label="rd token" type="text" default="" visible="hidden" />
+        <setting id="rd.username" label="Real Debrid Username" type="text" default="" visible="!eq(-1,)+eq(-2,true)" enable="false" />
+        <setting id="open_rd_authenticate" type="action" label="Authorize Real Debrid" visible="eq(-2,)+eq(-3,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=real_debrid.authenticate)" />
+        <setting id="open_rd_reauthenticate" type="action" label="Re-Authorize Real Debrid" visible="!eq(-3,)+eq(-4,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=real_debrid.authenticate)" />
+        <setting id="open_rd_revoke_authenticate" type="action" label="Revoke Real Debrid Authorization" visible="!eq(-4,)+eq(-5,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=real_debrid.authenticate_revoke)" />
+        <setting id="store_torrent.real-debrid" label="Add Resolved Torrents to Real Debrid Cloud" type="bool" visible="!eq(-5,)+eq(-6,true)" default="false" />
+        <!-- Premiumize -->
+        <setting label="Premiumize" type="lsep" />
+        <setting id="pm.enabled" type="bool" label="Enable Premiumize Use" default="true" />
+        <setting label="pm token" id="pm.token" type="text" default="" visible="hidden" />
+        <setting id="pm.account_id" label="Premiumize Customer ID" type="text" default="" visible="!eq(-1,)+eq(-2,true)" enable="false" />
+        <setting id="open_pm_authenticate" type="action" label="Authorize Premiumize" visible="eq(-2,)+eq(-3,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=premiumize.authenticate)" />
+        <setting id="open_pm_reauthenticate" type="action" label="Re-Authorize Premiumize" visible="!eq(-3,)+eq(-4,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=premiumize.authenticate)" />
+        <setting id="open_pm_revoke_authenticate" type="action" label="Revoke Premiumize Authorization" visible="!eq(-4,)+eq(-5,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=premiumize.authenticate_revoke)" />
+        <setting id="store_torrent.premiumize.me" label="Add Resolved Torrents to Premiumize Cloud" type="bool" visible="!eq(-5,)+eq(-6,true)" default="false" />
+        <!-- All Debrid -->
+        <setting label="All Debrid" type="lsep" />
+        <setting id="ad.enabled" type="bool" label="Enable All Debrid Use" default="true" />
+        <setting label="ad token" id="ad.token" type="text" default="" visible="hidden" />
+        <setting id="ad.account_id" label="All Debrid Username" type="text" default="" visible="!eq(-1,)+eq(-2,true)" enable="false" />
+        <setting id="open_ad_authenticate" type="action" label="Authorize All Debrid" visible="eq(-2,)+eq(-3,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=alldebrid.authenticate)" />
+        <setting id="open_ad_reauthenticate" type="action" label="Re-Authorize All Debrid" visible="!eq(-3,)+eq(-4,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=alldebrid.authenticate)" />
+        <setting id="open_ad_revoke_authenticate" type="action" label="Revoke All Debrid Authorization" visible="!eq(-4,)+eq(-5,true)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=alldebrid.authenticate_revoke)" />
+        <setting id="store_torrent.alldebrid" label="Add Resolved Torrents to All Debrid Cloud" type="bool" visible="!eq(-5,)+eq(-6,true)" default="false" />
+        <!-- Trakt -->
+        <setting label="Trakt" type="lsep" />
+        <setting label="trakt access token" id="trakt_access_token" type="text" default="" visible="hidden" />
+        <setting id="trakt_user" label="Trakt Username" type="text" default="" visible="!eq(-1,)" enable="false" />
+        <setting id="open_trakt_authenticate" type="action" label="Authorize Trakt" visible="eq(-2,)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=trakt_authenticate)" />
+        <setting id="open_trakt_de-authenticate" type="action" label="Revoke Trakt Authentication" visible="!eq(-3,)" option="close" action="RunPlugin(plugin://plugin.video.fen/?mode=trakt_remove_authentication)" />
+        <!-- TMDb API-->
+        <setting label="TMDb API" type="lsep" />
+        <setting id="tmdb_api" type="text" label="TMDb API Key" default="1b0d3c6ac6a6c0fa87b55a1069d6c9c8" />
+    </category>
+    <!-- Next Episodes -->
+    <category label="Next Episodes">
+        <!-- Content and Sorting -->
+        <setting label="Content and Sorting" type="lsep" />
+        <setting id="nextep.sort_type" label="Sort Type" type="enum" default="0" values="Recently Watched|Airdate|Title" />
+        <setting id="nextep.sort_order" label="Sort Order" type="enum" default="0" values="Descending|Ascending" />
+        <setting id="nextep.include_unaired" label="Include Unaired Episodes" type="bool" default="true" />
+        <setting id="nextep.include_unwatched" label="Include Trakt Watchlist / TV Show Unwatched" type="bool" default="true" />
+        <setting id="nextep.cache_to_disk" label="Cache To Disc" type="bool" default="false" />
+        <!-- Appearance -->
+        <setting label="Appearance" type="lsep" />
+        <setting id="nextep.include_airdate" label="Include Airdate in Title" type="bool" default="true" />
+        <setting id="nextep.airdate_format" label="Choose Airdate Format" type="enum" default="0" values="Day-Month-Year|Year-Month-Day|Month-Day-Year" subsetting="true" enable="eq(-1,true)" />
+        <setting id="nextep.airdate_colour" type="action" label="Choose Airdate Color" default="magenta" enable="eq(-2,true)" action="RunPlugin(plugin://plugin.video.fen/?mode=next_episode_color_choice&amp;setting=Airdate)" subsetting="true" />
+        <setting id="nextep.unaired_colour" type="action" label="Choose Unaired Color" default="red" action="RunPlugin(plugin://plugin.video.fen/?mode=next_episode_color_choice&amp;setting=Unaired)" />
+        <setting id="nextep.unwatched_colour" type="action" label="Choose Unwatched Color" default="darkgoldenrod" action="RunPlugin(plugin://plugin.video.fen/?mode=next_episode_color_choice&amp;setting=Unwatched)" />
+    </category>
+    <!-- Trakt -->
+    <category label="Trakt">
+        <!-- Trakt Calendar -->
+        <setting label="Trakt Calendar" type="lsep" />
+        <setting id="calendar_focus_today" type="bool" label="Trakt Calendar Set Focus to Today's Date" default="true" />
+        <setting id="trakt.calendar_previous_days" label="Trakt Calendar Show Previous Days" type="slider" default="7" range="0,1,10" option="int" />
+        <setting id="trakt.calendar_future_days" label="Trakt Calendar Show Future Days" type="slider" default="7" range="0,1,10" option="int" />
+        <!-- Trakt Widgets -->
+        <setting label="Trakt Widgets" type="lsep" />
+        <setting id="trakt_widget_limit" label="Choose Max Trakt Widget items" type="slider" default="20" range="5,1,25" option="int" />
+        <!-- Trakt Cache -->
+        <setting label="Trakt Cache" type="lsep" />
+        <setting id="trakt_cache_duration" label="Trakt Cache Duration" type="enum" default="0" values="1 Hour|1 Day|1 Week" />
+        <setting id="refresh_trakt_on_startup" type="bool" label="Refresh Trakt Cache on Each Kodi Startup" default="false" />
+    </category>
+    <!-- Internal Scrapers -->
+    <category label="Internal Scrapers">
+        <!-- Furk -->
+        <setting label="Furk" type="lsep" />
+        <setting id="provider.furk" type="bool" label="Enable Furk Scraper" default="false" />
+        <setting id="furk.limit" label="Limit Number of Results" type="slider" default="100" range="1,1,100" option="int" enable="eq(-1,true)" subsetting="true" />
+        <setting id="furk_maxgb" label="Limit Size of Results (GB)" type="slider" default="100" range="1,1,100" option="int" enable="eq(-2,true)" subsetting="true" />
+        <setting id="furk.mod.level" label="Search Moderation Level" type="labelenum" default="No" values="No|Yes|Full" enable="eq(-3,true)" subsetting="true" />
+        <setting id="include_uncached_results" type="bool" label="Include Uncached Results"  default="false" enable="eq(-4,true)" subsetting="true" />
+        <setting id="provider.furk_colour" type="action" label="Choose Furk Scraper Color" default="firebrick" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=furk)" enable="eq(-5,true)" subsetting="true" />
+        <!-- Easynews -->
+        <setting label="Easynews" type="lsep" />
+        <setting id="provider.easynews" type="bool" label="Enable EasyNews Scraper" default="false" />
+        <setting id="easynews_limit" label="Limit Number of Results" type="slider" default="100" range="1,1,100" option="int" enable="eq(-1,true)" subsetting="true" />
+        <setting id="easynews_maxgb" label="Limit Size of Results (GB)" type="slider" default="100" range="1,1,100" option="int" enable="eq(-2,true)" subsetting="true" />
+        <setting id="easynews_moderation" label="Exclude Adult Results" type="bool" default="true" enable="eq(-3,true)" subsetting="true" />
+        <setting id="provider.easynews_colour" type="action" label="Choose EasyNews Scraper Color" default="green" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=easynews)" enable="eq(-4,true)" subsetting="true" />
+        <!-- PM Cloud -->
+        <setting label="PM Cloud" type="lsep" />
+        <setting id="provider.pm-cloud" type="bool" label="Enable Premiumize Cloud Scraper" default="false" />
+        <setting id="results.sort_pm-cloud_first" type="bool" label="Show Premiumize Cloud Results at Top" default="true" enable="eq(-1,true)" subsetting="true" />
+        <setting id="provider.pm-cloud_colour" type="action" label="Choose Premiumize Cloud Scraper Color" default="purple" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=pm-cloud)" enable="eq(-2,true)" subsetting="true" />
+        <!-- RD Cloud -->
+        <setting label="RD Cloud" type="lsep" />
+        <setting id="provider.rd-cloud" type="bool" label="Enable Real Debrid Cloud Scraper" default="false" />
+        <setting id="results.sort_rd-cloud_first" type="bool" label="Show Real Debrid Cloud Results at Top" default="true" enable="eq(-1,true)" subsetting="true" />
+        <setting id="provider.rd-cloud_colour" type="action" label="Choose Real Debrid Cloud Scraper Color" default="orange" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=rd-cloud)" enable="eq(-2,true)" subsetting="true" />
+        <!-- AD Cloud -->
+        <setting label="AD Cloud" type="lsep" />
+        <setting id="provider.ad-cloud" type="bool" label="Enable All Debrid Cloud Scraper" default="false" />
+        <setting id="results.sort_ad-cloud_first" type="bool" label="Show All Debrid Cloud Results at Top" default="true" enable="eq(-1,true)" subsetting="true" />
+        <setting id="provider.ad-cloud_colour" type="action" label="Choose All Debrid Cloud Scraper Color" default="orange" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=ad-cloud)" enable="eq(-2,true)" subsetting="true" />
+        <!-- Local Library -->
+        <setting label="Local Library" type="lsep" />
+        <setting id="provider.local" type="bool" label="Enable Local Library Scraper" default="true" />
+        <setting id="check.local" type="bool" label="Check Local Scraper Before Search" default="false" enable="eq(-1,true)" subsetting="true" />
+        <setting id="include_local_in_filter" type="bool" label="Apply Quality Limit to Local Results" default="false" enable="eq(-2,true)" subsetting="true" />
+        <setting id="results.sort_local_first" type="bool" label="Show Local Result at Top" default="true" enable="eq(-3,true)" subsetting="true" />
+        <setting id="provider.local_colour" type="action" label="Choose Local Scraper Color" default="yellow" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=local)" enable="eq(-4,true)" subsetting="true" />
+        <!-- Downloads -->
+        <setting label="Downloads" type="lsep" />
+        <setting id="provider.downloads" type="bool" label="Enable Downloads Scraper" default="true" />
+        <setting id="check.downloads" type="bool" label="Check Downloads Scraper Before Search" default="false"  enable="eq(-1,true)" subsetting="true" />
+        <setting id="include_downloads_in_filter" type="bool" label="Apply Quality Limit to Download Results" default="false" enable="eq(-2,true)" subsetting="true" />
+        <setting id="results.sort_downloads_first" type="bool" label="Show Downloads Result at Top" default="true" enable="eq(-3,true)" subsetting="true" />
+        <setting id="provider.downloads_colour" type="action" label="Choose Downloads Scraper Color" default="red" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=downloads)" enable="eq(-4,true)" subsetting="true" />
+        <!-- Folders 1-5 -->
+        <setting label="Folders 1-5" type="lsep" />
+        <setting id="provider.folders" type="bool" label="Enable Folder Scrapers" default="false" />
+        <setting id="check.folders" type="bool" label="Check Folder Scrapers Before Search" default="false" enable="eq(-1,true)" />
+        <setting id="include_folders_in_filter" type="bool" label="Apply Quality Limit to Folder Scrapers Results" default="false" enable="eq(-2,true)" />
+        <setting id="results.sort_folders_first" type="bool" label="Show Folder Scrapers Results at Top" default="true" enable="eq(-3,true)" />
+        <setting id="provider.folders_colour" type="action" label="Choose Folder Scrapers Color" default="red" enable="eq(-4,true)" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=folders)" />
+        <setting type="sep" />
+        <setting id="choice.folder_scrapers" label="[B]CHOOSE FOLDER SCRAPER...[/B]" type="enum" default="0" values="Folder 1|Folder 2|Folder 3|Folder 4|Folder 5" enable="eq(-6,true)" />
+        <setting type="sep" />
+        <!-- Folder1 -->
+        <setting id="folder1.display_name" label="Display Name" type="text" default="Folder 1" visible="eq(-2,0)" enable="eq(-8,true)" subsetting="true" /> />
+        <setting id="folder1.movies_directory" type="action" label="Movies Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder1.movies_directory)" visible="eq(-3,0)" enable="eq(-9,true)" subsetting="true" />        
+        <setting id="folder1.tv_shows_directory" type="action" label="TV Shows Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder1.tv_shows_directory)" visible="eq(-4,0)" enable="eq(-10,true)" subsetting="true" />
+        <!-- Folder2 -->
+        <setting id="folder2.display_name" label="Display Name" type="text" default="Folder 2" visible="eq(-5,1)" enable="eq(-11,true)" subsetting="true" /> />
+        <setting id="folder2.movies_directory" type="action" label="Movies Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder2.movies_directory)" visible="eq(-6,1)" enable="eq(-12,true)" subsetting="true" />        
+        <setting id="folder2.tv_shows_directory" type="action" label="TV Shows Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder2.tv_shows_directory)" visible="eq(-7,1)" enable="eq(-13,true)" subsetting="true" />
+        <!-- Folder3 -->
+        <setting id="folder3.display_name" label="Display Name" type="text" default="Folder 3" visible="eq(-8,2)" enable="eq(-14,true)" subsetting="true" /> />
+        <setting id="folder3.movies_directory" type="action" label="Movies Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder3.movies_directory)" visible="eq(-9,2)" enable="eq(-15,true)" subsetting="true" />        
+        <setting id="folder3.tv_shows_directory" type="action" label="TV Shows Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder3.tv_shows_directory)" visible="eq(-10,2)" enable="eq(-16,true)" subsetting="true" />
+        <!-- Folder4 -->
+        <setting id="folder4.display_name" label="Display Name" type="text" default="Folder 4" visible="eq(-11,3)" enable="eq(-17,true)" subsetting="true" /> />
+        <setting id="folder4.movies_directory" type="action" label="Movies Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder4.movies_directory)" visible="eq(-12,3)" enable="eq(-18,true)" subsetting="true" />        
+        <setting id="folder4.tv_shows_directory" type="action" label="TV Shows Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder4.tv_shows_directory)" visible="eq(-13,3)" enable="eq(-19,true)" subsetting="true" />
+        <!-- Folder5 -->
+        <setting id="folder5.display_name" label="Display Name" type="text" default="Folder 5" visible="eq(-14,4)" enable="eq(-20,true)" subsetting="true" /> />
+        <setting id="folder5.movies_directory" type="action" label="Movies Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder5.movies_directory)" visible="eq(-15,4)" enable="eq(-21,true)" subsetting="true" />        
+        <setting id="folder5.tv_shows_directory" type="action" label="TV Shows Directory" default="None" action="RunPlugin(plugin://plugin.video.fen/?mode=folder_sources_choice&amp;setting=folder5.tv_shows_directory)" visible="eq(-16,4)" enable="eq(-22,true)" subsetting="true" />
+    </category>
+    <!-- External Scrapers -->
+    <category label="External Scrapers">
+        <!-- External -->
+        <setting label="External Scrapers (Powered by OpenScrapers)" type="lsep" />
+        <setting id="provider.external" type="bool" label="Enable External Scrapers" default="true" />
+        <!--General -->
+        <setting label="General" type="lsep" />
+        <setting id="search.finish.early" type="bool" label="Stop Search Early if Most Sources Finished" enable="eq(-2,true)" default="true" />
+        <setting id="remove.failing_scrapers" type="bool" label="Remove Failing Scrapers" enable="eq(-3,true)" default="false" />
+        <setting id="failing_scrapers.threshold" label="Sample Size Before Removal" type="slider" default="25" range="1,1,50" option="int" subsetting="true" enable="eq(-4,true)+eq(-1,true)" />
+        <setting id="failing_scrapers.reset" label="Reset Count &amp; Re-enable All Scrapers" type="enum" default="0" values="Never|Daily|Weekly|AfterScrapersUpdate" subsetting="true" enable="eq(-5,true)+eq(-2,true)" />
+        <setting id="preemptive.termination" type="bool" label="Pre-emptive Termination" default="false" enable="eq(-6,true)" />
+        <setting id="preemptive.quality" label="Pre-emptive Quality" type="labelenum" default="All" values="All|4K|1080p|720p|SD" subsetting="true" enable="eq(-7,true)+eq(-1,true)" />
+        <setting id="preemptive.limit" type="slider" label="Pre-emptive Limit" default="10" range="1,50" option="int" subsetting="true" enable="eq(-8,true)+eq(-2,true)" />
+        <!--Hosters -->
+        <setting label="Hosters" type="lsep" />
+        <setting id="hosts.captcha" type="bool" label="Include Hosters with Captchas" default="true" enable="eq(-10,true)" />
+        <setting id="prem.identify" type="action" label="Choose Premium Hosters Color" default="dodgerblue" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=premium)" enable="eq(-11,true)" />
+        <!-- Torrents" -->
+        <setting label="Torrents" type="lsep" />
+        <setting id="torrent.min.seeders" type="slider" label="Minimum Seeders" default="10" range="1,50" option="int" enable="eq(-13,true)" />
+        <setting id="torrent.identify" type="action" label="Choose Torrents Color" default="magenta" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=torrent)" enable="eq(-14,true)" />
+    </category>
+    <!-- Results -->
+    <category label="Results">
+        <!-- Display -->
+        <setting label="Display" type="lsep" />
+        <setting id="scrapers.timeout.1" type="slider" label="Scraper Timeout" default="30" range="10,90" option="int" />
+        <setting id="display_mode" label="Results Display" type="enum" default="0" values="Directory|Very Simple Directory|Dialog" />
+        <setting id="progress.heading" label="Search Dialog Heading" type="enum" default="0" values="Scraper Module|Media Title" />
+        <setting id="highlight.type" label="Highlight Results Based On..." type="enum" default="0" values="Scraper|Quality" />
+        <setting id="results.paginate" type="bool" label="Paginate Results" default="false" enable="eq(-3,0)|eq(-3,1)" />
+        <setting id="results.page_limit" label="Max Results Per Page" type="slider" default="300" range="100,50,1000" option="int" enable="eq(-1,true)" subsetting="true" />
+        <setting id="results.multiline_label" type="bool" label="Display Results as Multi Line" default="false" enable="eq(-5,0)|eq(-5,2)" />
+        <setting id="results.show_extra_info" type="bool" label="Show Extra Info When Available" default="true" enable="eq(-6,0)|eq(-6,2)" />
+        <setting id="results.show_filenames" type="bool" label="Show Filename When Available" default="true" enable="eq(-7,0)|eq(-7,2)" />
+        <!-- Sorting and Filtering -->
+        <setting label="Sorting and Filtering" type="lsep" />
+        <setting id="results.sort_order" label="Results Sorting" type="enum" default="0" values="Quality, Provider|Provider, Quality" />
+        <setting id="internal_scrapers_order" type="action" label="Internal Scrapers Order" default="FILES, FURK, EASYNEWS, CLOUD" action="RunPlugin(plugin://plugin.video.fen/?mode=internal_scrapers_order_choice)" />
+        <setting id="remove.duplicates" type="bool" label="Remove Duplicate URL Links" default="false" />
+        <setting id="remove.duplicates.torrents" type="bool" label="Remove Duplicate Hash Links" default="false" />
+        <setting id="include_prerelease_results" type="bool" label="Include Pre-Release Results (CAM/SCR/TELE)" default="true" />
+        <setting id="include_3d_results" type="bool" label="Include 3D Results" default="true" />
+        <setting id="include_nondebrid_results" type="bool" label="Include Non-Debrid Results" default="true" />
+        <!-- Torrents Sorting & Filtering -->
+        <setting label="Torrents Sorting &amp; Filtering" type="lsep" />
+        <setting id="torrent.sort.them.up" type="bool" label="Sort Torrents to Top" default="false" />
+        <setting id="torrent.sort.size" type="bool" label="Sort Torrents by Size" default="true" />
+        <setting id="torrent.check.cache" type="bool" label="Check Debrid Services for Cached Torrents" default="true" />
+        <setting id="torrent.display.uncached" type="bool" label="Display Uncached Torrents" default="false" subsetting="true" enable="eq(-1,true)" />
+        <setting id="torrent.filter.size" type="bool" label="Filter Torrents by Size [I](Decimals Accepted)[/I]" default="false" />
+        <setting id="torrent.size.minimum.movies" type="text" label="MOVIES: Minimum Size (GB)" default="0" subsetting="true" enable="eq(-1,true)" />
+        <setting id="torrent.size.maximum.movies" type="text" label="MOVIES: Maximum Size (GB)" default="35" subsetting="true" enable="eq(-2,true)" />
+        <setting id="torrent.size.minimum.episodes" type="text" label="EPISODES: Minimum Size (GB)" default="0" subsetting="true" enable="eq(-3,true)" />
+        <setting id="torrent.size.maximum.episodes" type="text" label="EPISODES: Maximum Size (GB)" default="5" subsetting="true" enable="eq(-4,true)" />
+        <!-- Color Highlights -->
+        <setting label="Color Highlights" type="lsep" />
+        <setting id="int_dialog_highlight" type="action" label="Internal Scrapers Progress Dialog Color" default="darkgoldenrod" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_dialog_color_choice&amp;setting=internal)" />
+        <setting id="ext_dialog_highlight" type="action" label="External Scrapers Progress Dialog Color" default="dodgerblue" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_dialog_color_choice&amp;setting=external)" />
+        <setting id="secondline.identify" type="action" label="Multi Line Color" default="No Color" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_color_choice&amp;setting=second_line)" />
+        <setting id="scraper_4k_highlight" type="action" label="4K Results Color" default="magenta" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_quality_color_choice&amp;setting=scraper_4k_highlight)" />
+        <setting id="scraper_1080p_highlight" type="action" label="1080P Results Color" default="lawngreen" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_quality_color_choice&amp;setting=scraper_1080p_highlight)" />
+        <setting id="scraper_720p_highlight" type="action" label="720P Results Color" default="gold" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_quality_color_choice&amp;setting=scraper_720p_highlight)" />
+        <setting id="scraper_SD_highlight" type="action" label="SD Results Color" default="lightsaltegray" action="RunPlugin(plugin://plugin.video.fen/?mode=scraper_quality_color_choice&amp;setting=scraper_SD_highlight)" />
+    </category>
+    <!-- Playback -->
+    <category label="Playback">
+        <!-- Playback -->
+        <setting label="Playback" type="lsep" />
+        <setting id="auto_play" type="bool" label="Auto Play First Relevant Result" default="false" />
+        <setting id="autoplay_quality" type="action" label="Limit Quality" default="SD, 720p, 1080p, 4K" action="RunPlugin(plugin://plugin.video.fen/?mode=set_quality&amp;quality_setting=autoplay)" visible="eq(-1,true)" subsetting="true" />
+        <setting id="autoplay_hevc" type="labelenum" values="Include|Exclude|Prefer" label="HEVC Files Filter" visible="eq(-2,true)" default="Include" subsetting="true" />
+        <setting id="autoplay_next_episode" type="bool" label="Autoplay Next Episode" visible="eq(-3,true)" default="false" subsetting="true" />
+        <setting id="autoplay_next_check_threshold" type="slider" default="3" range="0,1,10" option="int" visible="!eq(-1,false)+eq(-4,true)" label="Episodes Watched Before Still Watching Check (0=Off)" subsetting="true" />
+        <setting id="autoplay_minimal_notifications" type="bool" label="Use Minimal Notifications" visible="eq(-5,true)" default="false" subsetting="true" />
+        <setting id="results_quality" type="action" label="Limit Quality" visible="eq(-6,false)" default="SD, 720p, 1080p, 4K" action="RunPlugin(plugin://plugin.video.fen/?mode=set_quality&amp;quality_setting=results)" />
+        <setting id="auto_resume" type="enum" values="Never|Always|Autoplay Only" label="Automatically Resume Playback" default="0" />
+        <!-- Subtitles -->
+        <setting label="Subtitles (Powered by opensubtitles.org)" type="lsep" />
+        <setting id="subtitles.subs_action" type="labelenum" label="Download Subtitles Action" default="Off" values="Auto|Select|Off" />
+        <setting id="subtitles.language" type="select" label="Choose Primary Subtitle Language" values="Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" default="English" enable="!eq(-1,Off)" subsetting="true" />
+        <setting id="subtitles.language2" type="select" label="Choose Secondary Subtitle Language" values="None|Afrikaans|Albanian|Arabic|Armenian|Basque|Bengali|Bosnian|Breton|Bulgarian|Burmese|Catalan|Chinese|Croatian|Czech|Danish|Dutch|English|Esperanto|Estonian|Finnish|French|Galician|Georgian|German|Greek|Hebrew|Hindi|Hungarian|Icelandic|Indonesian|Italian|Japanese|Kazakh|Khmer|Korean|Latvian|Lithuanian|Luxembourgish|Macedonian|Malay|Malayalam|Manipuri|Mongolian|Montenegrin|Norwegian|Occitan|Persian|Polish|Portuguese|Portuguese(Brazil)|Romanian|Russian|Serbian|Sinhalese|Slovak|Slovenian|Spanish|Swahili|Swedish|Syriac|Tagalog|Tamil|Telugu|Thai|Turkish|Ukrainian|Urdu" default="None" enable="!eq(-2,Off)" subsetting="true" />
+        <setting id="subtitles.auto_enable" type="bool" label="Force Enable Local Subs" enable="!eq(-3,Off)" default="true" subsetting="true" />
+        <setting id="subtitles.show_notification" type="bool" label="Show Searching Notification" enable="!eq(-4,Off)" default="true" subsetting="true" />
+        <!-- Indicators -->
+        <setting label="Indicators" type="lsep" />
+        <setting id="trakt_indicators_active" type="text" label="trakt_indicators_active" default="false" visible="false" />
+        <setting id="watched_indicators" type="enum" values="Fen|Trakt" label="Watched Status Provider" default="0" visible="eq(-1,true)" />
+        <setting id="sync_fen_watchstatus" type="bool" label="Sync Fen Watched Info with Trakt Watched Info" default="false" subsetting="true" visible="eq(-2,true)" enable="eq(-1,1)" />
+        <setting id="indicators_amble" label="Authorize Trakt for More options" type="text" default="" visible="eq(-3,false)" enable="false" />
+        <setting id="sync_kodi_library_watchstatus" type="bool" label="Set Resume/Watched in Kodi Library when Watched in Fen" default="false" />
+        <setting id="resume.threshold" label="Set Resume Point (%)" type="slider" default="2" range="1,1,50" option="int" />
+        <setting id="watched.threshold" label="Set Mark As Watched (%)" type="slider" default="90" range="50,1,99" option="int" />
+        <setting id="nextep.threshold" label="Activate Next Episode (%)" type="slider" default="90" range="50,1,99" option="int" />
+    </category>
+    <!-- Subscriptions -->
+    <category label="Subscriptions">
+        <!-- Directories -->
+        <setting label="Directories" type="lsep" />
+        <setting id="movies_directory" type="folder" label="Movies Directory" option="writeable" default="special://profile/addon_data/plugin.video.fen/Movie Subscriptions/" />
+        <setting id="tv_shows_directory" type="folder" label="TV Shows Directory" option="writeable" default="special://profile/addon_data/plugin.video.fen/TVShow Subscriptions/" />
+        <!-- Updates -->
+        <setting label="Updates" type="lsep" />
+        <setting id="subscription_update" type="bool" label="Automatically Update Subscriptions" default="false" />
+        <setting id="subsciptions.update_type" label="Update Subscriptions Method" type="enum" default="0" values="Hourly Intervals|Daily Time" enable="eq(-1,true)" />
+        <setting id="subscriptions_update_label1" type="action" label="Period between Updates" visible="eq(-1,0)" enable="eq(-2,true)" default="24 Hours" action="RunPlugin(plugin://plugin.video.fen/?mode=subscriptions_update_interval&amp;update_type=interval)" option="close" subsetting="true" />
+        <setting id="subscriptions_update_label2" type="action" label="Daily Update Time" visible="eq(-2,1)" enable="eq(-3,true)" default="06:00" action="RunPlugin(plugin://plugin.video.fen/?mode=subscriptions_update_interval&amp;update_type=daily)" option="close" subsetting="true" />
+        <setting id="update_library_after_service" type="bool" label="Update Kodi Library after Subscription Update" default="false" />
+        <setting id="skip_duplicates" type="bool" label="Avoid Creating Duplicate Content" default="false" />
+        <setting id="subscriptions.add_unknown_airdate" type="bool" label="Include Episodes with Unknown Airdate" default="false" />
+        <setting id="subscriptions.add_release_date" type="bool" label="Attempt to Set Added Time as Release Date" default="false" />
+        <!-- Trakt Lists -->
+        <setting label="Trakt Lists" type="lsep" />
+        <setting id="trakt.subscriptions_active" type="bool" label="Use Trakt Lists for Subscriptions" default="false" />
+        <setting id="trakt.subscriptions_movie_display" type="action" label="Trakt List for Movie Subscriptions" enable="eq(-1,true)" default="" action="RunPlugin(plugin://plugin.video.fen/?mode=subscriptions_add_list&amp;db_type=movie)" option="close" subsetting="true" />
+        <setting id="trakt.subscriptions_show_display" type="action" label="Trakt List for TV Show Subscriptions" enable="eq(-2,true)" default="" action="RunPlugin(plugin://plugin.video.fen/?mode=subscriptions_add_list&amp;db_type=tvshow)" option="close" subsetting="true" />
+        <setting id="clean_library_after_service" type="bool" label="Clean Kodi Library If Items Removed" enable="eq(-3,true)" default="false" subsetting="true" />
+    </category>
+    <!-- Downloads -->
+    <category label="Downloads">
+        <!--Directories -->
+        <setting label="Directories" type="lsep" />
+        <setting id="movie_download_directory" type="folder" label="Movies Directory" option="writeable" default="special://profile/addon_data/plugin.video.fen/Movies Downloads/" />
+        <setting id="tvshow_download_directory" type="folder" label="TV Shows Directory" option="writeable" default="special://profile/addon_data/plugin.video.fen/TV Show Downloads/" />
+        <setting id="premium_download_directory" type="folder" label="Premium Files Directory" option="writeable" default="special://profile/addon_data/plugin.video.fen/Premium Downloads/" />
+        <!-- Notifications -->
+        <setting label="Notifications" type="lsep" />
+        <setting id="download.notification" label="Show Download Notification" type="enum" default="2" values="Off|On|Persistent" />
+        <setting id="download.frequency" label="Percentage Progress for Notifications" type="slider" default="10" range="2,1,50" option="int" enable="eq(-1,1)" subsetting="true" />
+        <setting id="download.suppress" type="bool" label="Hide Notification During Playback" default="false" enable="eq(-2,1)" subsetting="true" />
+    </category>
+</settings>

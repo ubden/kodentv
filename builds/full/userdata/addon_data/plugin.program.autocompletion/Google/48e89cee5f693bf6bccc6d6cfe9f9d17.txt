@@ -1,0 +1,1 @@
+["NBC S", ["nbc sports", "nbc suit", "nbc sports live", "nbc sinemas\u0131", "nbc silahlar\u0131", "nbc sports izle", "nbc sports philadelphia", "nbc son filmi", "nbc streaming", "nbc schedule"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

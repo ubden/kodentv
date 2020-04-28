@@ -1,0 +1,1 @@
+["NETFL\u0130X O", ["netflix ottoman", "netflix osman", "netflix oturum a\u00e7", "netflix osmanl\u0131", "netflix ottoman izle", "netflix originals", "netflix osman dizisi", "netflix okul dizileri", "netflix outlander", "netflix olan tvler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

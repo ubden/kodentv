@@ -1,0 +1,15 @@
+[B][COLOR red]IMPORTANT NOTICE[/B][/COLOR]
+
+[COLOR white]We can see that you are attempting to install a community build.
+
+ECHO acts as an intermediary for developers and build makers with the community builds section.
+
+We do not host or control any of these builds. Any issues on this build lies with the developer/build maker.
+
+Please contact the person who makes this build for support, not Kodi No Limits as we will not be able to help.[/COLOR]
+
+[B][COLOR orangered]Please do not contact Team ECHO as we do not support these builds.[/B][/COLOR]
+
+Thank you for using No Limits Tools
+
+[B][COLOR yellow]Please Press Return or ESC to Continue[/COLOR][/B]

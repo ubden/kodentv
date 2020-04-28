@@ -1,0 +1,1 @@
+["[B]c", ["b complex", "b chord", "b clup", "b cup", "b cepacia nedir", "b corp", "b cepacia", "b complex ek\u015fi", "b clinton", "b caddesi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

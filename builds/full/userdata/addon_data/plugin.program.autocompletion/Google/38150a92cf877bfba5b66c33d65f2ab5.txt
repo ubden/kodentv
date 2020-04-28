@@ -1,0 +1,1 @@
+["BILG", ["bilgi learn", "bilgisayar", "bilgi sis", "bilgi \u00fcniversitesi", "bilgisayar masas\u0131", "bilgi", "bilgisayar fiyatlar\u0131", "bilgi merkezi", "bilgisayar kasas\u0131", "bilgisayar toplama"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

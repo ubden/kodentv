@@ -1,0 +1,1 @@
+["Co", ["covid 19", "corona", "coronavirus", "\u00e7orba tarifleri", "colins", "coronavirus map", "cosmetica", "converse", "covid belirtileri", "corona vir\u00fcs\u00fc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

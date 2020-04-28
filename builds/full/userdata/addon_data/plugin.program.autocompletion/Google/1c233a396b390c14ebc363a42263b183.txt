@@ -1,0 +1,1 @@
+["[B]ARA\u00c7L[/B]", ["binek ara\u00e7 b segmenti ne demek", "binek ara\u00e7 / b segment", "b&b araba fenice ragusa", "b&b araba fenice castellabate"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

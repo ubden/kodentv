@@ -1,0 +1,1 @@
+["Tema Restart", ["tema restart"], [], {"google:suggesttype": ["QUERY"]}]

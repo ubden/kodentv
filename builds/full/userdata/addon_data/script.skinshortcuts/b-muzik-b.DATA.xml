@@ -1,0 +1,51 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<shortcuts>
+	<shortcut>
+		<defaultID />
+		<label>Müzik Ara</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Muziklerde+Ara&amp;mode=400&amp;path=special%3A%2F%2Fprofile%2Faddon_data%2Fplugin.program.super.favourites%2FSuper+Favourites%5CBuild+Menus%5CMuziklerde+Ara&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.audio.mp3streams%2Fart%2Fsearchartists.jpg&amp;fanart=special%3A%2F%2Fhome%2Faddons%2Fplugin.audio.mp3streams%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Now Music</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=%5BCOLOR+blue%5DNow%5B%2FCOLOR%5D+%5BCOLOR+red%5DMusic%5B%2FCOLOR%5D&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.now_music%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%252Fplugin.video.now_music%252Ffanart.jpg%2526desc%253DPULSE%2BBUILDS%2BAre%2BIn%2BNo%2BWay%2BConnected%2BOr%2BAffiliated%2BWith%2BPULSEMEDIA%2B%2528Chai%2BSoledad%2529%2BWho%2BAre%2BFrauds%2BHosting%252FLeeching%252FCopying%2BMy%2BWork%2521%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.now_music%2Ficon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.now_music%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Vevo Muzik</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Vevo+Music+Videos+on+YouTube&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.yt-vevo%2F%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%252Fplugin.video.yt-vevo%252Ffanart.jpg%2526meta%253Dlabel%25253DVevo%25252BMusic%25252BVideos%25252Bon%25252BYouTube%2526desc%253DVevo%2BYouTube%2B25%2BPlaylists%2Band%2B25%2BArtists%2BVevo%2Bchannels%252C%2Baccess%2Bto%2B1000%2527s%2Bof%2Bmusic%2Bvideos.%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.yt-vevo%2Ficon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%2Fplugin.video.yt-vevo%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>MP3 Streams</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=MP3+Streams&amp;mode=650&amp;cmd=ActivateWindow%2810502%2C%22plugin%3A%2F%2Fplugin.audio.mp3streams%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%252Fplugin.audio.mp3streams%252Ffanart.jpg%2526desc%253DBrowse%2Band%2Bstream%2Byour%2Bfavourite%2Bsongs%2Band%2Balbums%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%2Fplugin.audio.mp3streams%2Ficon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%2Fplugin.audio.mp3streams%2Ffanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Pulse Beats</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Pulse+Beats&amp;mode=650&amp;cmd=ActivateWindow%2810025%2C%22plugin%3A%2F%2Fplugin.video.pulsebeats%3Fsf_options%3Dfanart%253Dspecial%253A%252F%252Fhome%252Faddons%255Cplugin.video.pulsebeats%255Cfanart.jpg%2526_options_sf%22%2Creturn%29&amp;image=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.pulsebeats%5Cicon.png&amp;fanart=special%3A%2F%2Fhome%2Faddons%5Cplugin.video.pulsebeats%5Cfanart.jpg&amp;content_type=",return)</action>
+	</shortcut>
+	<shortcut>
+		<defaultID />
+		<label>Pandora</label>
+		<label2>Custom item</label2>
+		<icon>DefaultShortcut.png</icon>
+		<thumb />
+		<action>ActivateWindow(Programs,"plugin://plugin.program.super.favourites/?label=Pandora&amp;mode=650&amp;cmd=RunScript%28%22script.audio.pandora%2F%3Fsf_options%3Dmeta%253Dlabel%25253DPandora%2526desc%253DPandora%2BRadio%2Bfor%2BXBMC.%2526_options_sf%22%29&amp;image=special%3A%2F%2Fhome%2Faddons%2Fscript.audio.pandora%2Ficon.png&amp;content_type=",return)</action>
+	</shortcut>
+</shortcuts>

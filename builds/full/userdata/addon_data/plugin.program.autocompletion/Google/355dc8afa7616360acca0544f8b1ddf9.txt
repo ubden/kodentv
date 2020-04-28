@@ -1,0 +1,1 @@
+["SE", ["selahattin pa\u015fal\u0131", "serenay sar\u0131kaya", "sefamerve", "seyahat izin belgesi", "sephora", "sefirin kizi", "sezen aksu", "selena", "sesli s\u00f6zl\u00fck", "seda sayan"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

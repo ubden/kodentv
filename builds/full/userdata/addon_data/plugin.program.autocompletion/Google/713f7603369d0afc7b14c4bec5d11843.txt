@@ -1,0 +1,1 @@
+["ScrubsV", ["scrubs", "scrubs izle", "scrubs ne demek", "scrubs al", "scrubs dizi", "scrubs nedir", "scrubs imdb", "scrubs 1. sezon 1. b\u00f6l\u00fcm", "scrubs bal\u00e7ova", "scrubs renkleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

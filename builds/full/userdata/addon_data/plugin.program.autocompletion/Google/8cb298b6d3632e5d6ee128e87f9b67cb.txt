@@ -1,0 +1,1 @@
+["sppe", ["speedtest", "speedy", "speed auto clicker", "speedfan", "speed ne demek", "speedy gonzales", "speed testi", "speedy mustafa", "speedymemo", "speech ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

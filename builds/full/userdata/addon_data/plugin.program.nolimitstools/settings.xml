@@ -1,0 +1,57 @@
+<settings version="2">
+    <setting id="accache">true</setting>
+    <setting id="accrash">false</setting>
+    <setting id="acpackages">true</setting>
+    <setting id="acstartup">true</setting>
+    <setting id="acthumbs">true</setting>
+    <setting id="addon_debug" default="true">false</setting>
+    <setting id="autocleanfreq">1</setting>
+    <setting id="email" default="true"></setting>
+    <setting id="email_prompt" default="true">false</setting>
+    <setting id="enable_dropbox" default="true">false</setting>
+    <setting id="enable_pastebin">false</setting>
+    <setting id="enable_ubuntu" default="true">false</setting>
+    <setting id="include_old">true</setting>
+    <setting id="includeall">true</setting>
+    <setting id="includeanarchy">false</setting>
+    <setting id="includebeausplace">true</setting>
+    <setting id="includebennu">false</setting>
+    <setting id="includebonecrusher">false</setting>
+    <setting id="includeboxsetkings">false</setting>
+    <setting id="includebubbles">false</setting>
+    <setting id="includecovenant">false</setting>
+    <setting id="includedeathstreams">true</setting>
+    <setting id="includeelysium">false</setting>
+    <setting id="includeexodus">true</setting>
+    <setting id="includeexoshark">false</setting>
+    <setting id="includeflixanity">false</setting>
+    <setting id="includegurzil">false</setting>
+    <setting id="includehitlists">false</setting>
+    <setting id="includeneptune">true</setting>
+    <setting id="includenotsure">true</setting>
+    <setting id="includepiranha">true</setting>
+    <setting id="includeposeidon">true</setting>
+    <setting id="includeprojectm">true</setting>
+    <setting id="includeredpill">true</setting>
+    <setting id="includeresistance">true</setting>
+    <setting id="includerevelations">true</setting>
+    <setting id="includesalts">false</setting>
+    <setting id="includesaltshdlite">false</setting>
+    <setting id="includesaltsrdlite">false</setting>
+    <setting id="includesilenthunter">false</setting>
+    <setting id="includespecto">false</setting>
+    <setting id="includesportie">false</setting>
+    <setting id="includestreamhub">true</setting>
+    <setting id="includethedelorean">false</setting>
+    <setting id="includetinklepad">true</setting>
+    <setting id="includetriangulum">true</setting>
+    <setting id="includeukturk">true</setting>
+    <setting id="includevideo">true</setting>
+    <setting id="includewtfork">false</setting>
+    <setting id="includexxxodus">true</setting>
+    <setting id="kodi17iscrap" default="true"></setting>
+    <setting id="maint_check_folders">true</setting>
+    <setting id="maint_check_log">true</setting>
+    <setting id="nextautocleanup">2020-04-29</setting>
+    <setting id="zip" default="true">special://home/backupdir</setting>
+</settings>

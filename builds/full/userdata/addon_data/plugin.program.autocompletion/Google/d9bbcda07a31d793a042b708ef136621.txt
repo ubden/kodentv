@@ -1,0 +1,1 @@
+["Spor W", ["spor wallpaper", "spor web", "spor web apk", "spor web3", "sportworks", "spor wikipedia", "spor walk", "spor ekran\u0131", "spor wix", "sportswear"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

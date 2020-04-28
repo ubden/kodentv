@@ -1,0 +1,1 @@
+["[TRAI", ["train to busan", "trainspotting", "trainer", "training day", "trainee ne demek", "trainee", "training", "train to busan 2", "trailer", "trainspotting izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

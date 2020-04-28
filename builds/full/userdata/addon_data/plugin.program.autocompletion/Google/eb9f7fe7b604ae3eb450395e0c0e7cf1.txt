@@ -1,0 +1,1 @@
+["AUTOCL", ["autoclub", "autoclicker", "autoclave", "autoclick", "autoclub kampanya", "autoclub kavac\u0131k", "autoclub tuzla", "autoclub seyrantepe", "autoclub bak\u0131rk\u00f6y", "autoclub maltepe"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+["[B]Sey", ["b seymour syracuse university", "b simone", "b seymour builders", "b seymoure", "seyf b. \u00f6mer", "seyf b. zi yezen", "seymen b", "seyhan b", "seyhan b.\u00f6zkan", "seyrantepe b 18 otob\u00fcs saatleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

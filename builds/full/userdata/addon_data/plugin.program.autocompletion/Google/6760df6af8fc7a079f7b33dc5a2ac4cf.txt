@@ -1,0 +1,1 @@
+["Ad", ["adana hava durumu", "adana haber", "adana", "adana son dakika", "adana posta kodu", "adana valili\u011fi", "adidas", "adana \u015fehir hastanesi", "adana hava", "addax"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,0 +1,1 @@
+http://flawless-iptv.net:4545/get.php?username=&password=&type=m3u_plus&output=ts

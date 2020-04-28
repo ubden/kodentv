@@ -1,0 +1,1 @@
+["[COLOR red][B]g", ["red color r g b"], [], {"google:suggesttype": ["QUERY"]}]

@@ -1,0 +1,1 @@
+["Y", ["youtube", "yandex", "youtube mp3", "youtube video indir", "you", "yemek sepeti", "yabanc\u0131 dizi", "yap\u0131 kredi", "yasak elma", "yutup"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

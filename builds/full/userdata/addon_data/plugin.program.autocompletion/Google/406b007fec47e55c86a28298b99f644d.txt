@@ -1,0 +1,1 @@
+["Laydinin", ["ladinin", "ladinin 500", "ladinin-1", "ladinin generic name", "ladinin antibiotic", "ladinin medicine", "ladinin 500mg side effects", "ladinin 500mg uses", "ladinina marina", "ladinin ciprofloxacin 500mg"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

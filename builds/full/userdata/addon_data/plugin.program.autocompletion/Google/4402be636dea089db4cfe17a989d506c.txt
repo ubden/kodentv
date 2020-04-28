@@ -1,0 +1,1 @@
+["Yo", ["youtube", "youtube mp3", "youtube music", "youtube video indir", "yo", "youtube video indirme", "yoga", "yout", "youtube premium", "y\u00f6k"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

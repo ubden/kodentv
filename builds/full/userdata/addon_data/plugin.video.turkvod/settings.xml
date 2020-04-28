@@ -1,0 +1,11 @@
+<settings version="2">
+    <setting id="adultPIN" default="true">1234</setting>
+    <setting id="adultPINonoff">true</setting>
+    <setting id="autoupdate">true</setting>
+    <setting id="downloadonoff">false</setting>
+    <setting id="listegorunumu">true</setting>
+    <setting id="mac">50:5B:C2:EA:B7:E3</setting>
+    <setting id="save_location" default="true"></setting>
+    <setting id="security_key" default="true"></setting>
+    <setting id="serverId" default="true">0</setting>
+</settings>

@@ -1,0 +1,1 @@
+["HIZ", ["h\u0131z testi", "hizmet\u00e7iler", "hizliresim", "hizmet hastanesi", "hiztesti", "h\u0131zl\u0131 tren", "hizbullah", "hizmet d\u00f6k\u00fcm\u00fc", "h\u0131zl\u0131 ve \u00f6fkeli 9", "hizmet\u00e7iler dizisi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

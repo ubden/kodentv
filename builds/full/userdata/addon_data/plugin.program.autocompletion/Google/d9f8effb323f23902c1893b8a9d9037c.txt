@@ -1,0 +1,1 @@
+["HATA LOGL", ["bata logo", "hata logo", "hata logosu", "hata loglar\u0131", "windows hata loglar\u0131", "c# hata loglama", "windows 10 hata loglar\u0131", "windows 7 hata loglar\u0131", "error loglevel info is not valid", "logo hata kodlar\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

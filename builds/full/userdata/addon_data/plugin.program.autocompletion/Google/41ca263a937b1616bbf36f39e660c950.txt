@@ -1,0 +1,1 @@
+["Populer", ["populerdizi", "pop\u00fcler diziler", "pop\u00fcler kitaplar", "pop\u00fcler oyunlar", "pop\u00fcler k\u00fclt\u00fcr", "pop\u00fcler bilim", "pop\u00fcler erkek isimleri", "populizm", "populer dizi westworld", "pop\u00fcler hashtagler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

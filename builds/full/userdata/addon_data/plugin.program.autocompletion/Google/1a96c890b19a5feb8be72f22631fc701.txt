@@ -1,0 +1,1 @@
+["[B]Filmler[b", ["b film b", "b movies bollywood", "b movies best", "bubble b film", "b&b film 2017", "b&b movies", "best b movies of all time", "best b movies 2018", "bad b movies", "best b movies ever"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

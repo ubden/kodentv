@@ -1,0 +1,1 @@
+["[B]P", ["b project", "b plan\u0131", "b plus", "b plas", "b praak", "b pozitif", "b programming language", "bplaka", "b paper size", "bpazar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

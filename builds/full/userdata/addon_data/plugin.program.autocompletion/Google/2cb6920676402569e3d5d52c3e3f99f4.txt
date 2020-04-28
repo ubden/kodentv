@@ -1,0 +1,1 @@
+["Laydinin Yeri", ["aydin'in yeri mudanya", "laz aydinin yeri", "osman aydinin yeri", "aydin'in me\u015fhur yeri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]
