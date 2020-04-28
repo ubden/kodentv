@@ -1,4 +1,4 @@
-name="----- 5.2020 FINAL VER -----"
+name="----- FINAL VER -----"
 version="5.2020"
 url="https://github.com/ubden/kodentv/releases/download/final_52020/final.zip"
 gui="http://"
