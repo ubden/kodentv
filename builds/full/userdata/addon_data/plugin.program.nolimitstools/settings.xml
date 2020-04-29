@@ -52,6 +52,6 @@
     <setting id="kodi17iscrap" default="true"></setting>
     <setting id="maint_check_folders">true</setting>
     <setting id="maint_check_log">true</setting>
-    <setting id="nextautocleanup">2020-04-29</setting>
+    <setting id="nextautocleanup">2020-04-30</setting>
     <setting id="zip" default="true">special://home/backupdir</setting>
 </settings>

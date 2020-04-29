@@ -53,7 +53,7 @@ try:
 except:
     REQUST = 0
 
-VER = '10.93'
+VER = '10.94'
 UA = 'Mozilla/5.0 TURKvod-10'
 FF_USER_AGENT = 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:70.0) Gecko/20100101 Firefox/70.0'
 IE_USER_AGENT = 'Mozilla/5.0 (Windows NT 6.1; WOW64; Trident/7.0; AS; rv:11.0) like Gecko'
@@ -1120,6 +1120,7 @@ if REQUST == 1:
             return self.__callRequest()
 
         def getRequestUri(self):
+            import urllib
             return self.__sUrl + '?' + urllib.urlencode(self.__aParamaters)
 
         def __setDefaultHeader(self):
@@ -1131,6 +1132,7 @@ if REQUST == 1:
             if self.__aParamatersLine:
                 sParameters = self.__aParamatersLine
             else:
+                import urllib
                 sParameters = urllib.urlencode(self.__aParamaters)
 
             if (self.__cType == cRequestHandler.REQUEST_TYPE_GET):
@@ -1431,6 +1433,7 @@ class urlKap(object):
             opener = urllib2.build_opener(cookie_handler, urllib2.HTTPBasicAuthHandler(), urllib2.HTTPHandler())
             opener = urllib2.install_opener(opener)
         if not post == None:
+            import urllib
             post = urllib.urlencode(post)
             request = urllib2.Request(url, post)
         else:
@@ -1560,11 +1563,12 @@ class modules():
             secton = "film"
             if "fullhdfilmizlesene" in url or "koreanturk" in url or "dizigold" in url or "dizimag" in url:  
                 secton = "parts"
-            if url =="https://dizimag.pw/":
+            if url =="https://dizimag.cc/":
                 page = ""
                 for a in range(1, 5):
+                    import urllib
                     data = urllib.urlencode({"a": a, "t":"_noads"})
-                    host = "https://dizimag.pw/service/yenie"
+                    host = "https://dizimag.cc/service/yenie"
                     headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:72.0) Gecko/20100101 Firefox/72.0", "Accept": "*/*",
                         "Referer": url,
                         "Content-Type": "application/x-www-form-urlencoded",
@@ -1679,7 +1683,8 @@ class modules():
             print 'ERROR get_videos'
             
     def get_stl_kr(self, portal_url, mac, token, random):
-        try:        
+        try:
+            import urllib
             url = portal_url + '/server/load.php'
             data = urllib.urlencode({"type":"stb", "action":"get_profile","auth_second_step":"1","metrics":'{"mac":mac,"random":random}',"hw_version_2":"1"})
             headers = { "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
@@ -1733,6 +1738,7 @@ class modules():
             
     def get_stl_kr_link(self, url):
         try:
+            import urllib
             portal_url, mac, cat, pg = re.findall('portal_url=(.*?)::mac=(.*?)::cat=(.*?)::pg=(.*?)$', url)[0]
             url1 = portal_url + '/server/load.php?type=stb&action=handshake&prehash=0&token='
             headers = { "User-Agent": "Mozilla/5.0 (QtEmbedded; U; Linux; C) AppleWebKit/533.3 (KHTML, like Gecko) MAG200 stbapp ver: 2 rev: 250 Safari/533.3",
@@ -1980,6 +1986,7 @@ class modules():
     def get_parts_dizigold(self, url):
         ref = url
         try:
+            import urllib
             page = downloadpage(url)            
             video_list_temp = []
             chan_counter = 0
@@ -2044,8 +2051,9 @@ class modules():
 
     def get_dizimag_videos(self, url):
         try:
+            import urllib
             page = downloadpage(url)
-            link = re.findall('(https://dizimag.pw/videoapi/[^"]+)', page)[0]
+            link = re.findall('(https://dizimag.cc/videoapi/[^"]+)', page)[0]
             headers = {"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:71.0) Gecko/20100101 Firefox/71.0", "Referer": url}
             req = urllib2.Request(link, None, headers)
             response = urllib2.urlopen(req)
@@ -2060,7 +2068,7 @@ class modules():
                     "Referer": link,
                     "Content-Type": "application/x-www-form-urlencoded",
                     "X-Requested-With": "XMLHttpRequest"}
-                host = 'https://dizimag.pw/videoapipost'
+                host = 'https://dizimag.cc/videoapipost'
                 data = urllib.urlencode({"id": id})
                 req = urllib2.Request(host, data, headers)
                 response = urllib2.urlopen(req)
@@ -2147,7 +2155,7 @@ class modules():
             if section == 'category':
                 self.playlist_cat_name = name
                 self.playlistname = self.playlist_cat_name
-                pattern_1 = '<td valign=top><a href=(?P<url>https?://dizimag.pw/(?P<title>.*?))\s+style[\s\S]*?<img src=(?P<img>.*?(jpg|png))'
+                pattern_1 = '<td valign=top><a href=(?P<url>https?://dizimag.cc/(?P<title>.*?))\s+style[\s\S]*?<img src=(?P<img>.*?(jpg|png))'
                 pattern_2 = 'href="(?P<url>[^"]+)" style="[^"]+">(?P<title>[^<]+)<span class="gizle">'
                 sonraki = ""
                 self.video_liste = self.get_films(url, pattern_1, pattern_2, sonraki)
@@ -3180,6 +3188,7 @@ class turkvod_parsers:
                         except:
                             pass
                     if re.search('play.php\?vid=', html):
+                        import urllib
                         videolink, host, vid = re.findall('((https://\S+)play.php\?vid=([^"]+))"', html)[0]
                         ref = url
                         req = urllib2.Request(videolink, None, { 'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:59.0) Gecko/20100101 Firefox/59.0', 'Referer': ref })
@@ -3241,6 +3250,7 @@ class turkvod_parsers:
 
             if 'SwiftLive' in url:
                 try:
+                    import urllib
                     media, token, data = re.findall('(.*?)::SwiftLive::(.*?)::(.*?)$', url, re.IGNORECASE)[0]			
                     media = media + 'playlist.m3u8'
                     headers = {'Content-Type': 'application/x-www-form-urlencoded; charset=UTF-8', 'Connection': 'Keep-Alive'}
@@ -3409,6 +3419,7 @@ class turkvod_parsers:
 
             if 'izletv' in url or 'ozeltv' in url:
                 try:
+                    import urllib
                     url = url.replace('/izletv/','').replace('/ozeltv/','')
                     headers = {'User-agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0'}
                     req = urllib2.Request(url,None,headers)
@@ -4231,6 +4242,7 @@ class turkvod_parsers:
 
             if 'streamcloud' in url:
                 try:
+                    import urllib
                     req = urllib2.Request(url, None, {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'})
                     response = urllib2.urlopen(req)
                     html = response.read()
@@ -4457,6 +4469,7 @@ class turkvod_parsers:
 				
             if 'vidto.me' in url:
                 try:
+                    import urllib
                     req = urllib2.Request(url, None, {'User-agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:63.0) Gecko/20100101 Firefox/63.0'})
                     response = urllib2.urlopen(req)
                     link = response.read()
@@ -4487,6 +4500,7 @@ class turkvod_parsers:
 
             if 'vidup' in url and 'viduplayer' not in url:
                 try:
+                    import urllib
                     media_id = re.findall("embed/([A-z0-9]+)", url, re.IGNORECASE)[0]
                     headers = {'User-agent' : 'Mozilla/5.0 (Windows NT 6.1; WOW64; rv:19.0) Gecko/20100101 Firefox/19.0'}
                     data = urllib.urlencode({})

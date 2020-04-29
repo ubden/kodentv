@@ -21,6 +21,9 @@
     <setting id="hasran">true</setting>
     <setting id="maint_check_folders">true</setting>
     <setting id="newest">true</setting>
+    <setting id="noteImage"></setting>
+    <setting id="noteMessage"></setting>
+    <setting id="noteType"></setting>
     <setting id="notifications-on-startup" default="true">false</setting>
     <setting id="notify">4</setting>
     <setting id="packagesmb" default="true">0</setting>

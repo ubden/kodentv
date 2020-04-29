@@ -76,21 +76,6 @@
             <allowsharing>true</allowsharing>
         </source>
         <source>
-            <name>Kodi No Limits 1</name>
-            <path pathversion="1">http://tinyurl.com/nolimitswiz/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Kodi No Limits 2</name>
-            <path pathversion="1">http://tinyurl.com/nolimitsfire/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
-            <name>Kodi No Limits 3</name>
-            <path pathversion="1">http://tinyurl.com/nolimitswizard/</path>
-            <allowsharing>true</allowsharing>
-        </source>
-        <source>
             <name>Schism-TV-Dimitrology</name>
             <path pathversion="1">http://dimitrology.com/repo/</path>
             <allowsharing>true</allowsharing>

@@ -65,7 +65,7 @@
     <setting id="meta" default="true"></setting>
     <setting id="metalliq" default="true"></setting>
     <setting id="neptune" default="true"></setting>
-    <setting id="nextcleandate">2020-04-29</setting>
+    <setting id="nextcleandate">2020-04-30</setting>
     <setting id="no-name" default="true"></setting>
     <setting id="notedismiss" default="true">false</setting>
     <setting id="noteid" default="true"></setting>

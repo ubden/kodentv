@@ -1913,3 +1913,7 @@ msgstr ""
 msgctxt "#90199"
 msgid "[COLOR orchid]¤[/COLOR] [B][COLOR white]Arconai Tv[/COLOR][/B] [COLOR orchid]¤[/COLOR]"
 msgstr ""
+
+msgctxt "#90200"
+msgid "[COLOR orchid]¤[/COLOR] [B][COLOR white]Sportsbay Tv[/COLOR][/B] [COLOR orchid]¤[/COLOR]"
+msgstr ""

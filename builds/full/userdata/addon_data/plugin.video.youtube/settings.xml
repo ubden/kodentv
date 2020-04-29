@@ -36,7 +36,7 @@
     <setting id="kodion.setup_wizard">false</setting>
     <setting id="kodion.subtitle.configure" default="true"></setting>
     <setting id="kodion.subtitle.download" default="true">false</setting>
-    <setting id="kodion.subtitle.languages.num">3</setting>
+    <setting id="kodion.subtitle.languages.num" default="true">0</setting>
     <setting id="kodion.support.alternative_player" default="true">false</setting>
     <setting id="kodion.thumbnail.size">1</setting>
     <setting id="kodion.users.add" default="true"></setting>
@@ -65,7 +65,7 @@
     <setting id="youtube.folder.live.show">true</setting>
     <setting id="youtube.folder.my_channel.show">true</setting>
     <setting id="youtube.folder.my_location.show">true</setting>
-    <setting id="youtube.folder.my_subscriptions.show">false</setting>
+    <setting id="youtube.folder.my_subscriptions.show">true</setting>
     <setting id="youtube.folder.my_subscriptions_filtered.show" default="true">false</setting>
     <setting id="youtube.folder.playlists.show">true</setting>
     <setting id="youtube.folder.popular_right_now.show">true</setting>
@@ -76,7 +76,7 @@
     <setting id="youtube.folder.saved.playlists.show">true</setting>
     <setting id="youtube.folder.search.show">true</setting>
     <setting id="youtube.folder.settings.show">true</setting>
-    <setting id="youtube.folder.sign.in.show">false</setting>
+    <setting id="youtube.folder.sign.in.show">true</setting>
     <setting id="youtube.folder.sign.out.show">true</setting>
     <setting id="youtube.folder.subscriptions.show">true</setting>
     <setting id="youtube.folder.switch.user.show">true</setting>
@@ -84,14 +84,14 @@
     <setting id="youtube.folder.watch_later.playlist" default="true"></setting>
     <setting id="youtube.folder.watch_later.show">true</setting>
     <setting id="youtube.get.watch_later.playlist.id" default="true"></setting>
-    <setting id="youtube.language">tr</setting>
-    <setting id="youtube.location">41.0301,28.9651</setting>
+    <setting id="youtube.language" default="true">en-US</setting>
+    <setting id="youtube.location" default="true"></setting>
     <setting id="youtube.location.radius">500</setting>
     <setting id="youtube.playlist.watchlater.autoremove">true</setting>
     <setting id="youtube.post.play.rate" default="true">false</setting>
     <setting id="youtube.post.play.rate.playlists" default="true">false</setting>
     <setting id="youtube.post.play.refresh" default="true">false</setting>
-    <setting id="youtube.region">TR</setting>
+    <setting id="youtube.region" default="true">US</setting>
     <setting id="youtube.search.remote.friendly" default="true">false</setting>
     <setting id="youtube.suggested_videos" default="true">false</setting>
     <setting id="youtube.view.description.show_channel_name">true</setting>
