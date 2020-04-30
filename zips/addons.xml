@@ -17,7 +17,7 @@
   </extension>
 </addon>
 
-<addon id="repository.kodentv" name="Koden TV Repository" version="1.0.2" provider-name="ubden">
+<addon id="repository.kodentv" name="Koden TV Repository" version="1.0.3" provider-name="ubden">
 	<extension point="xbmc.addon.repository" name="Example Repository">
 		<dir>
             <info compressed="false">https://raw.githubusercontent.com/ubden/kodentv/master/zips/addons.xml</info>
