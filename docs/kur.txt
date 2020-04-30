@@ -24,7 +24,7 @@ description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige
 
 name="Koden TV Aile Surum"
 version=" "
-url="https://github.com/ubden/kodentv/releases/download/family_5_2020/kodentv_family_5_2020.zip"
+url="http://www.nolimits1.appboxes.co/kodi/nolimits/builds/nolimits-18.zip"
 gui="http://"
 kodi="18.0"
 theme="http://"
