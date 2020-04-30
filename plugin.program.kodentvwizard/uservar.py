@@ -11,9 +11,9 @@ ART            = os.path.join(PATH, 'resources', 'art')
 ### User Edit Variables #################################
 #########################################################
 ADDON_ID       = xbmcaddon.Addon().getAddonInfo('id')
-ADDONTITLE     = 'Supreme Builds Wizard'
-BUILDERNAME    = 'KodiSkills'
-EXCLUDES       = [ADDON_ID, 'repository.supremebuilds']
+ADDONTITLE     = 'Koden TV Wizard'
+BUILDERNAME    = 'ubden'
+EXCLUDES       = [ADDON_ID, 'repository.kodentv']
 # Enable/Disable the text file caching with 'Yes' or 'No' and age being how often it rechecks in minutes
 CACHETEXT      = 'Yes'
 CACHEAGE       = 30
@@ -65,21 +65,21 @@ SPACER         = '='
 COLOR1         = 'firebrick'
 COLOR2         = 'ghostwhite'
 # Primary menu items   / %s is the menu item and is required
-THEME1         = '[COLOR '+COLOR1+'][B][I]([COLOR '+COLOR2+']Supreme Builds[/COLOR])[/I][/B][/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
+THEME1         = '[COLOR '+COLOR1+'][B][I]([COLOR '+COLOR2+']Koden TV[/COLOR])[/I][/B][/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
 # Build Names          / %s is the menu item and is required
 THEME2         = '[COLOR '+COLOR2+']%s[/COLOR]'
 # Alternate items      / %s is the menu item and is required
 THEME3         = '[COLOR '+COLOR1+']%s[/COLOR]'
 # Current Build Header / %s is the menu item and is required
-THEME4         = '[COLOR '+COLOR1+']Current Build:[/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
+THEME4         = '[COLOR '+COLOR1+']Mevcut Build:[/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
 # Current Theme Header / %s is the menu item and is required
-THEME5         = '[COLOR '+COLOR1+']Current Theme:[/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
+THEME5         = '[COLOR '+COLOR1+']Mevcut Tema:[/COLOR] [COLOR '+COLOR2+']%s[/COLOR]'
 
 # Message for Contact Page
 # Enable 'Contact' menu item 'Yes' hide or 'No' dont hide
 HIDECONTACT    = 'No'
 # You can add \n to do line breaks
-CONTACT        = 'Thank you for choosing Supreme Builds.\n\nContact us on facebook at https://facebook.com/groups/supremebuilds'
+CONTACT        = 'Koden TVyi Tercih Ettiginiz Icin Tesekkurler.\n\nTelegram : @ubden'
 #Images used for the contact window.  http:// for default icon and fanart
 CONTACTICON    = 'https://wizard.supremebuilds.com/images/contactus.png'
 CONTACTFANART  = 'https://wizard.supremebuilds.com/images/sbforumfanart.jpg'
@@ -102,11 +102,11 @@ WIZARDFILE     = BUILDFILE
 # Enable Auto Install 'Yes' or 'No'
 AUTOINSTALL    = 'No'
 # Addon ID for the repository
-REPOID         = 'repository.supremebuilds'
+REPOID         = 'repository.kodentv'
 # Url to Addons.xml file in your repo folder(this is so we can get the latest version)
-REPOADDONXML   = 'https://raw.githubusercontent.com/kodiskills/supremebuildsrepo/master/repository.supremebuilds/addons.xml'
+REPOADDONXML   = 'https://raw.githubusercontent.com/ubden/kodentv/master/repository.kodentv/addons.xml'
 # Url to folder zip is located in
-REPOZIPURL     = 'https://github.com/kodiskills/supremebuildsrepo/raw/master/zips'
+REPOZIPURL     = 'https://github.com/ubden/kodentv/raw/master/zips'
 #########################################################
 
 #########################################################
@@ -115,7 +115,7 @@ REPOZIPURL     = 'https://github.com/kodiskills/supremebuildsrepo/raw/master/zip
 # Enable Notification screen Yes or No
 ENABLE         = 'Yes'
 # Url to notification file
-NOTIFICATION   = 'https://wizard.supremebuilds.com/texts/notify.txt'
+NOTIFICATION   = 'https://ubden.github.io/kodentv/bildirim.txt'
 # Use either 'Text' or 'Image'
 HEADERTYPE     = 'Image'
 # Font size of header

@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <addons>
-<addon id="plugin.program.kodetvwizard" name="Koden TV Wizard" version="4.0.1" provider-name="ubden">
+<addon id="plugin.program.kodentvwizard" name="Koden TV Wizard" version="5.2020" provider-name="ubden">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
