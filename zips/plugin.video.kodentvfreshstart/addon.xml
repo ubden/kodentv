@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.kodentvfreshstart" name="Fresh Start"
-	version="1.0" provider-name="Koden TV">
+<addon id="plugin.video.kodentvfreshstart" name="Fresh Start" version="1.0.2" provider-name="ubden">
+<extension point="xbmc.addon.repository" name="Example Repository">
+		<dir>
+            <info compressed="false">https://raw.githubusercontent.com/ubden/kodentv/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/ubden/kodentv/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/ubden/kodentv/master/zips/</datadir>
+        </dir>
+	</extension>
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
   </requires>
