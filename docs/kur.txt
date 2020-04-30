@@ -22,7 +22,7 @@ preview="https://www.youtube.com/watch?v=uiLTO9uspK0"
 adult="yes"
 description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige sahiptir. Bu versiyonun kurulu olacağı cihazlarda min 2 GB RAM önerilir."
 
-name="Koden TV Aile Surum"
+name="Koden TV Aile NA Surum"
 version=" "
 url="http://www.nolimits1.appboxes.co/kodi/nolimits/builds/nolimits-18.zip"
 gui="http://"
