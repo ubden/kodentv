@@ -1,1 +1,0 @@
-["Film A", ["film afi\u015fleri", "film ar\u015fivi", "film aksiyon", "film a\u00e7", "film animasyon", "film adlar\u0131", "film ara", "film adam\u0131", "film a\u015fk", "film analizi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

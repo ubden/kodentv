@@ -1,1 +1,0 @@
-["Aoutu", ["youtube", "autocad", "youtube mp3", "autotune nedir", "autotune", "autun", "autodesk", "youtube video indir", "youtub", "youtubeci"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

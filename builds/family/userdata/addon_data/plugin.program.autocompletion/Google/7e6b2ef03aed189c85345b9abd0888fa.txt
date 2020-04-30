@@ -1,1 +1,0 @@
-["M.D", ["m.d\u00f6viz", "m.d", "m.d\u00fcnya", "m.doviz.com", "m.d ne demek", "m.deltoideus", "m.defacto", "m.d house", "m.dinamobet", "m.do\u011fa"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

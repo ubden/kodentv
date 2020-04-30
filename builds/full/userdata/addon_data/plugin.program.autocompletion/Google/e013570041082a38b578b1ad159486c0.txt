@@ -1,1 +1,0 @@
-["BA", ["babil", "bauhaus", "ba\u015fak\u015fehir", "bahar \u00f6ztan", "bayram ne zaman", "barcelona", "bar\u0131\u015f man\u00e7o", "bazlama", "barbie", "bar\u0131\u015f murat ya\u011fc\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Come", ["come and get it", "come and hug me", "comet", "come together", "come ne demek", "come on", "come", "comeet", "come and get your love", "come 3. hali"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

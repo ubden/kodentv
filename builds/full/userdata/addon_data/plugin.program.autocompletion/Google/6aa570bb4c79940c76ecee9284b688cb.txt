@@ -1,1 +1,0 @@
-["plugin://script.extendedin", ["plugin //script.extended", "plugin //script.extendede"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

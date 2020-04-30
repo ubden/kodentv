@@ -1,1 +1,0 @@
-["[COLOR gold][B]B[/B][/COLOR]oxset f\u0130", ["color gold b b /b /color oxset fiyat", "color gold b b /b /color oxset film", "color gold b b /b /color oxset fiyat\u0131", "color gold b b /b /color oxset fiyatlar\u0131"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

@@ -1,1 +1,0 @@
-["[B]S[/B]", ["bsb asans\u00f6r", "bsb jeans", "bsb number", "bsb bitmeyen kartu\u015f", "bsb collection", "bsb search", "bsb lookup", "bsb meaning", "bsb code", "bsb bank"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

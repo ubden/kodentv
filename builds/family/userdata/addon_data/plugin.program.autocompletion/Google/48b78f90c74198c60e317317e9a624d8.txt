@@ -1,1 +1,0 @@
-["SU", ["survivor", "superonline", "survivor gizem", "survivor nisa", "s\u00fcper lig", "survivor aycan", "s\u00fctla\u00e7 tarifi", "survivor canl\u0131", "survivor fragman", "survivor evrim"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

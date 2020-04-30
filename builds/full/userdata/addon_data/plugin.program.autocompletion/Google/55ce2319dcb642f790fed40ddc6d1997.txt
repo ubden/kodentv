@@ -1,1 +1,0 @@
-["Crew D", ["crew duty", "crew dragon", "crew dax", "crew dragon demo 2", "crew data", "crew dragon nedir", "crew di\u015f macunu", "crew dragon launch", "crew definition", "crew dragon explosion"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

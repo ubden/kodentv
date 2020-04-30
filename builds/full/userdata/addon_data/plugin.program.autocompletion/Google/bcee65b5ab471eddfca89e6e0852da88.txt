@@ -1,1 +1,0 @@
-["1234", ["1234", "12345", "1234 tamam", "1234 go", "1234 oyun", "1234 keki", "12344", "12346", "12345 oyunlar", "1234 ki\u015filik oyunlar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

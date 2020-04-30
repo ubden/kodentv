@@ -1,7 +1,0 @@
-<settings version="2">
-    <setting id="lastnotified_stable">18.5 stable</setting>
-    <setting id="lastnotified_version" default="true">17.0 rc3</setting>
-    <setting id="upgrade_apt" default="true">false</setting>
-    <setting id="upgrade_system" default="true">false</setting>
-    <setting id="versioncheck_enable">true</setting>
-</settings>

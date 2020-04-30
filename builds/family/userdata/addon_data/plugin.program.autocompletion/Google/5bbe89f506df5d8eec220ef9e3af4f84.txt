@@ -1,1 +1,0 @@
-["Tempt", ["tempted", "temptation", "tempted konusu", "tempted yorum", "tempted ne demek", "temptation ne demek", "tempted 1", "tempting", "temptalia", "tempt"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

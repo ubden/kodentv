@@ -1,1 +1,0 @@
-["[B]UK", ["b ukulele", "b ukulele chord", "bukalemun", "buket ayd\u0131n", "bukowski", "buket g\u00fcler", "buket uzuner", "bukla tur", "buket \u00e7i\u00e7ek", "buket sena"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Sports Devi", ["sportsdevil", "sports devil web request failed", "sportsdevil addon", "sports devices", "sports deviance", "sportsdevil error", "sports devils", "sports devil no streams", "sportsdevil ufc", "sportsdevil ufc 247"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

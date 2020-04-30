@@ -1,1 +1,0 @@
-["More I", ["more is different", "more importantly", "more is less", "more is more", "more importantly synonym", "more in spanish", "more in sign language", "more information", "more in french", "more in hindi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

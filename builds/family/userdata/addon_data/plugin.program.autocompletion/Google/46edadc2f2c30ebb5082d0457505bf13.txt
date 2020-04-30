@@ -1,1 +1,0 @@
-["Si", ["sinemalar", "sivasspor", "sign in", "sigmund freud", "sinema", "sis", "sims 4", "siemens", "singapore", "simpsons"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Paketle", ["paketleme makinas\u0131", "paketleme", "paketleme malzemeleri", "paketleme makinesi", "paketleri", "paketleme ka\u011f\u0131d\u0131", "paketleme i\u015fi", "paketleme i\u015f ilanlar\u0131", "paketler t\u00fcrk telekom", "paket leverans"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

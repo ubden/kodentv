@@ -1,1 +1,0 @@
-["Facebook EM", ["facebook emoji", "facebook emojileri", "facebook email", "facebook emoji png", "facebook email de\u011fi\u015ftirme", "facebook emoji anlamlar\u0131", "facebook emoji ekleme", "facebook emre", "facebook emine", "facebook emre topda\u015f"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

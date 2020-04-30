@@ -1,1 +1,0 @@
-["TemptesFilmler", ["tempted film izle"], [], {"google:suggesttype": ["QUERY"]}]

@@ -1,1 +1,0 @@
-["Pa", ["pandemi yard\u0131m\u0131", "pandemi sonu\u00e7lar\u0131", "pandemi nedir", "pat\u0131rt\u0131", "pasta tarifleri", "pankek tarifi", "paristen sevgilerle", "pamukkale", "passo", "papara"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Fi", ["finansbank", "film", "firefox", "film \u00f6nerileri", "film makinesi", "fikst\u00fcr", "fiverr", "fiat", "findeks", "five feet apart"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]ARALAR[/B]", ["b arabalar /b "], [], {"google:suggesttype": [""]}]

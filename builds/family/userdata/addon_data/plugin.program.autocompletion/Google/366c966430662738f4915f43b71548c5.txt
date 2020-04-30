@@ -1,1 +1,0 @@
-["ubden", ["ubden", "ub dental school"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

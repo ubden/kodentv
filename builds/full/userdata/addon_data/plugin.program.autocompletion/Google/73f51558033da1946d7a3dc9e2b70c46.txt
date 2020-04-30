@@ -1,1 +1,0 @@
-["skin", ["skins", "skin", "skinfood", "skinceuticals", "skins izle", "skindex", "skinny fat", "skinny", "skinny jean", "skinhub"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

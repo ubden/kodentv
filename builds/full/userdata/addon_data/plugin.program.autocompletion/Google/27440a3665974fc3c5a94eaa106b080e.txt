@@ -1,1 +1,0 @@
-["En", ["enes batur", "en son haber", "en uygun kredi", "enerjisa", "en iyi filmler", "en uygun", "english home", "enpara", "enfluvir", "enes batur ger\u00e7ek kahraman"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

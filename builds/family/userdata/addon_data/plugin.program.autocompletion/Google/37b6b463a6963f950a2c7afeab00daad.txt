@@ -1,1 +1,0 @@
-["Depod", ["depodans", "depodepo", "depodankap\u0131ya", "depodanbul", "depodeco", "depodesta", "depod", "despondent", "depodental", "deposition"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

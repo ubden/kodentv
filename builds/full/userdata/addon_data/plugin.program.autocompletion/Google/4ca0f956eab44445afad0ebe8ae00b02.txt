@@ -1,1 +1,0 @@
-["Search Music", ["search music", "search music by lyrics", "search music online", "search music by notes", "search music by voice", "search music google", "search music by melody", "search music app", "search music video", "search music on spotify"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["RA", ["ramazan pidesi", "ramo", "ramazan pidesi tarifleri", "ramazan bayram\u0131 ne zaman ba\u015flar", "ramazan bayram\u0131", "radyo dinle", "rabbena dualar\u0131", "rasathane", "rafadan tayfa", "ramazan 2020"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

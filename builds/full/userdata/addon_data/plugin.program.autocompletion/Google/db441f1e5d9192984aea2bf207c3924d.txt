@@ -1,1 +1,0 @@
-["Crew IPTV", ["pirate crew iptv", "balkan crew iptv", "the crew iptv addon", "the new crew iptv", "github pirate crew iptv"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["RADYOL", ["radyoland", "radyolar", "radyoloji", "radyoloji teknikeri", "radyoloji nedir", "radyolog", "radyolu \u0131\u015f\u0131ldak", "radyoloji taban puanlar\u0131 2020", "radyolojik anatomi", "radyolu saat"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

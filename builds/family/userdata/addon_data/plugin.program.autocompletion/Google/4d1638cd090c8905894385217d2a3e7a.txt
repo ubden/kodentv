@@ -1,1 +1,0 @@
-["PO", ["posta kodu", "pound to tl", "pound", "popcorn time", "posta", "popeyes", "powerpuff girls", "porsche", "post malone", "polo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

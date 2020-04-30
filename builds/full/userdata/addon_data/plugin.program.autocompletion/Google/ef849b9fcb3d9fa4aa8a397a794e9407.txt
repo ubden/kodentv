@@ -1,1 +1,0 @@
-["Pango", ["pangolin", "pangoli", "pango", "pangolin pokemon", "pangolin stone", "pangolin pulu", "pango ne demek", "pangolin food", "pangolin video", "pangolin \u00f6zellikleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]\u00e7", ["b \u00e7ekmece n\u00f6bet\u00e7i eczane", "b \u00e7ekmece", "b \u00e7", "b \u00e7izimi", "b \u00e7ekmece adliyesi", "b \u00e7eviri", "b \u00e7ekmece mtal", "b \u00e7ekmece 2 noteri", "b \u00e7anta", "b \u00e7ekmece netg\u0131s"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

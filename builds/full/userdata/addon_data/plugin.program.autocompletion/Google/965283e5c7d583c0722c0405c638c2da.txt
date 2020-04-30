@@ -1,1 +1,0 @@
-["Youtub", ["youtube", "youtube mp3", "youtube video indir", "youtub", "youtube music", "youtubeci", "youtube youtube", "youtube m\u00fczik", "youtuber", "youtube premium"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]Turk", ["b turk", "b turkiye", "b turkey", "b turkije", "turkuaz b", "turkfinance b.v", "turkuaz b gemisi", "turkish b", "turkiyede b ile baslayan sehirler", "turkcell b"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

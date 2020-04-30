@@ -1,1 +1,0 @@
-["Fac", ["facebook", "faceit", "facebook giri\u015f", "facebook dondurma", "facebook indir", "facebook silme", "facebook kur", "facebook video indir", "faces of facebook", "facebook hesap dondurma"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

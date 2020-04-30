@@ -1,1 +1,0 @@
-["IN", ["instagram", "investing", "ingilizce", "internet vergi dairesi", "internet haber", "ing bank", "ingilizce \u00e7eviri", "incehesap", "internet h\u0131z testi", "influenza"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[COLOR r", ["color red", "color rgb", "color red just red", "color riche shine", "color rgb code", "color renk", "color reveal barbie", "color research", "color rgba", "color rgb to hex"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

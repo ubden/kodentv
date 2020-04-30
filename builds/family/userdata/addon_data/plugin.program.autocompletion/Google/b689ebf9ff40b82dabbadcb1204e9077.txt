@@ -1,1 +1,0 @@
-["[B]PO", ["b pozitif", "b pozitif kan grubu \u00f6zellikleri", "b positive blood type", "b positive blood type diet", "b positive blood", "b positive", "b positive blood group", "bpost", "b power chord", "b pollen"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

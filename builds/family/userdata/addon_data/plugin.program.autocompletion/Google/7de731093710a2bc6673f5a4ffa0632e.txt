@@ -1,1 +1,0 @@
-["[B]K[/B]", ["b k birla", "b k b", "b k b i t", "b .. k b g", "b k bridal", "b&k bmw", "b&k bad homburg", "b&k bad oeynhausen", "b&k bad salzuflen", "b&k burgdorf"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

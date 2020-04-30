@@ -1,1 +1,0 @@
-["Dizi Ar", ["dizi arena", "dizi ara", "dizi ar\u015fiv", "dizi arama motoru", "dizi ar\u015fivi yabanc\u0131", "dizi arka sokaklar", "dizi artistleri", "dizi ar\u015fivi yandex", "dizi arama", "dizi ar\u015fivi onedio"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

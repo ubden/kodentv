@@ -1,1 +1,0 @@
-["Mut", ["mutlubiev", "mutfak robotu", "mutfak dolab\u0131", "mutfak masas\u0131", "mutluluk hormonu", "mutfak tart\u0131s\u0131", "mutfak", "mutlu ak\u00fc", "mutaz", "mutfak sanatlar\u0131 akademisi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

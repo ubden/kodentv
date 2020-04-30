@@ -1,1 +1,0 @@
-["[COLOR gold]UK-TURK D\u0130Z\u0130LE[/COLOR]", ["color gold uk-turk dizile /color izle"], [], {"google:suggesttype": ["TAIL"]}]

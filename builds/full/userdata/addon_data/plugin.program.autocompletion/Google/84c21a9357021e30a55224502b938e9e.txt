@@ -1,1 +1,0 @@
-["MP3 S", ["mp3 semti", "mp3 sat\u0131n al", "mp3 \u015fark\u0131 indir", "mp3 sony", "mp3 silah", "mp3 sepeti", "mp3 ses y\u00fckseltme", "mp3 ses y\u00fckseltme online", "mp3 ses kesici", "mp3 semti ezhel"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

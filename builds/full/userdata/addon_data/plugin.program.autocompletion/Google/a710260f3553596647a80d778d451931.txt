@@ -1,1 +1,0 @@
-["[B]CANLI[/B]", ["barcelona b live", "barcelona b live score", "barcelona b live stream", "live b b c news", "barca b live", "b&b live", "bengaluru b live score", "live b b c urdu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

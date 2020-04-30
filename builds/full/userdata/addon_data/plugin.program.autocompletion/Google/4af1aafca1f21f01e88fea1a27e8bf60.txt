@@ -1,1 +1,0 @@
-["He", ["hepsiburada", "hesap makinesi", "hello", "hepsijet", "hekimo\u011flu", "henry cavill", "heath ledger", "hercai", "hermes", "hey google"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,3 +1,0 @@
-Exodus Module Changelog:
-3.2.3
-- Fixed TV shows

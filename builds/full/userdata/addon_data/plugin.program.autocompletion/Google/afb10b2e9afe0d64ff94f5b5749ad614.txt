@@ -1,1 +1,0 @@
-["PPDATA%\\Kodi\\", ["appdata kodi userdata", "appdata kodi userdata database", "appdata kodi", "kodi appdata windows 10", "change kodi appdata location", "kodi appdata roaming", "kodi appdata folder", "appdata kodi cache"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

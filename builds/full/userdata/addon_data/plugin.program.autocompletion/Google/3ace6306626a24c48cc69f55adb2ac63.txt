@@ -1,1 +1,0 @@
-["Pu", ["pull and bear", "puhu tv", "puan durumu", "pubmed", "puma", "puzzle", "pubg", "pubg mobile", "pubg lite", "pulp fiction"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Pulse Be", ["pulse beetle", "pulse behind knee", "pulse beat", "pulse below 60", "pulse beans", "pulse beat is measured from", "pulse beat app", "pulse behind ankle", "pulse below 50", "pulse bengali meaning"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

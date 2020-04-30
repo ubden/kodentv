@@ -1,1 +1,0 @@
-["KodenMed", ["konmed", "konmedikal", "komedi", "komedi filmleri", "konmed sa\u011fl\u0131k", "konmed foot support", "komedyen lakay", "konmed adjustable drop foot", "konmed medikal gaziantep", "conmed healthcare store"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Program", ["program indir", "program", "programlama dilleri", "program\u0131", "program geli\u015ftirme", "program de\u011ferlendirme modelleri", "programlar", "program kald\u0131rma", "programl\u0131 \u00f6\u011fretim", "programlama"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

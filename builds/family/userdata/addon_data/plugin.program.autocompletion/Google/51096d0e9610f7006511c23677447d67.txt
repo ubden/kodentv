@@ -1,1 +1,0 @@
-["skins", ["skins", "skins izle", "skinsearch", "skins effy", "skins konusu", "skinsilo", "skins dizi", "skins minecraft", "skins oyuncular\u0131", "skins imdb"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

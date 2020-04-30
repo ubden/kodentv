@@ -1,1 +1,0 @@
-["Wolfpack A", ["wolfpack armory", "wolfpack abby wambach", "wolfpack athletics", "wolfpack apparel", "wolfpack auto group", "wolfpack app", "wolfpack addon", "wolfpack alliance", "wolfpack adventures", "wolfpack abby wambach pdf"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

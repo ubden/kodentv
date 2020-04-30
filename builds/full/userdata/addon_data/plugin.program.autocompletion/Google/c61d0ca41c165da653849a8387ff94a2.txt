@@ -1,1 +1,0 @@
-["[B]S\u0130Z", ["b siz isim tamlamas\u0131", "b siz nesne", "b size paper", "b size bra", "b size battery", "b size", "b size breast", "b size drawing", "b sizes", "b size cup"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

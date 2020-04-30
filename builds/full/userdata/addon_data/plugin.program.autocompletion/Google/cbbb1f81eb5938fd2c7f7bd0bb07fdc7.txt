@@ -1,1 +1,0 @@
-["Buf", ["buffon", "buff", "buffer", "buffalo", "bufalo", "buffalo bill", "buffy the vampire slayer", "buffalo sos", "buffalo bot", "buffalo 66"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

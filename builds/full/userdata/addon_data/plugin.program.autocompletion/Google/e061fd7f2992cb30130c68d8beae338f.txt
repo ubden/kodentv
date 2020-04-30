@@ -1,1 +1,0 @@
-["New Mov(IMDb)", ["new movies imdb rating", "new movies imdb list", "new movies imdb", "new movies imdb 2019", "new movies imdb 2018", "new movies imdb 2020", "new movies imdb bollywood", "best new movies imdb", "new horror movies imdb", "top new movies imdb"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-[".a", [".a", ".avi", ".aae", ".apk", ".app domain", ".aspx", ".ai uzant\u0131s\u0131", ".archivetemp", ".append python", ".app"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

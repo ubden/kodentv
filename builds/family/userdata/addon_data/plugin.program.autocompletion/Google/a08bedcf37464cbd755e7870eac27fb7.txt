@@ -1,1 +1,0 @@
-["TArama", ["tarama", "tarama nedir", "tarama program\u0131", "tarama y\u00f6ntemi", "tarama testleri", "taramal\u0131 silah", "tarama nas\u0131l yap\u0131l\u0131r", "tarama meze", "tarama testi", "tarama makrome ipi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

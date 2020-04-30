@@ -1,1 +1,0 @@
-["[COLOR red][B]gk", ["color red b gky", "color red b gkp", "color red b gkn"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

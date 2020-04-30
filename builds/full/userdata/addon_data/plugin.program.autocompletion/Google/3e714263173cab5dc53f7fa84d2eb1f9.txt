@@ -1,1 +1,0 @@
-["Crew Spo", ["crew sport", "crew sport socks", "crew sponsorship", "crew sportswear", "crew sports shoes", "crew sports shorts", "crew sports basketball", "crew sponsor", "crew sport near me", "crew sport in spanish"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Sport", ["sportive", "sportoto", "sporting lizbon", "sportsoul", "sporting", "sports", "sport", "sporthink", "sports tv", "sportage"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

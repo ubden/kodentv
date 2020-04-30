@@ -1,1 +1,0 @@
-["Temptestilmler", [], [], {"google:suggesttype": []}]

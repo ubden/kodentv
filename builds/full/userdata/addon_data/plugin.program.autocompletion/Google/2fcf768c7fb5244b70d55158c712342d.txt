@@ -1,1 +1,0 @@
-["Ping", ["ping test", "ping nedir", "ping", "ping d\u00fc\u015f\u00fcrme", "ping \u00f6l\u00e7er", "pingu", "pingui", "ping atma", "ping pong", "ping \u00f6l\u00e7me"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

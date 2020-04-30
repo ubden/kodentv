@@ -1,1 +1,0 @@
-["Ba", ["bauhaus", "barcelona", "batman", "barbara palvin", "bannerlord", "balenciaga", "basaksehir", "bannerweb", "bad boys", "baby shark"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

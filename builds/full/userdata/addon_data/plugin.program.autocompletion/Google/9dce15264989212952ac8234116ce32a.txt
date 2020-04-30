@@ -1,1 +1,0 @@
-["[B]D\u0130\u011e", ["b) di\u011fer mal ve hizmetler", "hepatit b di\u011fer ad\u0131", "b vitaminlerinin di\u011fer adlar\u0131", "b vitamini di\u011fer ad\u0131", "b harfi di\u011fer dillerde", "b dig", "bdig store", "b dog names", "dog breed b"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

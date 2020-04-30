@@ -1,1 +1,0 @@
-["[B]F\u0130LME[/B]", ["boletim filme b", "bacurau filme b", "bela b filme", "film box office", "filme bilheteria", "b&b filme", "filme brasil", "filme blano b", "baixar filme plano b dublado", "baixar filme plano b completo dublado"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

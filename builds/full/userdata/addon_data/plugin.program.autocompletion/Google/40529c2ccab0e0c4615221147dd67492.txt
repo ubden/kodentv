@@ -1,1 +1,0 @@
-["[B]ARA[/B]", ["b arab sdsu", "b arab warna", "b arab angka", "b arab kamus", "b arab meja", "b arab profesi", "b arab buku", "b arab keluarga", "b arab kelas 7", "b arab semangka"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

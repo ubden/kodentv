@@ -1,1 +1,0 @@
-["Z", ["zoom", "zara", "ziraat bankas\u0131", "zargan", "zoom download", "zara home", "zomato", "zemheri", "zalim istanbul", "zula"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

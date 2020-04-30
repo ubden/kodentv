@@ -1,1 +1,0 @@
-["[B]YA[/B]", ["ya b b", "esli b ya bil sultan", "bou whine ya b", "b&n ya book club", "bstc kare ya b.ed", "btc kare ya b.ed", "barry b benson ya like jazz", "amakuru ya b b c", "b'lerin a ya bakma s\u00fcresi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

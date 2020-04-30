@@ -1,1 +1,0 @@
-["Coo", ["cookie tarifi", "cookie", "cookshop", "cooking", "coo", "cookplus", "cookie clicker", "cookie monster", "cooler master", "cookshop men\u00fc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

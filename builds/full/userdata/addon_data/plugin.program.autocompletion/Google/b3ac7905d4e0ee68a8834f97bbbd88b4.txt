@@ -1,1 +1,0 @@
-["%APPDATA%\\Kod", [], [], {"google:suggesttype": []}]

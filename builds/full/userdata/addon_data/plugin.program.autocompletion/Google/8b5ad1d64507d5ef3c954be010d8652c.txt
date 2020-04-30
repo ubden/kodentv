@@ -1,1 +1,0 @@
-["Film Ara", ["film ara", "film arama motoru", "film aras\u0131", "film araba", "film arama sitesi", "film aras\u0131 dergisi", "film arama robotu", "film arabalar", "film arama program\u0131", "film ara bul"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

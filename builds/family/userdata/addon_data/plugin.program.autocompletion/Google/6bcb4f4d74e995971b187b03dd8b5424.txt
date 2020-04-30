@@ -1,1 +1,0 @@
-["35595", ["35595 shangri la", "35595 leland brownstown mi", "35595 us hwy 19", "35595 in word", "35595 winkler", "35595 sharpie", "35595 oriflame", "35595 curtis blvd", "35595 desert rose way", "fel pro 35595"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

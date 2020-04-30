@@ -1,1 +1,0 @@
-["Cooki", ["cookie tarifi", "cookie", "cooking", "cookie clicker", "cookie monster", "cookie dough", "cookies recipe", "cooking simulator", "cooking games", "cookie yap\u0131m\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

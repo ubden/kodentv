@@ -1,1 +1,0 @@
-["Crew M", ["crew management", "crew member", "crew member certificate", "crew meaning", "crew management istanbul", "crew manager", "crew midlayer jacket", "crew me", "crew mont", "crew member ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

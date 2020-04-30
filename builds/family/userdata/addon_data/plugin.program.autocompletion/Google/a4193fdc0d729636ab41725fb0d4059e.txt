@@ -1,1 +1,0 @@
-["Purge Packag", ["purge package ubuntu", "purge package", "purge package debian", "purge package centos", "purge package arch", "purge package linux", "purge package pacman", "purge package arch linux", "purge package pip", "purge package fedora"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

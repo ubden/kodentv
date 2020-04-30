@@ -1,1 +1,0 @@
-["1", ["1000 tl sosyal yard\u0131m\u0131 ba\u015fvurusu", "1 dolar", "182", "1 dolar ka\u00e7 tl", "1917", "1 milyon istihdam", "1 euro", "10000 tl kredi ba\u015fvurusu", "101 a\u015fk", "1xbet"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

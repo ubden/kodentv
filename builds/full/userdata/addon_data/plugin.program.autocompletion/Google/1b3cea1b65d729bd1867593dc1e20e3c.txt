@@ -1,1 +1,0 @@
-["T(IPTV)", ["t iptv xbox one", "t-iptv player", "dvb-t iptv", "t rex iptv", "t home iptv csatornakioszt\u00e1s", "t rex iptv code", "t-mobile routed iptv", "t com iptv csatornakioszt\u00e1s", "t-home iptv bek\u00f6t\u00e9se", "t-home iptv ip c\u00edm"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

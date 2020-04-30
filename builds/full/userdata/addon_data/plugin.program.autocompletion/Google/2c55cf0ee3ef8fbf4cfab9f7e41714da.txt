@@ -1,1 +1,0 @@
-["T", ["translate", "trendyol", "tureng", "twitter", "thy", "turkish airlines", "twitch", "turkey", "teamviewer", "the platform"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]M", ["b max", "b movie", "b minor scale", "b meyve", "b model", "b minor", "b marka araba", "b movie nedir", "b movies", "b major"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

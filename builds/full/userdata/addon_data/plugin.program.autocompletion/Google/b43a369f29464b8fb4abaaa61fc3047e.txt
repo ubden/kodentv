@@ -1,1 +1,0 @@
-["[B][COLOR yellow]AUTO TEMIZ[/COLOR][/B]", ["b color yellow auto temiz /color /b nedir"], [], {"google:suggesttype": ["TAIL"]}]

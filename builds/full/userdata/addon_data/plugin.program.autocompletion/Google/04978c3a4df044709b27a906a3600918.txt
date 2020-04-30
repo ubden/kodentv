@@ -1,1 +1,0 @@
-["V", ["vak\u0131fbank", "vodafone", "valorant", "vatan", "vivense", "vk", "video indir", "vaka say\u0131s\u0131", "vpn", "van haber"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

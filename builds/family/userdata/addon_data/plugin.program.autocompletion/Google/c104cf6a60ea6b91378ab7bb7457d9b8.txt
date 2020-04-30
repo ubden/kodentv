@@ -1,1 +1,0 @@
-["TR D\u0130Z", ["tr dizin", "tr dizin dergi listesi", "tr dizin ulakbim", "tr dizin 2020 kriterleri", "tr dizin nedir", "tr dizileri", "tr dizinde dizinlenen dergi listesi", "tr dizindeki dergiler", "tr dizin dergi arama", "tr dizin kriterleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

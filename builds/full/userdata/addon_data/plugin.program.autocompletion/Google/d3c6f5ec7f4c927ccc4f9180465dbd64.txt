@@ -1,1 +1,0 @@
-["Her Pl", ["her plot", "her place", "her playlist", "her plural", "her plus", "her playing guitar", "her platform", "her planet earth", "her plumbing", "her place at the table"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

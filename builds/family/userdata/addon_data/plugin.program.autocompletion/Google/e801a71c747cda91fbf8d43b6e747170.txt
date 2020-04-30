@@ -1,1 +1,0 @@
-["[B]LIVE T[/B]", ["b live tv app", "b live tv", "bangla live b t v world", "bangladesh live tv b t v", "b t b live", "b t b live scores for tip", "b t v live bangladesh", "b c t v live", "bangla b t v live", "italy serie b live tv"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

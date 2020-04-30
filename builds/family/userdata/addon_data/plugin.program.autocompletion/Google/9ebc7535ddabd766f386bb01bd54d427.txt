@@ -1,1 +1,0 @@
-["Seyr", ["seyrantepe", "seyran", "seyrantepe metro", "seyran pastanesi", "seyrantepe taksi", "seyrani", "seyrek z\u0131t anlaml\u0131s\u0131", "seyran ne demek", "seyran atakl\u0131", "seyrantepe kiral\u0131k daire"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

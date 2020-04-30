@@ -1,1 +1,0 @@
-["KodenMedi", ["\u00f6denmedi", "\u00f6denmedi\u011fi halde mahsup edilen ge\u00e7ici vergi", "\u00f6denmedi \u00f6denmeyecek", "\u00f6denmedi ingilizce", "\u00f6denmedi\u011fi takdirde"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

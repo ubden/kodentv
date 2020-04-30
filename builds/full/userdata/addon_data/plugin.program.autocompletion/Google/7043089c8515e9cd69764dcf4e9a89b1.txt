@@ -1,1 +1,0 @@
-["https:/kodentv.ubden.com", ["https /kodentv.ubden.com.tr"], [], {"google:suggesttype": ["TAIL"]}]

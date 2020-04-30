@@ -1,1 +1,0 @@
-["B", ["bershka", "bbc", "bbc news", "booking", "billie eilish", "bauhaus", "bloomberg", "bitcoin", "burger king", "brad pitt"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

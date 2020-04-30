@@ -1,1 +1,0 @@
-["Spor Wige", ["spor wife"], [], {"google:suggesttype": ["TAIL"]}]

@@ -1,1 +1,0 @@
-["[B]Laydil", ["baydil \u00f6rme", "baydilli", "baydil camping", "beydilli a\u015fireti", "baydilli ne demek", "baydil restaurant", "baydil park", "baydil aquapark", "baydil park pamukkale", "baydil park denizli"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

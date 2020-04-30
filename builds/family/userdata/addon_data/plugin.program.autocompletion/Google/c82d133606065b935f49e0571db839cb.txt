@@ -1,1 +1,0 @@
-["Recomm", ["recommendation", "recommendation letter", "recommended", "recommend", "recommend ne demek", "recommendation letter sample", "recommended movies", "recommendation letter for master", "recommendation engine", "recommender systems"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

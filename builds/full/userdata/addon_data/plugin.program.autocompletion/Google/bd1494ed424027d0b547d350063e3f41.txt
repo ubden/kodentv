@@ -1,1 +1,0 @@
-["Video a", ["video a\u00e7", "video art", "video arka plan", "video arama", "video ara", "video a\u00e7ma program\u0131", "video altyaz\u0131 ekleme", "video arka plan ekleme", "video arama motoru", "video a\u00e7\u0131lm\u0131yor"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

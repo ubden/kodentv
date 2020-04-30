@@ -1,1 +1,0 @@
-["https://www.ubden.com", ["ubden", "ub dental", "undeniable", "ub dental school", "ubden.mn", "ubden bili\u015fim", "ubden bili\u015fim sistemleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

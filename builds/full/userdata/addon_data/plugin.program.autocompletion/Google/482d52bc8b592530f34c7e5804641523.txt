@@ -1,1 +1,0 @@
-["plugin://script.extendedinfo", ["plugin information", "plugin info"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

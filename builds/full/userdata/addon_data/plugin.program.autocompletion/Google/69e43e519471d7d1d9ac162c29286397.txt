@@ -1,1 +1,0 @@
-["NEY", ["neymar", "neyzen tevfik", "ney", "neydi", "neyim var ki", "neymar\u0131n annesi", "neyzen", "ney fiyatlar\u0131", "neyse s\u00f6zleri", "neyse"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

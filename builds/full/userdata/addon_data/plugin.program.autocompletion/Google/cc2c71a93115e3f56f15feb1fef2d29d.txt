@@ -1,1 +1,0 @@
-["FEN A", ["fen alemi", "fen ayt deneme", "fen aynalar", "fen anaokulu", "fen at\u00f6lyem", "fen akademi", "fen asit ve bazlar", "fen aynalar 7.s\u0131n\u0131f test", "fen alemi 8.s\u0131n\u0131f", "fen adam\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

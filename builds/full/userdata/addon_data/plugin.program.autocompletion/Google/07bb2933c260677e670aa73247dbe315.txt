@@ -1,1 +1,0 @@
-["Ot", ["oturum a\u00e7", "otel", "otob\u00fcs bileti", "ottoman", "otelz", "otob\u00fcs", "oturma grubu", "otomatik portakal", "ota\u011ftepe", "otizm"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

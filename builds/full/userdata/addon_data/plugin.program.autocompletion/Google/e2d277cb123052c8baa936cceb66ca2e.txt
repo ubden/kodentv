@@ -1,1 +1,0 @@
-["kodentv", ["kontv", "kontv frekans", "kontv haber", "kontv ismailce", "kontv hayat var", "kontv ileti\u015fim", "kontv hd frekans", "kontv spor", "kontv kimin", "kontv nazar boncugu 2020"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

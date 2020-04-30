@@ -1,1 +1,0 @@
-["Exodu", ["exodus", "exodus gods and kings", "exodus nedir", "exodus 3000", "exodus tanr\u0131lar ve krallar", "exodus band", "exodus redux", "exodus wallet", "exodus travel", "exodus ayakkab\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]D\u0130Z\u0130LER[/B]", ["b ile ba\u015flayan diziler", "b harfi ile ba\u015flayan diziler", "b ba\u015flayan diziler", "b ba\u015flayan dizi", "b harfiyle ba\u015flayan diziler", "b ile baslayan diziler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

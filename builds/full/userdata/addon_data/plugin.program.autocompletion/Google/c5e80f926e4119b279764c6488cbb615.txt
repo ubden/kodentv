@@ -1,1 +1,0 @@
-["Bu", ["burs tog", "burger king", "bursa iftar vakti", "bur\u00e7lar", "buket ayd\u0131n", "burak akkul", "bursa imsakiye", "burger yiyelim", "budget", "bug\u00fcnk\u00fc korona tablosu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

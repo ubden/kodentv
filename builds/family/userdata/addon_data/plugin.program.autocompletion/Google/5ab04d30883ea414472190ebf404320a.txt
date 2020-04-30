@@ -1,1 +1,0 @@
-["ht", ["html", "htc vive", "htc", "ht bloomberg", "ht", "html to pdf", "html editor", "ht\u015f", "html beautifier", "html table"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["sk", ["skype", "skechers", "skyscanner", "skoda", "skype indir", "skam", "sketchup", "skolyoz", "skoda fabia", "skins"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

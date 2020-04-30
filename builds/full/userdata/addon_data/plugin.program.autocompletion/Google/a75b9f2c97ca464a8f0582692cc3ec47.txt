@@ -1,1 +1,0 @@
-["[COLOR bl", ["color blind test", "color blindness test", "color blind glasses", "color blocking", "color blind glasses price", "color blue", "color black", "color blender", "color blind types", "color blind lyrics"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

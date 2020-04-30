@@ -1,1 +1,0 @@
-["HATA LO", ["hara lo s\u00f6zleri", "hara lo", "hara lo ne demek", "hara lo \u015fark\u0131 s\u00f6zleri", "hara lo s\u00f6zler", "hara lo mp3 indir", "hara lo velet s\u00f6zleri", "hara lo lyrics", "hara lo apple", "hara lo.sozleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

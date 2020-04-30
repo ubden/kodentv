@@ -1,1 +1,0 @@
-["[COLOR lime]KOLEKSIYO[/COLOR]", ["color lime koleksiyon /color "], [], {"google:suggesttype": [""]}]

@@ -1,1 +1,0 @@
-["TV Sh", ["tv shows", "tv show", "tv show time", "tv shows to watch", "tv show ne demek", "tv shop market", "tv show canl\u0131", "tv sharemax", "tv shows imdb", "tv shows 2020"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

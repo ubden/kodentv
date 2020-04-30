@@ -1,1 +1,0 @@
-["SupMore 24-7", ["supmore 24-70"], [], {"google:suggesttype": ["TAIL"]}]

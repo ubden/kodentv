@@ -1,1 +1,0 @@
-["Tema", ["temass\u0131z ate\u015f \u00f6l\u00e7er", "tema", "tema istanbul", "tema park", "tema nedir", "temalar", "tema hastanesi", "tema ne demek", "tema al\u00fcminyum", "temas izolasyonu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[COLOR gold]UBDEN.COM[/COLOR", ["color gold ubden.com /colors"], [], {"google:suggesttype": ["TAIL"]}]

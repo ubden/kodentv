@@ -1,1 +1,0 @@
-["hATA", ["hatay iftar vakti 2020", "hatayspor", "hatay sahur vakti", "hatay imsak", "hatay iftar vakti", "hatay", "hatay imsak vakti", "hatay imsakiye", "hatay hava durumu", "hatay il\u00e7eleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

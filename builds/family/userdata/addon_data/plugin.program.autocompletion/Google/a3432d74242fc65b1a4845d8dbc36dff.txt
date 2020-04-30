@@ -1,1 +1,0 @@
-["O", ["outlook", "onedio", "oysho", "office 365", "odatv", "origin", "obs", "opera", "ok google", "onedrive"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

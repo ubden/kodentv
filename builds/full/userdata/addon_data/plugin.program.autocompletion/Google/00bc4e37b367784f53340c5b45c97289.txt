@@ -1,1 +1,0 @@
-["Facebook Medi", ["facebook media partner", "facebook media", "facebook media support", "facebook medipol", "facebook media partnerships", "facebook medikal", "facebook media portal", "facebook mediamarkt", "facebook medine", "facebook medipol mimarl\u0131k"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

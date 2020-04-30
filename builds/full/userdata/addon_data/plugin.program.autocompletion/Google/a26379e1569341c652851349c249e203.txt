@@ -1,1 +1,0 @@
-["SON Fil", ["son filmler", "son filmi", "son filmler 2020", "son filmler 2020 izle", "son filmler komedi", "son filmler yerli", "son filmer", "son fil adam", "son filmler macera", "son filozof"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

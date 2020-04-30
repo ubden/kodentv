@@ -1,1 +1,0 @@
-["D\u0130", ["dizibox", "discord", "dikran masis", "diyanet", "digit\u00fcrk", "dila kent", "diken", "dizimag", "diyanet i\u015fleri ba\u015fkan\u0131", "discord indir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

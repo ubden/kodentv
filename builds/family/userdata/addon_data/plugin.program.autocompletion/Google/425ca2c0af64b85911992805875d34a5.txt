@@ -1,1 +1,0 @@
-["Popul", ["population of turkey", "population of istanbul", "population of usa", "population of china", "popular science", "population", "populist", "population of india", "population of germany", "population of canada"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

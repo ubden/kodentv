@@ -1,1 +1,0 @@
-["You", ["youtube", "youtube mp3", "youtube music", "youtube video indir", "youtube video indirme", "yout", "youtube premium", "you izle", "youtube vanced", "young sheldon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["FTV Shows", ["ftv shows tonight", "ftv show timing in india", "ftv shows list", "ftv shows timetable", "ftv fashion show", "ftv channel shows", "tv shows"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

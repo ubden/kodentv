@@ -1,1 +1,0 @@
-["TemptArama", ["temp tarama"], [], {"google:suggesttype": [""]}]

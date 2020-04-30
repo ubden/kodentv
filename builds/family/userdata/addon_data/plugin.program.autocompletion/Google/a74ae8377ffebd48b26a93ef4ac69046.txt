@@ -1,1 +1,0 @@
-["Comedy", ["comedy movies", "comedy", "comedy night", "comedy ne demek", "comedy central", "comedy of errors", "comedy films", "comedy series", "comedy t\u00fcrk\u00e7esi", "comedy burak"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

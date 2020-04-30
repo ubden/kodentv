@@ -1,1 +1,0 @@
-["Sa", ["sahibinden", "sa\u011fl\u0131k bakanl\u0131\u011f\u0131", "sahadan", "sabah", "sahur vakti", "saat ka\u00e7", "samsung", "savefrom", "samsung a70", "samsung a50"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

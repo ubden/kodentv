@@ -1,1 +1,0 @@
-["[COLOR lime]C[/COLOR]", ["color lime c color chart", "color lime c color code", "color lime c color palette"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

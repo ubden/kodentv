@@ -1,1 +1,0 @@
-["[B][COLOR lig", ["chlorophyll b light color", "b&o color position light signals", "b&o color position light"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

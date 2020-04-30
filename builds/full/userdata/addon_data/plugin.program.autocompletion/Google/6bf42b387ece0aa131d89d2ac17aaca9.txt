@@ -1,1 +1,0 @@
-["SON Film", ["son filmler", "son filmi", "son filmler 2020", "son filmler 2020 izle", "son filmler komedi", "son filmler yerli", "son filmer", "son filmler macera", "son filmler animasyon filmler", "son filmler komedi t\u00fcrk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

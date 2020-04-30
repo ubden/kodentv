@@ -1,1 +1,0 @@
-["R\u0130T\u0130", ["ritim istanbul", "ritim", "ritim sanat yay\u0131nlar\u0131", "ritim nedir", "ritim holter", "ritim bozuklu\u011fu", "ritim \u00e7al\u0131\u015fmas\u0131", "ritim \u00e7ubu\u011fu", "ritim istanbul kiral\u0131k", "ritim bar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

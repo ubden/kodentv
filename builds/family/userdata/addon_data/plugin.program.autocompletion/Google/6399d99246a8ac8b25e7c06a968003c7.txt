@@ -1,1 +1,0 @@
-["FEN TV Sho", ["tv shop fen za kosu", "tv shop fen"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

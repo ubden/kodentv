@@ -1,1 +1,0 @@
-["[B]GUC\u00c7[/B]", ["cardi b gucci bag song", "cardi b gucci belt", "gucci b bag", "gucci belt bslime", "b003-b gucci belt", "bun b gucci mane", "gucci b boots", "gucci belt b", "cardi b gucci bag", "cardi b gucci bathing suit"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

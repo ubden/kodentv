@@ -1,1 +1,0 @@
-["La", ["la casa de papel", "laptop", "lacoste", "lahmacun", "lady gaga", "lakers", "lahmacun tarifi", "lana del rey", "la roche posay", "lamborghini"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

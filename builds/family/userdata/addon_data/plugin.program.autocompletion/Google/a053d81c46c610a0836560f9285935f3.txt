@@ -1,1 +1,0 @@
-["Yout", ["youtube", "youtube mp3", "youtube music", "youtube video indir", "youtube video indirme", "yout", "youtube premium", "youtube vanced", "youthall", "youtube video"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

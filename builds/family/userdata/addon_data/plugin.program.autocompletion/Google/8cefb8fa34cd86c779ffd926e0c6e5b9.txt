@@ -1,1 +1,0 @@
-["Ris", ["rise of empires ottoman", "rise online", "rise of kingdoms", "risk", "risotto", "rising high", "risale", "risperdal", "risk oyunu", "risale haber"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

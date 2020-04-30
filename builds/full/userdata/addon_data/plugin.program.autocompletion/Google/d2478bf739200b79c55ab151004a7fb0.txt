@@ -1,1 +1,0 @@
-["Layd", ["ilayda \u00e7evik", "ilayda akdo\u011fan", "lady gaga", "lady bird", "lady diana", "lada niva", "lada", "lady and the tramp", "ladin a\u011fac\u0131", "laduree"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

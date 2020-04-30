@@ -1,1 +1,0 @@
-["Pulse", ["pulse oksimetre", "pulse", "pulse ne demek", "pulse secure", "pulsemed", "pulsefire thresh", "pulsefire surge", "pulcet", "pulsefire ezreal", "pulse oksimetre nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Vevo Mu", ["vevo music", "vevo music videos", "vevo music video", "vevo music download", "vevo music app", "vevo musique", "vevo music 2019", "vevo m\u00fczik", "vevo muziek", "vevo music youtube"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]UK TURK", ["b uk turkcell", "b uk turkey"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

@@ -1,1 +1,0 @@
-["[COLOR gold]Yerli Yyen[/COLOR]", ["color gold yerli en /color "], [], {"google:suggesttype": [""]}]

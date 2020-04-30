@@ -1,1 +1,0 @@
-["RAD", ["radyo dinle", "radyo", "radyo 7", "radyo voyage", "radyo alaturka", "radio garden", "radyo fenomen", "radyo 2000", "radyasyon", "radyo eksen"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

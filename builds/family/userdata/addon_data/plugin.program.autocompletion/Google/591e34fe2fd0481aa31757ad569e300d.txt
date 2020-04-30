@@ -1,1 +1,0 @@
-["TOLL", ["toll ne demek", "toll", "toll parf\u00fcm", "toll collect", "tollens ay\u0131rac\u0131", "tollisan", "toll free", "toll meaning", "tollens \u00e7\u00f6zeltisi", "tools ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

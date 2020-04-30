@@ -1,1 +1,0 @@
-["skinse", ["skinsearch", "skinseed", "skinsearch browse", "skinsearch minecraft", "skinsell", "skinsearch mc", "skinseed apk", "skinceuticals", "skin set", "skinseed for pc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

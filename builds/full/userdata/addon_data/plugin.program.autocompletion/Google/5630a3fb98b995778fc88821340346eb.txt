@@ -1,1 +1,0 @@
-["Sports", ["sportsoul", "sports", "sports international", "sports direct", "sports tv", "sports universe", "sports and merits", "sports international \u015fi\u015fli", "sports cars", "sports international atak\u00f6y"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

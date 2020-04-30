@@ -1,1 +1,0 @@
-["Temptest D", ["tempest domain 5e", "tempest dujour", "tempest deftones", "tempest dragon ruler of storms", "tempest dc", "tempest drum machine", "tempest d dry dainese", "tempest download", "tempest deftones lyrics", "tempest domain"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

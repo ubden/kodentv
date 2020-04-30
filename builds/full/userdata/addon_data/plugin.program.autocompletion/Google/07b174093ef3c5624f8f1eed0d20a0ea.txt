@@ -1,1 +1,0 @@
-["cCloud Spo", ["cloud spot", "cloud sponge", "cloud sport stroller", "cloud spotters guide", "cloud spotting book", "cloud spotting guide", "cloudspotter", "cloud sport", "cloud sponge aol", "cloud spots warriors"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[ILM BILGI", ["film bilgileri"], [], {"google:suggesttype": ["QUERY"]}]

@@ -1,1 +1,0 @@
-["Zipte", ["ziperto", "zipeg", "zipper", "ziperto animal crossing", "ziperto 3ds", "ziptel", "ziptech", "ziptek", "zipter", "ziptenant"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

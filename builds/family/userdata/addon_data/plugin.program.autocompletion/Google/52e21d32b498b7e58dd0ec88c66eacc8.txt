@@ -1,1 +1,0 @@
-["SEYIRTURK IP", ["seyirturk ip", "seyirturk ip adresi", "seyirturk ip adresi 2018", "seyirturk ip adresse 2019", "seyirturk ipk", "seyirturk iphone", "seyirturk 2018 ip", "seyirturk ipk download", "seyirturk ip adresse 2017", "seyirturk enigma2 ipk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

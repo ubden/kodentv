@@ -1,1 +1,0 @@
-["Radyol", ["radyolar", "radyoloji", "radyoland", "radyoloji nedir", "radyoloji taban puanlar\u0131 2020", "radyoloji ne demek", "radyoloji atama puanlar\u0131", "radyoloji teknikeri", "radyoloji bt raporu nedir", "radyoloji bt nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

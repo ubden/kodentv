@@ -1,1 +1,0 @@
-["SON F\u0130", ["son filmler", "son fikir", "son filmi", "son fiyat", "son filmler 2020", "son firavun", "son fiyat\u0131 ne kadar", "son filmler 2020 izle", "son fifa 20", "son filmler komedi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

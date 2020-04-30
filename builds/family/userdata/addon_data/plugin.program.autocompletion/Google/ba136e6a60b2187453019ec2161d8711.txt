@@ -1,1 +1,0 @@
-["Super Favourites - Canli TV", ["super favourites - canli tv izle"], [], {"google:suggesttype": ["TAIL"]}]

@@ -1,1 +1,0 @@
-["Zipten Dosya Y\u00fc", ["zipten dosya y\u00fckleme", "zipten dosya y\u00fcz\u00fck"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

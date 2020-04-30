@@ -1,1 +1,0 @@
-["SUPERFO", ["superfood", "superfone", "superfood besinler", "superfoam", "superfood nedir", "superforex", "superformance", "superfood naturiga", "superforfree", "superfortress"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

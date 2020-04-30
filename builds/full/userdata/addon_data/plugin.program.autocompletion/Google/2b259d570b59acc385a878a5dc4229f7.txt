@@ -1,1 +1,0 @@
-["[COLOR gold]UTR YER[/COLOR]", ["color gold utr year /color "], [], {"google:suggesttype": [""]}]

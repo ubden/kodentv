@@ -1,1 +1,0 @@
-["12", ["12", "12 maymun", "123go", "127 saat", "12 y\u0131ll\u0131k esaret", "129t", "12 mart", "12 monkeys", "121a", "122m"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

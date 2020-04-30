@@ -1,9 +1,0 @@
-plugin.video.blamo|direct.deathstreams.q
-plugin.video.neptune|direct.neptune.og
-plugin.video.oculus|direct.oculus.q
-plugin.video.placenta|direct.placenta.q
-plugin.video.streamhub|direct.streamhub.q
-plugin.video.kissanime|explore.kissanime_d.q
-plugin.video.ukturk|navigate.ukturk.q
-plugin.video.cartoons8|search.cartoons8.q
-plugin.video.nemesis|search.nemesis.q

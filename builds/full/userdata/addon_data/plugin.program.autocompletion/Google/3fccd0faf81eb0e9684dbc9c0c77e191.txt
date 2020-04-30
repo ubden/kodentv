@@ -1,1 +1,0 @@
-["[B][COLOR yellow]DIA", ["b color yellow diamond", "b color yellow diagram"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

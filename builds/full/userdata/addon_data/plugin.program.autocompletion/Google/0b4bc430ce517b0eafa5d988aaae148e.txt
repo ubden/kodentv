@@ -1,1 +1,0 @@
-["ubde", ["ubden", "under armour", "under the dome", "udemy", "undertaker", "undertale", "underground", "underwater", "underwater izle", "under ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

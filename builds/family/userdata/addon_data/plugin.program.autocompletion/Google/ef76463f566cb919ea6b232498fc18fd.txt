@@ -1,1 +1,0 @@
-["[B]D\u0130Z\u0130L[/B]", ["dizilab b"], [], {"google:suggesttype": ["QUERY"]}]

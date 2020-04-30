@@ -1,1 +1,0 @@
-["Wolfpack Anim", ["wolf pack anime", "wolf pack animal rescue", "wolf pack animal rescue tacoma", "wolf pack anime drawings"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

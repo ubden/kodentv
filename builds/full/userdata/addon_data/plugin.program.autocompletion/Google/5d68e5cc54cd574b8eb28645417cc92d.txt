@@ -1,1 +1,0 @@
-["[B]POWER", ["b power chord", "b power chord guitar", "b power label", "b power", "b powered honey", "b power chord 7th fret", "b powersports", "b powershell", "b power words", "b powered superfood honey uk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

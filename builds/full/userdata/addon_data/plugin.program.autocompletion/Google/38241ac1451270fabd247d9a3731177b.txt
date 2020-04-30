@@ -1,1 +1,0 @@
-["R\u0130", ["rise of empires ottoman", "riverdale", "riot games", "ricky gervais", "rick and morty", "rihanna", "riot", "rizespor", "rise online", "rize"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Ope", ["opel", "opera", "opel astra", "opet", "opel corsa", "opel vectra", "opera gx", "opera vpn", "opel combo", "opel insignia"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

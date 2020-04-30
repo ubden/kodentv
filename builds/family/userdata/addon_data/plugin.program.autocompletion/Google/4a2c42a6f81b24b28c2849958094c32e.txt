@@ -1,1 +1,0 @@
-["Pem", ["pembe panter", "pembe", "pembe sa\u00e7 boyas\u0131", "pembe kuvars", "pembe panjur", "pembe bulutlar", "pembe fili d\u00fc\u015f\u00fcnme", "pembe sultan", "pembenar", "pema ch\u00f6dr\u00f6n"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

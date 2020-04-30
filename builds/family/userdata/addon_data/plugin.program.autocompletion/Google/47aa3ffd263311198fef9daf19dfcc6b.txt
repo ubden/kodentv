@@ -1,1 +1,0 @@
-["Venom Mo", ["venom mont", "venom movie", "venom motor montu", "venom motosiklet montu", "venom motosiklet eldiveni", "venom motosiklet pantolonu", "venom motosiklet", "venom mont ne mal\u0131", "venom motors", "venom motosiklet kask\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

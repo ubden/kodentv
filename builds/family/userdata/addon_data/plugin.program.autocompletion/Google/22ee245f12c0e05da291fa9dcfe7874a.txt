@@ -1,1 +1,0 @@
-["[COLOR gold]Yer[/COLOR]", ["color gold eye /color "], [], {"google:suggesttype": [""]}]

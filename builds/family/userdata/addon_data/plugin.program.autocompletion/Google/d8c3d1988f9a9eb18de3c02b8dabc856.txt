@@ -1,1 +1,0 @@
-["[B]COL[/B]", ["b-col bootstrap vue", "b-col border", "b-col bootstrap", "b-col b-row", "b-col background color", "b&b col", "bootstrap vue b-col", "col b b singh", "bootstrap vue b-col align", "lt. col. bree b fram"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

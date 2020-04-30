@@ -1,1 +1,0 @@
-["TempteArama", ["aramark temp agency", "aramark temp service", "aramark temp", "aramac temp"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

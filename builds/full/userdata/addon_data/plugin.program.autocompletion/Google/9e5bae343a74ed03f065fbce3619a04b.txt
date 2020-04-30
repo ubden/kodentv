@@ -1,1 +1,0 @@
-["Sistem[/", ["sistema solar", "sistema digestivo", "sistema respiratorio", "sistema nervioso", "sistema endocrino", "sistema circulatorio", "sistema muscular", "sistema linfatico", "sistema nervioso central", "sistema oseo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

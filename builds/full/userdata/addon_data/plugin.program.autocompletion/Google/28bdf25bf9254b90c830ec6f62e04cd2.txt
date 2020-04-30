@@ -1,1 +1,0 @@
-["Paketleri Tem", ["paket template", "paket tembak xl", "paket tembak telkomsel", "paket temulawak", "paket tembak axis", "paket tembak", "paket temulawak lengkap", "paket tembak indosat", "paket tembak tri", "paket tembakau"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

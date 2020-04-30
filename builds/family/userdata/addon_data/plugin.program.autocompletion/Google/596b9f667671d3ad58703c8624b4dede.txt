@@ -1,1 +1,0 @@
-["[B]G\u00fc\u00e7[/b", ["bim power b fiyat", "bim power b pil fiyat", "b&b power", "b&b power supply", "b power bakugan", "b power board", "power bank b&m", "bradwell b power station", "busy b power washing", "b&b power sports"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

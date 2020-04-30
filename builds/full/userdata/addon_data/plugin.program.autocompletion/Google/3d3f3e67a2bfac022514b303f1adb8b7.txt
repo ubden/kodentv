@@ -1,1 +1,0 @@
-["[COL", ["columbia", "colins", "coldaway", "cole sprouse", "collezione", "collagen", "cold mix", "coldplay", "colgate", "colony"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["TA%\\Kodi\\", ["ta kodit", "ta kodit asumisoikeus", "ta-kodit oy", "ta-kodit tampere", "ta kodi", "ta kodinar", "kodici ta organizzazzjoni u procedura civili", "kodici ta organizzazioni", "placenta kodi", "kodi ta travando"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

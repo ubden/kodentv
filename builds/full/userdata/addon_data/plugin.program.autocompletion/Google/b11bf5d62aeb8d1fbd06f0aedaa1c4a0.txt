@@ -1,1 +1,0 @@
-["Kod", ["kodla b\u00fcy\u00fc", "kodlama", "kod ad\u0131 angel", "kod ad\u0131 olympus", "kod 8", "kodiaq", "kodlama nedir", "kod", "kodlama oyunu", "kod ad\u0131 uncle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

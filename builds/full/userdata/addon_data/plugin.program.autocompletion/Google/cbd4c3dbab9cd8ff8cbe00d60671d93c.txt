@@ -1,1 +1,0 @@
-["Film", ["film", "filmler", "film \u00f6nerileri", "film makinesi", "film izle komedi", "film indirme", "filmleri", "filmler 2020", "film \u00f6nerisi", "filmler 2019"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Tempest - En \u00c7ok \u0130zlenenler", ["tempest - en \u00e7ok izlenenleri"], [], {"google:suggesttype": ["TAIL"]}]

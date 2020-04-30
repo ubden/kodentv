@@ -1,1 +1,0 @@
-["Wolfpack The", ["wolfpack the hangover", "wolfpack theme song", "wolfpack theatre company", "wolfpack theatre", "wolfpack therapy", "wolfpack theater", "wolfpack the game", "wolfpack the movie", "wolfpack thesaurus", "wolfpack the youtuber"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

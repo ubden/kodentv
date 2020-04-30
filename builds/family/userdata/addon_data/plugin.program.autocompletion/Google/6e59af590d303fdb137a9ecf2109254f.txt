@@ -1,1 +1,0 @@
-["TO", ["toki", "tolga karel", "tongu\u00e7 s\u0131navda", "tozlu", "tosun pa\u015fa", "toyota", "too hot to handle", "tost makinesi", "tog burs", "tongu\u00e7 akademi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

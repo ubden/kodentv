@@ -1,1 +1,0 @@
-["Turkish TV", ["turkish tv legends", "turkish tv", "turkish tv series", "turkish tv legends twitter", "turkish tv rt\u00fck afk", "turkish tv cringe", "turkish tv siyaset", "turkish tv legends youtube", "turkish tv polls", "turkish tv apk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

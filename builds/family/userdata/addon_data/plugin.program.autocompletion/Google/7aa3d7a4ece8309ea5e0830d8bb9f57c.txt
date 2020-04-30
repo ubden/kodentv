@@ -1,1 +1,0 @@
-["Exod\u0131", ["exodia", "exodia ne demek", "exodia deck", "exodia contagion", "exodia necross", "exodia online", "exodia yugioh", "exodia deck duel links", "exodia mage", "exodia cards"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

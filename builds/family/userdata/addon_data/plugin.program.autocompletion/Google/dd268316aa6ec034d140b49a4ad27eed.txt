@@ -1,1 +1,0 @@
-["[B]KOLEKSIYON[/B]", ["b.m. koleksiyon banyo mutfak"], [], {"google:suggesttype": ["QUERY"]}]

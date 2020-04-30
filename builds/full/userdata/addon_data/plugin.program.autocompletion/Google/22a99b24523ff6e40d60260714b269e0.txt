@@ -1,1 +1,0 @@
-["SCRUP TR F", ["scrup tr film", "scrup tr filmi", "scrup tr filmler"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

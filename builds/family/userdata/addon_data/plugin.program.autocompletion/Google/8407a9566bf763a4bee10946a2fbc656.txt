@@ -1,1 +1,0 @@
-["[B]G\u00c7[/B]", ["b&gc bar denver", "b&gc bar", "gc biotech b.v", "grenville baker b&gc", "everio gc-br21-b", "gc-br21-b", "jvc kenwood gc-br21-b"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

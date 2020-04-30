@@ -1,1 +1,0 @@
-["IMDV", ["imdb", "imdb top 250", "imdb top 100", "imdb 250", "imdb film", "imdb dizi", "imdb nedir", "imdb top 50", "imdb diziler", "imdb t\u00fcrk\u00e7e"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

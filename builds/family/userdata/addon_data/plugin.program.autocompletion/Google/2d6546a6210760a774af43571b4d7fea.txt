@@ -1,1 +1,0 @@
-["Fit", ["fitre ne kadar 2020", "fitre nedir", "fitre", "fitre kimlere verilir", "fito krem", "fitness", "fitoterapi", "fitre kimlere verilmez", "fit yemek", "fitre ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

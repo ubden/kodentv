@@ -1,1 +1,0 @@
-["[B]M\u00fczik", ["r&b m\u00fczik", "r&b m\u00fczik nedir", "b sesi m\u00fczikli slayt", "r&b m\u00fczik \u00f6rnekleri", "b sesi m\u00fczikli slayt nurhan uz", "r&b m\u00fczik sanat\u00e7\u0131lar\u0131", "b ile ba\u015flayan m\u00fczik aletleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

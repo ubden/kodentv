@@ -1,1 +1,0 @@
-["SEYIRTURK IPT", [], [], {"google:suggesttype": []}]

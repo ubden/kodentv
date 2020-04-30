@@ -1,1 +1,0 @@
-["seyirT", ["seyirt\u00fcrk", "seyirtepe konaklar\u0131 adana", "seyirtepe tarsus", "seyirtepe", "seyirt\u00fcrk apk", "seyirtmek", "seyirtepe osmaniye", "seyirturk repo 2020", "seyirt\u00fcrk 2020", "seyirtepe evleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

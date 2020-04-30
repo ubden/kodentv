@@ -1,1 +1,0 @@
-["Ko", ["ko\u00e7ta\u015f", "koton", "kobe bryant", "kolonya", "ko\u00e7 \u00fcniversitesi", "konut kredisi", "kooora", "koala", "komedi filmleri", "korku filmleri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

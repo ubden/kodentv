@@ -1,1 +1,0 @@
-["[COLOR aqua]DIZ", ["color aqua dizayn", "color aqua dizel", "color aqua dizileri"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

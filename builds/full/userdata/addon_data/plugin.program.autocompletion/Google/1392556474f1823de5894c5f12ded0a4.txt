@@ -1,1 +1,0 @@
-["[B]Se", ["b segmenti ara\u00e7lar", "b semptomlar\u0131", "b sesi", "b sesi metin", "b segment suv", "b serisi mercedes", "b segment", "b sesi kelimeler", "b segmenti ara\u00e7lar 2019", "b selfie"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

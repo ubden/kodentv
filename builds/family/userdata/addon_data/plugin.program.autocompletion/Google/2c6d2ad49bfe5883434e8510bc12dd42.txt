@@ -1,1 +1,0 @@
-["[B]POWER[/", ["b power chord", "b power", "b power chord guitar", "b power label", "b powered superfood honey", "b powered honey", "b power herbicide", "b powersports", "b power snowmobile", "b powered electric"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

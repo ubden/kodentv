@@ -1,1 +1,0 @@
-["%APPDATA%\\Ko", ["appdata komutu", "appdata kopieren", "appdata ordner kopieren", "appdata komprimieren", "appdata konnte nicht gefunden werden", "cmd appdata kopieren", "outlook kontakte appdata", "windows 7 appdata kopieren", "windows 10 appdata kopieren"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

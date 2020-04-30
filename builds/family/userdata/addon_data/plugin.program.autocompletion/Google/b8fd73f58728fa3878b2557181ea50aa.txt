@@ -1,1 +1,0 @@
-["Spor", ["sporx", "sportive", "spor ayakkab\u0131", "spor", "spor toto s\u00fcper lig", "spor toto", "spor ekran\u0131", "spor istanbul", "sporcard", "spor salonu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

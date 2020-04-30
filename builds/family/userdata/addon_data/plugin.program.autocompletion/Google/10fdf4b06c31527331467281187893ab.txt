@@ -1,1 +1,0 @@
-["PORTA", ["portakal", "portakall\u0131 kek", "portakal bah\u00e7em", "portakal kalori", "portal", "portaxe", "portakal s\u0131kaca\u011f\u0131", "portakal a\u011fac\u0131", "portakall\u0131 revani", "portakal re\u00e7eli"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

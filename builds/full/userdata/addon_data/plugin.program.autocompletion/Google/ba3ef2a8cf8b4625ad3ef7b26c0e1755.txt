@@ -1,1 +1,0 @@
-["%APP", ["apple", "apple watch", "apple watch 5", "app store", "apple 7 plus", "appvalley", "apple tablet", "apple watch 3", "apple 11", "apple destek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

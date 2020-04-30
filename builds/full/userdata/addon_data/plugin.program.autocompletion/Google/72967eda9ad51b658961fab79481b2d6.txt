@@ -1,1 +1,0 @@
-["White", ["white", "white christmas", "white and beige", "white to black", "white lines", "white correct", "white snake", "white ne demek", "white background", "white god"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

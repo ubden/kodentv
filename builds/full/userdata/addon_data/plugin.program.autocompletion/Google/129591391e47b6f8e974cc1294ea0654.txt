@@ -1,1 +1,0 @@
-["Rising Sport T", ["rising tides sport", "rising star of the sport"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

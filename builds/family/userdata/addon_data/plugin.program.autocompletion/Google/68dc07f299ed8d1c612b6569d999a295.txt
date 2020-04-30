@@ -1,1 +1,0 @@
-["REM", ["remdesivir", "remax", "remington", "remove bg", "remzi hoca", "remix adam", "remix", "remzi kitabevi", "rembrandt", "remember me"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

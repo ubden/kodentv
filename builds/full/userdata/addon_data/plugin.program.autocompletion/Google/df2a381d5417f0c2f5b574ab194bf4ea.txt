@@ -1,1 +1,0 @@
-["(Inst)", ["(inst)", "inst mohali", "inst xfer", "instant pot", "inst stock", "insta dp", "inst tools", "insta stalker", "insta captions", "instagram"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

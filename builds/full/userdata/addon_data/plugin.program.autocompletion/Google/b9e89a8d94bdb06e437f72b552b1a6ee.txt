@@ -1,1 +1,0 @@
-["[B]\u0130[/B]", ["b.i bobby", "b i b italia", "b i b a h", "b i b e", "b i b m", "b i b hotels", "b.i blood type", "b i b o", "b i b k", "b i b g"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["R\u0130T", ["rita wilson", "ritalin", "ritim istanbul", "rita ora", "rit\u00fcel", "ritamt2", "rita moda", "ritz carlton", "ritter sport", "ritalin nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

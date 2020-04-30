@@ -1,1 +1,0 @@
-["Pink", ["pink", "pink floyd", "pink background", "pink mama", "pink panther", "pink freud", "pinkberry", "pink martini", "pinko", "pink floyd the wall"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

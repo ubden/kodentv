@@ -1,1 +1,0 @@
-["[B]KOL[/B]", ["banque kol b", "b kolb", "b'nai adath kol beth yisrael", "b'nai adath kol beth yisrael synagogue", "bakkerij van kol b.v. doornenburg", "kol. begaultlaan 17 b-3012 leuven", "deborah b kolb", "deborah b kolb md", "erik b kolb", "abram b kolb"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

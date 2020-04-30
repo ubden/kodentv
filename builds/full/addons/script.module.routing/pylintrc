@@ -1,6 +1,0 @@
-[MESSAGES CONTROL]
-disable=
-    invalid-name,
-    missing-docstring,
-    old-style-class,
-    redefined-outer-name,

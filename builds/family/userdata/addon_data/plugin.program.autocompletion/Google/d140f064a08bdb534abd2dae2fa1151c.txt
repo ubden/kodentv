@@ -1,1 +1,0 @@
-["Crew K", ["crew karavan", "crew ka\u00e7 gb", "crew kurma", "crew key", "cabin crew", "crew kicks", "crew cut", "crew kitchen", "crew kingston", "crew kurohige"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

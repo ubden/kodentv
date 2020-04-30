@@ -1,1 +1,0 @@
-["Ex", ["extraction", "extraction izle", "extraction ne demek", "excalibur", "excel", "extraordinary you", "extraction imdb", "exatlon", "excel indir", "exo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

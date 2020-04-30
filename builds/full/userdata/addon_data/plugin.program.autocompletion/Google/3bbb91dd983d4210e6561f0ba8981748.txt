@@ -1,1 +1,0 @@
-["PO\u011e,", ["bok choy", "bok choy t\u00fcrk\u00e7e", "bok cc", "bok joo", "bok choy recipe", "bok center", "bok choy turkcesi", "bok b\u00f6cegi resimleri", "bok bocegi ingilizce", "bok bocegi nedir"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

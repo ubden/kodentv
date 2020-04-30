@@ -1,1 +1,0 @@
-["P", ["png background", "pegasus", "pinterest", "penti", "ptt", "ptt kargo", "puhu tv", "pandemi yard\u0131m\u0131", "prison break", "pide tarifi ramazan"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Po", ["posta", "posta kodu", "polo", "polis siren sesi", "pointer pointer", "poyraz karayel", "powerpoint", "porsche", "popeyes", "powerbank"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["M\u00fczikler", ["m\u00fczikler", "m\u00fczikleri", "m\u00fcziklerim", "m\u00fczikler youtube", "m\u00fczikler hareketli", "m\u00fczikler a\u00e7", "m\u00fczikler m\u00fczikler", "m\u00fcziklerime gir", "m\u00fczikler arabesk", "m\u00fczikler 2020"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

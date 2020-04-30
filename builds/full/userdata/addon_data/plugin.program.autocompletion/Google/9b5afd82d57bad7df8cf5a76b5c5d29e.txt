@@ -1,1 +1,0 @@
-["Temp", ["tempobet", "temp mail", "temple run", "tempra", "tempobet giri\u015f", "tempted", "tempo tv", "temple grandin", "temperli cam", "tempur yatak"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

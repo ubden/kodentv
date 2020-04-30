@@ -1,1 +1,0 @@
-["[B]C[/B]", ["b c b", "b c b hausa", "b c b news", "b c b d", "b c b j", "b c b o", "b b c news nasa", "b b c d e f g", "b b c 2", "b b c d song"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

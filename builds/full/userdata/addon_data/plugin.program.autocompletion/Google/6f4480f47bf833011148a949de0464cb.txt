@@ -1,1 +1,0 @@
-["Venom", ["venom", "venom 2", "venom film", "venom 2018", "venom 1", "venom zehirli \u00f6fke", "venom mont", "venom fragman", "venom google drive", "venom ne demek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

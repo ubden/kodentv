@@ -1,1 +1,0 @@
-["Loglar\u0131 Tem", ["login template", "log_temp_files", "log template excel", "log template word", "log_temp_files postgres", "log_temp_files postgresql", "log temperature", "log temp", "log temperature cpu", "log temperature raspberry pi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

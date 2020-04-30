@@ -1,1 +1,0 @@
-["Populer", ["populerdizi", "popular science", "pop\u00fcler filmler", "pop\u00fcler \u015fark\u0131lar", "pop\u00fcler oyunlar", "pop\u00fcler", "pop\u00fcler diziler", "pop\u00fcler kitaplar", "pop\u00fcler erkek isimleri", "populerizm"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

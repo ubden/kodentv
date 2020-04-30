@@ -1,1 +1,0 @@
-["plug", ["plug", "plugin", "plugger", "plugin nedir", "plug ne demek", "plugins", "plug and play", "plug dj", "plug ofis", "plug in hybrid"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Search", ["search", "search www", "search console", "searching", "search by image", "search ne demek", "search everything", "search engine", "searching film", "search twitter"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

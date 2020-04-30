@@ -1,1 +1,0 @@
-["Chrome La", ["chrome latest version", "chrome lab", "chrome language change", "chrome last version", "chrome language settings", "chrome laptop", "chrome language", "chrome lastpass", "chrome launcher", "chrome lan settings"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[COLOR b", ["color blind test", "color box", "color blindness test", "color banding", "color blind glasses", "color by number", "color background", "color bar", "color blocking", "color banding test"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

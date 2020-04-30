@@ -1,1 +1,0 @@
-["Sports De", ["sports de", "sports ders program\u0131", "sports den", "sports definition", "sportsdevil", "sports depo", "sports depot", "sports de combat", "sports degrees", "sports development"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Ras", ["rasathane", "rastgele say\u0131", "rasyonel say\u0131lar", "rasyonalizm", "rasta", "rasim \u00f6zden\u00f6ren", "rasputin", "raskolnikov", "rasathane nedir", "raspberry"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["7 o", ["7 ocak bim", "7 oz ka\u00e7 ml", "7 oz karton bardak", "7 ocak", "7 ocak 2020 alt\u0131n fiyatlar\u0131", "7 ocak hangi bur\u00e7", "7 ocak 2020", "7 o\u011ful", "7 outlet", "7 ocak adana hava durumu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

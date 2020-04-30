@@ -1,1 +1,0 @@
-["Erase L", ["erase lyrics", "erase lost iphone", "erase locked iphone", "erase lyrics omar apollo", "erase lotion", "erase laptop", "erase locked ipad", "erase last element of vector c++", "erase line in word", "erase list c++"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

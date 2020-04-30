@@ -1,1 +1,0 @@
-["URA", ["uraz kayg\u0131laro\u011flu", "uras benlio\u011flu", "uran\u00fcs", "uranyum", "rudaw", "urartular", "uraz", "uraz kayg\u0131laro\u011flu boy", "uras kayg\u0131laro\u011flu", "uraz kayg\u0131laro\u011flu boyu"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

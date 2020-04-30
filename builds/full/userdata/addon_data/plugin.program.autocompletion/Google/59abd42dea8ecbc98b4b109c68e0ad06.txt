@@ -1,1 +1,0 @@
-["[FILM TANI", ["film tan\u0131t\u0131m\u0131", "film tan\u0131t\u0131m\u0131 ingilizce", "film tanishk bagchi", "film tanitim yazisi bulmaca", "film tanitimlari", "film tanitim yazisi", "film tanik", "film tanirt", "film tanit phoenix", "taniec motyla film"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

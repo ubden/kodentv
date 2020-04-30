@@ -1,1 +1,0 @@
-["[B]D\u0130\u011eER[/B]", ["banda b", "brasileirao b", "block b", "b&b hotel", "b&b italia", "b&b theaters", "barcelona b", "b braun", "bun b", "baddie b lashes"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]Fil", ["b film", "b filo", "b filo yenibosna", "b films", "b filiz ekinci"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

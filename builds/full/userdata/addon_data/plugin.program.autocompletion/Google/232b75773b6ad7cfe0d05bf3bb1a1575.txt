@@ -1,1 +1,0 @@
-["NBC", ["nbc", "nbc filmleri", "nbc news", "nbc nedir", "nbc live", "nbc gizer", "nbc maske", "nbc dizileri", "ncbi", "nbc gizer in\u015faat"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

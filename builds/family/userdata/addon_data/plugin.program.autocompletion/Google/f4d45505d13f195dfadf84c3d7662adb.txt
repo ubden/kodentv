@@ -1,1 +1,0 @@
-["plugin://script.extendedinfo?info=trendingshow", [], [], {"google:suggesttype": []}]

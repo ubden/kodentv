@@ -1,1 +1,0 @@
-["Uk", ["ukulele", "ukrayna", "ukey", "ukrayna paras\u0131", "uk", "ukrayna turu", "ukala ne demek", "ukte", "uk2co", "ukrayna dili"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

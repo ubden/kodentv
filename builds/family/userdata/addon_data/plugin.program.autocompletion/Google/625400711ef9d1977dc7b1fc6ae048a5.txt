@@ -1,1 +1,0 @@
-["ScrubsV2 Diz", ["scrubsv2 dizi", "scrubsv2 dizisi", "scrubsv2 dizibox"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

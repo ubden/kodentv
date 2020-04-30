@@ -1,1 +1,0 @@
-["Temptest", ["tempest", "tempest fansub", "tempest ne demek", "tempest apk", "tempesta", "tempest pirate action rpg", "tempest u\u00e7ak", "tempesta kaleci eldiveni", "tempest shadow", "tempest game"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

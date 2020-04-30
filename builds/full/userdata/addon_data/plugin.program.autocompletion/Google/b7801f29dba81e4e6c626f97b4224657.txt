@@ -1,1 +1,0 @@
-["[COLOR white]Purge P", ["color white purge photoshop", "color white purge price"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

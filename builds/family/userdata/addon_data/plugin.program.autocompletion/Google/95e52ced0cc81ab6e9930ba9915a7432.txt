@@ -1,1 +1,0 @@
-["[COLOR gold]**** Yerli Yeni[/COLOR]", [], [], {"google:suggesttype": []}]

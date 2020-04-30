@@ -1,1 +1,0 @@
-["[B]\u00c7[/B]", ["b b c \u00e7 hausa", "b b \u00e7", "b c \u00e7 grup ba\u015fkanl\u0131klar\u0131", "behzat \u00e7 b", "fghjkl b \u00e7 /b", "bir b/\u00e7 ayg\u0131t hatas\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

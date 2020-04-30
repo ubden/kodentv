@@ -1,1 +1,0 @@
-["A", ["amazon", "apple", "adidas", "airbnb", "aliexpress", "anydesk", "airpods", "alibaba", "amazon prime", "amber heard"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

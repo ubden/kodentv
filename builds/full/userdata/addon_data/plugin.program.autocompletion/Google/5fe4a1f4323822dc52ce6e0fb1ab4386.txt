@@ -1,1 +1,0 @@
-["Fitne", ["fitness", "fitness aletleri", "fitness eldiveni", "fitness ne demek", "fitness nedir", "fitne ne demek", "fitness hareketleri", "fitness s\u00f6zleri", "fitness mat\u0131", "fitness adana"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

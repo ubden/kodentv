@@ -1,1 +1,0 @@
-["Populer F", ["pop\u00fcler filmler", "pop\u00fcler film izle", "pop\u00fcler filmler 2020", "pop\u00fcler fen", "pop\u00fcler font", "pop\u00fcler filmler t\u00fcrk", "populer fonts", "pop\u00fcler fm", "pop\u00fcler f\u0131kralar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

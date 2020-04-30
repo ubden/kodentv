@@ -1,1 +1,0 @@
-["Ul", ["uluda\u011f otelleri", "ulus 29", "ulusal tez merkezi", "uluda\u011f", "ula\u015ft\u0131rma bakanl\u0131\u011f\u0131", "uluda\u011f hava durumu", "ulakbim", "ulusoy", "uludag", "ulus cafe"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

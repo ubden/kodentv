@@ -1,1 +1,0 @@
-["TurkVod Dizil", ["turkvod diziler acilmiyor", "turkvod diziler calismiyor"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

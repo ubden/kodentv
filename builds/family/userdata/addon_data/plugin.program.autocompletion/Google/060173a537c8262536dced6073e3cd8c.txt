@@ -1,1 +1,0 @@
-["Yen(IMDb)", ["yen santos imdb", "ten ten imdb", "yen town imdb", "imdb million yen woman", "imdb donnie yen movies", "imdb 100 yen love"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Pan", ["pandemi yard\u0131m\u0131", "pandemi sonu\u00e7lar\u0131", "pandemi nedir", "pankek tarifi", "pankek", "panzoid", "pandora", "panda", "pandispanya", "panda butik"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

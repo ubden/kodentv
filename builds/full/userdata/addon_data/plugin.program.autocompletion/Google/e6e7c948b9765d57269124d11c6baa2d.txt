@@ -1,1 +1,0 @@
-["Dizilerim", ["dizilerim", "dizilerimiz", "dizilerimden beni ay\u0131rmay\u0131n", "asya dizilerim", "kore dizileri", "asya dizilerim.net", "yerli dizilerimiz", "tutu\u015fur dizelerim", "tarihi dizilerimiz", "netflix dizileri"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

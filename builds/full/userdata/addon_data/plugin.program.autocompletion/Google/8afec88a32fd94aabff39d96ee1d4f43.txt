@@ -1,1 +1,0 @@
-["Spor Wi", ["spor wiki", "spor wi fi", "spor wiktionary", "wing spot", "wii sport", "spor wision", "sport wikipedia", "spot wipes", "winter sport", "spore wiki"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

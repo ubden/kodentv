@@ -1,1 +1,0 @@
-["SeyirTurk Diz", ["seyirturk dizisi", "seyirturk dizi", "seyirturk dizileri"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

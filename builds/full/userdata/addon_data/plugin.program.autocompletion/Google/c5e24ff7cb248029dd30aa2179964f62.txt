@@ -1,1 +1,0 @@
-["[B]fi", ["b fit", "b fit fiyat", "b fit \u00fcmraniye", "b fit kartal", "b fit maltepe", "b fit fatih", "b fit tuzla", "b fit \u00fcsk\u00fcdar", "b fit avc\u0131lar", "b fit kavac\u0131k"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

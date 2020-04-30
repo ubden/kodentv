@@ -1,1 +1,0 @@
-["[B]POW", ["b power chord", "b power chord guitar", "b power label", "b power", "b powder", "b powered honey", "b powell", "b power chord 7th fret", "b powersports", "b powershell"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

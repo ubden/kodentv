@@ -1,1 +1,0 @@
-["[COLOR gold][B]B[/B][/COLOR]oxset F\u0130LM", ["color gold b b /b /color oxset filmi", "color gold b b /b /color oxset film izle"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

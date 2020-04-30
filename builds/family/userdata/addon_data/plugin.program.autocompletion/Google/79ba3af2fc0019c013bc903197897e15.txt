@@ -1,1 +1,0 @@
-["Wolfpack T", ["wolfpack teen", "wolfpack tickets", "wolfpack tyres", "wolfpack tires", "wolfpack toy hauler", "wolfpack tattoo", "wolfpack toronto", "wolfpack trading", "wolfpack trailer", "wolfpack trucking"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

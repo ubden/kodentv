@@ -1,1 +1,0 @@
-["[B]LAYDI [/B]", ["b&b lady b", "b&b lady b bagnoli", "lady of lawrence b&b", "lady linden b&b york pa", "lady zee's b&b sunlands", "lady bay homestay b&b nottingham", "b&b in lady frere", "casa lady b&b maiori", "the painted lady b&b", "the white lady b&b"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

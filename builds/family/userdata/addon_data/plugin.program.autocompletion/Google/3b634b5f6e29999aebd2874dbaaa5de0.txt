@@ -1,1 +1,0 @@
-["[COLOR orange][B][COLOR blue]SEY\u0130RTURK[/COLOR]F[/B][/COLOR]", ["color orange b color blue seyirturk /color f /b /color ltd", "color orange b color blue seyirturk /color f /b /color mg", "color orange b color blue seyirturk /color f /b /color mix", "color orange b color blue seyirturk /color f /b /color studio"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

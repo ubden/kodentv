@@ -1,1 +1,0 @@
-["[COLOR red]4K F", ["color red 4k fiyat", "color red 4k footage", "color red 4k fps"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

@@ -1,1 +1,0 @@
-["vpn", ["vpn", "vpn indir", "vpn chrome", "vpnbook", "vpn free", "vpn apk", "vpn \u00fccretsiz", "vpn ne demek", "vpn proxy", "vpn uzant\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

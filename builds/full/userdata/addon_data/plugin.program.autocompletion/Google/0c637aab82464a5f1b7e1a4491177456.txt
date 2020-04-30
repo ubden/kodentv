@@ -1,1 +1,0 @@
-["Arac", ["arac muayene", "ara\u00e7 kiralama", "ara\u00e7 kredisi", "ara\u00e7 muayene randevu", "ara\u00e7", "arac\u0131m nerede", "ara\u00e7 sorgulama", "arac\u0131l\u0131k s\u00f6zle\u015fmesi", "ara\u00e7 muayene ertelendimi", "ara\u00e7 kaplama"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

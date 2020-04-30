@@ -1,1 +1,0 @@
-["Ve", ["vestel", "vergi dairesi", "venom", "vertigo nedir", "veba", "vefa destek hatt\u0131", "veli kavlak", "vertigo", "versace", "vefa sosyal destek"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["YERL\u0130D", ["yerli diziler", "yerli dizi \u00f6nerileri", "yerli diziler 2020", "yerli domates tohumu", "yerli dram filmleri", "yerli domates", "yerli drone", "yerli duygusal filmler", "yerli diziler eski", "yerli dram filmleri izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

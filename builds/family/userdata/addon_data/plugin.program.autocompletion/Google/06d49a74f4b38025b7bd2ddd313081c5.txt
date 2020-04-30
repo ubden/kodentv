@@ -1,1 +1,0 @@
-["Ha", ["hava durumu", "haberler", "habert\u00fcrk", "haber7", "haber", "halkbank", "harita", "harry potter", "hadise", "haritalar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[B]LAY[/B]", ["b-lay tong beach resort", "b-lay tong beach resort phuket", "b-lay tong beach resort patong", "boon lay zone b rc", "lay bare c&b mall marikina", "boon lay mrt exit b", "b&m bestway lay z spa", "b&m bargains lay z spa", "b lay tong phuket patong beach"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

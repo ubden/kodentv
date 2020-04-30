@@ -1,1 +1,0 @@
-["NBC Sp", ["nbc sports", "nbc sports live", "nbc sports izle", "nbc sports philadelphia", "nbc sport izle", "nbc sports philadelphia live", "nbc sport live stream", "nbc sports gold", "nbc sports gold live stream", "nbc sports philadelphia live stream"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

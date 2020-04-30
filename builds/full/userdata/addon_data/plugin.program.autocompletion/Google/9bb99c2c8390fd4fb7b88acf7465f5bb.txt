@@ -1,1 +1,0 @@
-["Sistem[", ["sistem geri y\u00fckleme", "sistem g\u00f6z", "sistem al\u00fcminyum", "sistem toplama", "sistem nedir", "sistem global", "sistem hesaplama", "sistem reklam", "sistem teknik", "sistem yakla\u015f\u0131m\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

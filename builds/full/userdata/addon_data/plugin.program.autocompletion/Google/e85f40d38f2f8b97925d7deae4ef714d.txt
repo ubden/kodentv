@@ -1,1 +1,0 @@
-["[COLOR red]g", ["color red green blue", "color red green", "color red gif", "color red green blue to hex", "color red game", "color red gradient", "color red green blue alpha", "color red just red", "color red google", "color red gold"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

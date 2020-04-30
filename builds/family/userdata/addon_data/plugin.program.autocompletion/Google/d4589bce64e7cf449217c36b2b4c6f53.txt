@@ -1,1 +1,0 @@
-["Exodus Diz", ["metro exodus dizzy", "exodus quer dizer", "o'que quer dizer exodus"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

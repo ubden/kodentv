@@ -1,1 +1,0 @@
-["Crew S", ["crewshop", "crew sistem gereksinimleri", "crew shop pegasus", "crew sweatshirt", "crew socks", "crew sa\u00e7", "crew steam", "crew self service", "crew sakal boyas\u0131", "crew sa\u00e7 kremi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

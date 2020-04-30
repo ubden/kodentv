@@ -1,1 +1,0 @@
-["hayal", ["hayal k\u00f6seo\u011flu", "hayal kahvesi", "hayalistic", "hayalet s\u00fcr\u00fcc\u00fc", "hayalet", "hayalet sevgilim", "hayal adas\u0131", "hayal kahvesi atakent", "hayal ailesi", "hayalkurun"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

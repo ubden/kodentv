@@ -1,1 +1,0 @@
-["Turkvo", ["turkvod", "turkvod 2020", "turkvod repo 2020", "turkvod repo", "turkvod hatas\u0131", "turkvod tam s\u00fcr\u00fcm", "turkvod nedir", "turkvod \u00e7al\u0131\u015fm\u0131yor", "turkvod y\u00fckleme", "turkvod g\u00fcncel"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

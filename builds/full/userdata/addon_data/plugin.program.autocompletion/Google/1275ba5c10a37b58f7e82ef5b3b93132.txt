@@ -1,1 +1,0 @@
-["Oyun Al", ["oyun al", "oyun alan\u0131", "oyun al\u0131\u015fveri\u015f", "oyun alma siteleri", "oyun alan\u0131 olan restoranlar", "oyun alan\u0131 \u00e7iti", "oyun alanlar\u0131", "oyun alb\u00fcm\u00fc", "oyun aletleri", "oyun altyaz\u0131l\u0131 izle"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Ko", ["koton", "korona son dakika t\u00fcrkiye", "kozan haber", "kozan hava durumu", "koronavir\u00fcs", "kore sava\u015f\u0131", "korku filmleri", "ko\u00e7ta\u015f", "komedi filmleri", "kozan hava"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

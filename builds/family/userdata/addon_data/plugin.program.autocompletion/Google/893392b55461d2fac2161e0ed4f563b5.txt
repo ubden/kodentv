@@ -1,1 +1,0 @@
-["Crew", ["crewduty", "creweb", "crew 2", "crew", "crew ne demek", "crewe", "crew challenge", "crew challenge 2020", "crew cut", "crewe fc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

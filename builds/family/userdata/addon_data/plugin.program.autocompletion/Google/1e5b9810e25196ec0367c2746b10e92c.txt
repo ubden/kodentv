@@ -1,1 +1,0 @@
-["[B]Ara", ["b araba", "b arazi bilgileri formu", "b arazi bilgileri", "baraj", "b arazi bilgileri formu nas\u0131l doldurulur", "b araba ehliyeti", "b ara\u00e7 pozitif", "b araba markas\u0131", "b araba ehliyeti fiyatlar\u0131", "b araba amblemi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

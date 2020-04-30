@@ -1,1 +1,0 @@
-["Paketleri Tami", ["paketleri tamil"], [], {"google:suggesttype": ["TAIL"]}]

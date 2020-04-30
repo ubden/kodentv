@@ -1,1 +1,0 @@
-["[B]KOLEKSIY[/B]", ["koleksi bbm bahasa melayu", "koleksi baru bahasa inggris", "koleksi bahasa belanda", "koleksi baju b"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY"]}]

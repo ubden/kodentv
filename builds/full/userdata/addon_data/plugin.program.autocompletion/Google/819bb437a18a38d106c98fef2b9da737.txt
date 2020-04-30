@@ -1,1 +1,0 @@
-["the", ["the platform", "the walking dead", "the last kingdom", "the 100", "the king eternal monarch izle", "the witcher", "the platform izle", "the king eternal monarch", "the witcher izle", "the last dance"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

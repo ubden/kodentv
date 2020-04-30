@@ -1,1 +1,0 @@
-["Chrome L", ["chrome lite", "chrome latest version", "chrome logo", "chrome linux", "chrome lab", "chrome language change", "chrome lite pc", "chrome last version", "chrome lock", "chrome logo png"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Gen", ["general mobile", "genciz biz", "gen\u00e7 odas\u0131", "general mobile gm 9 pro", "general mobile gm 8", "geni\u015f aile", "gencallar", "genco erkal", "genpa adana", "genpa"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

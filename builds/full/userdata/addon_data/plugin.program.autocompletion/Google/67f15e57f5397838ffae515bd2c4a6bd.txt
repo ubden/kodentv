@@ -1,1 +1,0 @@
-["[COLOR white]Purge Pack", ["color white purge package", "color white purge packs", "color white purge packages"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

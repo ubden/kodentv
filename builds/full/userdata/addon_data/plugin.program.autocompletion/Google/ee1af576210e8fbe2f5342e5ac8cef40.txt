@@ -1,1 +1,0 @@
-["[\u00e7", ["\u00e7eviri", "\u00e7i\u00e7ek sepeti", "\u00e7ukur", "\u00e7eyrek alt\u0131n", "\u00e7\u00fcbis", "\u00e7i\u00e7ek", "\u00e7orba \u00e7e\u015fitleri", "\u00e7al\u0131\u015fma masas\u0131", "\u00e7av bella", "\u00e7eyrek alt\u0131n fiyat\u0131"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Radi", ["radio garden", "radikal ne demek", "radio", "radio romance", "radikal", "radiohead", "radisson blu hotel kayseri", "radikal nedir", "radika", "radius"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["SeyirTurk I", ["seyirt\u00fcrk indir", "seyirturk ip", "seyirturk ip adresi", "seyirturk indir android", "seyirturk ios", "seyirturk ip adresi 2018", "seyirturk ip adresse 2019", "seyirturk ipk", "seyirturk indir samsung smart tv", "seyirturk iphone"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

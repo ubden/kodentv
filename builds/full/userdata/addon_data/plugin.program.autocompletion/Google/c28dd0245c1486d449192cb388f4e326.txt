@@ -1,1 +1,0 @@
-["Spor Wigdet", ["sport widgets", "sport widgets for websites", "iphone sports widget", "sport widget wordpress", "sport widget ios", "garmin last sport widget", "bbc sport widget", "samsung gear sport widgets", "gear sport widgets", "live sport widget"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

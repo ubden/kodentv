@@ -1,1 +1,0 @@
-["[B]", ["b blok", "b vitamini", "b akoru", "b s\u0131n\u0131f\u0131 ehliyet", "b good maske", "b ile biten kelimeler", "b chord", "b ile bitki", "b good", "b fit"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

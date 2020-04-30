@@ -1,1 +1,0 @@
-["spp", ["speedtest", "spp", "spend bill gates money", "sporx", "spor", "apple", "spenser kanunlar\u0131", "spp nedir", "spectrum", "spotify"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

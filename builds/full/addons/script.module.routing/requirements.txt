@@ -1,4 +1,0 @@
-kodi-addon-checker
-mock
-pylint
-pytest

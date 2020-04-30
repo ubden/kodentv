@@ -1,1 +1,0 @@
-["Puls", ["pulsar", "pulsar 200 ns", "pulsar 200 rs", "pulse oksimetre", "puls oksimetre", "pulsar motor", "pulsar 150 ns", "pulsar dizi", "pulse", "pulsar saat"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

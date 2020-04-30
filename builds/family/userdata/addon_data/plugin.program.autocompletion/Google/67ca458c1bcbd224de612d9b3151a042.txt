@@ -1,1 +1,0 @@
-["Filml", ["filmler", "filmler 2019", "filmler ve filimler", "filmler 2020", "filmleri", "filmli foto\u011fraf makinesi", "filmler 2018", "filmler komedi", "filmli kamera", "filmler t\u00fcrk"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

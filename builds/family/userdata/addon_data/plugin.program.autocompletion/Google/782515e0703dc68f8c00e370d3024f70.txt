@@ -1,1 +1,0 @@
-["Exa", ["exatlon", "exatlon challenge", "exa", "exam", "exactly", "exa bilgisayar", "exatlon t\u00fcrkiye", "exam izle", "ezan", "example"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

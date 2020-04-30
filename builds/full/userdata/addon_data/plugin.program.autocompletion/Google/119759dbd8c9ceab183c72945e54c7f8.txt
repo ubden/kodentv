@@ -1,1 +1,0 @@
-["18", ["182", "184", "186", "18", "18 mart", "18 plaka", "183", "180 dolar ka\u00e7 tl", "180 cm in feet", "18\u00fc"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

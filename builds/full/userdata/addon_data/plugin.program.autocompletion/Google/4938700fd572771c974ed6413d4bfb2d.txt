@@ -1,1 +1,0 @@
-["[Fil/COLOR]", ["fill color shortcut excel", "fill color illustrator", "color fill", "fill color excel formula", "fill color", "fill color photoshop", "fil color mons", "fill color svg", "fill color shortcut", "fil color line"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

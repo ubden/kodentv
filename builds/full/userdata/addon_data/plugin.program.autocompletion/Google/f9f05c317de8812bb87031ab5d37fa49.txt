@@ -1,1 +1,0 @@
-["TemArama", ["temarama tour", "temarama tours nuku hiva", "te marama candles", "tamarama beach", "temarama anguna", "temarama naea", "temarama ets", "temarama hunter", "temarama song", "kane temarama"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

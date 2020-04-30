@@ -1,1 +1,0 @@
-["[B]POWER[", ["b power chord", "b power chord guitar", "b power label", "b power herbicide", "b power chord 7th fret", "b power words", "b power bumper", "b power chord guitar finger position", "b power 2 - 4ac", "b power chord piano"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

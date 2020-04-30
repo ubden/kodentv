@@ -1,1 +1,0 @@
-["Crew Sh", ["crewshop", "crew shop pegasus", "crew shop pubg", "crew ship management", "crew shoes", "crew shampoo", "crew ship jobs", "crew shirt", "crew shop frankfurt", "crew shop frankfurt flughafen"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

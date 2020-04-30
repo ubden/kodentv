@@ -1,1 +1,0 @@
-["\u015f", ["\u015fok", "\u015fikayet var", "\u015fampiyonlar ligi", "\u015fahsiyet", "\u015fans topu", "\u015fehir hatlar\u0131", "\u015fehir tiyatrolar\u0131", "\u015feyma suba\u015f\u0131", "\u015f\u0131rdan", "\u015fehir \u00fcniversitesi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["[COLOR gold]OYUNCULAR[/COLOR]", [], [], {"google:suggesttype": []}]

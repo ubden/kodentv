@@ -1,1 +1,0 @@
-["[B]ARA\u00c7LA[/B]", ["b s\u0131n\u0131f\u0131 ara\u00e7lar bagaj hacimleri", "b segmenti ara\u00e7lar bagaj hacimleri"], [], {"google:suggesttype": ["QUERY", "QUERY"]}]

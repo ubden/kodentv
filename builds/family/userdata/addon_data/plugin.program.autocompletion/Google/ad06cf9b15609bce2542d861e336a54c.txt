@@ -1,1 +1,0 @@
-["Pangor", ["pangoro", "pangora", "pongori", "pangoro smogon", "pangoro pokemon", "pongori masa tenisi", "pongori ttr 560", "pongori raket", "pongori ttr 500", "pongori masa tenisi raketi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

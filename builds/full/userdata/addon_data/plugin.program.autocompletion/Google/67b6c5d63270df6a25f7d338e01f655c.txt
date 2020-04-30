@@ -1,1 +1,0 @@
-["L(IPTV)", ["lg iptv", "lg iptv uygulamas\u0131", "lg iptv y\u00fckleme", "lg iptv app", "lg iptv kurulum", "lg iptv uygulamalar\u0131", "lg iptv kanal y\u00fckleme", "lg iptv player", "lg iptv apps", "lg iptv smarters"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

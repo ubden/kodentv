@@ -1,1 +1,0 @@
-["Cr", ["crocs", "craftrise", "crash landing on you", "creed 2", "croxyproxy", "cringe ne demek", "creed", "crackwatch", "cristiano ronaldo", "crossfit"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

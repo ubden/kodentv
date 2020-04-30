@@ -1,1 +1,0 @@
-["Logla", ["loglama nedir", "loglama", "loglap cladding", "loglap", "loglap shed", "loglan", "logla", "log lady", "log laws", "loglass-us"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

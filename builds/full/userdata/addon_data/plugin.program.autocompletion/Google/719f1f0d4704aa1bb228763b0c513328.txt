@@ -1,1 +1,0 @@
-["[COLOR gold]**** Yerli Yeni Eklenenler Diziler 1 *[/COLOR]", ["color gold **** yerli yeni eklenenler diziler 1 * /color style", "color gold **** yerli yeni eklenenler diziler 1 * /color html", "color gold **** yerli yeni eklenenler diziler 1 * /color cakes"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL"]}]

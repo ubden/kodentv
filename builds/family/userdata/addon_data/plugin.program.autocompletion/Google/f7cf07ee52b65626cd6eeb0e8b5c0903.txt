@@ -1,1 +1,0 @@
-["Pop", ["popcorn time", "popeyes", "population of turkey", "pope francis", "population of istanbul", "pope", "pop art", "pop smoke", "popcornflix", "pop"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

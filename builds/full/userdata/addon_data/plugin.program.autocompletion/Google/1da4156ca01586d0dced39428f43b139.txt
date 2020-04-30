@@ -1,1 +1,0 @@
-["Mov", ["movie maker", "moviestarplanet", "movavi", "moviestarplanet 2", "movit", "movies", "movie", "movie ne demek", "mov to mp4", "movie music quiz"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

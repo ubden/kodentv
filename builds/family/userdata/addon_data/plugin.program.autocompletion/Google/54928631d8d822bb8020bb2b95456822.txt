@@ -1,1 +1,0 @@
-["Canli TV", ["canli tv izle", "canl\u0131 tv", "canl\u0131 tv show", "canl\u0131 tv me", "canl\u0131 tv kanal d", "canl\u0131 tv a haber", "canl\u0131 tv eba", "canl\u0131 tv apk", "canl\u0131 tv a spor", "canl\u0131 tv trt 1"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["Fitn", ["fitness", "fitness aletleri", "fitness eldiveni", "fitness ne demek", "fitness nedir", "fitnut", "fitne ne demek", "fitness hareketleri", "fitness s\u00f6zleri", "fitne"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

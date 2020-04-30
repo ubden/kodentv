@@ -1,1 +1,0 @@
-["F", ["facebook", "fenerbah\u00e7e", "fanatik", "flo", "fox tv", "fotoma\u00e7", "fahrettin koca", "finansbank", "f\u0131rat \u00e7elik", "film"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

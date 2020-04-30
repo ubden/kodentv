@@ -1,1 +1,0 @@
-["[COLOR aqua]DIZI TA", ["color aqua dizi tavsiye"], [], {"google:suggesttype": ["TAIL"]}]

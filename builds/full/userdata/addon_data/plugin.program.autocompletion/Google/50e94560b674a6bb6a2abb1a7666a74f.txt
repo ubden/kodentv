@@ -1,1 +1,0 @@
-["94117", ["94117", "94117 weather", "94117 area code", "94117 post office", "94117 zip", "94117 full zip code", "94117 movies", "94117 map", "94117 moving truck permit", "94117 polling place"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

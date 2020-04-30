@@ -1,1 +1,0 @@
-["Oyun A", ["oyun a\u00e7", "oyun avc\u0131lar\u0131", "oyun araba", "oyun avc\u0131lar\u0131 adana", "oyun alan\u0131", "oyun apk", "oyun at\u00f6lyesi", "oyun adlar\u0131", "oyun arabalar\u0131", "oyun al\u0131\u015fveri\u015f"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

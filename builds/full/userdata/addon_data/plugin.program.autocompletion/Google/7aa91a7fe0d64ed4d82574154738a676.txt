@@ -1,1 +1,0 @@
-["Fitness", ["fitness", "fitness blender", "fitness mat\u0131", "fitness aletleri", "fitness eldiveni", "fitness salonu", "fitness hareketleri", "fitness mat", "fitness program", "fitness lasti\u011fi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

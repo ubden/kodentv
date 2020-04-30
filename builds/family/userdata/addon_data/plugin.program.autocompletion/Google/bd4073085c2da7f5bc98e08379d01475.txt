@@ -1,1 +1,0 @@
-["Oto T", ["oto teyp", "oto tu\u015f", "oto tu\u015f v3", "oto tamirci", "oto taksit", "oto taksi", "oto teyp \u00e7evirici", "oto teyp tamiri", "oto tamir", "oto tuning"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

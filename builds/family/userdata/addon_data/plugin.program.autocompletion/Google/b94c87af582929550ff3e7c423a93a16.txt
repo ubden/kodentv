@@ -1,1 +1,0 @@
-["[COLOR a", ["color adobe", "color adventure", "color a", "color anlam\u0131", "color adventure apk", "color art", "color apk", "color and drive", "color and colour", "color admin"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

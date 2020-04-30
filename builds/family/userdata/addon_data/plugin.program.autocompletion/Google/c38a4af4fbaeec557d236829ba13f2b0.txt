@@ -1,1 +1,0 @@
-["RESM\u0130 UY", ["resmi uyar\u0131 yaz\u0131s\u0131", "resmi uyar\u0131 yaz\u0131", "resmi uyar\u0131 yaz\u0131s\u0131 protesto"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY"]}]

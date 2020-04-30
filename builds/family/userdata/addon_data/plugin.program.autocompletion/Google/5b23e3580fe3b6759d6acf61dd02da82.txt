@@ -1,1 +1,0 @@
-["Sc", ["scratch", "scooter", "sci hub", "scottish", "scholar", "scarface", "schafer", "scottish fold", "scrabble", "scooby doo"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["O", ["outlook", "onedio", "onurcan \u00f6zcan kimdir", "okulistik", "oyunlar", "okullar a\u00e7\u0131lacak m\u0131", "odatv", "\u00f6sym", "onedio test", "oyun skor"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

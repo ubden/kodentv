@@ -1,1 +1,0 @@
-["Pop\u00fcl", ["pop\u00fclist", "pop\u00fclizm nedir", "pop\u00fclasyon nedir", "pop\u00fclasyon", "pop\u00fcler", "pop\u00fclist ne demek", "pop\u00fcler k\u00fclt\u00fcr", "pop\u00fcler diziler", "pop\u00fcler oyunlar", "pop\u00fcler kitaplar"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

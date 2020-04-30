@@ -1,1 +1,0 @@
-["BAKI", ["baki remzi sui\u00e7mez kimdir", "baki ne demek", "baki", "baking soda", "baki mercimek", "bakir ne demek", "bak\u0131rk\u00f6y", "baking soda nedir", "bak\u0131r", "bak\u0131rk\u00f6y adliyesi"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

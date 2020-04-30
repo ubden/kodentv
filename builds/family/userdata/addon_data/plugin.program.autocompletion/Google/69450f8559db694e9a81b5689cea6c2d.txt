@@ -1,1 +1,0 @@
-["[B]Spor[", ["b spor canl\u0131", "b spor canli izle", "b sport 1", "b sport canl\u0131 izle", "b sport 1 canl\u0131 izle", "b sport canl\u0131", "b sport 1 canl\u0131", "b sport canl\u0131 ma\u00e7 izle", "b sport 1 belgium", "b sportswear"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

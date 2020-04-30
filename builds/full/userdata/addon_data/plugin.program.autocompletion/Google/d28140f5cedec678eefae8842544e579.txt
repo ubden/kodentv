@@ -1,1 +1,0 @@
-["No", ["note 8", "note 8 pro", "n\u00f6bet\u00e7i eczane", "noodle", "note 10", "nohut tarifi", "nova skin", "nonolive", "notebook", "norm ender"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

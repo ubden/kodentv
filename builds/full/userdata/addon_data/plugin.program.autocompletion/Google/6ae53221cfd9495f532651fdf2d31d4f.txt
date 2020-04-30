@@ -1,1 +1,0 @@
-["Belge", ["belgesel izle", "belgesel", "belgenet", "belgeseller", "belgenet gsb", "belgenet csb gov tr", "belge", "belgesel \u00f6nerileri", "belgenet diyanet", "belgenet k\u00fclt\u00fcr"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

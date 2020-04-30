@@ -1,1 +1,0 @@
-["TemtetArama", ["temte tarama"], [], {"google:suggesttype": [""]}]

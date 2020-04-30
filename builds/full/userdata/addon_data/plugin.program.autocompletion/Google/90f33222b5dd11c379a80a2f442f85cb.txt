@@ -1,1 +1,0 @@
-["plugin://script.extendedinfo?in", ["plugin //script.extendedinfo indir", "plugin //script.extendedinfo index", "plugin //script.extendedinfo instagram", "plugin //script.extendedinfo ini"], [], {"google:suggesttype": ["TAIL", "TAIL", "TAIL", "TAIL"]}]

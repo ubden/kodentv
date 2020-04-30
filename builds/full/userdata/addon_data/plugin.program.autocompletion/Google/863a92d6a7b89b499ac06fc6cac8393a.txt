@@ -1,1 +1,0 @@
-["CC", ["ccleaner", "cc", "ccleaner indir", "cc ne demek", "cc krem", "ccola hisse", "ccc", "ccleaner full", "cccp", "cc9 pro"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

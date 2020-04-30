@@ -1,1 +1,0 @@
-["()", ["()", "() =", "() meaning", "() name", "()+()+()=30", "() in python", "() in english", "() = javascript", "() meaning in text", "() = c#"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

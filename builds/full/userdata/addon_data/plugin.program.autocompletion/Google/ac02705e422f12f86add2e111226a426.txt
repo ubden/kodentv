@@ -1,1 +1,0 @@
-["Rasgel", ["rastgele say\u0131", "rasgele", "rastgele bal\u0131k", "rasgele chat", "rastgele say\u0131 \u00fcretme", "rastgele ne demek", "rastgele kelime", "rasgele de\u011fi\u015fken", "rastgele harf", "rastgele bulmaca"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

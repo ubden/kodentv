@@ -1,1 +1,0 @@
-["K", ["kim jong", "karaca", "koton", "kim kardashian", "kanal d", "koronavir\u00fcs", "kandilli", "kitapyurdu", "ko\u00e7ta\u015f", "kariyer"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

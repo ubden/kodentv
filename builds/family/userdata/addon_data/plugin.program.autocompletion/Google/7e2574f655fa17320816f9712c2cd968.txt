@@ -1,1 +1,0 @@
-["Pu", ["puhu tv", "pubg mobile", "pubg", "puan durumu", "pubg lite", "puma", "pubg mobile hile", "puzzle", "pull and bear", "pubmed"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

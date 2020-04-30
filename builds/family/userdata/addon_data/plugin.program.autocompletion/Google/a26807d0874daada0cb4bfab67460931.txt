@@ -1,1 +1,0 @@
-["[B].OCU[/B]", ["block b", "block b members", "block b profile", "block b po", "block b zico", "block b disband", "block b toy lyrics", "block b bastarz", "block b songs", "block b kpop"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

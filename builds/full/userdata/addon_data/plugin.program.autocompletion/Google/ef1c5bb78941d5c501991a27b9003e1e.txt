@@ -1,1 +1,0 @@
-["Now Mu", ["now music", "now multivitamin", "now music app", "now music cd", "now music 2019", "now music 1", "now mumbai weather", "now multivitamin adam", "now murree weather", "now much is netflix"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

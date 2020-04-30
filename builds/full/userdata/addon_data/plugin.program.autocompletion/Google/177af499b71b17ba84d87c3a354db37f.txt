@@ -1,1 +1,0 @@
-["IPTV MODULLERI - TV", ["iptv modulleri - tv izle"], [], {"google:suggesttype": ["TAIL"]}]

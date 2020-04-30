@@ -1,1 +1,0 @@
-["[COLOR orange][B][COLOR blue]> [/COLOR]Diziler[/B][/COLO", ["color orange b color blue /color diziler /b /colon", "color orange b color blue /color diziler /b /color"], [], {"google:suggesttype": ["TAIL", "TAIL"]}]

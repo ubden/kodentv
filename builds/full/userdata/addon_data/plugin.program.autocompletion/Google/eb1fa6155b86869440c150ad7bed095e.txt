@@ -1,1 +1,0 @@
-["[B]g", ["b good maske", "b g store", "b good", "b grubu elementleri", "b glukan", "b grubu kpss", "b grubu vitaminleri", "b grubu beslenme", "b grubu antibiyotikler", "b good antiseptik sol\u00fcsyon"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

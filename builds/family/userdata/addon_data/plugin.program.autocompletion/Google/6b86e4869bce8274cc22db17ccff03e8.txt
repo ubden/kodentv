@@ -1,1 +1,0 @@
-["Be", ["be\u015fikta\u015f", "bershka", "ben fero", "beymen", "beinsports", "bellona", "beko", "beyaz tv", "benim hocam", "bets10"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]

@@ -1,1 +1,0 @@
-["HI", ["h\u0131z testi", "hindistan", "hira tatl\u0131s\u0131", "hint filmleri", "hizmet\u00e7iler", "hindistan cevizi ya\u011f\u0131", "hilltown", "hicri takvim", "hikayeler", "hitler"], [], {"google:suggesttype": ["QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY", "QUERY"]}]
