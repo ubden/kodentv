@@ -173,7 +173,7 @@ TRAKTID          = traktit.TRAKTID
 DEBRIDID         = debridit.DEBRIDID
 LOGINID          = loginit.LOGINID
 MODURL           = 'http://tribeca.tvaddons.ag/tools/maintenance/modules/'
-MODURL2          = 'http://mirrors.kodi.tv/addons/jarvis/'
+MODURL2          = 'http://mirrors.kodi.tv/addons/leila/'
 INSTALLMETHODS   = ['Always Ask', 'Reload Profile', 'Force Close']
 DEFAULTPLUGINS   = ['metadata.album.universal', 'metadata.artists.universal', 'metadata.common.fanart.tv', 'metadata.common.imdb.com', 'metadata.common.musicbrainz.org', 'metadata.themoviedb.org', 'metadata.tvdb.com', 'service.xbmc.versioncheck']
 try:
