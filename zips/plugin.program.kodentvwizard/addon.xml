@@ -8,8 +8,8 @@
   </extension>
   <extension point="xbmc.service" library="startup.py" start="startup" />
   <extension point="xbmc.addon.metadata">
-    <summary lang="en">Koden Tv Sihirbazi</summary>
-    <description lang="en">Koden Tv Yukleme Sihirbazi</description>
+    <summary lang="en">Koden TV Wizard</summary>
+    <description lang="en">Koden TV Yukleme Sihirbazi.</description>
     <platform>all</platform>
   </extension>
 </addon>
