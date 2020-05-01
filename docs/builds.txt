@@ -82,4 +82,3 @@ preview="http://"
 adult="no"
 info="http://"
 description="YENI SERVERLER YAKINDA EKLENECEKTIR"
-
