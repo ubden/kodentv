@@ -79,7 +79,7 @@ adult="yes"
 description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige sahiptir. Bu versiyonun kurulu olacağı cihazlarda min 2 GB RAM önerilir."
 
 
-name="[COLOR red][B]==SERVERlER | [/COLOR] [COLOR purple]Aile Pack==[/B][/COLOR]"
+name="[COLOR red][B]==SERVERLER | [/COLOR] [COLOR purple]Aile Pack==[/B][/COLOR]"
 version="."
 url="http://"
 minor="http://"
@@ -91,7 +91,7 @@ fanart="http://"
 preview="http://"
 adult="no"
 info="http://"
-description="1. SERVER"
+description="HATA VERMESI DURUMUNDA FARKLI SERVERDEN DENEYINIZ"
 
 name="Koden TV Aile S1"
 version="5.2020"
