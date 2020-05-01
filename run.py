@@ -154,4 +154,4 @@ class Generator:
 
 
 if __name__ == "__main__":
-    Generator(
+    Generator()

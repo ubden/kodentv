@@ -1,5 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<addons>
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <addon id="plugin.video.kodentvwizard" name="[COLOR blue]Koden TV[/COLOR] [COLOR white]Sihirbazı[/COLOR]" version="5.2020" provider-name="ubden">
   <requires>
     <import addon="xbmc.python" version="2.1.0"/>
@@ -15,24 +14,3 @@
     <platform>all</platform>
   </extension>
 </addon>
-
-<addon id="repository.kodentv" name="Koden TV Builds Repository" version="1.0.3" provider-name="ubden">
-	<extension point="xbmc.addon.repository" name="Koden Repository">
-		<dir>
-			<info compressed="false">https://raw.githubusercontent.com/ubden/kodentv/master/zips/addons.xml</info>
-			<checksum>https://raw.githubusercontent.com/ubden/kodentv/master/zips/addons.xml.md5</checksum>
-			<datadir zip="true">https://raw.githubusercontent.com/ubden/kodentv/master/zips/</datadir>
-        </dir>
-	</extension>
-	<extension point="xbmc.addon.metadata">
-		<summary>Koden TV Builds Repository</summary>
-		<description>Official Repository Of The Koden TV Builds Team - by ubden</description>
-		<disclaimer></disclaimer>
-		<platform>all</platform>
-        <assets>
-            <icon>icon.png</icon>
-            <fanart>fanart.jpg</fanart>
-        </assets>
-	</extension>
-</addon>
-</addons>
