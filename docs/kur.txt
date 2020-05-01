@@ -12,7 +12,7 @@ adult="no"
 info="http://"
 description="1. SERVER INDIRME SECENEGI HATA VERIRSE FARKLI SERVERDEN DENEYIN"
 
-name="Koden TV Full"
+name="Koden TV Full S1"
 version="5.2020"
 url="https://kodihub.net/m6vbe"
 gui="http://"
@@ -39,7 +39,7 @@ info="http://"
 description="2. SERVER INDIRME SECENEGI HATA VERIRSE FARKLI SERVERDEN DENEYIN"
 
 
-name="Koden TV Full"
+name="Koden TV Full S2"
 version="5.2020"
 url="https://github.com/ubden/kodentv/releases/download/final_52020/final.zip"
 gui="http://"
@@ -66,7 +66,7 @@ info="http://"
 description="3. SERVER INDIRME SECENEGI HATA VERIRSE FARKLI SERVERDEN DENEYIN"
 
 
-name="Koden TV Full"
+name="Koden TV Full S3"
 version="5.2020"
 url="https://archive.org/download/final_202005/final.zip"
 gui="http://"
