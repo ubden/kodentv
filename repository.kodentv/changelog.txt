@@ -11,4 +11,5 @@
 - Refresh Update
 
 [B]Version 1.0.4[/B]
-- Refresh Update
+- vStream Eklentisi Eklendi. - 70'den fazla yeni kaynak ve arama modülü
+- UpNext - Dizilerde Netflix tipi sonraki bölüme otomatik geçme özelliği eklendi 
