@@ -79,7 +79,7 @@ adult="yes"
 description="KodenTV Smart Leia Build. Yapı full versiyon olup yetiskin icerige sahiptir. Bu versiyonun kurulu olacağı cihazlarda min 2 GB RAM önerilir."
 
 
-name="[COLOR red][B]==SERVER 1 |[/COLOR][COLOR puple]Aile Pack==[/B][/COLOR]"
+name="[COLOR red][B]==SERVER 1 | [/COLOR] [COLOR purple]Aile Pack==[/B][/COLOR]"
 version=""
 url="http://"
 minor="http://"
