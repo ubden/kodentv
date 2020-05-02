@@ -7,9 +7,10 @@
 [B]Version 1.0.2[/B]
 - Refresh Update
 
-[B]Version 1.0.3[/B]
+[B]Version 5.2020[/B]
 - Refresh Update
 
-[B]Version 1.0.4[/B]
+[B]Version 5.2020.1[/B]
 - vStream Eklentisi Eklendi. - 70'den fazla yeni kaynak ve arama modülü
-- UpNext - Dizilerde Netflix tipi sonraki bölüme otomatik geçme özelliği eklendi 
+- Youtube, Youtube Muzik ve Spotify Eklendi.
+- Menü düzeltmeleri yapildi

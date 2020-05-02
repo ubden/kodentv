@@ -1,2 +1,8 @@
 -v1.0
 Yayınlandı . ubden.com
+-v5.2020
+Fixed yayınlandı
+-v5.2020.1
+Youtube, Youtube Muzik Eklendi.
+vStream Kaynaklari Eklendi.
+Menu Duzeltmeleri Yapildi
