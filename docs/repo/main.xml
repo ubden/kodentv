@@ -3,7 +3,7 @@
 </item>
 
 <dir>
-<title>Bizi Takip Etmeyin Unutmayin !!!</title>
+<title>[B]Bizi Takip Etmeyin Unutmayin !!![/B]</title>
 </dir>
 
 <item>    
@@ -16,13 +16,19 @@
 </item>
 
 <dir>
-<title>[COLOR gold]***[/COLOR]TURKEY MAKS KANALLAR[COLOR gold]***[/COLOR]</title>
+<title>[COLOR gold]***[/COLOR]TURKEY PAMPA TV[COLOR gold]***[/COLOR]</title>
 <m3u>https://raw.githubusercontent.com/guluguli2/asas/master/aasdd/6gja/Ja/555/jdjdhkllmjkns.m3u</m3u>
 </dir>
 
 <dir>
-<title>[COLOR gold]***[/COLOR]TURKEY CUPPA KANALLAR[COLOR gold]****[/COLOR]</title>
-<m3u>http://ubden.github.io/kodentv/repo/linked/cuppo.m3u</m3u>
+<title>[COLOR gold]***[/COLOR]TURKEY CUPPA TV[COLOR gold]****[/COLOR]</title>
+<link>http://ubden.github.io/kodentv/repo/linked/cuppo.m3u</link>
+</dir>
+
+<dir>
+<title>[COLOR gold]***[/COLOR]TURKEY HOBBALA TV[COLOR gold]****[/COLOR]</title>
+<link>https://raw.githubusercontent.com/majucomp/list/36b04c875de97c2c2df7ee26208c50a22923de42/list1.m3u
+</link>
 </dir>
 
 <item>    
@@ -36,28 +42,37 @@
 </dir>
 
 <plugin>
-<name>***FREE VIEW TV***</name>
+<name>***FreeView TV***</name>
 <link>https://freeview.github.io/iptv/playlist/tv.m3u</link>
 </plugin>
   
+<item>    
+<title>========================================</title>
+</item>
 
 <dir>
-<title>TurkVod</title>
+<title>[B]***TurkVod***[/B]</title>
 <link>plugin://plugin.video.turkvod/</link>
 </dir>
+
+<dir>
+<title>[B]***SeyirTurk***[/B]</title>
+<link>plugin://plugin.video.turkvod/</link>
+</dir>
+
 
 <item>
 <title>[COLOR gold]==================[/COLOR]</title>
 </item>
 
 <dir>
-<name>Search Youtube</name>
+<name>Youtube Arama</name>
 <link>plugin://plugin.video.youtube/</link>
 </dir>
 
 <plugin>
-<name>Tools, Settings, Clear Cache</name>
-<link>plugin://plugin.video.betaquadrant/?action=openSettings</link>
+<name>Arac, Ayarlar, Temizlik</name>
+<link>plugin://plugin.video.kodeniptv/?action=openSettings</link>
 <fanart></fanart>
 </plugin>
 
