@@ -16,19 +16,27 @@
 
 <dir>
 <title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]PAMPA TV[COLOR gold]***[/COLOR]</title>
-<thumbnail>https://www.mirrorservice.org/sites/mirrors.xbmc.org/addons/gotham/skin.eminence/fanart.jpg</thumbnail>
+<thumbnail>https://ubden.github.io/kodentv/media/pampa.png</thumbnail>
 <m3u>https://raw.githubusercontent.com/guluguli2/asas/master/aasdd/6gja/Ja/555/jdjdhkllmjkns.m3u</m3u>
 <info>Fluxus IPTV Channels List</info>
-<fanart>https://www.mirrorservice.org/sites/mirrors.xbmc.org/addons/gotham/skin.eminence/fanart.jpg</fanart>
+<fanart></fanart>
 </dir>
 
 <dir>
 <title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]CUPPA TV[COLOR gold]****[/COLOR]</title>
+<thumbnail>https://ubden.github.io/kodentv/media/cubba.png</thumbnail>
 <m3u>https://raw.githubusercontent.com/ubden/kodentv/master/docs/repo/linked/cubba.m3u</m3u>
 </dir>
 
 <dir>
 <title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]HOBBALA TV[COLOR gold]****[/COLOR]</title>
+<thumbnail>https://ubden.github.io/kodentv/media/hobbala.png</thumbnail>
+<m3u>https://raw.githubusercontent.com/majucomp/list/master/list1.m3u</m3u>
+</dir>
+
+<dir>
+<title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]HOBBALA TV[COLOR gold]****[/COLOR]</title>
+<thumbnail>https://ubden.github.io/kodentv/media/haydaa.png</thumbnail>
 <m3u>https://raw.githubusercontent.com/majucomp/list/master/list1.m3u</m3u>
 </dir>
 
