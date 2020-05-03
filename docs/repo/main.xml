@@ -49,6 +49,12 @@
 <m3u>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/az.m3u</m3u>
 </dir>
 
+<dir>
+<title>[COLOR cream](UK)[COLOR gold]***[/COLOR]NORMAL TV[COLOR gold]****[/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/uk.m3u</m3u>
+</dir>
+
+
 <item>    
 <title>========================================</title>
 </item>
