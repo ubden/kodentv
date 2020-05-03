@@ -4,6 +4,10 @@
 
 <dir>
 <title>[B]Bizi Takip Etmeyin Unutmayin !!![/B]</title>
+ <assets>
+        <icon>icon.png</icon>
+        <fanart>fanart.jpg</fanart>
+    </assets>
 </dir>
 
 <item>    
