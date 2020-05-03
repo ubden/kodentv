@@ -1,16 +1,16 @@
-<item>
-<title>[COLOR red][B]Telegram Grubumuz:[/COLOR] @kodentv[/B]</title>
+<plugin>
+<name>[COLOR red][B]Telegram Grubumuz:[/COLOR] @kodentv[/B]</name>
 <link>plugin://plugin.program.chrome.launcher/?url=http%3A%2F%2Ft.me%2Fkodentv&amp;mode=showSite&amp;stopPlayback=no&amp;kiosk=yes</link>
-</item>
+</plugin>
 
 <dir>
 <title>[B]Bizi Takip Etmeyin Unutmayin !!![/B]</title>
 </dir>
 
-<item>    
-<title>[B]Son Guncelleme:[/B] 03.05.2020</title>
+<plugin>
+<name>[B]Son Guncelleme:[/B] 03.05.2020</name>
 <link>plugin://plugin.program.chrome.launcher/?url=https%3A%2F%2Flnkload.com%2F2oSbm&amp;mode=showSite&amp;stopPlayback=no&amp;kiosk=yes</link>
-</item>
+</plugin>
 
 <item>    
 <title>[COLOR gold]Asagidaki Baglantilarin Acilmasi Zaman Alabilir[/COLOR]</title>
