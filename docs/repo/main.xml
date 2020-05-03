@@ -36,7 +36,7 @@
 
 <dir>
 <title>***World TV***</title>
-<link>plugin://script.module.7of9-worldtv/</link>
+<link>http://iptv-org.github.io/iptv/index.m3u</link>
 </dir>
 
 <plugin>
