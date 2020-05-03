@@ -4,10 +4,8 @@
 
 <dir>
 <title>[B]Bizi Takip Etmeyin Unutmayin !!![/B]</title>
- <assets>
-        <icon>icon.png</icon>
-        <fanart>fanart.jpg</fanart>
-    </assets>
+<thumbnail></thumbnail>
+<fanart></fanart>
 </dir>
 
 <item>    
@@ -30,7 +28,7 @@
 
 <dir>
 <title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]CUPPA TV 2[COLOR gold]****[/COLOR]</title>
-<m3u>http://portal.iptvsatis.org:8000/yGWkOoeqHo/WTWQpVjxH1/5984</m3u>
+<m3u>https://raw.githubusercontent.com/ubden/kodentv/master/docs/repo/linked/cubba.m3u</m3u>
 </dir>
 
 <dir>
