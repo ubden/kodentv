@@ -31,14 +31,21 @@
 <dir>
 <title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]HOBBALA TV[COLOR gold]****[/COLOR]</title>
 <thumbnail>https://ubden.github.io/kodentv/media/hobbala.png</thumbnail>
-<m3u>https://raw.githubusercontent.com/majucomp/list/master/list1.m3u</m3u>
+<m3u>https://raw.githubusercontent.com/dzajkowski-dexter/OmerKujrakovic/master/Ex%20Yu%20Omer%20Zejnic.m3u</m3u>
 </dir>
 
 <dir>
-<title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]HOBBALA TV[COLOR gold]****[/COLOR]</title>
+<title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]HAYDAA TV[COLOR gold]****[/COLOR]</title>
 <thumbnail>https://ubden.github.io/kodentv/media/haydaa.png</thumbnail>
 <m3u>https://raw.githubusercontent.com/majucomp/list/master/list1.m3u</m3u>
 </dir>
+
+
+<dir>
+<title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]ALTERNATIF TV[COLOR gold]****[/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/dzajkowski-dexter/BernardSladoja/master/Ex%20Yu%20fzxBTSabk8_plus.m3u</m3u>
+</dir>
+
 
 <dir>
 <title>[COLOR orangered](TURKEY)[/COLOR][COLOR gold]***[/COLOR]NORMAL TV[COLOR gold]****[/COLOR]</title>
