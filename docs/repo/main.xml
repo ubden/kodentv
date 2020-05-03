@@ -29,6 +29,12 @@
 <m3u>https://raw.githubusercontent.com/majucomp/list/36b04c875de97c2c2df7ee26208c50a22923de42/list1.m3u</m3u>
 </dir>
 
+<dir>
+<title>[COLOR gold]***[/COLOR]TURKEY SAHANDA TV[COLOR gold]****[/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tr.m3u</m3u>
+</dir>
+
+
 <item>    
 <title>========================================</title>
 </item>
@@ -55,7 +61,7 @@
 
 <dir>
 <title>[B]***SeyirTurk***[/B]</title>
-<link>plugin://plugin.video.turkvod/</link>
+<link>plugin://plugin.video.seyirturk/</link>
 </dir>
 
 
