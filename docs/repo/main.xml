@@ -1,35 +1,9 @@
 <item>
-<title>[COLOR gold]=======asfasdfas===========[/COLOR]</title>
-</item>
-
-<item>
-<title>===[COLOR gold]Spoasfasdocumentaries[/COLOR]==</title>
+<title>===TELEGRAM GRUBUMUZ @KODENTV==</title>
 </item>
 
 <dir>
-<title>***Spoasfasdasftal***</title>
-<link>plugin://plugin.video.alphaquadrant/</link>
-</dir>
-
-<item>
-<title>===[COLOR gold]24/asfasdeams[/COLOR]===</title>
-</item>
-
-<dir>
-<title>***24/7 - Filmfasdls***</title>
-<Airtable>247</Airtable>
-</dir>
-
-<dir>
-	<title>***24/7 Tv***</title>
-	<arconaitv>main/shows</arconaitv>
-	<content></content>
-</dir>
-
-<dir>
-	<title>***24/7 Movies***</title>
-	<arconaitv>main/movies</arconaitv>
-	<content></content>
+<title>***YEREL/DUNYA/FILM/DIZI/SPOR***</title>
 </dir>
 
 <item>    
@@ -37,20 +11,16 @@
 </item>
 
 <item>    
-<title>===[COLOR gold]IPTV / M3U[/COLOR]===</title>
+<title>[COLOR gold]Asagidaki Baglantilarin Acilmasi Zaman Alabilir[/COLOR]</title>
 </item>
 
 <item>    
-<title>[COLOR gold]Links Below Take A Long Time To Open[/COLOR]</title>
-</item>
-
-<item>    
-<title>[COLORaqua]*Add To Favorites For Easy Future Access*[/COLOR]</title>
+<title>[COLORaqua]*Hizli Erisim Icin Favorilere Ekleyin*[/COLOR]</title>
 </item>
 
 <dir>
-<title>[COLOR gold]***[/COLOR]Big World Iptv List (All In Countries)[COLOR gold]***[/COLOR]</title>
-<m3u>https://iptv-org.github.io/iptv/index.country.m3u</m3u>
+<title>[COLOR gold]***[/COLOR]TURKEYZIRVE KANALLAR[COLOR gold]***[/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/guluguli2/asas/master/aasdd/6gja/Ja/555/jdjdhjknbjjkllmjkns.m3u</m3u>
 </dir>
 
 <dir>
