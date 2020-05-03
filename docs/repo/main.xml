@@ -15,25 +15,39 @@
 </item>
 
 <dir>
-<title>[COLOR gold]***[/COLOR]TURKEY PAMPA TV[COLOR gold]***[/COLOR]</title>
+<title>[COLOR rouge](TURKEY)[COLOR gold]***[/COLOR]PAMPA TV[COLOR gold]***[/COLOR]</title>
 <m3u>https://raw.githubusercontent.com/guluguli2/asas/master/aasdd/6gja/Ja/555/jdjdhkllmjkns.m3u</m3u>
 </dir>
 
 <dir>
-<title>[COLOR gold]***[/COLOR]TURKEY CUPPA TV[COLOR gold]****[/COLOR]</title>
+<title>[COLOR rouge](TURKEY)[COLOR gold]***[/COLOR]CUPPA TV[COLOR gold]****[/COLOR]</title>
 <link>http://ubden.github.io/kodentv/repo/linked/cuppo.m3u</link>
 </dir>
 
 <dir>
-<title>[COLOR gold]***[/COLOR]TURKEY HOBBALA TV[COLOR gold]****[/COLOR]</title>
+<title>[COLOR rouge](TURKEY)[COLOR gold]***[/COLOR]HOBBALA TV[COLOR gold]****[/COLOR]</title>
 <m3u>https://raw.githubusercontent.com/majucomp/list/36b04c875de97c2c2df7ee26208c50a22923de42/list1.m3u</m3u>
 </dir>
 
 <dir>
-<title>[COLOR gold]***[/COLOR]TURKEY SAHANDA TV[COLOR gold]****[/COLOR]</title>
+<title>[COLOR rouge](TURKEY)[COLOR gold]***[/COLOR]NORMAL TV[COLOR gold]****[/COLOR]</title>
 <m3u>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/tr.m3u</m3u>
 </dir>
 
+<dir>
+<title>[COLOR teal](ALMANYA)[COLOR gold]***[/COLOR]NORMAL TV[COLOR gold]****[/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/de.m3u</m3u>
+</dir>
+
+<dir>
+<title>[COLOR silver](ARABIC)[COLOR gold]***[/COLOR]NORMAL TV[COLOR gold]****[/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/bh.m3u</m3u>
+</dir>
+
+<dir>
+<title>[COLOR cream](AZERI)[COLOR gold]***[/COLOR]NORMAL TV[COLOR gold]****[/COLOR]</title>
+<m3u>https://raw.githubusercontent.com/iptv-org/iptv/master/channels/az.m3u</m3u>
+</dir>
 
 <item>    
 <title>========================================</title>
