@@ -1,5 +1,5 @@
 ﻿<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.kodeniptv" name="[B][COLOR yellow]Koden [/COLOR][COLOR silver]iPTV TR[/COLOR][/B]" version="5.2020.1" provider-name="kodentv">
+<addon id="plugin.video.kodeniptv" name="[B][COLOR yellow]Koden [/COLOR][COLOR silver]iPTV TR[/COLOR][/B]" version="5.2020.2" provider-name="kodentv">
     <requires>
         <import addon="xbmc.python" version="2.19.0" />
         <import addon="script.module.universalscrapers" version="1.0.0" />

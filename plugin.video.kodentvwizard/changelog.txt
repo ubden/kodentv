@@ -6,3 +6,5 @@ Fixed yayınlandı
 Youtube, Youtube Muzik Eklendi.
 vStream Kaynaklari Eklendi.
 Menu Duzeltmeleri Yapildi
+-v5.2020.2
+KodenIPTV Eklendi.
